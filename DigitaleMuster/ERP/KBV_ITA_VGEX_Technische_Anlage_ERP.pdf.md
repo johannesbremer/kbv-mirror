@@ -1,12 +1,10 @@
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-**IT IN DER ARZTPRAXIS**
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**DEZERNAT DIGITALISIERUNG UND IT**
+**13. NOVEMBER 2026**
 
-**14. AUGUST 2026**
-
-**VERSION: 1.76**
+**VERSION: 1.77**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -14,7 +12,7 @@
 
 ## [KBV_ITA_VGEX_TECHNISCHE_ANLAGE_ERP]
 
-SEITE 1 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 1 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -69,7 +67,7 @@ SEITE 1 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDN
 
 **105**
 
-SEITE 2 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 2 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -78,38 +76,39 @@ SEITE 2 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDN
 
 Tabelle 1: KBV_PR_ERP_Bundle  Tabelle 2: KBV_PR_ERP_Composition  Tabelle 3: KBV_PR_ERP_Prescription  Tabelle 4: KBV_PR_ERP_PracticeSupply  Tabelle 5: KBV_PR_ERP_Medication_PZN  Tabelle 6: KBV_PR_ERP_Medication_Ingredient  Tabelle 7: KBV_PR_ERP_Medication_Compounding  Tabelle 8: KBV_PR_ERP_Medication_FreeText  Tabelle 9: KBV_EX_ERP_EmergencyServicesFee  Tabelle 10: KBV_EX_ERP_DosageFlag  Tabelle 11: KBV_EX_ERP_PracticeSupply_Payor  Tabelle 12: KBV_EX_ERP_Medication_Vaccine  Tabelle 13: KBV_EX_ERP_Medication_Category  Tabelle 14: KBV_EX_ERP_Medication_Packaging  Tabelle 15: KBV_EX_ERP_Medication_CompoundingInstruction  Tabelle 16: KBV_EX_ERP_Medication_Ingredient_Form  Tabelle 17: KBV_EX_ERP_Medication_Ingredient_Amount  Tabelle 18: KBV_EX_ERP_Medication_PackagingSize  Tabelle 19: KBV_EX_ERP_Multiple_Prescription  Tabelle 20: KBV_EX_ERP_Prescriber_ID  Tabelle 21: KBV_EX_ERP_Patient_ID  Tabelle 22: KBV_EX_ERP_Narcotic  Tabelle 23: KBV_EX_ERP_Narcotic  Tabelle 24: KBV_CS_ERP_Medication_Category  Tabelle 25: KBV_VS_ERP_Medication_Category  Tabelle 26: KBV_CS_ERP_Medication_Type  Tabelle 27: KBV_CS_ERP_Section_Type  Tabelle 28: KBV_VS_ERP_StatusCoPayment  Tabelle 29: KBV_VS_ERP_Accident_Type  Tabelle 30: Mapping KBV_PR_ERP_Medication_PZN  Tabelle 31: Mapping KBV_PR_ERP_Medication_Ingredient  Tabelle 32: Mapping KBV_PR_ERP_Medication_Compounding  Tabelle 33: Mapping KBV_PR_ERP_Medication_FreeText  Tabelle 34: Mapping KBV_PR_ERP_Prescription  Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_Prescription  Tabelle 36: Mapping KBV_PR_ERP_PracticeSupply  Tabelle 37: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply  Tabelle 38: Mapping KBV_PR_ERP_Composition  Tabelle 39: Referenzierte Instanzen KBV_PR_ERP_Composition  Tabelle 40: Mapping KBV_PR_ERP_Bundle  Tabelle 41: Mapping DosageDgMP  Tabelle 42: Auflistung der abzubildenden Felder für das ERP
 
-SEITE 3 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 3 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
 10  10  11  11  11  11  11  12  12  12  12  13  13  13  13  14  14  14  14  14  15  15  15  15  16  16  16  16  16  22  24  26  27  33  34  36  37  38  39  39  47  104
 
-/ 14. AUGUST 2026 / VERSION: 1.76
+/ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen der Versionen 1.76 sind gelb markiert. Die Änderungen treten zum 01.10.2026 in Kraft.
+Die Änderungen der Versionen 1.77 sind gelb markiert. Die Änderungen treten zum 01.01.2027 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.77 | 13.11.2026 | KBV | Aufnahme einer Empfehlung für |  | 65, 66 |
 | 1.76 | 14.08.2026 | KBV | Erweiterung der P36-26 zur    P36-42 Hinweis ergänzt    Klarstellung der |  | 27    45    62 |
 | 1.75 | 22.07.2026 | KBV | Aktualisierung der    Klarstellung der Kardinalität bei d    Redaktionelle Korrekturen bei der | Bugfix-Release bzgl.  Anpassung an die | 10, 12,  15, 18    97, 97,  97    52, 53,  66 |
-| 1.74 | 16.06.2026 | KBV | Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung der Version des | Bugfix-Release des | 56  66    10, 12,  15, 18  105 |
-| 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des | 18  58, 60,  62, 63  19, 105  10, 12,  18, 105 |
+| 1.74 | 16.06.2026 | KBV | Klarstellung der Vorgaben in P6- Klarstellung der Vorgaben in P6-32     Aktualisierung der  Aktualisierung der Version des | Bugfix-Release des  Medication IG | 56  66    10, 12,  15, 18  105 |
 
-Sicherstellung der korrekten Reichdauer Bedruckungsvorgaben in der K6-29 Versionsnummer der FHIR-Profile Constraint zum Dosierungskennzeiche en Element en „Wochentag der Struktur des dgMP Anwendung“, „Uhrzeit der Anwendung“ und „Tageszeit der Anwendung“ Bedruckung der Patientenausdrucke 243 Versionsnummer der FHIR-Profile Medication IG Medication IG Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile SEITE 4 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+die Anforderungen P6-311 und P6- 31 Sicherstellung der korrekten Reichdauer Bedruckungsvorgaben in der K6-29 Versionsnummer der FHIR-Profile Constraint zum Dosierungskennzeiche en Element en „Wochentag der Struktur des dgMP Anwendung“, „Uhrzeit der Anwendung“ und „Tageszeit der Anwendung“ Bedruckung der Patientenausdrucke 243 Versionsnummer der FHIR-Profile SEITE 4 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.73 | 15.04.2026 | KBV | Anpassung der Übergangsregelung  Anpassung der Vorgaben für den  Klarstellung zur Version der  Anpassung der FHIR-Version der | Bugfix-Release des | 18  58, 60,  62, 63  19, 105  10, 12,  18, 105 |
 | 1.72 | 09.02.2026 | KBV | Aktualisierung der  Anpassung der Bedingung der KZV-   Anpassung des | Bereitstellung eines          eVerordnungs- | 10, 12,   18  85    52, 52,  53, 53,  54, 55,  56, 58,  60, 62,  63, 66,  66, 105 |
 | 1.71 | 06.11.2025 | KBV | Rückgängigmachen der Definition    Einführung einer Patienten-ID | Aufgrund der    Rückmeldung in der | 11ff, 15,    15, 105 |
 | 1.71 | 06.11.2025 | KBV | Streichung ValueSet und    Einführung eines eMP-Identifiers | Abbildung der Werte    Referenzierung | 19      29, 36, |
 
-Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen von FHIR®-Ressourcen zu 17, 20ff, strukturierten Dosierangaben  Kommentierung 31, 42, (Profile, Extensions, CodeSystems, verantwortet die HL7® 47ff, ValueSets, …) sowie der die FHIR®- 107, Ausgabevorschriften; Nutzung der Definitionen zu 110 FHIR-Ressourcen sowie des strukturierten Textgenerierungsalgorithmus der Dosieranweisungen HL7 Deutschland. Streichung der sowie den Längenangaben zu den Feldern der Algorithmus zur strukturierten Dosieranweisungen. Textgenerierung Kommentierung CodeSystem Narcotic Label über Schlüsseltabelle zwischen E-Rezept 99 und eMP  SEITE 5 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Patientenausdruck Referenzimplementierung zur Erzeugung eines menschenlesbaren Dosierungstextes Medication IG DE eRezept-Profile Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profilen) Abrechnungsnummer (Feld 61c) Patientenausdruckes  übergreifende Vereinheitlichungen von FHIR®-Ressourcen zu 17, 20ff, strukturierten Dosierangaben  Kommentierung 31, 42, (Profile, Extensions, CodeSystems, verantwortet die HL7® 47ff, ValueSets, …) sowie der die FHIR®- 107, Ausgabevorschriften; Nutzung der Definitionen zu 110 FHIR-Ressourcen sowie des strukturierten Textgenerierungsalgorithmus der Dosieranweisungen HL7 Deutschland. Streichung der sowie den Längenangaben zu den Feldern der Algorithmus zur strukturierten Dosieranweisungen. Textgenerierung Kommentierung CodeSystem Narcotic Label über Schlüsseltabelle zwischen E-Rezept 99 und eMP  SEITE 5 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -119,7 +118,7 @@ Versionsnummer der FHIR-Profile BugFix-Release (aufgrund Anpassung in FOR-Profil
 | 1.71 | 06.11.2025 | KBV | Glattziehen von Bedingungen zum    Ergänzung von default-Werten bei    Aufnahme einer Bedingung zur    Korrektur der Bedingung zum Typ    Aufnahme der Bedingung, dass bei    Erweiterung der Anforderung P36- | Korrektur            Angleichen an die  Rückmeldung in der      Rückmeldung in der            Rückmeldung in der    Ermöglichung der | 29, 30                    107    20 |
 | 1.70 | 17.06.2025 | KBV | Aktualisierung der FHIR-Profile auf    Ermöglichung der Verordnung von      Einführung strukturierter | Abbildung der    Erweiterung des      Im Rahmen der | 10ff    7, 12,  15, 27,  35, 45,  50, 58,  60, 62,  63, 68 |
 
-Angleichen des FHIR-Mappings von Dosieranweisung und Gebrauchsanweisung bei Rezepturverordnung Feldern zum T-Rezept Spezifikation der gematik  83 Verknüpfung der Felder SER und Kommentierung Zuzahlungsstatus 88 der ausstellenden / Kommentierung verschreibenden Person (Zahnarzt und Hebamme dürfen kein T- Rezept ausstellen. Hebamme darf kein BtM-Rezept ausstellen). der Verordnung einer Rezeptur das Kommentierung Kennzeichen Dosierung nicht "false" sein darf. 21 um eine Vorgabe zum Element Versionierung von E- meta.versionId Rezepten Version 1.4.0 Änderungen Betäubungsmitteln (BtM) und T- Funktionsumfangs des Arzneimitteln nach § 3a Abs. 1 E-Rezepts AMVV (T-Rezepte) Dosierungsanweisungen Weiterentwicklung überarbeitet SEITE 6 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Angleichen des FHIR-Mappings von Dosieranweisung und Gebrauchsanweisung bei Rezepturverordnung Feldern zum T-Rezept Spezifikation der gematik  83 Verknüpfung der Felder SER und Kommentierung Zuzahlungsstatus 88 der ausstellenden / Kommentierung verschreibenden Person (Zahnarzt und Hebamme dürfen kein T- Rezept ausstellen. Hebamme darf kein BtM-Rezept ausstellen). der Verordnung einer Rezeptur das Kommentierung Kennzeichen Dosierung nicht "false" sein darf. 21 um eine Vorgabe zum Element Versionierung von E- meta.versionId Rezepten Version 1.4.0 Änderungen Betäubungsmitteln (BtM) und T- Funktionsumfangs des Arzneimitteln nach § 3a Abs. 1 E-Rezepts AMVV (T-Rezepte) Dosierungsanweisungen Weiterentwicklung überarbeitet SEITE 6 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -146,7 +145,7 @@ Softwarehersteller, die ihren Anwendern im vertragsärztlichen Bereich die elekt
 
 Dieses Dokument enthält Inhalte, die nicht in der Regelungshoheit der Partner des Bundesmantelvertrags-Ärzte (BMV-Ä) liegen. Die fachliche Verantwortung für spezifische Vorgaben zur Privaten  Krankenversicherung liegt beim Verband der Privaten Krankenversicherung (PKV). Die fachliche  Verantwortung für spezifische Vorgaben zur elektronischen Verordnung von Betäubungsmitteln (BtM) und  Arzneimitteln nach AMVV § 3a Abs. 1 (T-Rezepte) liegt beim Bundesinstitut für Arzneimittel und  Medizinprodukte (BfArM).
 
-SEITE 7 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 7 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -161,7 +160,7 @@ Die auszutauschenden Daten zwischen den beteiligten Systemen sind auf Basis des 
 - In Kapitel 6 sind weitere Vorgaben für Praxisverwaltungssysteme (PVS) beschrieben.
 - Die zu übertragenden Inhalte sowie das Mapping auf die einzelnen FHIR®-Ressourcen werden in  Kapitel 7 beschrieben.
 
-SEITE 8 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 8 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -198,16 +197,13 @@ Bedeutung:
 - FOR steht für formularübergreifende Festlegungen
 - Bezeichnung - Bezeichnung für das entsprechende Thema
 
-SEITE 9 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 9 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
 
-**Beispiel:**
-
-- Dateiname: KBV_PR_FOR_Patient
-- [URL:](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
-- [Abbildung](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[der](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[formularübergreifend](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[en](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[Patienten](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[informationen](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)[](https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient)
+\| **Beispiel:  ** ›  ›  URL: https://fhir.kbv.de/StructureDefinition/KBV_PR_FOR_Patient   ›  Abbildung der formularübergreifenden Patienteninformationen |
+\|---|
 
 ## 3.2 FORMULARÜBERGREIFENDE PROFILE
 
@@ -248,7 +244,7 @@ Nachfolgend sind alle FHIR®-Profile gelistet, welche spezifisch für die Abbild
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Prescription |
 
-SEITE 10 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Dateiname: KBV_PR_FOR_Patient SEITE 10 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -299,8 +295,9 @@ SEITE 10 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 |---|---|
 | Kanonische URL | https://fhir.kbv.de/StructureDefinition/KBV_PR_ERP_Medication_FreeText |
 
-den Rezeptierdaten Sprechstundenbedarf / Praxisbedarf neben den Rezeptierdaten nach § 131 SGB V gelisteten Produkten SEITE 11 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 11 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
+den Rezeptierdaten Sprechstundenbedarf / Praxisbedarf neben den Rezeptierdaten nach § 131 SGB V gelisteten Produkten
 
 ---
 
@@ -341,7 +338,9 @@ Mit den folgenden Extensions wurden notwendige Erweiterungen in den FHIR®-Resso
 
 **Tabelle 11 KBV_EX_ERP_PracticeSupply_Payor**
 
-Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung Ressource Ressource des Sprechstundenbedarfs / Praxisbedarfs Ressource SEITE 12 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 12 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026  1.77
+
+Ressource Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdienstgebühr („noctu“) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung Ressource Ressource des Sprechstundenbedarfs / Praxisbedarfs / VERSION:
 
 
 ---
@@ -388,7 +387,7 @@ Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Notdien
 | Definition | Abbildung der Darreichungsform eines Bestandteils einer Rezeptur als Freitext |
 | Version | 1.4.4 |
 
-SEITE 13 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 13 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 Ressource Ressource Ressource Ressource ruction
 
@@ -414,7 +413,7 @@ Ressource Ressource Ressource Ressource ruction
 | Version | 1.4.4 |
 | erweitert FHIR®- | Medication  (KBV_PR_ERP_Medication_PZN,         KBV_PR_ERP_Medication_Ingredient,  KBV_PR_ERP_Medication_Compounding) |
 
-**Tabelle 18 KBV_EX_ERP_Medication_**
+**Tabelle 18: KBV_EX_ERP_Medication_**
 
 | KBV_EX_ERP_MULTIPLE_PRESCRIPTION |  |
 |---|---|
@@ -437,7 +436,7 @@ Ressource Ressource Ressource Ressource ruction
 | **KBV_EX_ERP_PATIENT_ID** |  |
 |---|---|
 
-SEITE 14 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 14 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 **PackagingSize**
 
@@ -488,7 +487,7 @@ Die CodeSystems definieren, welche Codes festgelegt wurden und was diese bedeute
 | Definition | Kennzeichnung der Kategorie für die Verordnung |
 | Version | 1.4.4 |
 
-Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzneimittel Ressource Abbildung der Informationen im Rahmen der Verordnung von teratogenen Ressource SEITE 15 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzneimittel Ressource Abbildung der Informationen im Rahmen der Verordnung von teratogenen Ressource SEITE 15 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -527,7 +526,7 @@ Ressource Abbildung der Patienten-ID, welche bei der Verordnung bestimmter Arzne
 
 **Tabelle 29: KBV_VS_ERP_Accident_Type**
 
-Verordnung erfolgt Profils „KBV_PR_ERP_Composition“SEITE 16 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Verordnung erfolgt Profils „KBV_PR_ERP_Composition“SEITE 16 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -566,7 +565,7 @@ eingesetzt werden.
 
 Die Profile bilden die Gesamtmenge von Attributen, die im Rahmen einer elektronischen  Arzneimittelverordnung vorliegen können. Die Profile sowie die darin enthaltenen Attribute sind immer  dann zu verwenden, wenn die jeweilige Verordnungssituation diese zur Weiterverarbeitung benötigt oder  diese aus dem Kontext heraus erforderlich sind. Beispielsweise muss die Extension  KBV_EX_FOR_Accident“ nur dann verwendet werden, wenn die Verordnung im Kontext eines Unfalls  erfolgt.
 
-SEITE 17 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 17 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -615,7 +614,7 @@ einbinden.
 
 Die Vorgaben zur Übergangsregelung haben eine begrenzte Gültigkeit. Nach Ablauf der Übergangsregelung  werden nicht mehr gültige Versionen als fehlerhaft abgelehnt.
 
-„mustSupport“SEITE 18 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+„mustSupport“SEITE 18 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -654,7 +653,7 @@ Der Implementation Guide (IG) beschreibt die standardisierte und interoperable A
 
 **Akzeptanzkriterium:**
 
-Angabe einer Dosieranweisung  SEITE 19 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Angabe einer Dosieranweisung  SEITE 19 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -691,7 +690,7 @@ Da der FHIR®-Standard die Übertragung der Instanzen im XML- sowie JSON-Format 
 - Die Informationen in einem Bundle bilden das eigentliche Dokument  das elektronische Rezept.
 - Der Inhalt des Bundles hängt immer von der jeweiligen Verordnungssituation ab.
 
-SEITE 20 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 20 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -727,17 +726,17 @@ In diesem Profil werden die Rezeptierdaten einer Verordnung aus den Preis- und P
 | Wirkstoffname | 158 | Medication.ingredient.item[x]: itemCodeableConcept.text |  |
 | Wirkstärke | 159 |  |  |
 |  | 159a | Medication.ingredient.strengt h.numerator.value |  |
-|  | 159b | Medication.ingredient.strengt h.numerator.unit |  |
+| Einheit der | 159b | Medication.ingredient.strengt h.numerator.unit |  |
 
-ID des Produkts (PZN) Darreichungsform  rreichungsform.code Wirkstoffnummer Zahlenwert der Wirkstoffmenge Einheit der WirkstoffmengeSEITE 21 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+ID des Produkts (PZN) Darreichungsform  rreichungsform.code Wirkstoffnummer Zahlenwert der Wirkstoffmenge WirkstoffmengeSEITE 21 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
 
 | KBV_PR_ERP_MEDICATION_PZN |  | | |
 |---|---|---|---|
-|  | 159c | Medication.ingredient.strengt h.denominator.value |  |
-|  | 159d | Medication.ingredient.strengt h.denominator.unit |  |
+| Zahlenwert der | 159c | Medication.ingredient.strengt h.denominator.value |  |
+| Einheit der | 159d | Medication.ingredient.strengt h.denominator.unit |  |
 | Packungsgröße | | | |
 |  | 111 | Medication.amount.numerato | WENN  ANSONSTEN |
 |  | 112 | Medication.amount.numerato | WENN  ANSONSTEN |
@@ -755,9 +754,9 @@ ID des Produkts (PZN) Darreichungsform  rreichungsform.code Wirkstoffnummer Zahl
 - den Wirkstoffen (ID 157 - ID 159) sowie
 - Packungsgröße (ID 110  112)
 
-SEITE 22 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 22 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
-Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Packungsgröße nach abgeteilter Menge Einheit Packungsgröße nach N- Bezeichnung r.extension:Packungsgroesse das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.     - ] zu befüllen.
+Bezugsmenge Bezugsmenge Packungsgröße nach abgeteilter Menge Packungsgröße nach N- Bezeichnung r.extension:Packungsgroesse das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.     - ] zu befüllen.
 
 
 ---
@@ -785,7 +784,7 @@ In diesem Profil werden die Rezeptierdaten einer Wirkstoffverordnung abgebildet.
 
 #### Akzeptanzkriterium:
 
-- 4. Das Mapping der Informationen aus Kapitel  wie folgt erfolgen:
+- 1. Das Mapping der Informationen aus Kapitel  wie folgt erfolgen:
 
 | KBV_PR_ERP_MEDICATION_INGREDIENT | | | |
 |---|---|---|---|
@@ -797,7 +796,7 @@ In diesem Profil werden die Rezeptierdaten einer Wirkstoffverordnung abgebildet.
 | Wirkstoffname | 119 | Medication.ingredient.item[x]: itemCodeableConcept.text |  |
 | Wirkstärke | 120 |  |  |
 
-SEITE 23 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 23 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 ] abgeleitet werden.
 
@@ -812,9 +811,9 @@ Wirkstoffverordnung Wirkstoffnummer - P36-41
 | KBV_PR_ERP_MEDICATION_INGREDIENT | | | |
 |---|---|---|---|
 |  | 120a | Medication.ingredient.strengt h.numerator.value |  |
-|  | 120b | Medication.ingredient.strengt h.numerator.unit |  |
-|  | 120c | Medication.ingredient.strengt h.denominator.value |  |
-|  | 120d | Medication.ingredient.strengt h.denominator.unit |  |
+| Einheit der | 120b | Medication.ingredient.strengt h.numerator.unit |  |
+| Zahlenwert der | 120c | Medication.ingredient.strengt h.denominator.value |  |
+| Einheit der | 120d | Medication.ingredient.strengt h.denominator.unit |  |
 | Darreichungsform | 104 | Medication.form.text |  |
 | Packungsgröße |  |  |  |
 |  | 111 | Medication.amount.numerato r.extension:Packungsgroesse | WENN  ANSONSTEN |
@@ -823,15 +822,15 @@ Wirkstoffverordnung Wirkstoffnummer - P36-41
 
 **Tabelle 31: Mapping KBV_PR_ERP_Medication_Ingredient**
 
-- 5. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu
 - befüllen.
 - a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß  EXT_ITA_VGEX_Anforderungskatalog_AVWG
 - b) Optionale Felder müssen befüllt werden können.
-- 6. Die Software muss sicherstellen, dass die Angaben zu:
+- 3. Die Software muss sicherstellen, dass die Angaben zu:
 
-SEITE 24 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 24 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
-Zahlenwert der Wirkstoffmenge Einheit der Wirkstoffmenge Zahlenwert der Bezugsmenge Einheit der Bezugsmenge Freitext Packungsgröße nach abgeteilter Menge Einheit  Packungsgröße nach N- Bezeichnung   das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.   - ] zu befüllen.
+Wirkstoffmenge Wirkstoffmenge Bezugsmenge Bezugsmenge Freitext Packungsgröße nach abgeteilter Menge Packungsgröße nach N- Bezeichnung   das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach N- Bezeichnung" nicht angegeben ist ODER das Feld "Packungsgröße nach N- Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist  ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.   - ] zu befüllen.
 
 
 ---
@@ -874,7 +873,7 @@ In diesem Profil werden die Rezeptierdaten einer Rezepturverordnung abgebildet. 
 |  | 124 | Medication.amount.numerato r.extension:Gesamtmenge |  |
 | Einheit der | 125 | Medication.amount.numerato |  |
 
-Rezepturname Gesamtmenge der r.unit SEITE 25 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Rezepturname Gesamtmenge der r.unit SEITE 25 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -906,7 +905,7 @@ Diese Funktion muss von der Software umgesetzt werden, wenn die Software die Fun
 
 #### HINWEISE
 
-Herstellungsanweisung ungsanweisung.value[x]:value Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform SEITE 26 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Herstellungsanweisung ungsanweisung.value[x]:value Name des  Bestandteils Bestandteils itemCodeableConcept.coding: pznCode.code Darreichungsform des Bestandteils  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Einheit des  Bestandteils muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Menge und Einheit des Bestandteils  muss das Feld 135 angegeben sein müssen die Felder 133 und 134 angegeben sein. Darreichungsform SEITE 26 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -938,7 +937,8 @@ In diesem Profil werden die Rezeptierdaten einer freitextlichen Verordnung abgeb
 
 **Tabelle 33: Mapping KBV_PR_ERP_Medication_FreeText**
 
-- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu  befüllen.
+- 2. Die Software muss es ermöglichen, alle unter Akzeptanzkriterium (1) aufgeführten Datenfelder zu
+- befüllen.
 - a) Pflichtfelder sind unter Berücksichtigung der Vorgaben gemäß  EXT_ITA_VGEX_Anforderungskatalog_AVWG
 - b) Optionale Felder müssen befüllt werden können.
 
@@ -956,7 +956,7 @@ Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteil
 
 - 1. Das Mapping der Informationen aus Kapitel  erfolgen:
 
-SEITE 27 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 27 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 - müssen die FHIR-Profile vollständig
 - 7 auf das Profil KBV_PR_ERP_Medication_FreeText muss
@@ -979,7 +979,7 @@ SEITE 27 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | eMP-Identifier | 188 | MedicationRequest.basedOn | WENN  ANSONSTEN |
 | Dosierung |  |  | WENN    ANSONSTEN WENN  ANSONSTEN |
 
-Packungen quest.quantity.value das Feld 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. KEIN "Sprechstundenbedarf/ Praxisbedarf“ " verordnet wird, DANN  kann dieses Feld angegeben werden.  darf es nicht gesetzt werden. das Feld "Kategorie" gleich „01“ oder „02“ ist ODER der Block "Rezeptierdaten Rezepturverordnung" angegeben ist UND KEIN "Sprechstundenbedarf/ Praxisbedarf "  verordnet wird, DANN muss dieser Block angegeben werden.  KEIN "Sprechstundenbedarf/ Praxisbedarf " verordnet wird,  DANN kann dieser Block angegeben werden. darf dieser Block nicht vorhanden sein. SEITE 28 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Packungen quest.quantity.value das Feld 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. KEIN "Sprechstundenbedarf/ Praxisbedarf“ " verordnet wird, DANN  kann dieses Feld angegeben werden.  darf es nicht gesetzt werden. das Feld "Kategorie" gleich „01“ oder „02“ ist ODER der Block "Rezeptierdaten Rezepturverordnung" angegeben ist UND KEIN "Sprechstundenbedarf/ Praxisbedarf "  verordnet wird, DANN muss dieser Block angegeben werden.  KEIN "Sprechstundenbedarf/ Praxisbedarf " verordnet wird,  DANN kann dieser Block angegeben werden. darf dieser Block nicht vorhanden sein. SEITE 28 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -994,7 +994,7 @@ Packungen quest.quantity.value das Feld 7 gleich "GKV" oder "BG" oder "SKT" oder
 | Unfallkennzeichen | 73 | MedicationRequest.extension:U |  |
 | Unfalltag | 74 | MedicationRequest.extension:U nfallinformationen.extension:Un falltag.value[x]:valueDate | WENN  ANSONSTEN  WENN  DANN |
 
-Gebrauchsanweisung Freitext / strukturiert Algorithmus der Textgenerierung / 175 uction extension:renderedDosageInstr uction extension:generatedDosageInstr uctionsMeta fallkennzeichen.value[x]:valueC oding der Block "Rezeptierdaten Rezepturverordnung" angegeben ist, muss dieses Feld den Wert „true“ haben. das Feld 107 = "true" ist,  ist eine Angabe der Felder zur Abbildung der Dosierung Pflicht.  darf dieses Feld nicht  angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld 73 gleich "1" oder "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. dieses Feld ein Datum enthält, darf dieses nicht nach dem Ausstellungsdatum liegen. SEITE 29 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Gebrauchsanweisung Freitext / strukturiert Algorithmus der Textgenerierung / 175 uction extension:renderedDosageInstr uction extension:generatedDosageInstr uctionsMeta fallkennzeichen.value[x]:valueC oding der Block "Rezeptierdaten Rezepturverordnung" angegeben ist, muss dieses Feld den Wert „true“ haben. das Feld 107 = "true" ist,  ist eine Angabe der Felder zur Abbildung der Dosierung Pflicht.  darf dieses Feld nicht  angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld 73 gleich "1" oder "2" ist, ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. dieses Feld ein Datum enthält, darf dieses nicht nach dem Ausstellungsdatum liegen. SEITE 29 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1011,7 +1011,7 @@ Gebrauchsanweisung Freitext / strukturiert Algorithmus der Textgenerierung / 175
 | Ende Einlösefrist der | 91 | MedicationRequest.extension:M | WENN  ANSONSTEN |
 | Verschreiber-ID | 155 | MedicationRequest.extension:V |  |
 
-derVerordnung Verordnung das Feld 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. ehrfachverordnung.extension:K ennzeichen.value[x]:valueBoole an ehrfachverordnung.extension:ID .value[x]:valueIdentifier das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.numerator.value darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.denominator.value darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:Ze itraum.value[x]:valuePeriod.star darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.end DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. erschreiberID SEITE 30 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+derVerordnung Verordnung das Feld 73 gleich "2" ist, DANN  ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. ehrfachverordnung.extension:K ennzeichen.value[x]:valueBoole an ehrfachverordnung.extension:ID .value[x]:valueIdentifier das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.numerator.value darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:N ummerierung.value[x]:valueRati o.denominator.value darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. ehrfachverordnung.extension:Ze itraum.value[x]:valuePeriod.star darf es nicht gesetzt werden. das Feld 87 gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. ehrfachverordnung.extension:Ze das Feld 87 gleich „true“ ist, itraum.value[x]:valuePeriod.end DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. erschreiberID SEITE 30 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1024,7 +1024,7 @@ derVerordnung Verordnung das Feld 73 gleich "2" ist, DANN  ist dieses Feld Pflic
 | Angaben zu | 162 |  | WENN       KEIN "Sprechstundenbedarf /  ANSONSTEN             KEIN "Sprechstundenbedarf /        DANN       ANSONSTEN             darf dieser Block nicht |
 | Wert der Reichdauer des | 163 | MedicationRequest.dispenseRe | WENN    DANN   ANSONSTEN          WENN       DANN      darf der Wert maximal 30 sein. |
 
-Substitutionsmitteln Substitutionsmittels atientenID Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code quest.expectedSupplyDuration.v alue das Feld "Kategorie" gleich „01“ ist,  muss dieser Block vorhanden darf dieser Block nicht vorhanden das Feld „BtM Sonderkennzeichen“ gleich „ST“ ist UND WENN Praxisbedarf" verordnet wird,  muss dieser Block vorhanden WENN das Feld „BtM Sonderkennzeichen“ gleich „S“ ist UND WENN      Praxisbedarf"       verordnet wird           darf dieser Block vorhanden vorhanden sein das Feld "BtM-Sonderkennzeichen" gleich „ST“ ist muss dieses Feld angegeben werden. kann das Feld angegeben werden.     das Feld vorhanden ist,  SEITE 31 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Substitutionsmitteln Substitutionsmittels atientenID Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code quest.expectedSupplyDuration.v alue das Feld "Kategorie" gleich „01“ ist,  muss dieser Block vorhanden darf dieser Block nicht vorhanden das Feld „BtM Sonderkennzeichen“ gleich „ST“ ist UND WENN Praxisbedarf" verordnet wird,  muss dieser Block vorhanden WENN das Feld „BtM Sonderkennzeichen“ gleich „S“ ist UND WENN      Praxisbedarf"       verordnet wird           darf dieser Block vorhanden vorhanden sein das Feld "BtM-Sonderkennzeichen" gleich „ST“ ist muss dieses Feld angegeben werden. kann das Feld angegeben werden.     das Feld vorhanden ist,  SEITE 31 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1034,12 +1034,12 @@ Substitutionsmitteln Substitutionsmittels atientenID Betaeubungsmittel extension
 | Einheit der Reichdauer des | 164 | MedicationRequest.dispenseRe | WENN    ANSONSTEN          WENN       DANN |
 | Ergänzende Angaben | 165 | MedicationRequest.extension: |  |
 | T-Rezept-Angaben | 166 |  | WENN             ist,   DANN           sein.  ANSONSTEN  darf dieser Block nicht vorhanden |
-| Off-Label | 167 | MedicationRequest.extension:T- |  |
-| Gebärfähige Frau | 168 | MedicationRequest.extension:T- |  |
+| Off-Label | 167 | MedicationRequest.extension:T- Rezept.extension:Off- Label.value[x]:valueBoolean.val ue |  |
+| Gebärfähige Frau | 168 | MedicationRequest.extension:T- Rezept.extension:Gebaerfaehige Frau.value[x]:valueBoolean.valu e |  |
 | Wert der Reichdauer des T- | 169 | MedicationRequest.dispenseRe | WENN      das Feld      darf der Wert dieses Feldes     nicht übersteigen.  ANSONSTEN     Darf der Wert dieses Feldes     nicht übersteigen. |
 | Einheit der Reichdauer des | 170 | MedicationRequest.dispenseRe | Der Wert muss „Woche(n)“ sein. |
 
-Substitutionsmittels zum Substitutionsmittel Arzneimittels T-Arzneimittels quest.expectedSupplyDuration. unit das Feld "Reichdauer des Substitutionsmittels " angegeben muss dieses Feld angegeben werden. darf das Feld nicht angegeben werden.     das Feld vorhanden ist,  muss der Wert „Tag(e)“ sein. Betaeubungsmittel n.extension:VorgabenTeilmenge nabgabeSubstitutionsmittel.valu e[x]:valueString.value das Feld "Kategorie" gleich „02“ muss dieser Block vorhanden Rezept.extension:Off- Label.value[x]:valueBoolean.val Rezept.extension:Gebaerfaehige Frau.value[x]:valueBoolean.valu quest.expectedSupplyDuration.v alue quest.expectedSupplyDuration. unit „Gebärfähige Frau“ gleich „true“ ist, DANN 12SEITE 32 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Substitutionsmittels zum Substitutionsmittel Arzneimittels T-Arzneimittels quest.expectedSupplyDuration. unit das Feld "Reichdauer des Substitutionsmittels " angegeben muss dieses Feld angegeben werden. darf das Feld nicht angegeben werden.     das Feld vorhanden ist,  muss der Wert „Tag(e)“ sein. Betaeubungsmittel n.extension:VorgabenTeilmenge nabgabeSubstitutionsmittel.valu e[x]:valueString.value das Feld "Kategorie" gleich „02“ muss dieser Block vorhanden quest.expectedSupplyDuration.v quest.expectedSupplyDuration. unit „Gebärfähige Frau“ gleich „true“ ist, DANN 12SEITE 32 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1072,7 +1072,7 @@ Substitutionsmittels zum Substitutionsmittel Arzneimittels T-Arzneimittels quest
 | KBV_PR_ERP_Medication_ | MedicationRequest.medicationRefere nce.reference = *<UUID der Instanz>* | Instanz gemäß P36-22    P36-31 ist zu berücksichtigen |
 | KBV_PR_ERP_Medication_I | MedicationRequest.medicationRefere nce.reference = *<UUID der Instanz>* | Instanz gemäß K36-23    P36-31 ist zu berücksichtigen |
 
-Sicherheitsmaßnahmen Rezept.extension:EinhaltungSich erheitsmassnahmen.value[x]:val ueBoolean.value Informationsmaterialien Rezept.extension:Aushaendigun gInformationsmaterialien.value[ x]:valueBoolean.value Rezept.extension:ErklaerungSac hkenntnis.value[x]:valueBoolean .value FreeText Compounding PZN ngredient SEITE 33 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Sicherheitsmaßnahmen Rezept.extension:EinhaltungSich erheitsmassnahmen.value[x]:val ueBoolean.value Informationsmaterialien Rezept.extension:Aushaendigun gInformationsmaterialien.value[ x]:valueBoolean.value Rezept.extension:ErklaerungSac hkenntnis.value[x]:valueBoolean .value FreeText Compounding PZN ngredient SEITE 33 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1101,7 +1101,7 @@ Sicherheitsmaßnahmen Rezept.extension:EinhaltungSich erheitsmassnahmen.value[x]
 
 **Tabelle 35: Referenzierte Instanzen KBV_PR_ERP_Prescription**
 
-DiMus DiMus DiMusSEITE 34 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+DiMus DiMus DiMusSEITE 34 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1139,7 +1139,7 @@ Das Profil bildet inhaltlich die fachlich und medizinisch relevanten Bestandteil
 | Anzahl der verordneten | 113 | SupplyRequest.quantity.value |  |
 | Kostenträger |  |  |  |
 
-SEITE 35 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 35 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 bzw.
 
@@ -1172,20 +1172,20 @@ Packungen - 7 auf das Profil KBV_PR_ERP_PracticeSupply muss wie folgt
 | KBV_PR_ERP_Medication_I | SupplyRequest.itemReference.reference  = *<UUID der Instanz>* | Instanz gemäß K36-23    P36-31 ist zu berücksichtigen |
 | KBV_PR_FOR_Practitioner | SupplyRequest.requester.reference  = *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Hand ] |
 
-Kostenträgertyp traeger.extension:Kostentraeger typ.value[x]:valueCoding IK der zuständigen Krankenkasse Kostenträgers das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code FreeText Compounding PZN ngredient buch_DiMusSEITE 36 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Kostenträgertyp traeger.extension:Kostentraeger typ.value[x]:valueCoding IK der zuständigen Krankenkasse Kostenträgers das Feld "Kategorie" gleich „01“ ist,  DANN  muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. Betaeubungsmittel extension:BtM- Sonderkennzeichen.value[x]:val ueCoding.code FreeText Compounding PZN ngredient buch_DiMusSEITE 36 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
 
 **Tabelle 37: Referenzierte Instanzen KBV_PR_ERP_PracticeSupply**
 
-- 4. Die Instanz KBV_PR_ERP_PracticeSupply darf nur genau eine Referenz auf eine Instanz eines ERP-Medications-Profil in SupplyRequest.itemReference.reference enthalten.
+- 4. Die Instanz KBV_PR_ERP_PracticeSupply darf nur genau eine Referenz auf eine Instanz eines ERP-Medications-Profil in SupplyRequest.itemReference.reference
 - 5. Die Software stellt sicher, dass der Wert des Elementes „Anzahl der verordneten Packungen“ (Feld 113)  größer als 0 ist.
 
 **HINWEIS**
 
 - Die elektronische Verordnung von Sprechstundenbedarf / Praxisbedarf ist über den Fachdienst der  gematik aktuell ausgeschlossen (siehe P5-01). Sofern im Rahmen von Pilotprojekten elektronische  Verordnungen von Sprechstundenbedarf ausgestellt werden, sollten die Anforderungen nach O36-27  berücksichtigt werden.
-- Das Feld „Sprechstundenbedarf/ Praxisbedarf“ (ID 83) ist nicht zu befüllen. Die Information über die  Verordnung von Sprechstundenbedarf / Praxisbedarf ergibt sich durch die Instanziierung des Profils  KBV_PR_ERP_PracticeSupply. Wenn kein Sprechstundenbedarf / Praxisbedarf verordnet wird, erfolgt  eine Instanziierung des Profils KBV_PR_ERP_Prescription.
+- Das Feld „Sprechstundenbedarf/ Praxisbedarf“ (ID 83) ist nicht zu befüllen.  Verordnung von Sprechstundenbedarf / Praxisbedarf ergibt sich durch die Instanziierung des Profils  KBV_PR_ERP_PracticeSupply. Wenn kein Sprechstundenbedarf / Praxisbedarf verordnet wird, erfolgt  eine Instanziierung des Profils KBV_PR_ERP_Prescription.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -1207,7 +1207,11 @@ Die Composition definiert die Gesamtheit von Informationen, die zu einem einzige
 | Dokumententyp | 2 | „e16A“ |  |
 | Prüfnummer | 4 | Composition.author:Pruefnumm er.identifier | WENN  ANSONSTEN |
 
-Composition.type.coding.code = das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. SEITE 37 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 37 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
+
+- enthalten.
+
+Composition.type.coding.code = das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" oder "UK" ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. - Die Information über die
 
 
 ---
@@ -1233,7 +1237,7 @@ Composition.type.coding.code = das Feld ID 7 gleich "GKV" oder "BG" oder "SKT" o
 | KBV_PR_FOR_Practitioner | Composition.author.type = „Practitioner“    Composition.author.reference =   *<UUID der Instanz>* | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ] |
 | KBV_PR_FOR_Practitioner | Composition.attester.party.reference = | Instanz gemäß P4-01 aus  KBV_ITA_VGEX_Technisches_Handbuch_ ]    P36-34 ist zu berücksichtigen |
 
-SEITE 38 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 38 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 **Composition**
 
@@ -1276,7 +1280,7 @@ Das Bundle bildet die Grundlage für die Weiterverarbeitung und Übertragung der
 
 **Tabelle 40: Mapping KBV_PR_ERP_Bundle**
 
-ON DiMus DiMus DiMus Komponenten der TI SEITE 39 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+ON DiMus DiMus DiMus Komponenten der TI SEITE 39 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1327,7 +1331,7 @@ Im Rahmen des ERP erfolgt die Unterscheidung zwischen einer patientenbezogenen V
 
 - 1. Die Software muss sicherstellen, dass das Profil KBV_PR_ERP_Prescription für die patientenbezogene  Verordnung von Arzneimitteln verwendet wird.
 
-SEITE 40 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 40 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 ```
 -
@@ -1380,7 +1384,7 @@ Sofern es sich bei der die Verordnung ausstellenden Person um einen Arzt in Weit
 
 **HINWEIS**
 
-SEITE 41 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 41 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1424,7 +1428,7 @@ Durch die Verwendung einer Rezept-ID, welche vom E-Rezept-Fachdienst der gematik
 
 **Akzeptanzkriterium:**
 
-SEITE 42 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 42 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 Krankenkasse (ID 9) Kostenträgers  ension:Kostentraegertyp.value[x]:valueCodiO36-27
 
@@ -1435,7 +1439,7 @@ Krankenkasse (ID 9) Kostenträgers  ension:Kostentraegertyp.value[x]:valueCodiO3
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P36-38** | Vorgaben zur |
+| **P36-38** | Vorgaben zur Übertragung des „ |
 
 Bei einer Verordnung im Kontext der Versorgung durch die Deutsche Gesetzliche Unfallversicherung  (DGVU) muss das „IK des Kostenträgers“ verbindlich übertragen werden.
 
@@ -1467,7 +1471,7 @@ Für eine valide Verordnung muss das Ausstellungsdatum dem Signaturdatum entspre
 - b) Im Anschluss startet automatisch der angeforderte Signaturvorgang.
 - 2. Die Datumsangabe muss in deutscher Zeit (Mitteleuropäische Zeitzone) erfasst werden.
 
-Übertragung des „ IK des Kostenträgers im DGUV-Fall SEITE 43 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+IK des Kostenträgers im DGUV-Fall SEITE 43 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1506,7 +1510,7 @@ Die Wirkstärke ist für PZN- und Wirkstoffverordnungen strukturiert anzugeben. 
 
 Die Angabe der Wirkstärke für PZN- und Wirkstoffverordnungen erfolgt getrennt nach Wirkstoffmenge und  Bezugsmenge. Liegen für einen aktiven Wirkstoff zusätzliche Informationen zu einem äquivalenten  Wirkstoff vor, können diese alternativ im Verordnungsdatensatz angegeben werden. Häufig wird damit auf  die einem Wirkstoff zu Grunde liegende freie Säure oder Base Bezug genommen.
 
-SEITE 44 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 44 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1543,7 +1547,7 @@ Es wird empfohlen, bei PZN-Verordnungen die Angaben des äquivalenten Wirkstoffs
 |---|---|
 | **P36-42** | Verwendung der entsprechend dem Arzneimittel korrekten Kategorie |
 
-SEITE 45 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 45 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1585,7 +1589,7 @@ Im Profil DosageDgMP wird die freitextliche sowie strukturierte Dosieranweisung 
 | Wert der Dauer der | 176 | Dosage.timing.repeat.bounds[x]:boundsDuration.value |
 | Einheit der Dauer der | 177 | Dosage.timing.repeat.bounds[x]:boundsDuration.unit |
 
-SEITE 46 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 46 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 ```
 -
@@ -1611,7 +1615,7 @@ Gebrauchsanweisung Freitext 42- 7 auf das Profil DosageDgMP muss wie folgt erfol
 
 **Tabelle 41: Mapping DosageDgMP**
 
-pro Zeitangabe SEITE 47 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+pro Zeitangabe SEITE 47 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1656,7 +1660,7 @@ Aufgrund gesetzlicher Vorgaben ist der Einsatz einer qualifizierten elektronisch
 
 Die Software kann dem Anwender bei der Verwendung der Stapelsignatur anhand eines selbstgewählten  Algorithmus einzelne Instanzen anzeigen und so die Prüfung erleichtern.
 
-SEITE 48 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 48 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1687,7 +1691,7 @@ Gemäß § 312 Absatz 1 Punkt 1 SGB V hat zum 30. Juni 2020 die gematik die Maß
 
 - Gemäß dem Anforderungskatalog für Verordnungssoftware  EXT_ITA_VGEX_Anforderungskatalog_AVWG] muss die Software die Verordnung auf Muster 16 in  Papierform weiter ermöglichen. Im Kontext des E-Rezeptes greift dies insbesondere im Rahmen von  technischen Störungen der TI oder bei mobilen Versorgungssituationen, wie bspw. Haus- und  Heimbesuchen.
 
-SEITE 49 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 49 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1734,7 +1738,7 @@ Die automatische Vorbelegung von bestimmten Informationen erleichtert die Nutzun
 | **Feld (ID gemäß  Tabelle 42)** | Betroffene Profile | Betroffenes Element | Default-Wert |
 | Zuzahlungsstatus (ID | KBV_PR_ERP_Prescription | MedicationRequest.ext ension:Zuzahlungsstatu s.value[x]:valueCoding | gleich "BG" oder "UK" ist,   ANSONSTEN |
 
-SEITE 50 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 50 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 - ERP-Profil
 - [https://fachportal.gematik.de/hersteller-](https://fachportal.gematik.de/hersteller-anbieter/primaersysteme/referenzvalidator)
@@ -1751,12 +1755,12 @@ SEITE 50 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | SER (ID 85) | KBV_PR_ERP_Prescription | MedicationRequest.ext ension:SER.value[x]:val ueBoolean | false |
 | Kennzeichen | KBV_PR_ERP_Prescription | MedicationRequest.ext | false |
 | Aut idem (ID 102) | KBV_PR_ERP_Prescription | MedicationRequest.sub stitution.allowed[x]:allo wedBoolean | true |
-| Off-Label (ID 167) | KBV_PR_ERP_Prescription | MedicationRequest.ext | false |
+| Off-Label (ID 167) | KBV_PR_ERP_Prescription | MedicationRequest.ext ension:T- Rezept.extension:Off- Label.value[x]:valueBoo lean.value | false |
 | Einhaltung | KBV_PR_ERP_Prescription | MedicationRequest.ext | false |
 | Aushändigung | KBV_PR_ERP_Prescription | MedicationRequest.ext | false |
 | Erklärung | KBV_PR_ERP_Prescription | MedicationRequest.ext | Bei der ersten Verordnung durch |
 
-Mehrfachverordnung (ID 87) Sicherheitsmaßnahme n (ID 171) Informationsmateriali en (ID 172) Sachkenntnis (ID 173) ension:Mehrfachverord nung.extension:Kennzei chen.value[x]:valueBool ension:T- Rezept.extension:Off- Label.value[x]:valueBoo lean.value ension:T- Rezept.extension:Einhal tungSicherheitsmassna hmen ension:T- Rezept.extension:Ausha endigungInformations materialien ension:T- Rezept.extension:Erklae rungSachkenntnis die ausstellende Person „false“ und ab der zweiten Verordnung „true“.SEITE 51 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Mehrfachverordnung (ID 87) Sicherheitsmaßnahme n (ID 171) Informationsmateriali en (ID 172) Sachkenntnis (ID 173) ension:Mehrfachverord nung.extension:Kennzei chen.value[x]:valueBool Rezept.extension:Einhal tungSicherheitsmassna hmen Rezept.extension:Ausha endigungInformations materialien Rezept.extension:Erklae rungSachkenntnis die ausstellende Person „false“ und ab der zweiten Verordnung „true“.SEITE 51 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1801,7 +1805,7 @@ Begründung:
 
 Für eine übersichtliche Handhabbarkeit soll der Ausdruck möglichst viele im Rahmen einer Behandlung  eines Versicherten erstellten ERPs umfassen.
 
-Ihrer Verordnung: E-RezeptSEITE 52 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Ihrer Verordnung: E-RezeptSEITE 52 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1831,7 +1835,7 @@ Für eine übersichtliche Handhabbarkeit soll der Ausdruck möglichst die Teilve
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P6-23** | Layout des |
+| **P6-23** | Layout des „Ausdruck zur Einlösung |
 
 Die Software muss für das Layout des Ausdrucks einheitliche Vorgaben berücksichtigen.
 
@@ -1847,7 +1851,7 @@ Für eine systemübergreifende einheitliche Darstellung des Ausdrucks sind spezi
 - a) Die Einstellung des zu verwendenden Papierformats muss konfigurierbar sein.
 - b) Eine Veränderung der Skalierung in Abhängigkeit des gewählten Formats ist nicht zulässig. Somit  muss auch beim Druck auf ein DIN-A4-Blatt der Ausdruck die Maße des DIN-A5-Formats haben.
 
-Ausdruck  „Ausdruck zur Einlösung Ihrer Verordnung: E-RezeptSEITE 53 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+Ausdruck  Ihrer Verordnung: E-RezeptSEITE 53 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1869,7 +1873,7 @@ Siehe P6-31
 
 **Abbildung 1: Exemplarischer „Ausdruck zur Einlösung Ihrer Verordnung: E-Rezept"**
 
-SEITE 54 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 54 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 - Vorlage Patientenausdruck] einzuhalten.
 
@@ -1937,7 +1941,7 @@ Um eine Zuordnung des Ausdrucks zu einem Versicherten zu ermöglichen, muss der 
 - 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen aus gemäß  Akzeptanzkriterium (1) ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß  Tabelle 42) vollständig abgebildet werden:
 
-SEITE 55 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 55 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -1950,7 +1954,7 @@ SEITE 55 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 - 1. In dem Bereich der Überschrift muss hinter den Text „Ausdruck zur Einlösung Ihrer Verordnung:“ der  Text „ E Rezept“ aufgedruckt werden. Der Text „ E Rezept“ muss dieselbe Schriftart, dieselbe  Schriftgröße und denselben Schriftschnitt haben wie der Text „Ausdruck zur Einlösung Ihrer  Verordnung:“.
 - a) Der Schriftschnitt ist „fett“.
 - b) Die Schriftart ist Helvetica (ggf. artverwandt, d.h. ohne Serifen und proportional).
-- c) 3. Die Schriftgröße ist 12 pt.
+- c) Die Schriftgröße ist 12 pt.
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -1988,14 +1992,14 @@ Um einem Versicherten die Zuordnung des Patientenausdruckes zu ermöglichen, mus
 
 **Akzeptanzkriterium:**
 
-oren am“SEITE 56 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+oren am“SEITE 56 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
-| **P6-25** | Aufzudruckende |
+| **P6-25** | Aufzudruckende Informationen in dem Bereich „ausgestellt von“ |
 
 Die Software muss auf dem Ausdruck den Namen der verschreibenden Person sowie dessen Kontaktdaten  erfassen.
 
@@ -2003,10 +2007,10 @@ Die Software muss auf dem Ausdruck den Namen der verschreibenden Person sowie de
 
 Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, müssen diese  Informationen auf dem Ausdruck erfasst werden.
 
-**Akzeptanzkriterium:**
+**Akzeptanzkriterium**
 
-- 2. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs  gemäß Tabelle 42
-- b) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person  bestehend aus den folgenden Informationen aufzudrucken:
+- 1. In dem Bereich „ausgestellt von“ sind in bis zu fünf Zeilen die folgenden Angaben zu hinterlegen (IDs  gemäß Tabelle 42
+- a) In der ersten und ggfs. zweiten Zeile ist der vollständige Name der verschreibenden Person  bestehend aus den folgenden Informationen aufzudrucken:
 - Titel der verschreibenden Person   (ID 46)
 - Vorname der verschreibenden Person   (ID 44)
 - Namenszusatz der verschreibenden Person (ID 47)
@@ -2014,10 +2018,10 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 - Nachname der verschreibenden Person  (ID 45)
 - Die Reihenfolge der Daten im Ausdruck muss entsprechend der Auflistung erfolgen.
 - Die einzelnen Informationen müssen mit einem Leerzeichen voneinander getrennt sein, sofern sie  vorhanden sind.
-- c) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden  aufzudrucken.
-- d) In der folgenden Zeile ist die Telefonnummer der Einrichtung (ID 69) aufzudrucken.
-- e) In der letzten Zeile ist die E-Mail der Einrichtung (ID 71) aufzudrucken, sofern vorhanden.
-- 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
+- b) In der auf den Namen folgenden Zeilen ist der Name der Einrichtung (ID 62) sofern vorhanden  aufzudrucken.
+- c) In der folgenden Zeile ist die Telefonnummer der Einrichtung (ID 69) aufzudrucken.
+- d) In der letzten Zeile ist die E-Mail der Einrichtung (ID 71) aufzudrucken, sofern vorhanden.
+- 2. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen (IDs gemäß  Tabelle 42) vollständig abgebildet werden:
 - Vorname der verschreibenden Person   (ID 44)
 - Nachname der verschreibenden Person  (ID 45)
@@ -2032,7 +2036,7 @@ Um eine Zuordnung des Ausdrucks zu der verschreibenden Person zu ermöglichen, m
 |---|---|
 | **P6-26** | Aufzudruckende Informationen in dem Block „ |
 
-Informationen in dem Bereich „ausgestellt von“ ausgestellt amSEITE 57 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+ausgestellt amSEITE 57 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2045,7 +2049,7 @@ Um eine zeitliche Zuordnung des Ausdrucks zu ermöglichen, muss diese Informatio
 
 **Akzeptanzkriterium:**
 
-- 1. In dem Block „Ausstellungsdatum“ ist das Ausstellungsdatum (ID 80 gemäß Tabelle 42) in der Form  TT.MM.JJJJ zu hinterlegen.
+- 1. In dem Block „Ausstellungsdatum“ ist das Ausstellungsdatum (ID 80 gemäß  TT.MM.JJJJ zu hinterlegen.
 
 **HINWEIS**
 
@@ -2068,11 +2072,11 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 - a) Aufdruck des 2D-Codes linksbündig gemäß P6-31
 - b) Rechts neben dem 2D-Code sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind:
 
-Angabe, wenn es sich um eine Verordnung gemäß BtM-Rezept handelt (ID 81 gleich „01“):
+Angabe, wenn es sich um eine Verordnung gemäß BtM-
 
 Fixer Wert „BtM Rezept“
 
-Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt (ID 81 gleich „02“)
+Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt
 
 Fixer Wert „T-Rezept
 
@@ -2080,11 +2084,19 @@ Fixer Wert „T-Rezept
 
 Fixer Wert „Teil “
 
-- Zähler Mehrfachverordnung         (ID 88)
+- Zähler Mehrfachverordnung
 - Fixer Wert „ von “
-- Nenner Mehrfachverordnung        (ID 89)
+- Nenner Mehrfachverordnung
 
-Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung) SEITE 58 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 58 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
+
+- Tabelle 42) in der Form
+
+Rezept handelt (ID 81 gleich „01“): (ID 81 gleich „02“)
+
+-  (ID 88)
+
+Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung) -  (ID 89)
 
 
 ---
@@ -2140,7 +2152,7 @@ Produktverzeichnissen nach § 131 SGB V (PZN-bezogene Verordnung) SEITE 58 VON 1
 - Aut idem
 - b) Sofern eine Kürzung der aufgedruckten Dosierungsanweisung erfolgt, druckt die Software am Ende  der Dosierungsanweisung den Text „…TEXT GEKÜRZT“. Hier ist das Dreipunkt-Schriftzeichen zu  verwenden und nicht drei aufeinanderfolgende Punkte.
 
-SEITE 59 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 59 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2149,7 +2161,7 @@ Die Software kann die Angaben Packungsgröße nach abgeteilter Menge (ID 111), E
 
 **HINWEIS**
 
-- Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen „“.  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von  Leerzeichen.
+- Die Angaben zu Trennzeichen und fixen Werten erfolgt im Ausdruck ohne die Anführungszeichen  Diese dienen in den Akzeptanzkriterien ausschließlich der Kenntlichmachung des Inhaltes und von  Leerzeichen.
 - Gleiches gilt für die Vorgaben in K6-28 bis P6-30.
 
 | KONDITIONALE PFLICHTFUNKTION ERP |  |
@@ -2168,11 +2180,11 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 - a) Aufdruck des 2D-Codes linksbündig gemäß P6-31
 - b) Rechts neben dem 2D-Code sind fortlaufend in einer Reihe die folgenden Informationen inkl. der  vorgegebenen Trennzeichen aufzudrucken, sofern diese vorhanden sind:
 
-Angabe, wenn es sich um eine Verordnung gemäß BTM-Rezept handelt (ID 81 gleich „01“):
+Angabe, wenn es sich um eine Verordnung gemäß BTM-
 
 Fixer Wert „BtM Rezept“
 
-Angabe, wenn es sich um eine Verordnung gemäß T-Rezept handelt (ID 81 gleich „02“):
+Angabe, wenn es sich um eine Verordnung gemäß T-
 
 Fixer Wert „T Rezept“
 
@@ -2180,16 +2192,26 @@ Angabe Mehrfachverordnung nach dem folgenden Muster, sofern Kennzeichen  Mehrfac
 
 Fixer Wert „Teil “
 
-- Zähler Mehrfachverordnung           (ID 88)
+- Zähler Mehrfachverordnung
 - Fixer Wert „ von “
-- Nenner Mehrfachverordnung          (ID 89)
+- Nenner Mehrfachverordnung
 - Fixer Wert „ ab “
 - Beginn Einlösefrist der Verordnung in der Form TT.MM.JJJJ (ID 90)
 - Zeilenumbruch als Trennzeichen
-- Anzahl der verordneten Packungen         (ID 113)
+- Anzahl der verordneten Packungen
 - Fixer Wert als Trennzeichen „x “
 
-SEITE 60 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 60 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
+
+- „“.
+
+Rezept handelt (ID 81 gleich „01“):
+
+Rezept handelt (ID 81 gleich „02“):
+
+-    (ID 88)
+-    (ID 89)
+-    (ID 113)
 
 
 ---
@@ -2235,7 +2257,7 @@ Sofern weitere Wirkstoffe enthalten sind und der zur Verfügung stehende Platz a
 - Wirkstoffname des ersten Wirkstoffs
 - Wirkstärke des ersten Wirkstoffs
 
-SEITE 61 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 61 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 - zu verwenden
 -   (ID 119)
@@ -2297,7 +2319,7 @@ Fixer Wert „Teil “
 - Schriftschnitt „fett“ zu verwenden
 - Rezepturname               (ID 123)
 
-SEITE 62 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 62 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2339,7 +2361,7 @@ Der Ausdruck dient der alternativen Übermittlung der Zugriffsinformationen eine
 
 **Akzeptanzkriterium:**
 
-SEITE 63 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 63 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2378,6 +2400,12 @@ Fixer Wert „Teil “
 - 3. Die Software muss eine Kürzung vornehmen, sofern der zur Verfügung stehende Platz unter  Berücksichtigung von P6-32 nicht für den Aufdruck aller Informationen gemäß Akzeptanzkriterium (1)  ausreicht.
 - a) Die Software muss dabei sicherstellen, dass mindestens die folgenden Informationen vollständig  abgebildet werden:
 - Fixer Wert „BtM Rezept“
+- Fixer Wert „T Rezept“
+- Angabe Mehrfachverordnung
+- Fixer Wert „Freitextverordnung“
+- b) Sofern eine Kürzung der aufgedruckten Dosierungsanweisung erfolgt, druckt die Software am Ende  der Dosierungsanweisung den Text „…TEXT GEKÜRZT“. Hier ist das Dreipunkt verwenden und nicht drei aufeinanderfolgende Punkte.
+
+SEITE 64 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 Rezept handelt (ID 81 gleich „01“):
 
@@ -2387,19 +2415,14 @@ Rezept handelt (ID 81 gleich „02“):
 -    (ID 89)
 -    (ID 113)
 -    (ID 108 bzw. ID 175)
-- Fixer Wert „T Rezept“
-- Angabe Mehrfachverordnung
-- Fixer Wert „Freitextverordnung“
-- b) Sofern eine Kürzung der aufgedruckten Dosierungsanweisung erfolgt, druckt die Software am Ende  der Dosierungsanweisung den Text „…TEXT GEKÜRZT“. Hier ist das Dreipunkt-Schriftzeichen zu  verwenden und nicht drei aufeinanderfolgende Punkte.
+- -Schriftzeichen zu
+
+
+---
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
 | **P6-31** | Vorgaben für den 2D-Code-Aufdruck für einen Einzeltoken |
-
-SEITE 64 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
-
-
----
 
 Der aufzudruckende 2D-Code je ERP enthält die technischen Informationen (Zugangs-Codes), um das ERP in  der Apotheke einzulösen.
 
@@ -2414,7 +2437,11 @@ Nur durch den 2D-Code kann im Rahmen der Nutzung des Ausdrucks ein atomischer Ab
 - 3. Der 2D-Code muss fest mit einer Größe von 2 cm x 2 cm entsprechend der in [Vorlage  Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
 - 4. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
 
-SEITE 65 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+**Hinweis:**
+
+Es wird empfohlen, dass der 2D-Code mit einer Auflösung 300  600 dpi erstellt wird.
+
+SEITE 65 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2427,7 +2454,7 @@ Zusätzlich zu den einzelnen 2D-Codes je ERP muss ein Sammeltoken, welcher den I
 
 **Begründung:**
 
-Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösungen aller auf dem Ausdruck  enthalten ERPs in einer Apotheke erfolgen soll, muss nur dieser 2D-Code gescannt werden.
+Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösungen aller auf dem Ausdruck  enthaltenen ERP in einer Apotheke erfolgen soll, muss nur dieser 2D-Code gescannt werden.
 
 **Akzeptanzkriterium:**
 
@@ -2436,6 +2463,10 @@ Der Sammeltoken erleichtert die Einlösung in der Apotheke. Sofern die Einlösun
 - 3. Der Inhalt des 2D-Codes muss ausschließlich die in dem Ausdruck bereits enthaltenen Token der  aufgedruckten Einzelverordnungen umfassen. Entsprechend sind immer genau die (maximal vier) Token  in dem 2D-Code als Sammeltoken umfasst, welche gemäß P6-31 bereits für die 2D-Codes der  Einzelverordnungen erstellt sind.
 - 4. Der 2D-Code muss fest mit einer Größe von 4,4 cm x 4,4 cm entsprechend der in [ Patientenausdruck] abgebildeten Form und Positionierung aufgedruckt werden.
 - 5. Die Software muss sicherstellen, dass um den 2D-Code zusätzlich umlaufend ein druckfreier Bereich von  mindestens 3mm vorhanden ist.
+
+**Hinweis:**
+
+Es wird empfohlen, dass der 2D-Code mit einer Auflösung 300
 
 | PFLICHTFUNKTION ERP |  |
 |---|---|
@@ -2458,14 +2489,10 @@ Durch diese Informationen werden die Patienten in die Lage versetzt, sich selbst
 
 Die Software muss für einen einheitlichen Ausdruck des ERP Vorgaben zu Schriftgrößen und Schriftarten  beachten.
 
-**Begründung:**
-
-Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks werden Vorgaben für die  Schriftgröße und Schriftart definiert.
-
-SEITE 66 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 66 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 - gemSpec_DM_eRp
-- Vorlage
+- Vorlage 600 dpi erstellt wird.
 - Vorlage Patientenausdruck
 - P6-32 in Schriftgröße 8 pt.
 
@@ -2485,9 +2512,13 @@ SEITE 66 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 - 5. Die Software muss sicherstellen, dass für die in der [Vorlage Patientenausdruck] vorgegebenen Texte  eine proportionale Schriftart ohne Serifen und der Schriftschnitt fett genutzt werden.
 - 6. Die Software muss sicherstellen, dass die aufzudruckenden Informationen innerhalb des Bereiches „für“ innerhalb des Bereiches „ausgestellt von“ und die aufzudruckenden Verordnungsinformationen nach  P6-27 K6-28 K6-29und P6-30 jeweils dieselbe Schriftgröße haben.
 
+**Begründung:**
+
+Für ein einheitliches Layout und eine bestmögliche Lesbarkeit des Ausdrucks werden Vorgaben für die  Schriftgröße und Schriftart definiert.
+
 **Akzeptanzkriterium:**
 
-SEITE 67 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 67 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2521,7 +2552,7 @@ Die einzelnen Spalten bilden hierbei die folgenden Informationen ab:
 - **Bedingung**
 - Logische Bedingung, an welche die Befüllung eines Feldes oder einer gesamten Feldgruppe geknüpft  ist
 
-SEITE 68 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+SEITE 68 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2535,9 +2566,9 @@ SEITE 68 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 5 |  | x |  |  |  |  | Dokumenten-ID | 22 | 1..1 | Dieses Feld enthält eine eindeutige |  |
 | **6** | **x** |  |  |  |  |  | **Empfänger /** |  | **1..1** | **Dieser Block enthält Daten zum** |  |
 
-SEITE 69 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 69 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Kostenträger DERH. der vertragsärztlichen Versorgung. Informationsmodells. Konkret bezieht sich diese Angabe auf die Version des Profils KBV_PR_ERP_Bundle. welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält.  Für die "Elektronische Arzneimittelverordnung (Vordruck e16A)" bzw. das elektronische Rezept ist die Prüfnummer für das Zertifizierungsthema "Verordnung von Arzneimitteln" anzugeben. Programmstandskennzeichen anzugeben. Identifikation des Dokuments, bzw. der Verordnung. Diese ID wird mit signiert und sichert damit die Verordnung vor Fälschungen. Für den digitalen Vordruck "Elektronische Arzneimittelverordnung (Vordruck e16A)" wird die Dokumenten-ID gemäß den Vorgaben der gematik gesetzt. Kostenträger. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Kostenträger DERH. der vertragsärztlichen Versorgung. Informationsmodells. Konkret bezieht sich diese Angabe auf die Version des Profils KBV_PR_ERP_Bundle. welche jede zertifizierte Software im vertragsärztlichen Bereich im Rahmen der Zertifizierung der KBV erhält.  Für die "Elektronische Arzneimittelverordnung (Vordruck e16A)" bzw. das elektronische Rezept ist die Prüfnummer für das Zertifizierungsthema "Verordnung von Arzneimitteln" anzugeben. Programmstandskennzeichen anzugeben. Identifikation des Dokuments, bzw. der Verordnung. Diese ID wird mit signiert und sichert damit die Verordnung vor Fälschungen. Für den digitalen Vordruck "Elektronische Arzneimittelverordnung (Vordruck e16A)" wird die Dokumenten-ID gemäß den Vorgaben der gematik gesetzt. Kostenträger. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" ist,  DANN  ist dieses Feld Pflicht. ist dieses Feld optional. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2550,7 +2581,7 @@ SEITE 69 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 10 |  |  | x |  |  |  | IK des Kostenträgers | 9 | 0..1 | Dieses Feld enthält das | WENN  ANSONSTEN |
 | 11 |  |  | x |  |  |  | Name des Kostenträgers | 1..45 | 1..1 | Dieses Feld enthält den Namen des |  |
 
-(GRAU = FELDGRUPPE) DERH. Kostenträgers, z.B. gesetzliche Krankenversicherung (GKV). Feld „Unfallkennzeichen“ gleich „2“ oder „4“   ist, DANN muss in diesem Feld der Wert „BG“ oder „UK“ übertragen werden. darf in diesem Feld der Wert „BG“ oder „UK“ nicht übertragen werden. Informationen zum Kostenträger. Krankenkasse  Institutionskennzeichen (IK) laut der elektronischen Gesundheitskarte (eGK).  Siehe hierzu die Übertragungsregel nach der "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel 2.2 "USE-CASES" das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. Institutionskennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zuständige Krankenkasse laut eGK ist, sondern bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist und das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist und KEIN „Sprechstundenbedarf Praxisbedarf “ verordnet wird, DANN ist dieses Feld Pflicht darf das Feld nicht übertragen werden. Kostenträgers. Der korrekte Name ergibt sich aus den definierten Bedruckungsregeln laut "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel "2.3 SEITE 70 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. Kostenträgers, z.B. gesetzliche Krankenversicherung (GKV). das Feld „Unfallkennzeichen“ gleich „2“ oder „4“   ist, DANN muss in diesem Feld der Wert „BG“ oder „UK“ übertragen werden. darf in diesem Feld der Wert „BG“ oder „UK“ nicht übertragen werden. Informationen zum Kostenträger. Krankenkasse  Institutionskennzeichen (IK) laut der elektronischen Gesundheitskarte (eGK).  Siehe hierzu die Übertragungsregel nach der "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel 2.2 "USE-CASES" das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. Institutionskennzeichen (IK) und wird verwendet, wenn der Kostenträger nicht die zuständige Krankenkasse laut eGK ist, sondern bspw. eine Berufsgenossenschaft (BG) oder eine Unfallkasse (UK). das Feld "Kostenträgertyp" gleich "BG" oder "UK"  ist und das Feld „Unfallkennzeichen“ gleich „2“ oder „4“ ist und KEIN „Sprechstundenbedarf Praxisbedarf “ verordnet wird, DANN ist dieses Feld Pflicht darf das Feld nicht übertragen werden. Kostenträgers. Der korrekte Name ergibt sich aus den definierten Bedruckungsregeln laut "Technische Anlage zur Anlage 4a BMV-Ä" Kapitel "2.3 SEITE 70 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2563,7 +2594,7 @@ SEITE 69 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 73 |  |  |  | x |  |  | Unfallkennzeichen | Kodiert | 1..1 | Dieses Feld enthält die Information, in |  |
 | 74 |  |  |  | x |  |  | Unfalltag | 4..10 | 0..1 | Dieses Feld enthält das Datum des | WENN  ANSONSTEN  WENN in diesem Feld ein Datum angegeben wird, |
 
-(GRAU = FELDGRUPPE) DERH. verkürzten Personalienfeldes". Wohnortkennzeichen entsprechend des Wohnortprinzips (WOP) für Honorarvereinbarungen (BMV-Ä Anlage 21). Unfall für den Fall, dass die Verordnung "Sprechstundenbedarf / Praxisbedarf“ im Rahmen eines Unfalls ausgestellt wird. welchem Zusammenhang die Verordnung ausgestellt wurde, z.B. Unfall. Unfallereignisses, das Ursache für die Verordnung ist. eine eGK mit VSD-Schema >= 5.2.0 eingelesen wurde, DANN ist dieses Feld verpflichtend zu übertragen.  kann dieses Feld übertragen werden. " verordnet ODER wenn das Feld „Kategorie“ gleich „02“ ist, DANN darf der Block nicht befüllt werden. ist dieser Block optional. das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN ist dieses Feld Pflicht.      darf dieses Feld nicht übertragen werden.  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.SEITE 71 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. verkürzten Personalienfeldes". Wohnortkennzeichen entsprechend des Wohnortprinzips (WOP) für Honorarvereinbarungen (BMV-Ä Anlage 21). Unfall für den Fall, dass die Verordnung "Sprechstundenbedarf / Praxisbedarf“ im Rahmen eines Unfalls ausgestellt wird. welchem Zusammenhang die Verordnung ausgestellt wurde, z.B. Unfall. Unfallereignisses, das Ursache für die Verordnung ist. eine eGK mit VSD-Schema >= 5.2.0 eingelesen wurde, DANN ist dieses Feld verpflichtend zu übertragen.  kann dieses Feld übertragen werden. " verordnet ODER wenn das Feld „Kategorie“ gleich „02“ ist, DANN darf der Block nicht befüllt werden. ist dieser Block optional. das Feld "Unfallkennzeichen" gleich "1" oder "2" ist,  DANN ist dieses Feld Pflicht.      darf dieses Feld nicht übertragen werden.  DANN  darf das Datum nicht nach dem Ausstellungs- datum liegen.SEITE 71 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2576,9 +2607,9 @@ SEITE 69 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | **138** |  | **x** |  |  |  |  | **Informationen PKV** |  | **0..1** | **Dieser Block enthält spezifische** | **das Feld "Kostenträgertyp" gleich "PKV" ist,  ANSONSTEN** |
 | 139 |  |  | x |  |  |  | PKV-Tarifart | Kodiert | 1..1 | Dieses Feld enthält die PKV-Tarifart des |  |
 
-SEITE 72 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 72 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) DERH. Arbeitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Informationen zur gesetzlichen Krankenversicherung. "BG" oder "SKT" oder "UK" ist, und KEIN "Sprechstundenbedarf" verordnet wird, DANN  ist dieser Block Pflicht. für die Verordnung. Informationen zur privaten Krankenversicherung. DANN ist dieser Block optional Versicherten. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. "Sprechstundenbedarf" verordnet wird, DANN darf der Block nicht befüllt werden. ist dieser Block optional. das Feld „Unfallkennzeichen“ gleich „2“ oder „4“   ODER wenn das Feld „SER“ gleich „true“ ist DANN muss in diesem Feld der Wert „1“ übertragen werden. darf dieser Block nicht angegeben werden./ 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. Arbeitgebers oder Dienstherrn, in dessen Einflussbereich sich der Unfall (auch Wegeunfall) ereignete. Informationen zur gesetzlichen Krankenversicherung. "BG" oder "SKT" oder "UK" ist, und KEIN "Sprechstundenbedarf" verordnet wird, DANN  ist dieser Block Pflicht. für die Verordnung. Informationen zur privaten Krankenversicherung. DANN ist dieser Block optional Versicherten. das Feld "Unfallkennzeichen" gleich "2" ist,  DANN ist dieses Feld Pflicht. darf dieses Feld nicht übertragen werden. "Sprechstundenbedarf" verordnet wird, DANN darf der Block nicht befüllt werden. ist dieser Block optional. das Feld „Unfallkennzeichen“ gleich „2“ oder „4“   ODER wenn das Feld „SER“ gleich „true“ ist DANN muss in diesem Feld der Wert „1“ übertragen werden. darf dieser Block nicht angegeben werden./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2593,7 +2624,7 @@ SEITE 72 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 26 |  | x |  |  |  |  | Versicherungsschutz | 10 | 0..1 | Dieses Feld enthält das Datum des Endes |  |
 | **18** | **x** |  |  |  |  |  | **Versicherter** |  | **0..1** | **Dieser Block enthält Daten zum** | **KEIN "Sprechstundenbedarf" verordnet wird,** |
 
-(GRAU = FELDGRUPPE) Personengruppe DERH. Versichertenstatus. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und DANN ist dieser Block Pflicht. Versicherung, z.B. ob der Versicherte Familienversicherter, Mitglied oder Rentner ist. Personengruppe, zu der der Versicherte gehört (§ 264 SGB V). Management-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). auf Basis derer die Leistung erbracht wurde, Z. B. Entlass-Rezept, Terminservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des Versicherungsschutzes, wenn die Datumsangabe auf der Versichertenkarte gespeichert ist und ausgelesen wurde. Versicherten. DANN ist dieser Block Pflicht. ist dieser Block optional.SEITE 73 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Personengruppe DERH. Versichertenstatus. das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist und DANN ist dieser Block Pflicht. Versicherung, z.B. ob der Versicherte Familienversicherter, Mitglied oder Rentner ist. Personengruppe, zu der der Versicherte gehört (§ 264 SGB V). Management-Programm (DMP), in dem der Versicherte eingeschrieben ist (§ 284 Abs. 1 Satz 1 Nr. 14 SGB V). auf Basis derer die Leistung erbracht wurde, Z. B. Entlass-Rezept, Terminservicestelle (Technische Anlage zur Anlage 4a des BMV-Ä). des Versicherungsschutzes, wenn die Datumsangabe auf der Versichertenkarte gespeichert ist und ausgelesen wurde. Versicherten. DANN ist dieser Block Pflicht. ist dieser Block optional.SEITE 73 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2610,9 +2641,9 @@ SEITE 72 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 23 |  |  | x |  |  |  | Namenszusatz des | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz als |  |
 | 24 |  |  | x |  |  |  | Vorsatzwort des | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort als |  |
 
-SEITE 74 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 74 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Krankenversicherungsnummer der GKV oder PKV. DERH. ist dieser Block optional. Dieser Block enthält den Identifikator der gesetzlichen Krankenversicherung, der privaten Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer KVNR der GKV gemäß § 290 und § 362 SGB V). Namens des Versicherten. Versicherten; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Versicherten. Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“ Bestandteil des Nachnamens, z.B. "Freiherr", „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens, z.B.„von“, / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Krankenversicherungsnummer der GKV oder PKV. DERH. ist dieser Block optional. Dieser Block enthält den Identifikator der gesetzlichen Krankenversicherung, der privaten Krankenversicherung oder eines sonstigen Kostenträgers (unveränderlicher Teil der einheitlichen Krankenversicherungsnummer KVNR der GKV gemäß § 290 und § 362 SGB V). Namens des Versicherten. Versicherten; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Versicherten. Grad des Versicherten, z.B. „Dr. med.“, „Dr.rer.nat.“ Bestandteil des Nachnamens, z.B. "Freiherr", „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Bestandteil des Nachnamens, z.B.„von“, / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2625,9 +2656,9 @@ SEITE 74 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 28 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert  1..3 | 0..1 | Dieses Feld enthält den |  |
 | 29 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN  ANSONSTEN WENN |
 
-SEITE 75 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 75 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) nicht angegeben ist, DANN muss dieser Block angegeben werden. Versichertenanschrift Versichertenanschrift DERH. sind durch Blank getrennt. oder NULL Dieser Block enthält Informationen zur Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). in diesem Feld ein Datum angegeben wird, DANN darf das Datum nicht nach dem Ausstellungsdatum liegen. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT ist, DANN ist dieses Feld Pflicht.  der Versicherte sich elektronisch ausgewiesen hat das Feld „Wohnsitzländercode Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. " oder "UK" oder „PKV“ / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) nicht angegeben ist, DANN muss dieser Block angegeben werden. Versichertenanschrift Versichertenanschrift DERH. sind durch Blank getrennt. oder NULL Dieser Block enthält Informationen zur Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). in diesem Feld ein Datum angegeben wird, DANN darf das Datum nicht nach dem Ausstellungsdatum liegen. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT ist, DANN ist dieses Feld Pflicht.  der Versicherte sich elektronisch ausgewiesen hat das Feld „Wohnsitzländercode Versichertenanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. " oder "UK" oder „PKV“ / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2643,9 +2674,9 @@ SEITE 75 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 35 |  |  | x |  |  |  | Wohnsitzländercode der | Kodiert  1..3 | 0..1 | Dieses Feld enthält den |  |
 | 36 |  |  | x |  |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. | WENN |
 
-SEITE 76 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 76 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift Versichertenanschrift nicht angegeben ist, DANN muss dieser Block angegeben werden. Versicherten- Versicherten- DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. z.B. Hinterhaus. Dieser Block enthält Informationen zur Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). ist dieses Feld optional. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Versichertenanschrift Versichertenanschrift Versichertenanschrift Versichertenanschrift nicht angegeben ist, DANN muss dieser Block angegeben werden. Versicherten- Versicherten- DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. z.B. Hinterhaus. Dieser Block enthält Informationen zur Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). ist dieses Feld optional. darf dieser Block nicht angegeben werden. der Versicherte sich nicht elektronisch ausgewiesen hat und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2660,7 +2691,7 @@ SEITE 76 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | **146** |  |  | **x** |  |  |  | **Qualifikation der** |  | **1..1** | **Dieser Block enthält Informationen über** |  |
 | 41 |  |  |  | x |  |  | Typ der ausstellenden/ | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | WENN  ANSONSTEN WENN |
 
-(GRAU = FELDGRUPPE) Versicherten- Postfachanschrift Versicherten- Postfachanschrift verschreibende Person verschreibenden Person verschreibenden Person DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. den Angaben des Vertragsarztstempels für Formulare. ausstellenden/ verschreibenden Person. die Qualifikation der ausstellenden/ verschreibenden Person. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versicherten- Postfachanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Kategorie“ gleich „01“ ist, DANN darf dieses Feld nicht „02“ sein. das Feld „Kategorie“ gleich „02“ ist, DANN darf dieses Feld nicht „01“ und nicht „02“ sein.SEITE 77 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Versicherten- Postfachanschrift Versicherten- Postfachanschrift verschreibende Person verschreibenden Person verschreibenden Person DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. den Angaben des Vertragsarztstempels für Formulare. ausstellenden/ verschreibenden Person. die Qualifikation der ausstellenden/ verschreibenden Person. Kennzeichnung der verschreibenden Person z.B. Arzt, Arzt in Weiterbildung. der Versicherte sich elektronisch ausgewiesen hat und das Feld „Wohnsitzländercode der Versicherten- Postfachanschrift“ gleich „D“ und das Feld "Kostenträgertyp" gleich "GKV" oder "BG" oder "SKT" oder "UK" oder „PKV“ ist DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Kategorie“ gleich „01“ ist, DANN darf dieses Feld nicht „02“ sein. das Feld „Kategorie“ gleich „02“ ist, DANN darf dieses Feld nicht „01“ und nicht „02“ sein.SEITE 77 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2672,9 +2703,9 @@ SEITE 76 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 147 |  |  |  | x |  |  | ASV- | 9 | 0..1 | Dieses Feld enthält die ASV- | WENN  ANSONSTEN |
 | **42** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..1** | **(Lebenslange Arztnummer LANR) oder** | **"BG" oder "SKT" oder "UK" oder “PKV“ ist,  ANSONSTEN WENN  das Feld "Kostenträgertyp" gleich "GKV" oder "BG"  und das Feld „Typ der ausstellenden /** |
 
-SEITE 78 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 78 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) verschreibenden Person Fachgruppennummer der verschreibenden Person verschreibenden Person DERH. Berufsbezeichnung, z. B. Facharztbezeichnung für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Dieser Block enthält den Identifikator der Person, z.B. eine Arztnummer Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. verschreibenden Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieses Block Pflicht. verschreibenden Person“ gleich „03“ ist und der / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) verschreibenden Person Fachgruppennummer der verschreibenden Person verschreibenden Person DERH. Berufsbezeichnung, z. B. Facharztbezeichnung für Allgemeinmedizin, Praktischer Arzt. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Dieser Block enthält den Identifikator der Person, z.B. eine Arztnummer Zahnarztnummer (ZANR) und kann zusätzlich eine Telematik-ID enthalten. das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „04“ „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. verschreibenden Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der ausstellenden/ verschreibenden Person“ nicht vorhanden ist, DANN ist dieses Block Pflicht. verschreibenden Person“ gleich „03“ ist und der / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2686,7 +2717,7 @@ SEITE 78 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 42b |  |  |  | x |  |  | Zahnarztnummer der | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 | 42c |  |  |  | x |  |  | Telematik-ID der | 1..128 | 0..1 | Dieses Feld enthält als Identifikator der |  |
 
-(GRAU = FELDGRUPPE) DERH. ausstellenden/ Person eine Arztnummer (Lebenslange verschreibenden Person Arztnummer LANR). ausstellenden/ Person eine Zahnarztnummer (ZANR). verschreibenden Person ausstellenden/ Person eine Telematik-ID. verschreibenden Person DANN das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer der ausstellenden/ verschreibenden Person“ DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden der Block „Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. SEITE 79 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. ausstellenden/ Person eine Arztnummer (Lebenslange verschreibenden Person Arztnummer LANR). ausstellenden/ Person eine Zahnarztnummer (ZANR). verschreibenden Person ausstellenden/ Person eine Telematik-ID. verschreibenden Person DANN das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „02“ ist oder das Feld „ASV -Fachgruppennummer der ausstellenden/ verschreibenden Person“ DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden / verschreibenden Person“ gleich „00“ oder „03“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden der Block „Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der ausstellenden/ verschreibenden Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht  darf dieses Feld nicht angegeben werden. SEITE 79 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2701,9 +2732,9 @@ SEITE 78 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 47 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz als |  |
 | 48 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort der |  |
 
-SEITE 80 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 80 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person DERH. ambulanten spezialfachärztlichen Versorgung (ASV) genutzt. Jedes ASV-Team erhält von der ASV-Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV- Ärzte die Leistungen oder Verordnungen, die sie in der ASV durchführen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebsstättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV-Berechtigung haben zusätzlich zur BSNR und zur lebenslangen Arztnummer. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld übertragen werden. darf dieses Feld nicht angegeben werden./ 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person verschreibenden Person DERH. ambulanten spezialfachärztlichen Versorgung (ASV) genutzt. Jedes ASV-Team erhält von der ASV-Servicestelle eine ASV- Teamnummer. Mit ihr kennzeichnen ASV- Ärzte die Leistungen oder Verordnungen, die sie in der ASV durchführen. Die Teamnummer umfasst neun Ziffern und ist wie eine Betriebsstättennummer (BSNR) aufgebaut. Sie wird vergeben, sobald die Ärzte eine ASV-Berechtigung haben zusätzlich zur BSNR und zur lebenslangen Arztnummer. Person. Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. das Feld „Kennzeichen Rechtsgrundlage“ den Wert "01" oder "11" besitzt, DANN muss dieses Feld übertragen werden. darf dieses Feld nicht angegeben werden./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2715,7 +2746,7 @@ SEITE 80 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 51 |  |  |  | x |  |  | Typ der verantwortlichen | Kodiert | 1..1 | Dieses Feld enthält einen Typ zur | Dieses |
 | 58 |  |  |  | x |  |  | Berufsbezeichnung der | 1..100 | 1..1 | Dieses Feld enthält eine Freitextangabe zur |  |
 
-(GRAU = FELDGRUPPE) DERH. verantwortlichen Person, z.B. des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  Der Block dient dazu, die entsprechende Konstellation des Arztstempels abzubilden und eine Zuordnung zum verantwortlichen Vertrags(zahn)arzt / Facharzt zu ermöglichen. „Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld „Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschreibenden Person" gleich „04“ ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. verantwortlichen Person Person. Dieser Block enthält Informationen über Kennzeichnung der verantwortlichen Person, z.B. Arzt. Feld darf nicht gleich „02“ oder „03“ sein. verantwortlichen Person Berufsbezeichnung, z. B. Facharztbezeichnung für Allgemeinmedizin, Praktischer Arzt. SEITE 81 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. verantwortlichen Person, z.B. des zur Weiterbildung ermächtigten Arztes (im vertrags(zahn)ärztlichen Bereich und im Krankenhaus).  Der Block dient dazu, die entsprechende Konstellation des Arztstempels abzubilden und eine Zuordnung zum verantwortlichen Vertrags(zahn)arzt / Facharzt zu ermöglichen. „Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ nicht vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN muss dieser Block vorhanden sein. das Feld „Typ der ausstellenden/ verschreibenden Person" gleich „03“ ist und das Feld "Identifikator der ausstellenden/ verschreibenden Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist oder das Feld „Typ der ausstellenden/ verschreibenden Person" gleich „04“ ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist, DANN kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein. verantwortlichen Person Person. Dieser Block enthält Informationen über Kennzeichnung der verantwortlichen Person, z.B. Arzt. Feld darf nicht gleich „02“ oder „03“ sein. verantwortlichen Person Berufsbezeichnung, z. B. Facharztbezeichnung für Allgemeinmedizin, Praktischer Arzt. SEITE 81 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2726,9 +2757,9 @@ SEITE 80 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | **52** |  |  | **x** |  |  |  | **Identifikator der** |  | **0..1** | **Dieser Block enthält den Identifikator der** | **"BG" oder "SKT" oder "UK" oder “PKV“ und das  ANSONSTEN WENN  ANSONSTEN** |
 | 52a |  |  |  | x |  |  | Arztnummer der | 9 | 0..1 | Dieses Feld enthält als Identifikator der | WENN  ANSONSTEN |
 
-SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Fachgruppennummer der verantwortlichen Person verantwortlichen Person verantwortlichen Person DERH. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV -Fachgruppennummer der verantwortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Fachgruppennummer der verantwortlichen Person verantwortlichen Person verantwortlichen Person DERH. Fachgruppennummer gemäß der ASV Vereinbarung (ASV-AV) §9 Absatz 5. Diese ist gemäß der ASV-AV von Krankenhausärzten an Stelle der Arztnummer anzugeben. Person, z.B. eine Arztnummer oder Zahnarztnummer und kann zusätzlich eine Telematik-ID enthalten. Person eine Arztnummer (Lebenslange Arztnummer LANR). das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ und das Feld „Kennzeichen Rechtsgrundlage“ gleich „01“ oder „11“ ist und der Block „Identifikator der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieses Feld optional. darf dieses Feld nicht angegeben werden. das Feld "Kostenträgertyp" gleich "GKV" oder Feld „Typ der verantwortlichen Person“ gleich „00“ oder „01“ oder „04“ ist und das Feld „ASV Fachgruppennummer der verantwortlichen Person“ nicht vorhanden ist, DANN ist dieser Block Pflicht. das Feld „ASV -Fachgruppennummer der verantwortlichen Person“ vorhanden ist, DANN darf dieser Block nicht angegeben  werden. ist dieser Block optional. der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „00“ oder „04“ ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht angegeben werden. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2744,7 +2775,7 @@ SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 56 |  |  |  | x |  |  | Namenszusatz der | 1..20 | 0..1 | Dieses Feld enthält den Namenszusatz als |  |
 | 57 |  |  |  | x |  |  | Vorsatzwort der | 1..20 | 0..1 | Dieses Feld enthält das Vorsatzwort der |  |
 
-(GRAU = FELDGRUPPE) DERH. verantwortlichen Person Person eine Zahnarztnummer (ZANR). der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden. verantwortlichen Person Person eine Telematik-ID. verantwortlichen Person Person. verantwortlichen Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. verantwortlichen Person Person verantwortlichen Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. verantwortlichen Person Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. verantwortlichen Person Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. SEITE 83 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. verantwortlichen Person Person eine Zahnarztnummer (ZANR). der Block „Identifikator der verantwortlichen Person“ vorhanden ist und das Feld „Typ der verantwortlichen Person“ gleich „01“ ist, DANN ist dieses Feld Pflicht.  darf dieses Feld nicht angegeben werden. verantwortlichen Person Person eine Telematik-ID. verantwortlichen Person Person. verantwortlichen Person Person; mehrere Vornamen sind durch Blank oder Bindestrich getrennt. verantwortlichen Person Person verantwortlichen Person Grad der Person, z.B. „Dr. med.“, „Dr. rer. nat.“. verantwortlichen Person Bestandteil des Nachnamens der Person z.B. „Freiherr“, „Gräfin“; mehrere Namenszusätze sind durch Blank getrennt. verantwortlichen Person Person als Bestandteil des Nachnamens, z.B. „von“, „von der“, „zu“; mehrere Vorsatzwörter sind durch Blank getrennt. SEITE 83 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2756,7 +2787,7 @@ SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 61a |  |  |  | x |  |  | BSNR | 9 | 0..1 | Dieses Feld enthält eine | WENN  ANSONSTEN |
 | 61b |  |  |  | x |  |  | IK-Nummer | 9 | 0..1 | Dieses Feld enthält ein | WENN  ANSONSTEN |
 
-(GRAU = FELDGRUPPE) DERH. Einrichtung / Institution, z.B. eine Betriebsstätte / Praxis. Begriff Betriebsstätte entsprechend als Praxis. einer Einrichtung in Form einer Betriebsstättennummer (BSNR), IK- Nummer, KZV-Abrechnungsnummer oder das Feld "Typ der ausstellenden/ Standortnummer und kann zusätzlich eine Telematik-ID enthalten. Betriebsstättennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungserbringern und Kostenträgern. Institutionskennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeutiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. das Feld "Kostenträgertyp" gleich "GKV" oder verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden.SEITE 84 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. Einrichtung / Institution, z.B. eine Betriebsstätte / Praxis. Begriff Betriebsstätte entsprechend als Praxis. einer Einrichtung in Form einer Betriebsstättennummer (BSNR), IK- Nummer, KZV-Abrechnungsnummer oder das Feld "Typ der ausstellenden/ Standortnummer und kann zusätzlich eine Telematik-ID enthalten. Betriebsstättennummer (BSNR) zur Identifikation einer Einrichtung. Im vertragsärztlichen Bereich ist das Feld eine Voraussetzung für die Abrechnung zwischen Leistungserbringern und Kostenträgern. Institutionskennzeichen (IK), welches von der ARGE·IK vergeben wird und ein eindeutiges Merkmal zur Abrechnung mit den Trägern der Sozialversicherung ist. das Feld "Kostenträgertyp" gleich "GKV" oder verschreibenden Person" gleich "00" oder "01" oder "03" oder „04“ ist, DANN  ist dieser Block Pflicht. ist dieser Block optional. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "IK-Nummer" und "KZV-Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "KZV- Abrechnungsnummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden.SEITE 84 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2771,7 +2802,7 @@ SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 63 |  |  |  | x |  |  | Wohnsitzländercode der | Kodiert | 0..1 | Dieses Feld enthält den |  |
 | 64 |  |  |  | x |  |  | Postleitzahl der | 1..10 | 0..1 | Dieses Feld enthält die Postleitzahl. |  |
 
-(GRAU = FELDGRUPPE) DERH. Abrechnungsnummer Abrechnungsnummer der Kassenzahnärztlichen Vereinigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit weniger als 9 Stellen sind mit vorangestellten Nullen entsprechend zu füllen. Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK- Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. eines Krankenhauses. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK- Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. Einrichtung. Einrichtung (Praxis / Krankenhaus) Straßenadresse der Einrichtung. Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). SEITE 85 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. Abrechnungsnummer Abrechnungsnummer der Kassenzahnärztlichen Vereinigung (KZV). Abrechnungsnummern des Zahnarztes/der Zahnärztin mit weniger als 9 Stellen sind mit vorangestellten Nullen entsprechend zu füllen. Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK- Nummer" und "Standortnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. eines Krankenhauses. der Block „Identifikator der Einrichtung“ vorhanden ist und die Felder "BSNR" und "IK- Nummer" und "KZV-Abrechnungsnummer" nicht vorhanden sind, DANN ist dieses Feld Pflicht darf dieses Feld nicht angegeben werden. Einrichtung. Einrichtung (Praxis / Krankenhaus) Straßenadresse der Einrichtung. Wohnsitzländercode (entsprechend Gemeinsames Rundschreiben DEÜV Anlage 08). SEITE 85 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2791,9 +2822,9 @@ SEITE 82 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 80 |  |  | x |  |  |  | Ausstellungsdatum | 10 | 1..1 | Dieses Feld enthält das Ausstellungsdatum |  |
 | 81 |  |  | x |  |  |  | Kategorie | Kodiert | 1..1 | Dieses Feld enthält die Kennzeichnung der |  |
 
-SEITE 86 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 86 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. z.B. Hinterhaus. Einrichtung. Bei grenzüberschreitender Einlösung einer Arzneimittelverordnung ist diese zwingend anzugeben. Verordnung. Verordnung. der Verordnung. Arzneimittelkategorie der Verordnung, bspw. Betäubungsmittel oder teratogene Arzneimittel oder sonstige Arzneimittel. / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. Mehrere Namensbestandteile sind durch Blank/Sonderzeichen getrennt. z.B. Hinterhaus. Einrichtung. Bei grenzüberschreitender Einlösung einer Arzneimittelverordnung ist diese zwingend anzugeben. Verordnung. Verordnung. der Verordnung. Arzneimittelkategorie der Verordnung, bspw. Betäubungsmittel oder teratogene Arzneimittel oder sonstige Arzneimittel. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2806,9 +2837,9 @@ SEITE 86 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 85 |  |  | x |  |  |  | SER | Bool | 0..1 | Dieses Feld enthält die Kennzeichnung, ob | WENN  ANSONSTEN |
 | 188 |  |  | x |  |  |  | eMP-Identifier | 36 | 0..1 | Dieses Feld enthält einen Identifikator für | WENN |
 
-SEITE 87 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 87 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Praxisbedarf DERH. diese Verordnung auch während der allgemeinen Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Noctu-Gebühr (Notdienstgebühr) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung. es sich um die Verordnung von Sprechstundenbedarf an Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten bzw. um Praxisbedarf an Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes (BtMG) handelt. es sich bei der Verordnung um Impfstoff handelt. die Verordnung für Anspruchsberechtigte nach dem Sozialen Entschädigungsrecht (SER) erfolgt. einen Eintrag im elektronischen Medikationsplan (eMP) des Versicherten. Der eMP-Identifier wird vom ePA- Aktensystem bei der erstmaligen Anlage KEIN "Sprechstundenbedarf" verordnet wird,  DANN  ist dieses Feld Pflicht.  darf es nicht gesetzt werden. der Block „Rezeptierdaten Rezepturverordnung“ vorhanden ist ODER das Feld „Kategorie“ gleich „01“ oder „02“ ist DANN muss dieses Feld „false“  sein. KEIN "Sprechstundenbedarf verordnet wird,  DANN  ist dieses Feld Pflicht.  darf es nicht gesetzt werden. / Praxisbedarf“ KEIN "Sprechstundenbedarf/ Praxisbedarf“ " verordnet wird,  DANN  kann dieses Feld angegeben werden.  / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Praxisbedarf DERH. diese Verordnung auch während der allgemeinen Ladenschlusszeiten beliefert werden soll, verbunden mit der Erhebung der Noctu-Gebühr (Notdienstgebühr) zu Lasten der Krankenkasse gemäß Arzneimittelpreisverordnung. es sich um die Verordnung von Sprechstundenbedarf an Arzneimitteln und sonstigen nach § 31 SGB V in die Arzneimittelversorgung  einbezogenen Produkten bzw. um Praxisbedarf an Betäubungsmitteln im Sinne des Betäubungsmittelgesetzes (BtMG) handelt. es sich bei der Verordnung um Impfstoff handelt. die Verordnung für Anspruchsberechtigte nach dem Sozialen Entschädigungsrecht (SER) erfolgt. einen Eintrag im elektronischen Medikationsplan (eMP) des Versicherten. Der eMP-Identifier wird vom ePA- Aktensystem bei der erstmaligen Anlage KEIN "Sprechstundenbedarf" verordnet wird,  DANN  ist dieses Feld Pflicht.  darf es nicht gesetzt werden. der Block „Rezeptierdaten Rezepturverordnung“ vorhanden ist ODER das Feld „Kategorie“ gleich „01“ oder „02“ ist DANN muss dieses Feld „false“  sein. KEIN "Sprechstundenbedarf verordnet wird,  DANN  ist dieses Feld Pflicht.  darf es nicht gesetzt werden. / Praxisbedarf“ KEIN "Sprechstundenbedarf/ Praxisbedarf“ " verordnet wird,  DANN  kann dieses Feld angegeben werden.  / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2821,9 +2852,9 @@ SEITE 87 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 145 |  |  |  | x |  |  | ID Mehrfachverordnung | 45 | 0..1 | Dieses Feld enthält eine eineindeutige ID, | WENN  ANSONSTEN |
 | 88 |  |  |  | x |  |  | Zähler | 1 | 0..1 | Dieses Feld enthält die Angabe, um die | WENN  ANSONSTEN |
 
-SEITE 88 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 88 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) DERH. dem ePA Medication Service im Rahmen des digitalen Medikationsprozesses (dgMP) zur Verknüpfung zwischen eMP- Eintrag und Verordnung [ Service IG Mehrfachverordnung. DANN  ist dieser Block Pflicht. es sich bei der Verordnung um eine Mehrfachverordnung handelt. welche über alle Teilverordnungen einer Mehrfachverordnung identisch ist. wievielte Teilverordnung einer Mehrfachverordnung (Serie) es sich handelt. Beispiel: "2" in "2 von 4" darf es nicht gesetzt werden. darf dieser Block nicht vorhanden sein. das Feld „Kategorie“ gleich „01“ oder „02“ ist, DANN  muss dieses Feld „false“ sein. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) DERH. dem ePA Medication Service im Rahmen des digitalen Medikationsprozesses (dgMP) zur Verknüpfung zwischen eMP- Eintrag und Verordnung [ Service IG Mehrfachverordnung. DANN  ist dieser Block Pflicht. es sich bei der Verordnung um eine Mehrfachverordnung handelt. welche über alle Teilverordnungen einer Mehrfachverordnung identisch ist. wievielte Teilverordnung einer Mehrfachverordnung (Serie) es sich handelt. Beispiel: "2" in "2 von 4" darf es nicht gesetzt werden. darf dieser Block nicht vorhanden sein. das Feld „Kategorie“ gleich „01“ oder „02“ ist, DANN  muss dieses Feld „false“ sein. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2836,9 +2867,9 @@ SEITE 88 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | **160** |  |  | **x** |  |  |  | **BtM-Angaben** |  | **0..1** | **Dieser Block enthält Angaben für die** | **WENN  ANSONSTEN** |
 | 161 |  |  |  | x |  |  | BtM-Sonderkennzeichen | Kodiert | 0..1 | Dieses Feld enthält ein Kennzeichen |  |
 
-SEITE 89 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 89 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Mehrfachverordnung Verordnung Verordnung DERH. dieser Serie, d.h. die Gesamtanzahl der Teilverordnungen der Mehrfachverordnung. Beispiel: "4" in "2 von 4" Teilverordnung der Mehrfachverordnung eingelöst werden kann. Einlösetages der Teilverordnung der Mehrfachverordnung. Von der ausstellenden Person kann eine von der Arzneimittelverschreibungsverordnung (AMVV) abweichende Einlösefrist angegeben werden. Verordnung eines Betäubungsmittels im Sinne des Betäubungsmittelgesetzes (BtMG). (Buchstaben) nach § 9 Abs. 1 Nr. 6 BtMVV, das in besonderen Fällen bei einer BtM- Verordnung anzugeben ist. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN kann dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kategorie" gleich „01“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein./ 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Mehrfachverordnung Verordnung Verordnung DERH. dieser Serie, d.h. die Gesamtanzahl der Teilverordnungen der Mehrfachverordnung. Beispiel: "4" in "2 von 4" Teilverordnung der Mehrfachverordnung eingelöst werden kann. Einlösetages der Teilverordnung der Mehrfachverordnung. Von der ausstellenden Person kann eine von der Arzneimittelverschreibungsverordnung (AMVV) abweichende Einlösefrist angegeben werden. Verordnung eines Betäubungsmittels im Sinne des Betäubungsmittelgesetzes (BtMG). (Buchstaben) nach § 9 Abs. 1 Nr. 6 BtMVV, das in besonderen Fällen bei einer BtM- Verordnung anzugeben ist. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN  muss dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kennzeichen Mehrfachverordnung" gleich „true“ ist, DANN kann dieses Feld angegeben werden. darf es nicht gesetzt werden. das Feld "Kategorie" gleich „01“ ist, DANN  kann dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2849,7 +2880,7 @@ SEITE 89 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 163 |  |  |  |  | x |  | Wert der Reichdauer des | 1..2 | 0..1 | Dieses Feld enthält den Wert der die | WENN    ANSONSTEN          WENN       DANN      darf der Wert maximal 30 sein. |
 | 164 |  |  |  |  | x |  | Einheit der Reichdauer | 6 | 0..1 | Dieses Feld enthält die Einheit der | WENN    ANSONSTEN |
 
-(GRAU = FELDGRUPPE) Substitutionsmitteln Substitutionsmittels DERH. Verordnung eines Substitutionsmittels nach § 5 BtMVV. Reichdauer des Substitutionsmittels. Bei einer Reichdauer von bspw. 10 Tagen ist der Wert 10. das Feld „BtM Sonderkennzeichen“ gleich „ST“ ist UND WENN verordnet wird,  muss dieser Block vorhanden sein. WENN das Feld „BtM Sonderkennzeichen“ gleich „S“ ist UND WENN      verordnet wird           darf dieser Block vorhanden sein. das Feld "BtM- Sonderkennzeichen" gleich „ST“ ist muss dieses Feld angegeben werden. kann das Feld angegeben werden.     das Feld vorhanden ist,  des Substitutionsmittels Reichdauer des Substitutionsmittels. das Feld "Reichdauer des Substitutionsmittels " angegeben ist muss dieses Feld angegeben werden. darf das Feld nicht angegeben werden. SEITE 90 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Substitutionsmitteln Substitutionsmittels DERH. Verordnung eines Substitutionsmittels nach § 5 BtMVV. Reichdauer des Substitutionsmittels. Bei einer Reichdauer von bspw. 10 Tagen ist der Wert 10. das Feld „BtM Sonderkennzeichen“ gleich „ST“ ist UND WENN verordnet wird,  muss dieser Block vorhanden sein. WENN das Feld „BtM Sonderkennzeichen“ gleich „S“ ist UND WENN      verordnet wird           darf dieser Block vorhanden sein. das Feld "BtM- Sonderkennzeichen" gleich „ST“ ist muss dieses Feld angegeben werden. kann das Feld angegeben werden.     das Feld vorhanden ist,  des Substitutionsmittels Reichdauer des Substitutionsmittels. das Feld "Reichdauer des Substitutionsmittels " angegeben ist muss dieses Feld angegeben werden. darf das Feld nicht angegeben werden. SEITE 90 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2860,9 +2891,9 @@ SEITE 89 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 165 |  |  |  |  | x |  | Ergänzende Angaben | 1..500 | 0..1 | Dieses Feld enthält ergänzende Angaben |  |
 | **166** |  |  | **x** |  |  |  | **T-Rezept-Angaben** |  | **0..1** | **Dieser Block enthält Angaben für die** | **WENN  ANSONSTEN WENN  ANSONSTEN** |
 
-SEITE 91 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 91 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) zum Substitutionsmittel DERH. zu Reichdauer und Teilmengen des Substitutionsmittels, insbesondere Zeitpunkte, zu denen das Substitutionsmittel abgegeben bzw. verabreicht werden soll, sowie Orte der Einnahme. Im Fall, dass dem Versicherten schriftliche Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch des Substitutionsmittels übergeben wurden, kann in diesem Feld auch ein Hinweis auf diese schriftlichen Vorgaben angegeben werden (siehe § 9 Abs. 1 Nr. 5 BtMVV). Verordnung von teratogenen Arzneimitteln nach § 3a Abs. 1 AMVV (T- Rezept).     das Feld vorhanden ist,  muss der Wert „Tag(e)“ sein. "Sprechstundenbedarf / Praxisbedarf " verordnet wird,  darf dieser Block nicht vorhanden sein. das Feld "Kategorie" gleich „02“ ist, muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein./ 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) zum Substitutionsmittel DERH. zu Reichdauer und Teilmengen des Substitutionsmittels, insbesondere Zeitpunkte, zu denen das Substitutionsmittel abgegeben bzw. verabreicht werden soll, sowie Orte der Einnahme. Im Fall, dass dem Versicherten schriftliche Vorgaben zur Abgabe oder zum Überlassen zum unmittelbaren Verbrauch des Substitutionsmittels übergeben wurden, kann in diesem Feld auch ein Hinweis auf diese schriftlichen Vorgaben angegeben werden (siehe § 9 Abs. 1 Nr. 5 BtMVV). Verordnung von teratogenen Arzneimitteln nach § 3a Abs. 1 AMVV (T- Rezept).     das Feld vorhanden ist,  muss der Wert „Tag(e)“ sein. "Sprechstundenbedarf / Praxisbedarf " verordnet wird,  darf dieser Block nicht vorhanden sein. das Feld "Kategorie" gleich „02“ ist, muss dieser Block vorhanden sein. darf dieser Block nicht vorhanden sein./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2876,9 +2907,9 @@ SEITE 91 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 171 |  |  |  | x |  |  | Einhaltung | Bool | 1..1 | Dieses Feld enthält eine Angabe, ob die |  |
 | 172 |  |  |  | x |  |  | Aushändigung | Bool | 1..1 | Dieses Feld enthält eine Angabe, ob der |  |
 
-SEITE 92 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 92 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) T-Arzneimittels des T-Arzneimittels Sicherheitsmaßnahmen Informationsmaterialien DERH. Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete („Off Label“) erfolgt. um eine Verschreibung für eine gebärfähige Frau handelt. Reichdauer des verordneten teratogenen Arzneimittels. Bei einer Reichdauer von bspw. 3 Wochen ist der Wert 3. Reichdauer des verordneten teratogenen Arzneimittels. Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts- Präventionsprogramm durchgeführt wird. Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische „Gebärfähige Frau“ gleich „true“ ist,  nicht 12  nicht / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) T-Arzneimittels des T-Arzneimittels Sicherheitsmaßnahmen Informationsmaterialien DERH. Behandlung außerhalb der jeweils zugelassenen Anwendungsgebiete („Off Label“) erfolgt. um eine Verschreibung für eine gebärfähige Frau handelt. Reichdauer des verordneten teratogenen Arzneimittels. Bei einer Reichdauer von bspw. 3 Wochen ist der Wert 3. Reichdauer des verordneten teratogenen Arzneimittels. Sicherheitsmaßnahmen gemäß der aktuellen Fachinformation eines entsprechenden Fertigarzneimittels eingehalten werden, insbesondere, dass erforderlichenfalls ein Schwangerschafts- Präventionsprogramm durchgeführt wird. Patientin oder dem Patienten vor Beginn der medikamentösen Behandlung geeignete medizinische „Gebärfähige Frau“ gleich „true“ ist,  nicht 12  nicht / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2891,9 +2922,9 @@ SEITE 92 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 102 |  |  | x |  |  |  | Aut idem | Bool | 0..1 | Dieses Feld enthält die Angabe, ob das | WENN  ANSONSTEN |
 | 103 |  |  | x |  |  |  | Darreichungsform | Kodiert | 0..1 | Dieses Feld enthält die Angabe der | WENN  ANSONSTEN |
 
-SEITE 93 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 93 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über ausreichende Sachkenntnisse zur Verschreibung von Arzneimitteln mit Lenalidomid, Pomalidomid oder Thalidomid verfügt. Arzneimittel austauschbar ist oder nicht. Wenn ein Austausch in der Apotheke zulässig ist, wird dieses Feld auf true gesetzt. Darreichungsform entsprechend der Daten nach § 131 Abs. 4 SGB V und ist immer zu verwenden, wenn ein Fertigarzneimittel gemäß Preis- und Produktverzeichnis verordnet wird. der Block „Rezeptierdaten PZN der Block „Rezeptierdaten Rezepturverordnung “ oder der Block „Rezeptierdaten Freitextverordnung“ gesetzt ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht gesetzt sein. der Block „Rezeptierdaten PZN gesetzt ist, DANN ist dieses Feld Pflicht.  darf es nicht gesetzt werden. Verordnung“ oder Verordnung“ / 14. AUGUST 2026 / VERSION: 1.76
+der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über ausreichende Sachkenntnisse zur Verschreibung von Arzneimitteln mit Lenalidomid, Pomalidomid oder Thalidomid verfügt. Arzneimittel austauschbar ist oder nicht. Wenn ein Austausch in der Apotheke zulässig ist, wird dieses Feld auf true gesetzt. Darreichungsform entsprechend der Daten nach § 131 Abs. 4 SGB V und ist immer zu verwenden, wenn ein Fertigarzneimittel gemäß Preis- und Produktverzeichnis verordnet wird. der Block „Rezeptierdaten PZN der Block „Rezeptierdaten Rezepturverordnung “ oder der Block „Rezeptierdaten Freitextverordnung“ gesetzt ist, DANN ist dieses Feld Pflicht. darf dieses Feld nicht gesetzt sein. der Block „Rezeptierdaten PZN gesetzt ist, DANN ist dieses Feld Pflicht.  darf es nicht gesetzt werden. Verordnung“ oder Verordnung“ / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2905,9 +2936,9 @@ der Verordnung. (GRAU = FELDGRUPPE) DERH. wurden. verschreibende Person über au
 | 155 |  |  | x |  |  |  | Verschreiber-ID | 1..45 | 0..1 | Dieses Feld enthält eine Verschreiber-ID,  sich aus der Zulassung des Arzneimittels.  Verschreiber-ID angegeben wurde. |  |
 | 189 |  |  | x |  |  |  | Patienten-ID | 1..45 | 0..1 | Dieses Feld enthält eine Patienten-ID, |  |
 
-SEITE 94 VON 107
+SEITE 94 VON 107  1.77
 
-(GRAU = FELDGRUPPE) Freitext DERH. als Freitext und kann verwendet werden, wenn es sich nicht um ein Fertigarzneimittel handelt.  hinausgehende / sonstige Abgabehinweise an die Apotheke. welche bei der Verordnung bestimmter Präparate (bspw. Fintepla®) anzugeben ist. Die rechtliche Grundlage ergibt Hier ist eine Belieferung in der Apotheke nur möglich, wenn eine welche bei der Verordnung bestimmter Arzneimittel (bspw. Fabhalta®, Aspaveli®, Zilbrysq®) angegeben werden kann. Es besteht keine Verpflichtung zur Befüllung dieses Feldes, da die Patienten-ID beim Patienten erfragt werden kann, dem sie auf einer an ihn ausgehändigten Patientenkarte vorliegen sollte. der Block „Rezeptierdaten PZN Verordnung“ gesetzt ist, DANN  darf es nicht befüllt werden.  der Block "Rezeptierdaten Rezepturverordnung" gesetzt ist oder der Block "Rezeptierdaten Wirkstoffverordnung" gesetzt ist, DANN muss das Feld befüllt werden darf es befüllt werden. / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Freitext DERH. als Freitext und kann verwendet werden, wenn es sich nicht um ein Fertigarzneimittel handelt.  hinausgehende / sonstige Abgabehinweise an die Apotheke. welche bei der Verordnung bestimmter Präparate (bspw. Fintepla®) anzugeben ist. Die rechtliche Grundlage ergibt Hier ist eine Belieferung in der Apotheke nur möglich, wenn eine welche bei der Verordnung bestimmter Arzneimittel (bspw. Fabhalta®, Aspaveli®, Zilbrysq®) angegeben werden kann. Es besteht keine Verpflichtung zur Befüllung dieses Feldes, da die Patienten-ID beim Patienten erfragt werden kann, dem sie auf einer an ihn ausgehändigten Patientenkarte vorliegen sollte. der Block „Rezeptierdaten PZN Verordnung“ gesetzt ist, DANN  darf es nicht befüllt werden.  der Block "Rezeptierdaten Rezepturverordnung" gesetzt ist oder der Block "Rezeptierdaten Wirkstoffverordnung" gesetzt ist, DANN muss das Feld befüllt werden darf es befüllt werden. / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2918,7 +2949,7 @@ SEITE 94 VON 107
 | 107 |  |  |  | x |  |  | Kennzeichen Dosierung | Bool | 1..1 | Dieses Feld enthält ein Kennzeichen zur | WENN  DANN |
 | 108 |  |  |  | x |  |  | Dosieranweisung / | 1..500 | 0..1 | Dieses Feld enthält eine freitextliche | WENN  ANSONSTEN |
 
-(GRAU = FELDGRUPPE) Gebrauchsanweisung Freitext DERH. Dosierung.  ist Hinweis: Die Längenangaben der Felder ODER der Block "Rezeptierdaten dieses Blocks werden durch den HL7 Rezepturverordnung" angegeben ist Implementation Guide [ Dosierung bzw. Gebrauchsanweisung bei BtM-Verordnungen und beschreibt, ob eine Dosieranweisung bzw. Gebrauchsanweisung bei BtM- Verordnungen übermittelt oder ein Medikationsplan bzw. schriftliche Gebrauchsanweisung bei BtM-Verordnung mitgegeben wird. Dosieranweisung bzw. Gebrauchsanweisung bei Rezepturen und BtM-Verordnungen. "Sprechstundenbedarf/ Praxisbedarf wird,  muss dieser Block angegeben werden. KEIN "Sprechstundenbedarf/ Praxisbedarf " verordnet wird,  kann dieser Block angegeben werden. darf dieser Block nicht vorhanden sein. der Block "Rezeptierdaten Rezepturverordnung" angegeben ist, muss dieses Feld den Wert „true“ haben. (das Feld "Kennzeichen Dosierung" gleich "true" ist UND der Block „Dosieranweisung / Gebrauchsanweisung strukturiert“ nicht angegeben ist, ist dieses Feld Pflicht. darf es nicht angegeben werden. UND KEIN " verordnet SEITE 95 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Gebrauchsanweisung Freitext DERH. Dosierung.  ist Hinweis: Die Längenangaben der Felder ODER der Block "Rezeptierdaten dieses Blocks werden durch den HL7 Rezepturverordnung" angegeben ist Implementation Guide [ Dosierung bzw. Gebrauchsanweisung bei BtM-Verordnungen und beschreibt, ob eine Dosieranweisung bzw. Gebrauchsanweisung bei BtM- Verordnungen übermittelt oder ein Medikationsplan bzw. schriftliche Gebrauchsanweisung bei BtM-Verordnung mitgegeben wird. Dosieranweisung bzw. Gebrauchsanweisung bei Rezepturen und BtM-Verordnungen. "Sprechstundenbedarf/ Praxisbedarf wird,  muss dieser Block angegeben werden. KEIN "Sprechstundenbedarf/ Praxisbedarf " verordnet wird,  kann dieser Block angegeben werden. darf dieser Block nicht vorhanden sein. der Block "Rezeptierdaten Rezepturverordnung" angegeben ist, muss dieses Feld den Wert „true“ haben. (das Feld "Kennzeichen Dosierung" gleich "true" ist UND der Block „Dosieranweisung / Gebrauchsanweisung strukturiert“ nicht angegeben ist, ist dieses Feld Pflicht. darf es nicht angegeben werden. UND KEIN " verordnet SEITE 95 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2932,7 +2963,7 @@ SEITE 94 VON 107
 | 179 |  |  |  |  | x |  | Wert der Zeitangabe | 2 | 0..1 | Dieses Feld enthält den Wert der |  |
 | 180 |  |  |  |  | x |  | Einheit der Zeitangabe | Kodiert | 0..1 | Dieses Feld enthält die Einheit der |  |
 
-(GRAU = FELDGRUPPE) Gebrauchsanweisung Gebrauchsanweisung. ist UND das Feld „Dosieranweisung / Gebrauchsanweisung Freitext“ nicht angegeben ist Anwendung pro DERH. Dieser Block enthält Angaben für eine der Dosieranweisung (z.B. 10).  der Dosieranweisung (z.B. Tage). Anwendung pro Zeitangabe. Häufigkeit der Anwendung ist 2. Wert der Zeitangabe ist 1. Einheit der Zeitangabe ist Tag.  Zeitangabe (z.B. 1). Zeitangabe (z.B. Tag) WENN muss dieser Block angegeben werden. darf er nicht angegeben werden. SEITE 96 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Gebrauchsanweisung Gebrauchsanweisung. ist UND das Feld „Dosieranweisung / Gebrauchsanweisung Freitext“ nicht angegeben ist Anwendung pro DERH. Dieser Block enthält Angaben für eine der Dosieranweisung (z.B. 10).  der Dosieranweisung (z.B. Tage). Anwendung pro Zeitangabe. Häufigkeit der Anwendung ist 2. Wert der Zeitangabe ist 1. Einheit der Zeitangabe ist Tag.  Zeitangabe (z.B. 1). Zeitangabe (z.B. Tag) WENN muss dieser Block angegeben werden. darf er nicht angegeben werden. SEITE 96 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2947,7 +2978,7 @@ SEITE 94 VON 107
 | 186 |  |  |  | x |  |  | Generierter Text |  | 0..1 | Dieses Feld enthält einen Text, der von  ePA Medication  ] erzeugt wurde. Bei | WENN  ANSONSTEN |
 | 187 |  |  |  | x |  |  | Metadaten zum |  | 0..1 | Dieses Feld enthält Metadaten zu dem  Medication IG DE], z.B. | WENN |
 
-(GRAU = FELDGRUPPE) Dosieranweisung Algorithmus der Textgenerierung DERH. Anwendung (z.B. Montag). Anwendung. Anwendung (morgens, mittags, abends, zur Nacht). pro Anwendung (z.B. 30). pro Anwendung (z.B. Tropfen). einem Algorithmus [ Service IG strukturierten Dosierangaben enthält dieses Feld eine menschenlesbare Ausgabe der strukturierten Angaben. Bei freitextlichen Dosierangaben enthält das Feld denselben Text.  Algorithmus [ Version und Sprache. das Feld "Kennzeichen Dosierung" gleich "true" ist DANN  ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist DANN  ist dieses Feld Pflicht. SEITE 97 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Dosieranweisung Algorithmus der Textgenerierung DERH. Anwendung (z.B. Montag). Anwendung. Anwendung (morgens, mittags, abends, zur Nacht). pro Anwendung (z.B. 30). pro Anwendung (z.B. Tropfen). einem Algorithmus [ Service IG strukturierten Dosierangaben enthält dieses Feld eine menschenlesbare Ausgabe der strukturierten Angaben. Bei freitextlichen Dosierangaben enthält das Feld denselben Text.  Algorithmus [ Version und Sprache. das Feld "Kennzeichen Dosierung" gleich "true" ist DANN  ist dieses Feld Pflicht. darf es nicht angegeben werden. das Feld "Kennzeichen Dosierung" gleich "true" ist DANN  ist dieses Feld Pflicht. SEITE 97 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -2960,9 +2991,9 @@ SEITE 94 VON 107
 | 111 |  |  |  | x |  |  | Packungsgröße nach | 1..7 | 0..1 | Dieses Feld enthält die Packungsgröße (z.B. | WENN  ODER das Feld "Packungsgröße nach N-Bezeichnung"  ANSONSTEN |
 | 112 |  |  |  | x |  |  | Einheit | 1..12 | 0..1 | Dieses Feld enthält die Einheit (z.B. Stück) | WENN  ODER das Feld "Packungsgröße nach N-Bezeichnung" |
 
-SEITE 98 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 98 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) abgeteilter Menge DERH. Packungsgröße. der Block "Rezeptierdaten PZN-Verordnung" gesetzt ist oder der Block "Rezeptierdaten Wirkstoffverordnung" gesetzt ist, DANN  ist dieser Block Pflicht therapiegerechten Packung (z.B. N1). 100) und tritt nur in Verbindung mit „Einheit“ auf (z.B. 100 Stück). und tritt nur in Verbindung mit „Packungsgröße nach abgeteilter Menge“ auf (z.B. 100 Stück). darf es nicht angegeben werden. darf dieser Block nicht angegeben werden. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.   das Feld „Kategorie“ gleich „01“ nicht angegeben ist, ODER das Feld Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist , ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Kategorie“ gleich „01“ nicht angegeben ist, ODER das Feld / 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) abgeteilter Menge DERH. Packungsgröße. der Block "Rezeptierdaten PZN-Verordnung" gesetzt ist oder der Block "Rezeptierdaten Wirkstoffverordnung" gesetzt ist, DANN  ist dieser Block Pflicht therapiegerechten Packung (z.B. N1). 100) und tritt nur in Verbindung mit „Einheit“ auf (z.B. 100 Stück). und tritt nur in Verbindung mit „Packungsgröße nach abgeteilter Menge“ auf (z.B. 100 Stück). darf es nicht angegeben werden. darf dieser Block nicht angegeben werden. das Feld "Packungsgröße nach abgeteilter Menge" nicht angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional.   das Feld „Kategorie“ gleich „01“ nicht angegeben ist, ODER das Feld Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist , ODER das Feld "Einheit" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. das Feld „Kategorie“ gleich „01“ nicht angegeben ist, ODER das Feld / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2974,9 +3005,9 @@ SEITE 98 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | **114** |  |  | **x** |  |  |  | **Rezeptierdaten PZN-** |  | **0..1** | **spezifisch für ein in den Preis- und** | **muss der Block "Rezeptierdaten PZN- ODER  ODER  ODER** |
 | 115 |  |  |  | x |  |  | ID des Produkts (PZN) | Kodiert | 1..1 | Dieses Feld enthält die |  |
 
-SEITE 99 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A)
+SEITE 99 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Packungen Verordnung  DERH. verordneten Packungen. Dieser Block enthält Rezeptierdaten Produktverzeichnissen nach § 131 SGB V Verordnung" gelistetes Produkt.  Pharmazentralnummer (PZN), die von der Informationsstelle für Arzneispezialitäten IFA, Frankfurt produktbezogen vergeben wird und für die gesetzlichen Krankenkassen gemäß Vereinbarungen nach § 131 SGB V mit der Pharmazeutischen Industrie und nach § 300 SGB V mit dem Deutschen Apothekerverband vereinbart ist. Die Angaben Handelsname, Darreichungsform, Packungsgröße usw. entstammen den Preis- und Produktangaben nach § 131 Abs. 4 SGB V. Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist , ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein./ 14. AUGUST 2026 / VERSION: 1.76
+(GRAU = FELDGRUPPE) Packungen Verordnung  DERH. verordneten Packungen. Dieser Block enthält Rezeptierdaten Produktverzeichnissen nach § 131 SGB V Verordnung" gelistetes Produkt.  Pharmazentralnummer (PZN), die von der Informationsstelle für Arzneispezialitäten IFA, Frankfurt produktbezogen vergeben wird und für die gesetzlichen Krankenkassen gemäß Vereinbarungen nach § 131 SGB V mit der Pharmazeutischen Industrie und nach § 300 SGB V mit dem Deutschen Apothekerverband vereinbart ist. Die Angaben Handelsname, Darreichungsform, Packungsgröße usw. entstammen den Preis- und Produktangaben nach § 131 Abs. 4 SGB V. Bezeichnung" nicht „N1“ oder „N2“ oder „N3“ ist , ODER das Feld "Packungsgröße nach abgeteilter Menge" angegeben ist, DANN ist dieses Feld Pflicht. ist dieses Feld optional. ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -2993,7 +3024,7 @@ SEITE 99 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 159c |  |  |  |  |  | x | Zahlenwert der | 1..15 | 1..1 | Dieses Feld enthält eine Angabe eines |  |
 | 159d |  |  |  |  |  | x | Einheit der Bezugsmenge | 1..15 | 1..1 | Dieses Feld enthält die Einheit der |  |
 
-(GRAU = FELDGRUPPE) DERH. verordneten Präparates, welcher aus der PZN abgeleitet wird. Wirkstoffe der PZN-Verordnung (Arzneimittelstoffkatalog-Nummer). für ein Produkt, welches nach § 131 Abs. 4 SGB V gelistet ist. Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezugsmenge. Wirkstoffmenge Zahlenwerts der Wirkstoffmenge. Die zugehörige Einheit ist im Feld "Einheit der Wirkstoffmenge" anzugeben. Wirkstoffmenge Wirkstoffmenge (bspw. mg). Zahlenwerts der Bezugsmenge. Die zugehörige Einheit ist im Feld "Einheit der Bezugsmenge" anzugeben. Bezugsmenge (bspw. ml). SEITE 100 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION:  1.76
+(GRAU = FELDGRUPPE) DERH. verordneten Präparates, welcher aus der PZN abgeleitet wird. Wirkstoffe der PZN-Verordnung (Arzneimittelstoffkatalog-Nummer). für ein Produkt, welches nach § 131 Abs. 4 SGB V gelistet ist. Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezugsmenge. Wirkstoffmenge Zahlenwerts der Wirkstoffmenge. Die zugehörige Einheit ist im Feld "Einheit der Wirkstoffmenge" anzugeben. Wirkstoffmenge Wirkstoffmenge (bspw. mg). Zahlenwerts der Bezugsmenge. Die zugehörige Einheit ist im Feld "Einheit der Bezugsmenge" anzugeben. Bezugsmenge (bspw. ml). SEITE 100 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -3008,9 +3039,9 @@ SEITE 99 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORD
 | 120a |  |  |  |  |  | x | Zahlenwert der | 1..15 | 1..1 | Dieses Feld enthält eine Angabe eines |  |
 | 120b |  |  |  |  |  | x | Einheit der | 1..15 | 1..1 | Dieses Feld enthält die Einheit der |  |
 
-SEITE 101 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.76
+SEITE 101 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezugsmenge. (GRAU = FELDGRUPPE) Verordnung" Wirkstoffmenge Wirkstoffmenge DERH. Dieser Block enthält Rezeptierdaten Wirkstoffe der Wirkstoffverordnung (Arzneimittelstoffkatalog-Nummer). für ein Wirkstoff- bzw. sonstiges Fertigarzneimittel oder ein Produkt, welches nicht nach § 131 Abs. 4 SGB V gelistet ist. Zahlenwerts der Wirkstoffmenge. Die zugehörige Einheit ist im Feld "Einheit der Wirkstoffmenge" anzugeben. Wirkstoffmenge (bspw. mg). ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung - Freitext" vorhanden sein. / 14. AUGUST 2026 / VERSION:
+Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezugsmenge. (GRAU = FELDGRUPPE) Verordnung" Wirkstoffmenge Wirkstoffmenge DERH. Dieser Block enthält Rezeptierdaten Wirkstoffe der Wirkstoffverordnung (Arzneimittelstoffkatalog-Nummer). für ein Wirkstoff- bzw. sonstiges Fertigarzneimittel oder ein Produkt, welches nicht nach § 131 Abs. 4 SGB V gelistet ist. Zahlenwerts der Wirkstoffmenge. Die zugehörige Einheit ist im Feld "Einheit der Wirkstoffmenge" anzugeben. Wirkstoffmenge (bspw. mg). ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung - Freitext" vorhanden sein. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -3026,9 +3057,9 @@ Wirkstärke. Diese ermittelt sich durch die Angaben von Wirkstoffmenge und Bezug
 | 126 |  |  |  | x |  |  | Herstellungsanweisung | 1..500 | 0..1 | Dieses Feld enthält Anweisungen bzgl. der |  |
 | 127 |  |  |  | x |  |  | Verpackung | 1..90 | 0..1 | Dieses Feld enthält Angaben zur |  |
 
-SEITE 102 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.76
+SEITE 102 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Verordnung"  DERH. Zahlenwerts der Bezugsmenge. Die zugehörige Einheit ist im Feld "Einheit der Bezugsmenge" anzugeben. Bezugsmenge (bspw. ml). Dieser Block enthält Rezeptierdaten Rezeptur (z.B. gemäß Deutschem Arzneibuch: Zinkpaste DAB). Rezeptur (ohne die Einheit). Gesamtmenge der Rezeptur. Herstellung der Rezeptur (Subscriptio). Verpackung der Rezeptur, z.B.  Transportbehältnisse, und Applikationshilfen. ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein. / 14. AUGUST 2026 / VERSION:
+(GRAU = FELDGRUPPE) Verordnung"  DERH. Zahlenwerts der Bezugsmenge. Die zugehörige Einheit ist im Feld "Einheit der Bezugsmenge" anzugeben. Bezugsmenge (bspw. ml). Dieser Block enthält Rezeptierdaten Rezeptur (z.B. gemäß Deutschem Arzneibuch: Zinkpaste DAB). Rezeptur (ohne die Einheit). Gesamtmenge der Rezeptur. Herstellung der Rezeptur (Subscriptio). Verpackung der Rezeptur, z.B.  Transportbehältnisse, und Applikationshilfen. ENTWEDER der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein. / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -3042,9 +3073,9 @@ SEITE 102 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVEROR
 | 133 |  |  |  |  | x |  | Menge des Bestandteils | 1..7 | 0..1 | Dieses Feld enthält die Menge des | WENN       das Feld "Menge und Einheit des Bestandteils       DANN           ist dieses Feld Pflicht.  ANSONSTEN           darf dieses Feld nicht angegeben werden. |
 | 134 |  |  |  |  | x |  | Einheit des Bestandteils | 1..12 | 0..1 | Dieses Feld enthält die Einheit des | WENN       das Feld "Menge und Einheit des Bestandteils       DANN           ist dieses Feld Pflicht.  ANSONSTEN           darf dieses Feld nicht angegeben werden. |
 
-SEITE 103 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.76
+SEITE 103 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-Bestandteil der Rezeptur. (GRAU = FELDGRUPPE) Bestandteils Freitext DERH. Bezeichnung des Bestandteils der Rezeptur. Wenn die PZN des Bestandteils vorhanden ist, dann ist der hinter der PZN liegende Name anzugeben. Pharmazentralnummer (PZN) des Bestandteils als eindeutige Identifikation des Arzneimittels, das vollständig oder teilweise für die Rezeptur verwandt werden soll. des Bestandteils als Freitext und kann verwendet werden, wenn es sich bei dem Bestandteil der Rezeptur nicht um ein Fertigarzneimittel handelt.  Bestandteils z. B. 100. Bestandteils z.B. mg. Freitexts" nicht angegeben ist, Freitexts" nicht angegeben ist, / 14. AUGUST 2026 / VERSION:
+Bestandteil der Rezeptur. (GRAU = FELDGRUPPE) Bestandteils Freitext DERH. Bezeichnung des Bestandteils der Rezeptur. Wenn die PZN des Bestandteils vorhanden ist, dann ist der hinter der PZN liegende Name anzugeben. Pharmazentralnummer (PZN) des Bestandteils als eindeutige Identifikation des Arzneimittels, das vollständig oder teilweise für die Rezeptur verwandt werden soll. des Bestandteils als Freitext und kann verwendet werden, wenn es sich bei dem Bestandteil der Rezeptur nicht um ein Fertigarzneimittel handelt.  Bestandteils z. B. 100. Bestandteils z.B. mg. Freitexts" nicht angegeben ist, Freitexts" nicht angegeben ist, / 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -3057,9 +3088,9 @@ Bestandteil der Rezeptur. (GRAU = FELDGRUPPE) Bestandteils Freitext DERH. Bezeic
 
 **Tabelle 42: Auflistung der abzubildenden Felder für das ERP**
 
-SEITE 104 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.76
+SEITE 104 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) 1.77
 
-(GRAU = FELDGRUPPE) Bestandteils Freitext spezifisch für eine Freitextverordnung. muss der Block "Rezeptierdaten PZN- DERH. Angabe zur Menge und Einheit des Bestandteils und kann insbesondere für klassische lateinische Angaben z.B. „ad 100,0“ oder „quantum satis“ genutzt Eine Freitextverordnung kann bspw. für Verordnung" eine Rezeptur oder Wirkstoffverordnung genutzt werden, die nicht strukturiert erfasst werden kann oder für eine sonstige Verordnung, wie z. B. importierte Arzneimittel ohne PZN. Freitextverordnung.  angegeben ist, der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein./ 14. AUGUST 2026 / VERSION:
+(GRAU = FELDGRUPPE) Bestandteils Freitext spezifisch für eine Freitextverordnung. muss der Block "Rezeptierdaten PZN- DERH. Angabe zur Menge und Einheit des Bestandteils und kann insbesondere für klassische lateinische Angaben z.B. „ad 100,0“ oder „quantum satis“ genutzt Eine Freitextverordnung kann bspw. für Verordnung" eine Rezeptur oder Wirkstoffverordnung genutzt werden, die nicht strukturiert erfasst werden kann oder für eine sonstige Verordnung, wie z. B. importierte Arzneimittel ohne PZN. Freitextverordnung.  angegeben ist, der Block "Rezeptierdaten Wirkstoffverordnung" der Block "Rezeptierdaten Rezepturverordnung" der Block "Rezeptierdaten Freitextverordnung"  vorhanden sein./ 13. NOVEMBER 2026 / VERSION:
 
 
 ---
@@ -3081,7 +3112,7 @@ SEITE 104 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVEROR
 | Vorlage Patientenausdruck | Vorlage für das Layout des „ https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Technisches_Handbuch_DiMus | Technisches Handbuch Anlage 2b  https://update.kbv.de/ita- |
 
-update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ update/DigitaleMuster/ERP/ die vertragsärztliche Versorgung einbarung.pdf reinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlösung Ihrer Verordnung: E-Rezept update/DigitaleMuster/ERP/ update/DigitaleMuster/KBV_ITA_VGEX_Technis ches_Handbuch_DiMus.pdfSEITE 105 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION:  1.76
+update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ update/DigitaleMuster/ERP/ die vertragsärztliche Versorgung einbarung.pdf reinbarung_digitale_Vordrucke.pdf Ausdruck zur Einlösung Ihrer Verordnung: E-Rezept update/DigitaleMuster/ERP/ update/DigitaleMuster/KBV_ITA_VGEX_Technis ches_Handbuch_DiMus.pdfSEITE 105 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -3094,10 +3125,10 @@ update/DigitaleMuster/FOR/ update/DigitaleMuster/ERP/ update/DigitaleMuster/ERP/
 | SDKT | Kostenträgerstammdatei der KBV  https://update.kbv.de/ita- |
 | KBV_ITA_VGEX_Anforderungskatalog_KVDT | Anforderungskatalog KVDT, siehe KP2-101  https://update.kbv.de/ita- |
 | Medication IG DE | Implementation Guide für  https://ig.fhir.de/igs/medication/1.0.7/ |
-| ePA Medication Service IG | Implementation Guide ePA Medication Service  https://gemspec.gematik.de/ig/fhir/epa-    https://gemspec.gematik.de/ig/fhir/epa- |
+| ePA Medication Service IG | Implementation Guide ePA Medication Service  https://gemspec.gematik.de/ig/fhir/epa- medication/1.2.0/technical-use- cases.html#anwendungsfall-verordnung- verschreibung-und-dispensierung-mit-dem-emp   https://gemspec.gematik.de/ig/fhir/epa- medication/1.2.0/dgmp-overview.html |
 | Python Skript | Referenzimplementierung zur Erzeugung eines  https://github.com/hl7germany/dgMP- |
 
-Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_ITA_V GEX_Anforderungskatalog_AVWG.pdf Primärsysteme LF_PS_eRp/latest/ mSpec_DM_eRp/latest/ update/Stammdateien/SDKT/ update/Abrechnung/KBV_ITA_VGEX_Anforderu ngskatalog_KVDT.pdf medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen in der Version medication/1.2.0/technical-use- cases.html#anwendungsfall-verordnung- verschreibung-und-dispensierung-mit-dem-emp medication/1.2.0/dgmp-overview.html menschenlesbaren Dosierungstextes DosageTextgenerierung- Skript/releases/tag/1.0.1SEITE 106 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION:  1.76
+Verordnungssoftware update/Verordnungen/Arzneimittel/EXT_ITA_V GEX_Anforderungskatalog_AVWG.pdf Primärsysteme LF_PS_eRp/latest/ mSpec_DM_eRp/latest/ update/Stammdateien/SDKT/ update/Abrechnung/KBV_ITA_VGEX_Anforderu ngskatalog_KVDT.pdf medikationsbezogene Anwendungsfälle im deutschen Gesundheitswesen in der Version menschenlesbaren Dosierungstextes DosageTextgenerierung- Skript/releases/tag/1.0.1SEITE 106 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77
 
 
 ---
@@ -3110,4 +3141,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-SEITE 107 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 14. AUGUST 2026 / VERSION:  1.76
+SEITE 107 VON 107 / KBV / TECHNISCHE ANLAGE ZUR ELEKTRONISCHEN ARZNEIMITTELVERORDNUNG (E16A) / 13. NOVEMBER 2026 / VERSION:  1.77

@@ -4,7 +4,7 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  15. AUGUST 2025   VERSION: 1.14   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. NOVEMBER 2026   VERSION: 1.15   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 **ANFORDERUNGSKATALOG HAUTKREBS-**
@@ -13,66 +13,93 @@
 
 ### [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EHKS]
 
-Seite 1 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+Seite 1 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
 
-INHALT
+## INHALT
 
-| 1 | EINLEITUNG | 4 |
-|---|---|---|
-| 1.1 | Zielbestimmung | 4 |
-| 1.2 | Pflichtfunktionen und optionale Funktionen der | Software 4 |
+**1** **EINLEITUNG**
+
+**4**
+
+1.1 Zielbestimmung
+
+4
+
+1.2 Pflichtfunktionen und optionale Funktionen der Software 4
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
-**5**  2.1 Allgemeine Funktionen
+**5**
 
-5  2.1.1 Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten
+2.1 Allgemeine Funktionen
 
-5  2.1.2 Vorbelegung von Feldern
+5
 
-5  2.1.3 Unterstützung von ergänzenden Verträgen der KVen
+2.1.1 Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten 5
 
-5  2.1.4 Plausibilitätenprüfung
+2.1.2 Vorbelegung von Feldern
 
-6  2.1.5 Speichern und Archivieren von Dokumentationsdaten
+5
 
-6  2.1.6 Anlage einer eDokumentation
+2.1.3 Unterstützung von ergänzenden Verträgen der KVen 5
 
-6  2.2 Versicherteninformationen
+2.1.4 Plausibilitätenprüfung
 
-7  2.2.1 Administratives Geschlecht des Patienten 7  2.3 Datenübermittlung
+6
 
-7  2.3.1 Anwendung Prüfmodul (XPM) 7  2.3.2 Export der Daten
+2.1.5 Speichern und Archivieren von Dokumentationsdaten 6
 
-7  2.3.3 Verschlüsseln der Daten
+2.1.6 Anlage einer eDokumentation 6
 
-8  2.3.4 Datenträgerbeschriftung und Transportbegleitzettel 8
+2.1.7 Parameter-Erläuterungen
+
+6
+
+2.2 Versicherteninformationen
+
+8
+
+2.2.1 Administratives Geschlecht des Patienten 8
+
+2.3 Datenübermittlung
+
+8
+
+2.3.1 Anwendung Prüfmodul (XPM) 8
+
+2.3.2 Export der Daten
+
+8
+
+2.3.3 Verschlüsseln der Daten
+
+9
+
+2.3.4 Datenträgerbeschriftung und Transportbegleitzettel 9
 
 **3** **REFERENZIERTE DOKUMENTE**
 
-**9**
+**10**
 
-Seite 2 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
-
-Pflichtfunktionen und optionale Funktionen der Software 
-
+Seite 2 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 ---
 
 # DOKUMENTENHISTORIE
 
-Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
+Die Änderungen vom 13.11.2026 (Version 1.15) treten am 01.01.2027 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 1.14 | 15.08.2025 | KBV | Aktualisierung der Anforderung | Anpassung an eHKS | 8 |
-| 1.13 | 14.08.2019 | KBV | Korrektur der Versionnummer |  | 7 |
-| 1.12 | 06.05.2019 | KBV | Aufnahme der Anforderung | Erweiterung des | 7 |
+| 1.15 | 13.11.2026 | KBV | Anpassung Anforderung P2-30          Aufnahme der Anforderung   P1-51 | Korrektur des    Nähere Parameter- | 9          6 |
+| 1.14 | 15.08.2025 | KBV | Aktualisierung der Anforderung | Anpassung an eHKS | 9 |
+| 1.13 | 14.08.2019 | KBV | Korrektur der Versionsnummer |  | 8 |
+| 1.12 | 06.05.2019 | KBV | Aufnahme der Anforderung | Erweiterung des | 8 |
 | 1.11 | 22.02.2019 | KBV | Aufnahme der Anforderung | Verwechselungsgefahr | 5 |
 | 1.10 | 26.06.2018 | KBV | Streichung der Anforderungen | Abkündigung des |  |
 | 1.09 | 08.08.2017 | KBV | Streichung des Hinweises in | Anpassung an neue | 5 |
@@ -80,9 +107,9 @@ Die Vorgaben der Version 1.14 sind zum 1. Oktober 2025 umzusetzen.
 | 1.07 | 22.04.2010 | KBV | P2-50-Erstellung Versandliste    Neue Funktionen:  P2-70-Elektronische Versandliste  P2-75-Anbindung an das EVL- P2-80-Druck des | Einführung |  |
 | 1.06 | 13.01.2010 | KBV | P1-40: Bezeichnung |  | 6 |
 
-Seite 3 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+Seite 3 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
-P2-30 des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren
+des Schemas von 3.32 in 2.33 P1-60 P1-11 zum eVersandlistenmodul P1-10 entfallen Modul Bestätigungsschreibens Pflichtfunktion korrigiert Defaultwertes der XKM- Versionsnummer in der Begleitdatei Erläuterungen Spezifikation für KIM der kv.digital Wertebereichs für den Parameter „Geschlecht des Patienten“ nach Änderung des Personenstandsgesetz (PstG) von Parameter- bezeichnungen Versandlistenmoduls Zertifizierungsrichtlinie der KBV eVersandlisten- Verfahren
 
 ---
 
@@ -122,7 +149,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 |---|---|
 | **K8-30** | Funktionsbezeichnung |
 
-Seite 4 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+Seite 4 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 ---
 
@@ -137,13 +164,13 @@ Seite 4 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version:
 | **P1-10** | Vollständigkeit der Eingaben aller Stamm- und Bewegungsdaten |
 
 - 1. Die Bedieneroberfläche der Hautkrebs-Screening-Software muss eine lückenlose und korrekte Eingabe  aller relevanten Bewegungsdaten bzgl. der eDokumentation Hautkrebs-Screening ermöglichen. Die in  der Schnittstellenbeschreibung [KBV_ITA_VGEX_Schnittstelle_eHKS] festgelegten Datenelemente  müssen vollständig erfassbar sein.
-- 2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
+- 2. Bezüglich der Ermittlung, Erfassung und Speicherung der Versicherteninformationen gelten alle  Vorgaben der Kapitel „Allgemeine Vorgaben“ (2.1), „Patientenstammdaten erfassen und verarbeiten“  (2.2) sowie „Kostenträger-Stammdatei der KBV“ (6.1) in [KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
-| **P1-11** | Anzeige des Dokumentat |
+| **P1-11** | Anzeige des Dokumentationsparameters „VerdachtsdiagnoseND“ |
 
-Die Software muss in der Bedienoberfläche den in der Plausibilitätsrichtlinie als „VerdachtsdiagnoseND“  (Feld 1.1.1) bezeichneten Parameter als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
+Die Software muss in der Bedienoberfläche den in der Plausibilitätsrichtlinie als „VerdachtsdiagnoseND“  (Feld 1.1.1) bezeichneten Parameter als „Verdachtsdiagnose Nicht-Dermatologe“ anzeigen.
 
 **Begründung:**
 
@@ -151,7 +178,7 @@ Es besteht aufgrund der Abkürzung „ND“ eine Verwechselungsgefahr mit dem Be
 
 **Akzeptanzkriterium:**
 
-- Die Software muss in der Bedienoberfläche den Auswahlparameter „VerdachtsdiagnoseND“ (Feld 1.1.1  des Dokumentes [KBV_ITA_VGEX_Plausi_eHKS]) als „Verdachtsdiagnose Nicht Dermatologe“ anzeigen.
+- Die Software muss in der Bedienoberfläche den Auswahlparameter „VerdachtsdiagnoseND“ (Feld 1.1.1  des Dokumentes [KBV_ITA_VGEX_Plausi_eHKS]) als „Verdachtsdiagnose Nicht-Dermatologe“ anzeigen.
 
 **2.1.2** **Vorbelegung von Feldern**
 
@@ -171,10 +198,7 @@ Alter (des Versicherten): Das Alter des Versicherten kann systemseitig berechnet
 |---|---|
 | **K1-25** | Unterstützung von ergänzenden Verträgen der KVen |
 
-Seite 5 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
-
-ionsparameters „VerdachtsdiagnoseND“
-
+Seite 5 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 ---
 
@@ -186,7 +210,9 @@ Die Dokumentation der Früherkennungsuntersuchungen auf Hautkrebs kann auch im R
 |---|---|
 | **P1-30** | Plausibilitätenprüfung |
 
-Die Software muss nach Eingabe durch den Anwender die entsprechenden Plausibilitäten prüfen (vgl.  KBV_ITA_VGEX_Plausi_eHKS]).
+Die Software muss nach Eingabe durch den Anwender die entsprechenden Plausibilitäten prüfen (vgl.
+
+KBV_ITA_VGEX_Plausi_eHKS]).
 
 **2.1.5** **Speichern und Archivieren von Dokumentationsdaten**
 
@@ -210,13 +236,35 @@ Die Software muss sicherstellen, dass
 - Die gewählte Patientennummer maximal 8-stellig, alphanumerisch ist.
 - Das System kann dem Anwender eine bereits im System gespeicherte Patienten-ID (die den  vorgenannten formalen Anforderungen genügt), zur Übernahme in die eDokumentation Hautkrebs-Screening vorschlagen.
 
-Seite 6 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+**2.1.7** **Parameter-Erläuterungen**
+
+| PFLICHTFUNKTION EHKS |  |
+|---|---|
+| **P1-51** | Nähere Parameter-Erläuterungen |
+
+Seite 6 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 ---
 
-- Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.
-- die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben für den Export  vorbereiten,
-- sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
+Das System muss sicherstellen, dass dem Anwender zu spezifischen Parametern nähere Erläuterungen zur  Verfügung gestellt werden.
+
+**Begründung:**
+
+Der Anwender soll bei der korrekten Befüllung der Dokumentation gemäß der Richtlinie unterstützt  werden. Das System weist den Anwender bei der Dokumentation bestimmter Parameter auf Regelungen  der Richtlinie hin oder liefert Hinweise, die bei der Befüllung der Dokumentation unterstützen.
+
+**Akzeptanzkriterium:**
+
+- 1. Wenn der Anwender bei dem Parameter 2.4.1 „Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen  oder Exzision durchgeführt“ gemäß dem Dokument [KBV_ITA_VGEX_Plausi_eHKS] den Wert „Nein“  auswählt, muss dem Anwender als nähere Erläuterung der folgende Hinweistext zur Anzeige gebracht  werden, ohne den Workflow zu unterbrechen:
+
+*Bei Angabe „Nein“ ist die Dokumentation abgeschlossen, eine Angabe in den darauffolgenden Feldern*  *ist nicht notwendig.“*
+
+- 2. Wenn der Anwender bei dem Parameter 2.4.1 „Biopsie zu Verdachtsdiagnose gemäß 2.3 entnommen  oder Exzision durchgeführt“ gemäß dem Dokument [KBV_ITA_VGEX_Plausi_eHKS] den Wert „Ja“  auswählt, muss dem Anwender als nähere Erläuterung der folgende Hinweistext zur Anzeige gebracht  werden, ohne den Workflow zu unterbrechen:
+
+*Bei Angabe „Ja“ muss eine Angabe in 2.5.1, 2.5.2, 2.5.3, 2.5.4, 2.5.5, 2.5.6, 2.5.7 und 2.5.8 erfolgen. Nur*  *die Felder 2.5.1.2, 2.5.2.2 und 2.5.3.2 sind optional.“*
+
+Seite 7 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
+
+---
 
 ## 2.2 VERSICHERTENINFORMATIONEN
 
@@ -233,6 +281,8 @@ Das administrative Geschlecht des Patienten ist zu übermitteln.
 Das Geschlecht des Patienten muss bei jeder Dokumentation zum Patienten übermittelt werden.
 
 **Akzeptanzkriterium:**
+
+- Das System muss das administrative Geschlechts des Patienten im Element <administrative_gender_cd>  als Teil der administrativen Daten übermitteln.
 
 Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Schnittstelle (siehe  Kapitel 6.10.6.2 [KBV_ITA_VGEX_Schnittstelle_eHeader]) abhängig.
 
@@ -253,9 +303,11 @@ Die Abbildung der Geschlechtsausprägung ist von der Softwareversion der XML-Sch
 |---|---|
 | **P2-10** | Einsatz XPM |
 
-Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen bezüglich Funktion und  Anwendung des XPM ist in [KBV_ITA_AHEX_Handbuch_Pruefmodul] nachzulesen.
+Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen bezüglich Funktion und  Anwendung des XPM ist in [KBV_ITA_AHEX_Handbuch_Pruefmodul
 
-**2.3.2** **Export der Daten**
+### 2.3.2 Export der Daten
+
+] nachzulesen.
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
@@ -263,7 +315,10 @@ Das System muss das jeweils gültige XPM einsetzen. Für nähere Erläuterungen 
 
 Das System muss,
 
-Seite 7 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+- die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen] beschriebenen Vorgaben für den Export  vorbereiten,
+- sicherstellen, dass die vom Anwender einzureichende Datenlieferung mindestens aus einem  Datenarchiv besteht und exportierte Dokumentationsdatensätze innerhalb des Systems kennzeichnen.
+
+Seite 8 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
 
 ---
 
@@ -275,14 +330,19 @@ Seite 7 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version:
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers sind die Dokumentationsarchive in  Ihrer Gesamtheit mit dem Kryptomodul zu verschlüsseln.
 
-Welche Form der Datenübertragung außer bei der Übermittlung der eHKS-Dokumentationsarchive mittels  KIM gemäß [Spec_KIM_eHKS] gewählt wird, ist für den Einsatz des Kryptomoduls nicht relevant. Das  Kryptomodul muss bei allen Datenübertragungen außer bei der Übermittlung mittels KIM gemäß  Spec_KIM_eHKS] eingesetzt werden. Für nähere Erläuterungen zur Funktion und Anwendung des  Kryptomoduls ist in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzulesen.
+Welche Form der Datenübertragung außer bei der Übermittlung der eHKS-Dokumentationsarchive mittels  KIM gemäß [Spec_KIM_eHKS] gewählt wird, ist für den Einsatz des Kryptomoduls nicht relevant. Das  Kryptomodul muss bei allen Datenübertragungen außer bei der Übermittlung mittels KIM gemäß
 
-Bei der Übermittlung des Dokumentationsarchives mittels KIM gemäß [Spec_KIM_eHKS] darf das  Dokumentationsarchiv nicht verschlüsselt werden, da hier für die Übermittlung der sichere  Übermittlungsweg KIM in der TI zum Einsatz kommt.
+Spec_KIM_eHKS] eingesetzt werden. Für nähere Erläuterungen zur Funktion und Anwendung des  Kryptomoduls ist in [KBV_ITA_AHEX_Handbuch_Kryptomodul
 
-Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung mittels KIM gemäß  Spec_KIM_eHKS] die folgenden Werte in den folgenden XML-Elementen der Begleitdatei zu übertragen:
+Bei der Übermittlung des Dokumentationsarchives mittels KIM gemäß [ Dokumentationsarchiv nicht verschlüsselt werden, da hier für die Übermittlung der sichere  Übermittlungsweg KIM in der TI zum Einsatz kommt.
+
+Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung mittels KIM gemäß
+
+Spec_KIM_eHKS] die folgenden Werte in den folgenden XML-Elementen der Begleitdatei zu übertragen:
 
 - verschluesselungssoftware\software-name\@V = XKM
 - verschluesselungssoftware\software-version\@V = 1.0.0
+- verschluesselungssoftware\software-version\@V = 1.00
 - verschluesselungssoftware\software-hersteller\@V = KBV
 
 **2.3.4** **Datenträgerbeschriftung und Transportbegleitzettel**
@@ -291,7 +351,7 @@ Bis zur Anpassung des Schemas der Begleitdatei sind im Rahmen der Übermittlung 
 |---|---|
 | **P2-40** | Beschriftung der eingesetzten Datenträger |
 
-Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger gemäß den  Beschreibungen im Kapitel „Beschriftung der Datenträger“ in [KBV_ITA_VGEX_XML-Schnittstellen beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufkleber (oder der direkten  Labelbeschriftung) kann angeboten werden.
+Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträger gemäß den  Beschreibungen im Kapitel „Beschriftung der Datenträger“ in [ beschriftet werden müssen. Eine Funktion zur Bedruckung entsprechender Aufkleber (oder der direkten  Labelbeschriftung) kann angeboten werden.
 
 | PFLICHTFUNKTION EHKS |  |
 |---|---|
@@ -300,7 +360,14 @@ Das System muss den Anwender darauf hinweisen, dass die eingesetzten Datenträge
 - 1. Das System muss nach Export der Daten und Aufbereitung für den Versand (Beschreiben von Disketten  oder CDs) einen Transportbegleitzettel nach den Beschreibungen im Kapitel „Transportbegleitzettel“ in  [KBV_ITA_VGEX_XML-Schnittstellen] erstellen.
 - 2. Das System darf das Unterschriftsdatum auf dem Transportbegleitzettel nicht aufdrucken. Dieses Datum  ist vom Anwender bei Unterzeichnung des Transportbegleitzettels handschriftlich anzugeben.
 
-Seite 8 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.14 / 15. August 2025
+Seite 9 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026
+
+] nachzulesen.
+
+Spec_KIM_eHKS] darf das
+
+KBV_ITA_VGEX_XML-Schnittstellen
+
 
 ---
 
@@ -311,7 +378,7 @@ Seite 8 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version:
 | **Referenz** | Dokument |
 | [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML Daten in der |
 | [KBV_ITA_VGEX_Schnittstelle_eHeader] | Schnittstellenbeschreibung Header für |
-| [KBV_ITA_VGEX_Schnittstelle_eHKS] | Krebsfrüherkennungsrichtlinie |
+| [KBV_ITA_VGEX_Schnittstelle_eHKS] | Krebsfrüherkennungsrichtlinie – Hautkrebs- |
 | [KBV_ITA_VGEX_Plausi_eHKS] | Plausibilitätenkatalog der elektronischen |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [KBV_ITA_AHEX_Handbuch_Pruefmodul] | KBV-Prüfmodul XPM Anwenderhandbuch |
@@ -322,11 +389,11 @@ Seite 8 von 10 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version:
 
 Dezernat Digitalisierung und IT
 
-Seite 9 von 10 / KBV / Anforderungskatalog Hautkrebs-
+Seite 10 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS)
 
-Screening (eHKS) / Version: 1.14 / 15. August 2025
+/ Version: 1.15 / 13. November 2026
 
-Vertragsärztlichen Versorgung eDMP/a-Datensatz  Hautkrebs- Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+Download
+Vertragsärztlichen Versorgung eDMP/a-Datensatz Screening (eHKS) Dokumentation HautkrebsScreening telematik.de/spaces/KDK/pages/71095111/ Dokumente+zum+Download
 
 
 ---
@@ -335,6 +402,4 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 10 von 10 / KBV / Anforderungskatalog Hautkrebs
-
--Screening (eHKS) / Version: 1.14 / 15. August 2025
+Seite 11 von 11 / KBV / Anforderungskatalog Hautkrebs-Screening (eHKS) / Version: 1.15 / 13. November 2026

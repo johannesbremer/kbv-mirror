@@ -1,21 +1,20 @@
-# TECHNISCHES HANDBUCH  MULARBEDRUCKUNG
+**TECHNISCHES HANDBUCH BLANKOFOR-**
+
+# MULARBEDRUCKUNG
 
 ## KBV_ITA_VGEX_TECHNISCHES_HANDBUCH_BFB
-
-Seite 1 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
-
-**BLANKOFOR-**
 
 **KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**13. MAI 2026**
+**13. NOVEMBER 2026**
 
-**VERSION: 4.80**
+**VERSION: 4.81**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
+Seite 1 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -93,7 +92,7 @@ Seite 1 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version:
 
 Seite 2 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 ---
 
@@ -165,7 +164,9 @@ Version: 4.80 / 13. Mai 2026
 
 100  3.31.1 Barcode Inhalt Muster 64/E 100
 
-Seite 3 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 3 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
+
+/ Version: 4.81 / 13. November 2026
 
 ---
 
@@ -239,7 +240,7 @@ Seite 3 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version:
 
 Seite 4 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 ---
 
@@ -263,16 +264,17 @@ Tabelle 1: Wechsel zwischen den Modi
 
 123
 
-Seite 5 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 5 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen vom 13.05.2026 (Version 4.80) tritt zum 01.10.2026 in Kraft.
+Die Änderungen vom 13.11.2026 (Version 4.81) tritt zum 01.01.2027 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 4.81 | 13.11.2026 | KBV | Korrektur der Feldlänge bei |  | 100 |
 | 4.80 | 13.05.2026 | KBV | Anpassung der zulässigen |  | 13, 14 |
 | 4.73 | 14.11.2025 | KBV | Aktualisierung der Anforde-   Klarstellung Muster 2a und |  | 109      15, 16 |
 | 4.72 | 15.08.2025 | KBV | Aktualisierung des Musters 9 |  | 26 |
@@ -281,46 +283,45 @@ Die Änderungen vom 13.05.2026 (Version 4.80) tritt zum 01.10.2026 in Kraft.
 | 4.69 | 11.04.2024 | KBV | Redaktionelle Korrektur der |  | 38, 45, 52 |
 | 4.68 | 15.02.2024 | KBV | Aktualisierung der Muster 12 |  | 38, 45, 52,  66 |
 | 4.67 | 15.02.2024 | KBV | Aktualisierung der Muster 10 |  | 28, 31 |
-| 4.66 | 15.05.2023 | KBV | Streichung des Barcodes in | Muster 20c/E ist gemäß |  |
+| 4.66 | 15.05.2023 | KBV | Streichung des Barcodes in | Muster 20c/E |  |
 | 4.65 | 14.11.2022 | KBV | Redaktionelle Korrektur von  4.2  Anpassung von P4.8-50 |  | 106    109, 38 |
 | 4.64 | 22.09.2022 | KBV | Aktualisierung des Musters  Anpassung von P4.8-50 |  | 91  109 |
 | 4.63 | 05.07.2022 | KBV | Einführung Muster 62 |  | 94 |
 | 4.62 | 01.04.2022 | KBV | Aktualisierung des Musters |  | 92, 93 |
-| 4.61 | 11.08.2021 | KBV | Streichung des Musters 1 | Einführung der eAU | 10, 38, 45,  52 |
 
-Seite 6 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 6 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-DMP-Kennzeichen in den Standardbarcode Typen rung P4.8-50 2b  zu 9a Formularversion von Muster 12 und 21 (grün markiert) DMP-Kennzeichen Bemerkung zu den Barcode- Feldern 58 und 59 auf Mus- und 21  und 10L Anlage 2a BMV-Ä nicht mit einem Barcode ver- sehen. Kapitel 56 
+Muster 64 DMP-Kennzeichen in den Standardbarcode Typen rung P4.8-50 2b  zu 9a Formularversion von Muster 12 und 21 (grün markiert) DMP-Kennzeichen Bemerkung zu den Barcode- Feldern 58 und 59 auf Mus- und 21  und 10L ist gemäß Anlage 2a BMV-Ä nicht mit einem Barcode ver- sehen. Kapitel 56 
 
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 4.61 | 11.08.2021 | KBV | Streichung des Musters 1 | Einführung der eAU | 10, 38, 45,  52 |
 | 4.60 | 16.02.2021 | KBV | Erweiterung der DMP-Kenn- | Einführung der Disease- | 13, 14, 15,  16, 18, 19,  21, 24, 25,  26, 28, 31,  34, 37, 38,  45, 52, 59,  61, 62, 63,  65, 66, 67,  68, 69, 70,  71, 72, 73,  74, 75, 76,  77, 78, 82,  86, 87, 88,  89, 90, 91,  92, 93, 96,  97, 98, 99,  100, 101,  102, 103,  104, 105  12, 108 |
 | 4.59 | 09.12.2020 | KBV | Anpassung von Kapitel 1 | Anpassung des BMV-Ä | 9 |
 | 4.58 | 13.11.2020 | KBV | Aktualisierung des Musters |  | 78, 82 |
 | 4.57 | 03.09.2020 | KBV | Wiedereinsetzung der Ände- | Verschiebung des In- | 12, 59 |
 | 4.56 | 03.09.2020 | KBV | Rücknahme der Änderungen | Verschiebung des In- | 12, 59 |
 | 4.55 | 12.08.2020 | KBV | Anpassung der Abbildung |  | 34 |
-| 4.54 | 12.05.2020 | KBV | Anpassung von Muster 10  Anpassung von Muster 10L |  | 28  31  34 |
 
-Seite 7 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 7 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-zeichnung und Anpassung der Version von Muster 1, 2, 3, 4, 6, 8, 8A, 9, 10, 10L, 10A, 11, 12, 13, 15, 19, 20, 21, 25, 26, 27, 28, 36, 39, 50, 51, 52, 53, 55, 56, 61, 63, 64, 65, 70 und 70A Management-Pro- gramme Rheuma Osteoporose und Klarstellung der Bedruckung des verkürzten Personalien- felds zur Blankoformularbe- druckung mit Tinten- strahldruckern 39 rungen vom 21.01.2020 krafttretens der neuen (Version 4.53) Heilmittel-Richtlinie des G-BA auf den 01.01.2021 mit Beschlussfassung vom 03.09.2020 vom 21.01.2020 (Version krafttretens der neuen 4.53) Heilmittel-Richtlinie des G-BA auf den 01.01.2021 mit Beschlussfassung vom 03.09.2020 von Barcodefeld 38 des Musters 10A auf KVDT/LDT Feldkennung 
-
+zeichnung und Anpassung der Version von Muster 1, 2, 3, 4, 6, 8, 8A, 9, 10, 10L, 10A, 11, 12, 13, 15, 19, 20, 21, 25, 26, 27, 28, 36, 39, 50, 51, 52, 53, 55, 56, 61, 63, 64, 65, 70 und 70A Management-Pro- gramme Rheuma Osteoporose und Klarstellung der Bedruckung des verkürzten Personalien- felds zur Blankoformularbe- druckung mit Tinten- strahldruckern 39 rungen vom 21.01.2020 krafttretens der neuen (Version 4.53) Heilmittel-Richtlinie des G-BA auf den 01.01.2021 mit Beschlussfassung vom 03.09.2020 vom 21.01.2020 (Version krafttretens der neuen 4.53) Heilmittel-Richtlinie des G-BA auf den 01.01.2021 mit Beschlussfassung vom 03.09.2020 von Barcodefeld 38 des Musters 10A auf KVDT/LDT Feldkennung
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | Anpassung von Muster 10A  Anpassung von Muster 12 | 38 |
+| 4.54 | 12.05.2020 | KBV | Anpassung von Muster 10  Anpassung von Muster 10L  Anpassung von Muster 10A  Anpassung von Muster 12 |  | 28  31  34  38 |
 | 4.53 | 21.01.2020 | KBV | Anpassung von Muster 13  Entfernung von Muster 14 | Änderung der Heilmittel-  Richtlinie des G-BA mit  Beschlussfassung vom  19.09.2019 | 12, 59 |
 | 4.50 | 04.03.2020 | KBV | Anpassung von Muster 4 |  | 12, 19 |
 
-Seite 8 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 8 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-und 18
+und 18 
+
 
 ---
 
@@ -346,7 +347,7 @@ Das 4. Kapitel enthält die im Rahmen des Zertifizierungsverfahrens verbindliche
 
 Im 5. Kapitel werden die technisch-mathematischen Grundlagen des im Blankoformularbedruckungsverfah-rens eingesetzten Barcodes PDF 417 beschrieben. Grundlage der Ausführungen ist die Uniform Symbology  Specification - PDF417 der AIM Europe (11/1994).
 
-Seite 9 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 9 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -397,7 +398,7 @@ Die Spalte "Format/Bemerkung" erläutert z.B. die Bedeutung der erlaubten Inhalt
 
 Die optionalen Spalten „KVDT Feld“ und „LDT Feld“ benennen die Kennung des KVDT- und LDT-Feldes, in  dem der Inhalt des Barcodefeldes bei der Abrechnung bzw. Labordatenkommunikation übertragen wird.
 
-Seite 10 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 10 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -436,7 +437,7 @@ Der Barcode wird in der Regel unter Beachtung der in Kapitel 5 definierten Ruhez
 
 Ausnahmen:
 
-Seite 11 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 11 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 BEZEICHNUNG LÄNGE
 
@@ -450,19 +451,10 @@ BEZEICHNUNG LÄNGE
 
 Der Aufbau der gültigen Prüfnummernsystematik der KBV definiert sich nach folgendem Schema:
 
-A
-
-N(NN)
-
-JJMM
-
-NN
-
-NNN
-
-Softwareklasse Komponente Zert.-Zeitpunkt Gültigkeit
-
-System-Ident
+| A | N(NN) | JJMM | NN | NNN |
+|---|---|---|---|---|
+|  |  |  |  |  |
+| Softwareklasse | Komponente | Zert.-Zeitpunkt | Gültigkeit | System-Ident |
 
 Die insgesamt bis zu 17-stellige Prüfnummer ist auf allen Formularen in die Fußzeile (in der dafür vorgese-henen Position) zu drucken.
 
@@ -494,7 +486,7 @@ Falls die Versichertendaten von einer KVK eingelesen werden, beispielsweise, wei
 
 Die Formatierung von Datumsformaten im Barcode wird an die Formatierung auf der eGK angepasst. Dies  bezieht sich auf alle Felder mit Datumsbezug. Dadurch kommt es zu Abweichungen von der gedruckten Da-tums-Formatierung auf den Formularen.
 
-Seite 12 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 12 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -506,7 +498,7 @@ In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei 
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n |  | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |
-| **03** | **Versionsnummer** | 2 | n | 05 |  |
+| **03** | **Versionsnummer** | 2 | n |  |  |
 | **04** | **Nachname** | <=45 | a |  |  |
 | **05** | **Vorname** | <=45 | a |  |  |
 | **06** | **Geburtsdatum** | 8 | n |  | Format: JJJJMMTT |
@@ -520,21 +512,16 @@ In allen Mustern des Entlassmanagements gilt für das Feld „LANR“, dass bei 
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format: JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 13 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 13 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Standardbarcode Typ 1
 
-[Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
+[Rahmenvertrag Entlassmanagement](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)[). Nach der Übergangs-](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
 
-**163 + TABS**
-
-[). Nach der Übergangs-](http://www.kbv.de/media/sp/Rahmenvertrag_Entlassmanagement.pdf)
-
-**TYP 1**
-
-LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
+LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -544,7 +531,7 @@ LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n |  | Nr. des Musters |
 | **02** | **Formularcodeergänzung** | 1 | a |  |  |
-| **03** | **Versionsnummer** | 2 | n | 05 |  |
+| **03** | **Versionsnummer** | 2 | n |  |  |
 | **04** | **Versicherungsschutz Ende** | 8 | n |  | Format : JJJJMMTT  wenn vorhanden |
 | **05** | **Kostenträgerkennung** | 9 | n |  |  |
 | **06** | **Versicherten-ID** | <=12 | a |  |  |
@@ -555,7 +542,8 @@ LÄNGE zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 05, 06, 07, 08
 | **11** | **LANR** | 9 | n |  |  |
 | **12** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
 ### 2.11.3 Standardbarcode Typ 3
 
@@ -569,11 +557,9 @@ Der Standardbarcode vom Typ 4 enthält die gleichen Felder wie der gekürzte Sta
 
 Der Barcode vom Typ 5 enthält nur formularspezifische Einträge und wird dann verwendet, wenn perso-nenbezogene Daten nicht vorgesehen sind.
 
-Seite 14 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 14 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**65 + TABS**        **TYP 2**
-
-LÄNGE 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58
+LÄNGE 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 MAXIMALE GESAMTLÄNGE  65 + TABS  TYP 2
 
 ---
 
@@ -607,9 +593,10 @@ LÄNGE 05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 3
 | **20** | **Diagnoseart** | 1 | n | 1; 2 | 1 = ICD10, 2 = Klartext |
 | **21** | **Diagnose** | <=49 | a |  | Trennzeichen ist Komma |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 15 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 15 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 # BARCODE INHALT
 
@@ -617,9 +604,7 @@ Seite 15 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 ### Barcode Inhalt Muster 2a/E
 
-**217 + TABS**       **TYP 3**
-
-LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 +Leerzeichen
+LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 +Leerzeichen MAXIMALE GESAMTLÄNGE  217 + TABS   TYP 3
 
 ---
 
@@ -653,7 +638,7 @@ Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr als 49 Zeichen einhalte
 | **20** | **Diagnoseart** | 1 | n | 1; 2 | 1 = ICD10, 2 = Klartext |
 | **21** | **Diagnose** | <=49 | a |  | Trennzeichen ist Komma |
 
-Seite 16 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 16 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 2b/E
 
@@ -661,13 +646,17 @@ LÄNGE code-Typ 1 hausarzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 000
 
 ---
 
-**MAXIMALE GESAMTLÄNGE**  **217 + TABS**       **TYP 3**
+\|  |
+\|---|
 
 **HINWEIS**
 
 Wenn im Eingabefeld „Diagnose“ auf dem Formular mehr 49 Zeichen einhalten sind, wird der Text des Ein-gabefeldes für die Übernahme in den Barcode bei 49 Zeichen abgeschnitten.
 
-Seite 17 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 17 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
+
+MAXIMALE GESAMTLÄNGE  217 + TABS   TYP 3 
+
 
 ---
 
@@ -696,17 +685,16 @@ Seite 17 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **17** | **Untersuchungsdatum** | 8 | n |  | Format : JJJJMMTT |
 | **18** | **Besondere Feststellungen** | <=39 | a |  |  |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 18 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 18 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 3
 
 ### Barcode Inhalt Muster 3a/E
 
-**218 + TABS**       **TYP 3**
-
-dungstermin LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+dungstermin LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  218 + TABS   TYP 3
 
 ---
 
@@ -746,7 +734,7 @@ Seite 19 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ### Barcode Inhalt Muster 4/E
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 hausbehandlung Merkzeichen „aG“, „BI“, ,,H“, Pflegegrad 3 mit dauerhafter Mobilitätsbeeinträchtigung, LÄNGE ERLAUBTE IN- 00, 04, 06, 07, 08, Siehe Standardbar- reich :  JJJJMM00, JJJJ0000, 00000000 
 
@@ -777,19 +765,14 @@ hausbehandlung Merkzeichen „aG“, „BI“, ,,H“, Pflegegrad 3 mit dauerhaf
 | **42** | **Andere** | 1 | n | 1 | 1 = angekreuzt |
 | **43** | **Andere Freitext** | <= 16 | a |  |  |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
 Seite 20 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-**378 + TABS**
+/ Version: 4.81 / 13. November 2026
 
-/ Version: 4.80 /
-
-**TYP** **3**
-
-13. Mai 2026
-
-Dialyse, onkol. Chemo oder Strahlentherapie vergleichbarer Ausnahmefall trächtigung vergleichbar mit b) und Behandlungsdauer min- destens 6 Monate Betreuung und/oder Einrich- tung notwendig ist wegen LÄNGE HALTE 
+Dialyse, onkol. Chemo oder Strahlentherapie vergleichbarer Ausnahmefall trächtigung vergleichbar mit b) und Behandlungsdauer min- destens 6 Monate Betreuung und/oder Einrich- tung notwendig ist wegen LÄNGE HALTE MAXIMALE GESAMTLÄNGE  378 + TABS TYP 3 
 
 
 ---
@@ -824,7 +807,7 @@ Dialyse, onkol. Chemo oder Strahlentherapie vergleichbarer Ausnahmefall trächti
 
 Seite 21 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE reich) Versicherten_ID oder SKT-Zusatz INHALTE druckung im Personali- enfeld 07, 08, 09 dardbarcode- Typ 1
 
@@ -854,17 +837,15 @@ LÄNGE reich) Versicherten_ID oder SKT-Zusatz INHALTE druckung im Personali- enf
 | **40** | **Befund/Medikation** | <=140 | a |  |  | 4208 |
 | **41** | **Auftrag** | <=280 | a |  |  | 4205 |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
 Seite 22 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-**1072 + TABS**
+/ Version: 4.81 / 13. November 2026
 
-/ Version: 4.80 / 13. Mai 2026
+SGB V ärztl. Behandlung Eingeschränkter Leistungsan- LÄNGE INHALTE 26  leer sind lung MAXIMALE GESAMTLÄNGE  1072 + TABS  TYP 3 
 
-**TYP 3**
-
-SGB V ärztl. Behandlung Eingeschränkter Leistungsan- LÄNGE INHALTE 26  leer sind lung
 
 ---
 
@@ -874,7 +855,7 @@ Platzbedarf: Um die automatisierte Erfassung des Überweisungsscheins in den Fac
 
 Da der Barcode bei maximaler Befüllung der Felder eine Höhe von 4,8 cm erreichen kann, ist der oberste  Rand des Barcodes 5,5 cm über dem Vertragsarztstempel zu positionieren.
 
-Seite 23 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 23 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -900,19 +881,16 @@ Seite 23 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 24 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 24 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 8
 
 ### Barcode Inhalt Muster 8/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -938,19 +916,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 25 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 25 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 8A
 
 ### Barcode Inhalt Muster 8A/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -989,7 +964,7 @@ Seite 26 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ### Barcode Inhalt Muster 9a/E
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 es besteht jedoch ein wesentlich erweiterter Pflegebedarf wegen nicht voll ausgebildete Reifezei- chen oder verfrühter Beendi- gung der Schwangerschaft LÄNGE 00, 04, 06, 07, 08, Siehe Standardbar- :  JJJJMM00, JJJJ0000, 00000000 
 
@@ -1000,15 +975,12 @@ es besteht jedoch ein wesentlich erweiterter Pflegebedarf wegen nicht voll ausge
 |---|---|---|---|---|---|
 | **23** | **Bei dem Kind liegt eine Behinde-** | 1 | n | 1 | 1 = angekreuzt |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-**185 + TABS**
+Seite 27 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**TYP 3**
-
-Seite 27 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
-
-rung vor LÄNGE BEMERKUNG 
+rung vor LÄNGE BEMERKUNG MAXIMALE GESAMTLÄNGE  185 + TABS   TYP 3 
 
 
 ---
@@ -1041,7 +1013,7 @@ rung vor LÄNGE BEMERKUNG
 | **20** | **Ausstellungsdatum** | 8 | n |  | JJJJMMTT | 4102 |  |
 | **21** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich | 3110 | |
 
-Seite 28 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 28 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 10
 
@@ -1077,7 +1049,7 @@ LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 d
 
 Seite 29 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung /
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 16 Abs. 3a SGB V LÄNGE INHALTE leer sind Sterilisation, Schwanger- schaftsabbruch -FELD
 
@@ -1096,19 +1068,16 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- |  | |
 | **50** | **SER** | 1 | n |  | 1=ja |  | |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
 **HINWEIS**
 
 Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
 
-Seite 30 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 30 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**1002 + TABS**
-
-**TYP 3**
-
-LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3
 
 ---
 
@@ -1138,7 +1107,7 @@ LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
 | **20** | **Ausstellungsdatum** | 8 | n |  | JJJJMMTT |  | 4102 |
 | **21** | **Geschlecht** | 1 | a | M, W, X, D | M=männlich  W=weiblich  X=unbestimmt | 3110 | |
 
-Seite 31 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 31 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 10L/E
 
@@ -1171,9 +1140,12 @@ LÄNGE Ende Bereich) Versicherten_ID oder SKT-Zusatz gruppe INHALTE 07, 08, 09 d
 | **41** | **Befundübermittlung eilt  (Dringlichkeitsstatus)** | 1 | n |  | 2=eilig |  | 8501 |
 | **42** | **Telefon** | 1 | n |  | 1=ja |  | 8611 |
 
-Seite 32 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 32 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung /
+
+Version: 4.81 / 13. November 2026
 
 bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 16 Abs. 3a SGB V LÄNGE INHALTE leer sind Sterilisation, Schwanger- schaftsabbruch -FELD
+
 
 ---
 
@@ -1188,19 +1160,16 @@ bei belegärztl. Behand- lung/ ner bekannten Infektion tungsanspruch gemäß § 
 | **49** | **Prüfnummer** | 15 | a |  | Das Feld ist mit der BFB- |  | |
 | **50** | **SER** | 1 | n |  | 1=ja |  | |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
 **HINWEIS**
 
 Platzbedarf: Beachten Sie bei der Positionierung, dass der Barcode aufgrund des potentiell größeren zu co-dierenden Datenvolumens entsprechend in der Höhe skalieren kann. Im Maximalfall, unter Ausschöpfung  aller Felder und Feldlängen, kann sich eine Barcodehöhe von ca. 3,7 cm ergeben.
 
-Seite 33 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 33 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**1002 + TABS**
-
-**TYP 3**
-
-LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
+LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333 MAXIMALE GESAMTLÄNGE  1002 + TABS  TYP 3
 
 ---
 
@@ -1231,7 +1200,7 @@ LÄNGE INHALTE Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD oder 7333
 | **21** | **Titel** | 0..1 | <=20 | a |  |  | 3104 | |
 | **22** | **Namenszusatz** | 0..1 | <=20 | a |  |  | 3100 | |
 
-Seite 34 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 34 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 LÄNGE INHALTE -FELD Ende Bedruckung im Per- sonalienfeld Bereich) Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 Standard- barcode- Typ 1
 
@@ -1260,13 +1229,12 @@ LÄNGE INHALTE -FELD Ende Bedruckung im Per- sonalienfeld Bereich) Versicherten_
 | **40** | **Prüfnummer** | 1 | 15 | a |  | Das Feld ist mit der |  | |
 | **41  ff** | **Auftrag** | 1..n | 2 | n | 01-06,  08-11,  13-21,  23-32,  34-49,  51-56,  58,  60-64 | NN |  | 8434/ |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 35 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 35 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**702 + TABS**       **TYP 3**
-
-legärztl. Beh. Untersuchungen LÄNGE INHALTE leer ist leer ist und 27 leer sind leer ist  Beh. BFB-Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD 8410
+legärztl. Beh. Untersuchungen LÄNGE INHALTE leer ist leer ist und 27 leer sind leer ist  Beh. BFB-Prüfnummer zu belegen.  Format: A/9/JJMM/NN/NNN -FELD 8410 MAXIMALE GESAMTLÄNGE  702 + TABS   TYP 3
 
 ---
 
@@ -1290,7 +1258,7 @@ angekreuzt.
 
 Diese Aufträge sind im Barcode zu codieren als „03 06 23", wobei das Zeichen  den Tabulator symbo-lisiert.
 
-Seite 36 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 36 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -1316,19 +1284,16 @@ Seite 36 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 37 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 37 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 11
 
 ### Barcode Inhalt Muster 11/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -1367,7 +1332,7 @@ Seite 38 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ### Barcode Inhalt Muster 12a/E
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
@@ -1397,7 +1362,7 @@ LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  
 
 Seite 39 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentengabe) gabe) gabe) INHALTE befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist 
 
@@ -1425,7 +1390,7 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 Seite 40 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sung) links/rechts/beidseits fachkraft (Kompressions- strümpfe) onsstrümpfe) pressionsstrümpfe) sionsstrümpfe) LÄNGE INHALTE befüllt ist befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist und/oder 51 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist 
 
@@ -1452,7 +1417,7 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 Seite 41 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pressionsverbände) sionsverbände) verbände) bände) LÄNGE Verbände fachkraft (Stützverbände) bände) verbände) bände) INHALTE und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 59 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist 
 
@@ -1480,7 +1445,7 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 Seite 42 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) akut) akut) gung chronisch) versorgung chronisch) versorgung chronisch) chronisch) chronisch) handlungspflege LÄNGE INHALTE und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. 
 
@@ -1508,14 +1473,15 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 Seite 43 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE fachkraft (Grundpflege) fachkraft (Hauswirtschaftliche Versorgung) schaftliche Versorgung) wirtschaftliche Versorgung) schaftliche Versorgung) che Versorgung) che Versorgung) INHALTE hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist 
 
 
 ---
 
-**MAXIMALE GESAMTLÄNGE**  **406 + TABS**       **TYP 3**
+\|  |
+\|---|
 
 **HINWEIS**
 
@@ -1525,7 +1491,10 @@ Für die Ausdrucke der Formulare gelten die folgenden Datumsformate abweichend v
 
 - Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT MM“
 
-Seite 44 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 44 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
+
+MAXIMALE GESAMTLÄNGE  406 + TABS   TYP 3 
+
 
 ---
 
@@ -1560,7 +1529,7 @@ Seite 45 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ### Barcode Inhalt Muster 12b/E
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
@@ -1590,7 +1559,7 @@ LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  
 
 Seite 46 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentengabe) gabe) gabe) INHALTE befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist 
 
@@ -1618,7 +1587,7 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 Seite 47 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sung) links/rechts/beidseits fachkraft (Kompressions- strümpfe) onsstrümpfe) pressionsstrümpfe) sionsstrümpfe) LÄNGE INHALTE befüllt ist befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist und/oder 51 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist 
 
@@ -1645,7 +1614,7 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 Seite 48 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pressionsverbände) sionsverbände) verbände) bände) LÄNGE Verbände fachkraft (Stützverbände) bände) verbände) bände) INHALTE und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 59 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist 
 
@@ -1673,7 +1642,7 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 Seite 49 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) akut) akut) gung chronisch) versorgung chronisch) versorgung chronisch) chronisch) chronisch) handlungspflege LÄNGE INHALTE und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. 
 
@@ -1701,14 +1670,15 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 Seite 50 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE fachkraft (Grundpflege) fachkraft (Hauswirtschaftliche Versorgung) schaftliche Versorgung) wirtschaftliche Versorgung) schaftliche Versorgung) che Versorgung) che Versorgung) INHALTE hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist 
 
 
 ---
 
-**MAXIMALE GESAMTLÄNGE**  **406 + TABS**       **TYP 3**
+\|  |
+\|---|
 
 **HINWEIS**
 
@@ -1720,7 +1690,10 @@ Für die Ausdrucke der Formulare gelten die folgenden Datumsformate abweichend v
 
 - Zeitraum und Häufigkeit der Maßnahmen: „TTMM“ oder „TT.MM“ oder „TT MM“
 
-Seite 51 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 51 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
+
+MAXIMALE GESAMTLÄNGE  406 + TABS   TYP 3 
+
 
 ---
 
@@ -1755,7 +1728,7 @@ Seite 52 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ### Barcode Inhalt Muster 12c/E
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 pitel 2.5 in diesem Feld codiert. Mehrere ICD-10-Diagnosen werden durch ein Komma und ein Leer- zeichen getrennt. 
 
@@ -1785,7 +1758,7 @@ LÄNGE box INHALTE 07, 08, 09 dardbar- code-Typ 1 zusätzlicher Wertebereich :  
 
 Seite 53 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentengabe) gabe) gabe) INHALTE befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist 
 
@@ -1813,7 +1786,7 @@ LÄNGE tenbox) kamentenbox) mentenbox) box) box) tengabe) kamentengabe) mentenga
 
 Seite 54 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sung) links/rechts/beidseits fachkraft (Kompressions- strümpfe) onsstrümpfe) pressionsstrümpfe) sionsstrümpfe) LÄNGE INHALTE befüllt ist befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist oder 43 befüllt ist und/oder 51 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist 
 
@@ -1840,7 +1813,7 @@ einstellung vierter Insulintherapie messung) ckermessung) ckermessung) sung) sun
 
 Seite 55 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pressionsverbände) sionsverbände) verbände) bände) LÄNGE Verbände fachkraft (Stützverbände) bände) verbände) bände) INHALTE und/oder 51 und nicht Feld 52 befüllt ist und/oder 51 und nicht Feld 52 befüllt ist und/oder 59 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist und/oder 59 und nicht Feld 60 befüllt ist befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist 
 
@@ -1868,7 +1841,7 @@ strümpfe) strümpfe) men fachkraft (Kompressionsver- bände) onsverbände) pres
 
 Seite 56 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) akut) akut) gung chronisch) versorgung chronisch) versorgung chronisch) chronisch) chronisch) handlungspflege LÄNGE INHALTE und nicht Feld 67 befüllt ist und nicht Feld 67 befüllt ist befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist und nicht Feld 74 befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist befüllt ist hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. 
 
@@ -1896,14 +1869,15 @@ fachkraft (Wundversorgung akut) gung akut) versorgung akut) versorgung akut) aku
 
 Seite 57 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE fachkraft (Grundpflege) fachkraft (Hauswirtschaftliche Versorgung) schaftliche Versorgung) wirtschaftliche Versorgung) schaftliche Versorgung) che Versorgung) che Versorgung) INHALTE hier als Platzhalter. Hier sollen die ersten 5 Zeichen des Frei- textes eingetragen werden, so- fern hier eine Eintragung getä- tigt wurde. befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist und nicht Feld 90 befüllt ist befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist und nicht Feld 97 befüllt ist 
 
 
 ---
 
-**MAXIMALE GESAMTLÄNGE**  **406 + TABS**       **TYP 3**
+\|  |
+\|---|
 
 **HINWEIS**
 
@@ -1915,7 +1889,10 @@ Für die Ausdrucke der Formulare gelten die folgenden Datumsformate abweichend v
 
 - Zeitraum und Häufigkeit der Maßnahmen: TTMM oder „TT.MM“ oder „TT MM“
 
-Seite 58 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 58 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
+
+MAXIMALE GESAMTLÄNGE  406 + TABS   TYP 3 
+
 
 ---
 
@@ -1948,7 +1925,7 @@ Seite 58 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 
 Seite 59 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 LÄNGE mittelkatalog code-Typ 1 abc zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 Sprach- und Schlucktherapie 
 
@@ -1972,13 +1949,12 @@ LÄNGE mittelkatalog code-Typ 1 abc zusätzlicher Wertebereich :  JJJJMM00, JJJJ
 | **32** | **Hausbesuch** | 1 | n | 0, 1 | 0 = nein angekreuzt  1 = ja angekreuzt |
 | **33** | **Dringlicher Behandlungsbe-** | 1 | n | 1 | 1 = angekreuzt |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 60 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 60 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**425 + TABS**       **TYP 3**
-
-darf innerhalb von 14 Tagen LÄNGE Feldinhalt der ersten Zeile Feldinhalt der zweiten Zeile Feldinhalt der dritten Zeile
+darf innerhalb von 14 Tagen LÄNGE Feldinhalt der ersten Zeile Feldinhalt der zweiten Zeile Feldinhalt der dritten Zeile MAXIMALE GESAMTLÄNGE  425 + TABS   TYP 3
 
 ---
 
@@ -2010,19 +1986,16 @@ darf innerhalb von 14 Tagen LÄNGE Feldinhalt der ersten Zeile Feldinhalt der zw
 | **20** | **Diagnose** | <=50 | a |  |  |
 | **21** | **Hörhilfe notwendig** | 1 | a | r; l; b | r = rechts |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 61 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 61 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 15
 
 ### Barcode Inhalt Muster 15.1/E
 
-**218 + TABS**
-
-**TYP 3**
-
-LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = nein 2 = Klartext l = links b = beiderseits
+LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = nein 2 = Klartext l = links b = beiderseits  MAXIMALE GESAMTLÄNGE  218 + TABS   TYP 3
 
 ---
 
@@ -2052,19 +2025,16 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 =
 | **18** | **Geschlecht** | 1 | a | M, W, U, X, D | U = unbekannt |
 | **19** | **Diagnosen** | <=81 | a |  | Trennzeichen ist Komma |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 62 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 62 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 19
 
 ### Barcode Inhalt Muster 19a/E
 
-**247 + TABS**
-
-**TYP 3**
-
-laub / Notfall LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = Urlaub 3 = Notfall M = männlich W = weiblich X = unbestimmt D = divers
+laub / Notfall LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = Urlaub 3 = Notfall M = männlich W = weiblich X = unbestimmt D = divers MAXIMALE GESAMTLÄNGE  247 + TABS   TYP 3
 
 ---
 
@@ -2094,15 +2064,14 @@ laub / Notfall LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ000
 | **20** | **AU bis** | 8 | n |  | Format: JJJJMMTT |
 | **21** | **Befunde/Therapie** | <=80 | a |  |  |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 63 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 63 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 19b/E
 
-**336 + TABS**       **TYP 3**
-
-LÄNGE code-Typ 1 Arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 dienst 2 = Urlaub 3 = Notfall M = männlich W = weiblich X = unbestimmt D = divers
+LÄNGE code-Typ 1 Arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 dienst 2 = Urlaub 3 = Notfall M = männlich W = weiblich X = unbestimmt D = divers MAXIMALE GESAMTLÄNGE  336 + TABS   TYP 3
 
 ---
 
@@ -2112,7 +2081,7 @@ Das Feld 21 im Barcode vom Muster 19b ist aus Platzgründen auf 80 Zeichen besch
 
 Bei den Mustern 19a, 19b und 19c darf das Geschlecht unbekannt („U“ im Barcode) sein. In Ausnahme zu  den Kriterien (3) und (4) der Anforderung P4.8-30 erfolgt in diesem Fall kein Eintrag auf dem Formular.
 
-Seite 64 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 64 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -2138,19 +2107,16 @@ Seite 64 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 65 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 65 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 20
 
 ### Barcode Inhalt Muster 20b/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2181,19 +2147,16 @@ LÄNGE kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 code-Typ
 | **19** | **sonstiger Unfall, Unfallfolgen** | 1 | n | 1 | 1 = ja |
 | **20** | **SER** | 1 | n | 1 | 1 = ja |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 66 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 66 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 21
 
 ### Barcode Inhalt Muster 21/E
 
-**182 + TABS**
-
-**TYP 3**
-
-oder Pflege wegen Krankheit vom  oder Pflege wegen Krankheit bis einschließlich LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+oder Pflege wegen Krankheit vom  oder Pflege wegen Krankheit bis einschließlich LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  182 + TABS   TYP 3
 
 ---
 
@@ -2227,17 +2190,16 @@ oder Pflege wegen Krankheit vom  oder Pflege wegen Krankheit bis einschließlich
 | **22** | **Dauer (in Wochen)** | 2 | n |  |  |
 | **23** | **Kompaktkur** | 1 | n | 1; 2 | 1 = ja |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 67 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 67 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 25
 
 ### Barcode Inhalt Muster 25/E
 
-**218 + TABS**       **TYP 3**
-
-/Krankheitsverhütung behandlungsbed. Krankheiten Entw. von Kindern LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = nein
+/Krankheitsverhütung behandlungsbed. Krankheiten Entw. von Kindern LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 2 = nein MAXIMALE GESAMTLÄNGE  218 + TABS   TYP 3
 
 ---
 
@@ -2263,19 +2225,16 @@ Seite 67 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 68 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 68 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 26
 
 ### Barcode Inhalt Muster 26a/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2299,15 +2258,14 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 69 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 69 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 26b/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2331,15 +2289,14 @@ LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJ
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 70 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 70 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 26c/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2365,19 +2322,16 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 71 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 71 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 27
 
 ### Barcode Inhalt Muster 27a/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2401,15 +2355,14 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 72 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 72 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 27b/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2433,15 +2386,14 @@ LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJ
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 73 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 73 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 27c/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2467,19 +2419,16 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 74 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 74 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 28
 
 ### Barcode Inhalt Muster 28a/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2503,15 +2452,14 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 75 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 75 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 28b/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 schen Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 schen Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2535,15 +2483,14 @@ LÄNGE code-Typ 1 schen Leistungserbringer zusätzlicher Wertebereich :  JJJJMM0
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 76 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 76 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 28c/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2569,19 +2516,16 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 77 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 77 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 36
 
 ### Barcode Inhalt Muster 36/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2615,7 +2559,7 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
 | **22** | **PLZ** | <=10 | a |  |  | 3112 | |
 | **23** | **Ort** | <=40 | a |  |  | 3113 | |
 
-Seite 78 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 78 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
@@ -2636,7 +2580,7 @@ LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- c
 | **34** | **Wiederholungsuntersu-** | 1 | n | 0, 1 | 0=nein |  | 7296 |
 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
 
-Seite 79 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 79 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 chung suchung LÄNGE INHALTE leer sind suchung  1=ja len der Jahresangabe) nates)
 
@@ -2650,7 +2594,7 @@ chung suchung LÄNGE INHALTE leer sind suchung  1=ja len der Jahresangabe) nates
 | **39** | **HPV-HR-Testergebnis** | 1 | n | 1, 2, 3 | 1=positiv  2=negativ  3=nicht verwertbar |  | 3316 |
 | **40** | **Gyn. OP, Strahlen oder** | 1 | n | 0, 1 | 0=nein |  | 7336 |
 
-Seite 80 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 80 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 gebnis vor? Chemotherapie des Geni- tales LÄNGE INHALTE II, II-a, IIw, IIk, II-p, II-g, II-e, IIID, IIID1, IIID2, III, III-p, III- g, III-e, III-x, IVa, IVa-p, IVa-g, IVb, g, V, V-p, V- Nomenklatur III Münchener Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 ver- wendet werden: 1=liegt vor  1=ja
 
@@ -2668,13 +2612,12 @@ gebnis vor? Chemotherapie des Geni- tales LÄNGE INHALTE II, II-a, IIw, IIk, II-
 | **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig |  | 7384 |
 | **49** | **Erläuterungen** | <=240 | a |  | Freitext | 4205 | 7423 |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 81 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 81 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-**650 + TABS**       **TYP 3**
-
-LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - Wann? Blutung onshemmer / sonstige Hormonanwendung INHALTE reich: reich: 1=ja 1=ja 1=ja 1=ja 1=auffällig
+LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - Wann? Blutung onshemmer / sonstige Hormonanwendung INHALTE reich: reich: 1=ja 1=ja 1=ja 1=ja 1=auffällig MAXIMALE GESAMTLÄNGE  650 + TABS   TYP 3
 
 ---
 
@@ -2708,7 +2651,7 @@ LÄNGE Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - W
 | **24** | **Straße** | <=46 | a |  |  | 3107 | |
 | **25** | **Hausnummer** | <=9 | a |  |  | 3109 | |
 
-Seite 82 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 82 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- code-Typ 1 Arzt druckung im Personalien- feld
 
@@ -2728,7 +2671,7 @@ LÄNGE INHALTE Ende Versicherten_ID oder SKT-Zusatz gruppe 07, 08, 09 dardbar- c
 | **35** | **Datum der letzten Unter-** | 4 | n |  | JJMM  JJ (die letzten beiden Stel- MM (die Angabe des Mo- |  | 7297 |
 | **36** | **Gruppe** | <=5 | a | 0, I, II, I/II, I- | Erläuterung zur Münchner    0 = unzureichendes Mate- rial,   I = unauffällige und un- verdächtige Befunde   II-a = Unauffällige Befunde  bei auffälliger Anamnese   II-p, II-g, II-e = Befunde  mit eingeschränkt protek- tivem Wert   III-p, III-g, III-e, III-x = Un- klare bzw. zweifelhafte  Befunde   IIID1, IIID2 = Dysplasiebe- funde mit größerer Re- gressionsneigung |  | 7414 |
 
-Seite 83 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 83 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 chung suchung LÄNGE INHALTE leer sind suchung  II, II-a, IIw, IIk, II-p, II-g, II-e, IIID, IIID1, IIID2, III, III-p, III- g, III-e, III-x, IVa, IVa-p, IVa-g, IVb, IVb-p, IVb- g, V, V-p, V- g, V-e, V-x 1=ja len der Jahresangabe) nates) Nomenklatur III
 
@@ -2749,7 +2692,7 @@ chung suchung LÄNGE INHALTE leer sind suchung  II, II-a, IIw, IIk, II-p, II-g, 
 
 Seite 84 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung /
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 LÄNGE gebnis vor? Chemotherapie des Geni- tales Chemotherapie des Geni- tales - Welche? Chemotherapie des Geni- tales - Wann? Blutung INHALTE Münchener Nomenklatur II dürfen nur für Befunde bis zum 31.12.2014 ver- wendet werden: 1=liegt vor  1=ja reich: reich: 1=ja 1=ja 
 
@@ -2763,11 +2706,12 @@ LÄNGE gebnis vor? Chemotherapie des Geni- tales Chemotherapie des Geni- tales -
 | **48** | **Klinischer Befund** | 1 | n | 0, 1 | 0=unauffällig |  | 7384 |
 | **49** | **Erläuterungen** | <=240 | a |  | Freitext | 4205 | 7423 |
 
-**MAXIMALE GESAMTLÄNGE**  **560 + TABS**       **TYP 3**
+\|  |
+\|---|
 
-Seite 85 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 85 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
-LÄNGE INHALTE 1=ja onshemmer / sonstige 1=ja Hormonanwendung 1=auffällig
+LÄNGE INHALTE 1=ja onshemmer / sonstige 1=ja Hormonanwendung 1=auffällig MAXIMALE GESAMTLÄNGE  560 + TABS   TYP 3
 
 ---
 
@@ -2793,19 +2737,16 @@ LÄNGE INHALTE 1=ja onshemmer / sonstige 1=ja Hormonanwendung 1=auffällig
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 86 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 86 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 50
 
 ### Barcode Inhalt Muster 50.2/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2831,19 +2772,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 87 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 87 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 51
 
 ### Barcode Inhalt Muster 51.2/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2869,19 +2807,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 88 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 88 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 52
 
 ### Barcode Inhalt Muster 52.2/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2907,19 +2842,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 89 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 89 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 53
 
 ### Barcode Inhalt Muster 53.2/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2945,19 +2877,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 90 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 90 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 55
 
 ### Barcode Inhalt Muster 55/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -2983,19 +2912,16 @@ LÄNGE code-Typ 1 zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 91 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 91 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 56
 
 ### Barcode Inhalt Muster 56.2/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3021,19 +2947,16 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format: JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 92 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 92 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 61
 
 ### Barcode Inhalt Muster 61Ab/E
 
-**164 + TABS**
-
-**TYP 1**
-
-LÄNGE code-Typ 1 bei der Krankenkasse zusätzlicher Wertebe- reich:  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 bei der Krankenkasse zusätzlicher Wertebe- reich:  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3057,15 +2980,14 @@ LÄNGE code-Typ 1 bei der Krankenkasse zusätzlicher Wertebe- reich:  JJJJMM00, 
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 93 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 93 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 61Ea /E
 
-**164 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3091,17 +3013,16 @@ LÄNGE code-Typ 1 kasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 94 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 94 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 62
 
 ### Barcode Inhalt Muster 62Aa.1/E
 
-**164 + TABS**       **TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3125,15 +3046,14 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 95 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 95 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 62Ba.1/E
 
-**164 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3159,19 +3079,16 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 96 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 96 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 63
 
 ### Barcode Inhalt Muster 63a.1/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
+LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3195,15 +3112,14 @@ LÄNGE :  JJJJMM00, JJJJ0000, 00000000 code-Typ 1
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 97 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 97 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 63b/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3227,15 +3143,14 @@ LÄNGE code-Typ 1 Leistungserbringer zusätzlicher Wertebereich :  JJJJMM00, JJJ
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 98 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 98 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 63c/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 spezialisierten Leistungs- erbringers zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 spezialisierten Leistungs- erbringers zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3259,15 +3174,14 @@ LÄNGE code-Typ 1 spezialisierten Leistungs- erbringers zusätzlicher Werteberei
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 99 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 99 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 63d/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3278,7 +3192,7 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | NR. | FELDBEZEICHNUNG | FELD- | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
 | **01** | **Formularcode** | 2 | n | 64 | Nr. des Musters |
-| **02** | **Formularcodeergänzung** | 1 | a | Ba | Ausfertigung für die Kran- |
+| **02** | **Formularcodeergänzung** | 1  2 | a | Ba | Ausfertigung für die Kran- |
 | **03** | **Versionsnummer** | 2 | n | 04 |  |
 | **04** | **Nachname** | <=45 | a |  |  |
 | **05** | **Vorname** | <=45 | a |  |  |
@@ -3293,19 +3207,19 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 100 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 100 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
 ## MUSTER 64
 
 ### Barcode Inhalt Muster 64/E
 
-**163 + TABS**
+/ Version: 4.81 / 13. November 2026
 
-**TYP 1**
+LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 164 + TABS  TYP 1 
 
-LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
 
 ---
 
@@ -3331,19 +3245,16 @@ LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 101 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 101 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 65
 
 ### Barcode Inhalt Muster 65/E
 
-**163 + TABS**
-
-**TYP 1**
-
-LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3369,19 +3280,16 @@ LÄNGE code-Typ 1 kenkasse zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 102 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 102 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 70
 
 ### Barcode Inhalt Muster 70a/E
 
-**163 + TABS**
-
-**TYP 1**
-
-mern LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+mern LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3405,15 +3313,14 @@ mern LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :
 | 14 | LANR | 9 | n |  |  |
 | 15 | Ausstellungsdatum | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 103 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 103 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 70b/E
 
-**163 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  163 + TABS   TYP 1
 
 ---
 
@@ -3439,19 +3346,16 @@ LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 104 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 104 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ## MUSTER 70A
 
 ### Barcode Inhalt Muster 70Aa/E
 
-**164 + TABS**
-
-**TYP 1**
-
-LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3475,15 +3379,14 @@ LÄNGE code-Typ 1 Verbleib beim Vertrags- arzt zusätzlicher Wertebereich :  JJJ
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format : JJJJMMTT |
 
-**MAXIMALE GESAMTLÄNGE**
+\|  |
+\|---|
 
-Seite 105 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 105 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ### Barcode Inhalt Muster 70Ab/E
 
-**164 + TABS**       **TYP 1**
-
-LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000
+LÄNGE code-Typ 1 :  JJJJMM00, JJJJ0000, 00000000 MAXIMALE GESAMTLÄNGE  164 + TABS   TYP 1
 
 ---
 
@@ -3535,7 +3438,7 @@ Ident-Nummer einer optionalen Funktion
 
 Im Rahmen der Blankoformularbedruckung dürfen nur die in der Vordruck-Vereinbarung Blankoformular-bedruckung [EXT_ITA_VGEX_Vordruckvereinbarung_BFB] bezeichneten Formulare verwendet werden. Die  für das jeweilige Formular in Blankoformularbedruckung zu nutzende Papiergröße ist in der „Vordruck-Ver-einbarung Blankoformularbedruckung“ zu jedem Muster festgelegt.
 
-Seite 106 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 106 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3581,7 +3484,7 @@ Alle bisher konventionell bedruckten vertragsärztlichen Formulare dürfen auch 
 
 ________________
 
-Seite 107 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 107 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3623,7 +3526,7 @@ Der Ausdruck eines Blankoformulars darf in gewissem Rahmen bezüglich der aufzud
 - 5. Für Ausnahmefälle (wie z. B. Haus- und Heimbesuche, Bereitschaftsdienst) können Blankoformulare  gänzlich ohne personenbezogene und formularspezifische Inhalte ausgedruckt und eingesetzt werden.
 - a) In diesem Fall ist nur die Prüfnummer aufzudrucken.
 
-Seite 108 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 108 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3671,7 +3574,7 @@ Das System muss auf Mustern der Blankoformularbedruckung die Datumsangaben im Fo
 
 Da bisherige Formate wie „TTMMJJ“ und „MMJJ“ für Ärzte und Patienten zu Verständnisproblemen führ-ten, wird das Format in ein gebräuchlicheres geändert.
 
-Seite 109 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 109 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3693,7 +3596,7 @@ TTMMJJ
 
 Diese Anforderung gilt nicht für die Bedruckung der konventionellen Muster. Im Rahmen der konventionel-len Muster ist das Format durch die jeweilige Vorlage vorgegeben. Ebenfalls bleibt das Format in den Bar-codes hiervon unberührt.
 
-Seite 110 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 110 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3711,7 +3614,7 @@ Abbildung 1: Darstellung eines PDF417-Symbols
 
 Die Codewörter im PDF417 können 929 Werte annehmen, wobei die Werte 900-928 reserviert sind. Die  Menge aller möglichen Codewörter ist in drei - sich gegenseitig ausschließende - Verschlüsselungsmengen,  sogenannte Cluster, aufgeteilt. Jedes Cluster enthält 929 verschiedene Muster. Zugelassene Cluster-Num-mern sind 0, 3 und 6. Pro Zeile wird jeweils nur ein Cluster verwendet, dass sich in jeder 3. Zeile wiederholt,  wobei die Cluster-Nummer  des verwendeten Clusters sich aus der Reihen-Nummer # berechnen lässt  =((#-1)mod3)*3).
 
-Seite 111 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 111 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3758,7 +3661,7 @@ Der Symbollängendeskriptor dn-1 ist das erste Daten-Codewort. Sein Wert entspri
 
 Prinzipiell ist die minimale Größe eines Moduls (und damit auch die minimale Größe des Barcodes) abhängig  von der einzusetzenden Druck- bzw. Scantechnologie. Abbildung 2 veranschaulicht den Aufbau eines  PDF417-Symbols. Dabei wird der in Codewörtern umgewandelte Text in der Reihenfolge d - d abgelegt. 15 0
 
-Seite 112 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 112 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3786,7 +3689,7 @@ Die graphische Darstellung eines einzelnen Codeworts - sog. Codewort-Symbol (s. 
 
 ________________  2 Ausnahme sind die Start- und Stop-Muster.
 
-Seite 113 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 113 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 = Symbollängendeskriptor  - d = Codierte Daten
 
@@ -3840,7 +3743,7 @@ Algorithmus:
 
 ________________  3 Ausnahme ist das Stop-Muster.
 
-Seite 114 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 114 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 Algorithmus“ codiert, der auf folgender Gleichung ba-
 
@@ -3908,13 +3811,7 @@ Algorithmus:
 
 ```
 - 1. Teile die Ziffernsequenz in Folgen mit 44 Ziffern. Wenn eine  Ziffernfolge länger ist als 44 Ziffern, behalte den NC-Mode  bei, auch wenn die letzte Gruppe weniger als 44 Ziffern ent-hält.
-- 2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern-folge3F4
-```
-
-- 4 Max. 44 Ziffern
-
-```
-- mit einer führenden 1
+- 2. Sei t = temp. Variable; setze t = (zu codierende) Ziffern-folge3F4 mit einer führenden 1
 - 3. Berechne für jedes Codewort d = d ... di 0
 - n-1
 BEGIN
@@ -3928,7 +3825,9 @@ END
 
 ________________
 
-Seite 115 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+- 4 Max. 44 Ziffern
+
+Seite 115 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -3989,7 +3888,7 @@ Tabelle 2: Übergänge der TC-Sub-Modes
 
 - al = Wechsel zu Alpha
 
-Seite 116 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 116 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4039,7 +3938,7 @@ P.
 - 26. Versetze P um B.
 ```
 
-Seite 117 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 117 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4057,7 +3956,7 @@ Auslöschungen, d.h. fehlende oder nicht-lesbare Codewörter (die Position des C
 
 Ersetzungsfehler, d.h. falsch gelesene Codewörter (die Position und der Wert des Codeworts sind unbekannt)
 
-Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs-fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden:
+Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Codewörter, um Ersetzungs-fehler auszubessern. Demzufolge können bei einem bestimmten Sicherheitslevel maximal eine bestimmte  Anzahl Fehler gefunden und richtiggestellt werden: 2s+1
 
 | SICHERHEITSLEVEL | BENÖTIGTE ANZAHL AN CODEWÖRTERN | |
 |---|---|---|
@@ -4071,8 +3970,6 @@ Dabei wird ein Codewort benötigt, um Auslöschungen zu berichtigen, und zwei Co
 | **6** | 126 | 2 |
 | **7** | 254 | 2 |
 | **8** | 510 | 2 |
-
-2s+1
 
 Tabelle 3: Sicherheits-Level des PDF417
 
@@ -4096,7 +3993,7 @@ Algorithmus:
 - 3. k0 k1x+ k2x2+...+ kk-1xk-1
 ```
 
-Seite 118 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026 2
+Seite 118 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026 2
 
 ```
 K
@@ -4167,7 +4064,7 @@ t = 929-t 3
 j = ( j-1+t )mod 929 3
 ```
 
-Seite 119 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 119 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 j
 
@@ -4219,7 +4116,7 @@ ________________
 
 5 Das folgende Beispiel - mit nur 5 Datencodewörter und 4 Fehlerkorrekturcodewörter - ist bewusst einfach konstruiert. Es soll lediglich den Be-rechnungsprozess veranschaulichen.
 
-Seite 120 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 120 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ```
 0) mod 929
@@ -4255,7 +4152,7 @@ t3=929 t2=929 913=16
 t2=(t1 2) mod 929=(124*723) mod 929=468
 t3=929 t2=929 468=461
 2 1+t3) mod 929=(876+461) mod 929=408
-t2=(t1 1 mod 929=(124*568) mod 929=757
+t2=(t1 1) mod 929=(124*568) mod 929=757
 t3=929 t2=929 757=172
 1 0+t3) mod 929=(177+172) mod 929=349
 t2=(t1 0) mod 929=(124*522) mod 929=627
@@ -4281,7 +4178,7 @@ t3=929 t2=929 9=920
 t2=(t1 2) mod 929=(627*723) mod 929=898
 ```
 
-Seite 121 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 121 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4291,7 +4188,7 @@ t3=929 t2=929 898=31
 t2=(t1 1) mod 929=(627*568) mod 929=329
 t3=929 t2=929 329=600
 1 0+t3) mod 929=(224+600) mod 929=824
-t2=(t1 0 mod 929=(627*522) mod 929=286
+t2=(t1 0) mod 929=(627*522) mod 929=286
 t3=929 t2=929 286=643
 0=t3 mod 929=643 mod 929=643
 t1=(d0 3) mod 929=(239+725) mod 929=35
@@ -4319,13 +4216,13 @@ t =929-t =929-619=310 3
 
 Der PDF417 wird im Rahmen der Blankoformularbedruckung eingesetzt, um die Fälschungssicherheit zu  erhöhen und Formularinhalte in maschinenlesbarer Form bereitzustellen. Dabei sind sowohl die Strukturie-rung des Inhalts, als auch die Darstellungsparameter des PDF417 vorgegeben.
 
-Seite 122 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 122 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
 ## 5.4 BARCODE-INHALT
 
-Der Inhalt eines Barcodes ist für die einzelnen Formulare unterschiedlich (und u.U. auch für einzelne  Seiten eines Formulars). Tabelle 5 hend identischen Inhalt eines Barcodes:
+Der Inhalt eines Barcodes ist für die einzelnen Formulare unterschiedlich (und u.U. auch für einzelne Seiten  eines Formulars). Tabelle 5 zeigt exemplarisch den in den meisten Formularen weitestgehend identischen  Inhalt eines Barcodes:
 
 | FELDBEZEICHNUNG | FELDLÄNGE | FELDTYP |
 |---|---|---|
@@ -4349,9 +4246,7 @@ Tabelle 5: Barcode Inhalt
 
 Der Großteil der Daten entspricht den Daten der Versichertenkarte. Der Formularcode gibt die vertraglich  vereinbarte Formularkennzeichnung an, wobei die Formularcodeergänzung die entsprechende Seite kenn-zeichnet. Die Versionsnummer bezeichnet eine bestimmte Barcode-Version eines bestimmten Formulars; sie  wird fortlaufend hoch gezählt. Das Ausstellungsdatum ist das Datum des Drucks des Formulars. In dem Feld  Formularspezifika werden bestimmte Daten eines Formulars aufgeführt. Die restlichen Felder entsprechen  weitestgehend den Inhalten der Versichertenkarte.
 
-Seite 123 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
-
-zeigt exemplarisch den in den meisten Formularen weitestge-
+Seite 123 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 Betriebsstättennummer  gesamt maximal 55
 
@@ -4388,7 +4283,7 @@ H = 2 * QV + 2x (2s+1 + 165 / 2 + f) / 7, mit QV = 2x
 
 unter der vereinfachenden Annahme, dass im TC-Mode 2 Zeichen durch 1 Codewort repräsentiert werden.  Die Höhe des Barcode-Symbols ist offensichtlich abhängig von der Art der zu codierenden Daten.
 
-Seite 124 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 124 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 c = 7
 
@@ -4461,7 +4356,7 @@ Low-Order Zeichen im TC-Moduls
 
 Nummer einer Reihe in PDF417-Symbols (zählt ab 1)
 
-Seite 125 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 125 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4489,7 +4384,7 @@ Zeichensatz ISO 8859-15, der ab 1/2010 als Standard-Zeichensatz im BC-Mode Verwe
 | **14** | **E** | SO | RS | . | > | N | ^ | n | ~ | *SS2* | *PM* | ® | Ÿ | Î | Þ | î | þ |
 | **15** | **F** | SI | US | / | ? | O | _ | o | *DEL* | *SS3* | *APC* | ¯ | ¿ | Ï | ß | ï | ÿ |
 
-Seite 126 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 126 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4497,7 +4392,7 @@ Seite 126 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 
 Zeichensatz PC437, der bis 4/2009 als Default-Zeichensatz im BC-Mode diente.
 
-Seite 127 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 127 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4505,7 +4400,7 @@ Seite 127 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 
 Im Bedarfsfall, z.B. bei Umlauten/Sonderzeichen, kann auf BC geschaltet werden.
 
-Seite 128 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 128 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4513,79 +4408,79 @@ Seite 128 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Versio
 
 Seite 129 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-/ Version: 4.80 / 13. Mai 2026
+/ Version: 4.81 / 13. November 2026
 
 ---
 
-Seite 130 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 130 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
-
----
-
-Seite 131 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
-
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 132 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 131 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
-
----
-
-Seite 133 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
-
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 134 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 132 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
-
----
-
-Seite 135 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
-
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 136 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 133 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
-
----
-
-Seite 137 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
-
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 138 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 134 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
-
----
-
-Seite 139 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
-
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 140 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 135 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
+13. November 2026
 
 ---
 
-Seite 141 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 /
+Seite 136 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
 
-13. Mai 2026
+13. November 2026
+
+---
+
+Seite 137 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
+
+13. November 2026
+
+---
+
+Seite 138 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
+
+13. November 2026
+
+---
+
+Seite 139 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
+
+13. November 2026
+
+---
+
+Seite 140 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
+
+13. November 2026
+
+---
+
+Seite 141 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 /
+
+13. November 2026
 
 ---
 
@@ -4595,7 +4490,7 @@ DIMDI    Deutsches Institut für Medizinische Dokumentation und Information
 
 ICD-10-Diagnose ICD-10-Code aus dem Katalog ICD-10-GM des DIMDI, Diagnosesicherheit und Seitenloka-lisation (soweit vom Anwender eine Seitenlokalisation angegeben wurde)
 
-Seite 142 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.80 / 13. Mai 2026
+Seite 142 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung / Version: 4.81 / 13. November 2026
 
 ---
 
@@ -4621,6 +4516,6 @@ Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [pruefs
 
 Seite 143 von 143 / KBV / Technisches Handbuch Blankoformularbedruckung
 
-Version: 4.80 / 13. Mai 2026
+Version: 4.81 / 13. November 2026
 
 (BMV-Ä) in aktuellster Version ellster Version druckung, in aktuellster Version nagement beim Übergang in die Ver- sorgung nach Krankenhausbehand- lung Softwarehersteller- 

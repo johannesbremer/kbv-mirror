@@ -2,9 +2,9 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-**24. AUGUST 2026**
+**13. NOVEMBER 2026**
 
-**VERSION: 6.08**
+**VERSION: 6.09**
 
 **DOKUMENTENSTATUS: IN KRAFT**
 
@@ -12,7 +12,7 @@
 
 ## [KBV_ITA_VGEX_DATENSATZBESCHREIBUNG_KVDT]
 
-Seite 1 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 1 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -20,35 +20,35 @@ Seite 1 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2
 
 **ABKÜRZUNGSVERZEICHNIS**
 
-| 1 | GRUNDLAGEN | 8 |
+| 1 | GRUNDLAGEN | 9 |
 |---|---|---|
-| 1.1 | Zielsetzung | 8 |
-| 1.2 Struktur | der Speicherung | 8 |
-| 1.3 | Grobstruktur | 9 |
-| 1.4 | Speicherung | 10 |
-| 1.5 Satz | und Satztabelle | 11 |
-| 1.5.1 | Satzaufbau | 11 |
-| 1.5.2 | Satztabellen | 11 |
-| 1.5.3 | Feldarten | 13 |
-| 1.6 Feld | und Feldtabelle | 14 |
-| 1.6.1 | Feldaufbau | 14 |
-| 1.6.2 | Feldtabelle | 15 |
-| 1.7 | Regeltabelle | 16 |
-| 1.8 | Zeichensatz | 16 |
-| 1.8.1 | Zeichensatztabelle des ISO 8859-15 | 17 |
-| 1.9 Die | Abrechnungsdatei | 17 |
-| 1.9.1 | Leitungsgebundene elektronische Abrechnung | 17 |
-| 1.9.2 | Aufbau des Dateinamens | 18 |
-| **2** | **CONTAINER-SÄTZE** | **20** |
-| 2.1 | Anordnung | 20 |
-| 2.2 | Container-Satztabellen | 20 |
-| 2.2.1 | Satzart: Container-Header ”con0” | 20 |
-| 2.2.2 | Satzart: Container-Abschluss ”con9” | 21 |
-| 2.2.3 | Satzart: Betriebsstättendaten ”besa” | 21 |
-| 2.2.4 | Satzart: Ringversuchszertifikate „rvsa“ | 25 |
-| 2.3 | Anforderungen an die Datenqualität | 26 |
-| 2.3.1 | Container-Feldtabelle | 26 |
-| 2.3.2 | Container-Regeltabelle | 30 |
+| 1.1 | Zielsetzung | 9 |
+| 1.2 Struktur | der Speicherung | 9 |
+| 1.3 | Grobstruktur | 10 |
+| 1.4 | Speicherung | 11 |
+| 1.5 Satz | und Satztabelle | 12 |
+| 1.5.1 | Satzaufbau | 12 |
+| 1.5.2 | Satztabellen | 12 |
+| 1.5.3 | Feldarten | 14 |
+| 1.6 Feld | und Feldtabelle | 15 |
+| 1.6.1 | Feldaufbau | 15 |
+| 1.6.2 | Feldtabelle | 16 |
+| 1.7 | Regeltabelle | 17 |
+| 1.8 | Zeichensatz | 17 |
+| 1.8.1 | Zeichensatztabelle des ISO 8859-15 | 18 |
+| 1.9 Die | Abrechnungsdatei | 18 |
+| 1.9.1 | Leitungsgebundene elektronische Abrechnung | 18 |
+| 1.9.2 | Aufbau des Dateinamens | 19 |
+| **2** | **CONTAINER-SÄTZE** | **21** |
+| 2.1 | Anordnung | 21 |
+| 2.2 | Container-Satztabellen | 21 |
+| 2.2.1 | Satzart: Container-Header ”con0” | 21 |
+| 2.2.2 | Satzart: Container-Abschluss ”con9” | 22 |
+| 2.2.3 | Satzart: Betriebsstättendaten ”besa” | 22 |
+| 2.2.4 | Satzart: Ringversuchszertifikate „rvsa“ | 26 |
+| 2.3 | Anforderungen an die Datenqualität | 27 |
+| 2.3.1 | Container-Feldtabelle | 27 |
+| 2.3.2 | Container-Regeltabelle | 31 |
 
 con0
 
@@ -60,7 +60,9 @@ rvsa
 
 **3** **ADT-DATENPAKET**
 
-3.1 Zielsetzung  3.2 Übersicht  3.3 Anordnung  3.4 ADT-Satztabellen  3.4.1 Satzart: ADT-Datenpaket-Header adt0
+3.1 Zielsetzung
+
+3.2 Übersicht  3.3 Anordnung  3.4 ADT-Satztabellen  3.4.1 Satzart: ADT-Datenpaket-Header adt0
 
 3.4.2 Satzart: ADT-Datenpaket-Abschluss adt9
 
@@ -72,19 +74,19 @@ rvsa
 
 3.4.6 Satzart: Notfalldienst/Vertretung/Notfall  3.5 Anforderungen an die Datenqualität
 
-Seite 2 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 2 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 **5**
 
-**35**  35  35  35  35 36
+**36**  36  36  36  36 37
 
-37
+38
 
-38  46
+39  47
 
-56  0104
+57  0104
 
-63  70
+64  71
 
 Struktur der Speicherung Satz und Satztabelle Feld und Feldtabelle Die Abrechnungsdatei 
 
@@ -93,22 +95,22 @@ Struktur der Speicherung Satz und Satztabelle Feld und Feldtabelle Die Abrechnun
 
 3.5.1 ADT-Feldtabelle  3.5.2 ADT-Regeltabelle  3.6 Besondere Hinweise  3.6.1 Auftrag zur in-vitro-Diagnostik an Facharzt  3.6.2 Laborauftrag an Laborgemeinschaft  3.6.3 Allgemeine Hinweise zu den in-vitro-Diagnostik Aufträgen 3.6.4 Handhabung der Laboraufträge von Knappschaftsärzten  3.6.5 Integration der ASV-Abrechnung in das ADT-Datenpaket  3.6.5.1 Abrechnung von ASV-Leistungen, die nicht Bestandteil des EBM sind 3.6.5.2 Angabe Tumorstadium (s. g. TNM-Status
 
-| 4 | KADT-DATENPAKET | 124 |
+| 4 | KADT-DATENPAKET | 125 |
 |---|---|---|
-| 4.1 | Zielsetzung | 124 |
-| 4.2 | Übersicht | 124 |
-| 4.3 | Anordnung | 124 |
-| 4.4 | KADT-Satztabellen | 124 |
-|  | 4.4.1 Satzart: KADT-Datenpaket-Header „kad0 | “ 125 |
-|  | 4.4.2 Satzart: KADT-Datenpaket-Abschluss ” | kad9” 126 |
-|  | 4.4.3 Satzart: Kurärztliche Behandlung ”0109 | ” 126 |
-| 4.5 | Besondere Hinweise | 130 |
-|  | 4.5.1 Erläuterung zu den Feldern 5000, 5001, | 6001, 6003, 6004 und 6006 130 |
-| 4.6 | Begleitpapiere | 130 |
-| 4.7 | Anforderungen an die Datenqualität | 130 |
-|  | 4.7.1 KADT-Feldtabelle | 130 |
-|  | 4.7.2 KADT-Regeltabelle | 139 |
-| 4.8 | Vordruckmuster ”Kurarztschein” | 149 |
+| 4.1 | Zielsetzung | 125 |
+| 4.2 | Übersicht | 125 |
+| 4.3 | Anordnung | 125 |
+| 4.4 | KADT-Satztabellen | 125 |
+|  | 4.4.1 Satzart: KADT-Datenpaket-Header „kad0 | “ 126 |
+|  | 4.4.2 Satzart: KADT-Datenpaket-Abschluss ” | kad9” 127 |
+|  | 4.4.3 Satzart: Kurärztliche Behandlung ”0109 | ” 127 |
+| 4.5 | Besondere Hinweise | 131 |
+|  | 4.5.1 Erläuterung zu den Feldern 5000, 5001, | 6001, 6003, 6004 und 6006 131 |
+| 4.6 | Begleitpapiere | 131 |
+| 4.7 | Anforderungen an die Datenqualität | 131 |
+|  | 4.7.1 KADT-Feldtabelle | 131 |
+|  | 4.7.2 KADT-Regeltabelle | 140 |
+| 4.8 | Vordruckmuster ”Kurarztschein” | 150 |
 
 kad0 0109
 
@@ -130,7 +132,7 @@ Kurarztschein
 
 6.1 Zielsetzung  6.2 Einsatzzwecke des Datenpaketes  6.3 Übersicht  6.4 Anordnung
 
-Seite 3 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 3 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ) und / oder Progression
 
@@ -142,9 +144,9 @@ sad1
 
 sad3
 
-70  89  119  119  120  120  120  121  122 123
+71  90  120  120  121  121  121  122  123 124
 
-**151**  151  151  151  151  151  153  153  154  155  156  156  159  **164**  164  164  164  164
+**151**  151  151  151  152  152  153  153  154  155  156  156  159  **164**  164  164  164  164
 
 Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und 6006
 
@@ -170,7 +172,7 @@ Erläuterung zu den Feldern 5000, 5001, 6001, 6003, 6004 und 6006
 
 **207**
 
-Seite 4 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 4 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -206,7 +208,7 @@ ABKÜRZUNGSVERZEICHNIS
 | SL | Seitenlokalisation |
 | XML | Extensible Markup Language |
 
-Seite 5 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 5 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 leme, 10. Revision, German Modification Institutionskennzeichen für alle Einrichtungen im Bereich der deut- schen Sozialversicherung, z.B. Krankenkassen
 
@@ -214,41 +216,56 @@ leme, 10. Revision, German Modification Institutionskennzeichen für alle Einric
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen vom 14.08.2026 (Version 6.07) und 24.08.2026 (Version 6.08) treten zum 01.10.2026 zur  Abrechnung des 4. . Quartals 2026 u.ff. in Kraft.
+Die Änderungen vom 13.11.2026 (Version 6.09) treten zum 01.01.2027 zur Abrechnung des 1. Quartals  2027 u.ff. in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 6.08 | 24.08.2026 | KBV | › |  | 111 |
-| 6.07 | 14.08.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  › |  | 36  77  101  107  112  118 |
-|  |  |  | **KADT-Datenpaket  ** ›  ›  › |  | 125  134  145 |
-|  |  |  | **HDRG -Datenpaket  ** ›  ›  ›  ›  ›  › |  | 165  174  183 |
-| 6.06 | 08.07.2026 | KBV |  | Anpassung an | 118 |
-| 6.05 | 27.05.2026 | KBV |  | Anpassungen | 107  112 |
-| 6.04 | 13.05.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  › |  | 36  79, 118  49  96, 113, 116  71, 97, 97  96, 108, 116 |
+| 6.09 | 13.11.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›      › | Regel 828, | 37  81    112  114, 116 |
+|  |  |  | **HDRG -Datenpaket  ** ›  ›  › |  | 165  175  180 |
+| 6.08 | 24.08.2026 | KBV | › |  | 112 |
+| 6.07 | 14.08.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  › |  | 37  78  102  108  113  120 |
+|  |  |  | **KADT-Datenpaket  ** ›  ›  › |  | 126  135  146 |
+|  |  |  | **HDRG -Datenpaket  ** ›  ›  › |  | 165  174  183 |
 
-Seite 6 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 6 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Regel 828 ergänzt (grün markiert) FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536 Regel 770 Hinweis ergänzt  Regel 834 Hinweis ergänzt Klarstellung der Regel 901 FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536   FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536   Klarstellung der Regel 901 (grün markiert) Anpassung der Regel 770 (grün markiert) Anpassung der Regel 834 (grün markiert) FK 9212 angepasst Aufnahme der Regel 901 FK 4214 angepasst Anpassung der Regeln 308, 840 und 869 Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307, 776, 876 die KVDT An- forderung KP2-565 AK 2 der Human- genetik
+FK 9212 angepasst FK 4239 Korrektur unter erlaubte Inhalte SU 27 Regel 828 ergänzt Regel 843 und 854 gestrichen 843 und 854 zusammen- gelegt FK 5001, 6001, 6003, 6004 und 6006 in ADT-Satzarten 0101-0104 Hinweis auf Kapitel 4.5.1 gelöscht FK 9212 angepasst FK 5027 Feldlänge erweitert Regel 066 entsprechen Regel 828 ergänzt (grün markiert) FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536 Regel 770 Hinweis ergänzt  Regel 834 Hinweis ergänzt Klarstellung der Regel 901 FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536   FK 9212 angepasst FK 4132 Wertebereich angepasst Anpassung der Regel 536
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | › | 71, 38, 46,  56, 63, 191,  192, 192,  192, 40, 48,  58, 65, 128 |
-|  |  |  | **KADT-Datenpaket  ** ›  ›  ›  ›  › |  | 125   181  132, 143, 143  148  126, 128 |
-|  |  |  | **HDRG-Datenpaket  ** ›  ›  ›  ›  ›  ›  › |  | 165  181  170, 181, 181  181, 185  166, 168 |
-| 6.03 | 09.03.2026 | KBV |  | Rückmeldung | 118 |
+|  |  |  | ›  ›  › |  |  |
+| 6.06 | 08.07.2026 | KBV |  | Anpassung an | 120 |
+| 6.05 | 27.05.2026 | KBV |  | Anpassungen | 108  113 |
+| 6.04 | 13.05.2026 | KBV | **ADT-Datenpaket  ** ›  ›  ›  ›  ›  ›  › |  | 37  80, 120  50  97, 114, 117  72, 98, 98  97, 109, 117  72, 39, 47,  57, 64, 191,  192, 192,  192, 41, 49,  59, 66, 129 |
+|  |  |  | **KADT-Datenpaket  ** ›  ›  ›  ›  › |  | 126   181  133, 144, 144  149  127, 129 |
+|  |  |  | **HDRG-Datenpaket  ** ›  ›  ›  ›  › |  | 165  181  170, 181, 181  181, 185  166, 168 |
+
+Seite 7 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+Klarstellung der Regel 901 (grün markiert) die KVDT An- forderung KP2-565 AK 2 Anpassung der Regel 770 (grün markiert) der Human- genetik Anpassung der Regel 834 (grün markiert) FK 9212 angepasst Aufnahme der Regel 901 FK 4214 angepasst Anpassung der Regeln 308, 840 und 869 Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307, 776, 876 Redaktionelle Anpassung der FK 3006, 3010, 3011, 3012, 3013, 4109  FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Regel 876 Redaktionelle Anpassung der FK 3010, 4109 FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307 und 876 Redaktionelle Anpassung der FK 3010, 4109
+
+---
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
+|---|---|---|---|---|---|
+|  |  |  | ›  › |  |  |
+| 6.03 | 09.03.2026 | KBV |  | Rückmeldung | 119 |
 | 6.02 | 20.02.2026 | KBV |  |  |  |
-| 6.01 | 13.02.2026 | KBV | **ADT-Datenpaket  ** ›  ›  › |  | 36  79, 82, 118,  118  50, 119 |
+| 6.01 | 13.02.2026 | KBV | **ADT-Datenpaket  ** ›  ›  › |  | 37  80, 83, 119,  119  51, 120 |
 
 ```
 -
+```
+
+Seite 8 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+```
 -
 ```
 
-Seite 7 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-Redaktionelle Anpassung der FK 3006, 3010, 3011, 3012, 3013, 4109  FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Regel 876 Redaktionelle Anpassung der FK 3010, 4109 FK 9212 angepasst Anpassung der Regel 308  Aufnahme der Regeln 309 und 310 Redaktionelle Anpassung der Re- geln 307 und 876 Redaktionelle Anpassung der FK 3010, 4109 Anpassung der Regel 900 (Ände- rung grün markiert)  aus der In- dustrie/von Laboren Fehlerhafte Regel 539 gestrichen FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219  Konkretisierung der Er- läuterung
+Anpassung der Regel 900 (Ände- rung grün markiert)  Fehlerhafte Regel 539 gestrichen FK 9212 angepasst Aufnahme der Regel 899 und 900 FK 4219  Konkretisierung der Er- läuterung  aus der In- dustrie/von Laboren
 
 ---
 
@@ -300,7 +317,7 @@ Ein **Datenpaket** ist in **Sätze** unterteilt. Folgende
 - SADT-Belegärztliche Behandlung
 - **HDRG-Datenpaket**
 
-Seite 8 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 9 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Modell” hinzugefügt werden können.
 
@@ -346,43 +363,38 @@ Ein **Feld** ist die kleinste Einheit einer Datei. Es besteht aus:
 
 Eine **Datei** setzt sich neben Container-Sätzen (”con0”, ”con9”, ”besa”, „rvsa“) aus Datenpaketen zusam-men:
 
-**Datei**
-
-ADT-Datenpaket
-
-KADT-Datenpaket
-
-SADT-Datenpaket
+\| Datei |
+\|---|
+\| ADT-Datenpaket |
+\| KADT-Datenpaket |
+\| SADT-Datenpaket |
 
 Ein **Datenpaket** setzt sich aus mehreren **Sätzen** zusammen:
 
-**Datenpaket**
-
-Satz 1
-
-Satz n
+\| Datenpaket |
+\|---|
+\| Satz 1 |
+\| …. |
+\| Satz n |
 
 Ein **Satz** ist unterteilt in **Felder**
 
-**Satz**
-
-Feld 1
-
-Feld n
+\| Satz |
+\|---|
+\| Feld 1 |
+\| …. |
+\| Feld n |
 
 Jedes **Feld** hat den folgenden Aufbau:
 
-**Feld**
+\| Feld |
+\|---|
+\| Länge |
+\| Kennung |
+\| Inhalt |
+\| Ende CR/LF |
 
-Länge
-
-Kennung
-
-Inhalt
-
-Ende CR/LF
-
-Seite 9 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 10 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -422,9 +434,7 @@ Seite 9 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2
 | KADT-Datenpaket-Abschluss | „kad9“ |
 | SADT-Datenpaket-Header | „sad0“ |
 
-Seite 10 von 207 / KBV / Datensatzbeschreibung KVDT /
-
-Version 6.08 / 24. August 2026
+Seite 11 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 SADT-Abrechnung Header ”con0” KADT- und SADT-Abrechnung adt9
 
@@ -469,7 +479,7 @@ Die Satztabellen dienen der Prüfung des Satzaufbaus. Jede Satztabelle gibt die 
 
 **Hinweis**
 
-Seite 11 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 12 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 DRG-Abrechnung
 
@@ -479,61 +489,12 @@ Die Felder sind entsprechend ihrer Anordnung in der Satztabelle unter Berücksic
 
 Ausnahme ADT-Satzarten ”010x” und KADT Satzart ”0109”: Felder mit den Feldkennungen 5000 – 5019  sind chronologisch bzw. im Sachzusammenhang zu übertragen. Demnach muss insbesondere die Anord-nung der Leistungstage (Inhalte der Felder 5000) in aufsteigender Reihenfolge innerhalb des ADT-Datenpa-ketes erfolgen.
 
-**Beispiel:**
-
-...3101...
-
-...3102...
-
-...
-
-...500020141001
-
-...5001...
-
-...5002...
-
-...5005...
-
-...5098…
-
-...5099…
-
-...5001...
-
-...5009...
-
-...5098…
-
-...5099…
-
-...500020141002
-
-...5001...
-
-...5016...
-
-...5098…
-
-...5099…
-
-...5001...
-
-…5098…
-
-…5099…
-
-...500020141013
-
-...5001...
-
-...5098…
-
-...5099…
+\| **Beispiel:  ** ...3101...  ...3102...  ...  ...500020141001  ...5001...  ...5002...  ...5005...  ...5098… ...5099… ...5001...  ...5009...  ...5098… ...5099… ...500020141002  ...5001...  ...5016...  ...5098… ...5099…  ...5001...  …5098… …5099… ...500020141013  ...5001...  ...5098… ...5099… |
+\|---|
 
 Zu jedem Feld ist ein Eintrag mit den folgenden Angaben vorhanden:
 
-Seite 12 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 13 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -547,23 +508,8 @@ Seite 12 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | Bedingung | Regel xxx  (Hinweis: nur Kontext-Regeln, in | Regel 302 |
 | Erläuterung | Hinweise zum Feld | Satzart   Überweisung |
 
-**Beispiel:**
-
-Der folgende beispielhafte Auszug aus der Satztabelle ”0101” soll die Struktur eines Satzes entspre-chend den Angaben in der Spalte ”Vorkommen” verdeutlichen:
-
-| BEISPIEL | | | | | |
-|---|---|---|---|---|---|
-| **FK** | Vorkommen  1        2        3 | … |  | | |
-| … |  |  |  | … |  |
-| 3101 | 1 |  |  | … | Feld 3101 kann einmal je Satz ”0101” vorkommen |
-| … |  |  |  | … |  |
-| 5000 | n |  |  | … | Feld 5000 kann beliebig oft je Satz ”0101” vorkommen |
-| 5001 |  | n |  | … | Feld 5001 kann beliebig oft je Feld 5000 vorkommen |
-| 5002 |  |  | 1 | … | Feld 5002 kann nur einmal je Feld 5001 vorkommen |
-| … |  |  |  | … |  |
-| 5009 |  |  | n | … | Feld 5009 kann beliebig oft je Feld 5001 vorkommen |
-
-Die Spalte ”**Vorkommen**” beschreibt die  gibt außerdem die zulässige Häufigkeit eines Feldes zu dem in der Hierarchie übergeordneten Feld  bzw. den Satz wieder.
+\| **Beispiel:  ** Der folgende beispielhafte Auszug aus der Satztabelle ”0101” soll die Struktur eines Satzes entspre-**BEISPIEL FK ** Vorkommen  1        2        3  …   …       …   3101  1      … Feld 3101 kann einmal je Satz ”0101” vorkommen …       …   5000  n      … Feld 5000 kann beliebig oft je Satz ”0101” vorkommen 5001    n    … Feld 5001 kann beliebig oft je Feld 5000 vorkommen  5002      1  … Feld 5002 kann nur einmal je Feld 5001 vorkommen  …       …   5009      n  … Feld 5009 kann beliebig oft je Feld 5001 vorkommen  Die Spalte ” |
+\|---|
 
 ### 1.5.3 Feldarten
 
@@ -571,11 +517,9 @@ In der Spalte „**Feldart**“ wird angegeben, ob ein Feld in einem Satz vorhan
 
 **M = unbedingtes Mussfeld**
 
-Seite 13 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 14 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-**Hierarchie** der einzelnen Felder innerhalb eines Satzes und
-
-denen die Bedingung für das Vor- handensein des Feldes formuliert ist)
+denen die Bedingung für das Vor- handensein des Feldes formuliert ist) chend den Angaben in der Spalte ”Vorkommen” verdeutlichen: ” beschreibt die gibt außerdem die zulässige Häufigkeit eines Feldes zu dem in der Hierarchie übergeordneten Feld bzw. den Satz wieder. Hierarchie  der einzelnen Felder innerhalb eines Satzes und
 
 ---
 
@@ -619,7 +563,7 @@ Für die Längenberechnung eines Feldes gilt die Regel: **Feldinhalt + 9**
 
 In diesem Zusammenhang ist zu beachten, dass es nicht zulässig ist, ”leere” Felder, d. h. ohne Feldinhalt  (z.B. ”0094207“) bzw. nur Leerzeichen (z.B. ”0114207 ”) zu übertragen.
 
-Seite 14 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 15 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -633,7 +577,7 @@ Einige Prüfungen können sofort anhand der Eintragung in dieser Tabelle durchge
 
 Darstellung der Abhängigkeiten von der KV-Spezifika-Stammdatei
 
-Die Einträge „kvx0“, „kvx1“, „kvx2“ oder „kvx3“ in der Regelspalte der  entsprechenden Satzarten der KV-Spezifika-Stammdatei. Der betreffende Feldinhalt der KVDT-Datei ist ab-hängig von KV-spezifischen Vorgaben. Vor Speicherung des betreffenden Feldinhaltes in der KVDT-Datei  muss eine Auswertung der entsprechenden Satzart „kvxn“ (n= 0, 1, 2, 3) der jeweiligen KV Stammdatei erfolgen.
+Die Einträge „kvx0“, „kvx1“, „kvx2“ oder „kvx3“ in der Regelspalte der Feldtabelle sind ein Verweis auf die  entsprechenden Satzarten der KV-Spezifika-Stammdatei. Der betreffende Feldinhalt der KVDT-Datei ist ab-hängig von KV-spezifischen Vorgaben. Vor Speicherung des betreffenden Feldinhaltes in der KVDT-Datei  muss eine Auswertung der entsprechenden Satzart „kvxn“ (n= 0, 1, 2, 3) der jeweiligen KV Stammdatei erfolgen.
 
 | EINTRAG DER FELDTABELLE |  |  |
 |---|---|---|
@@ -660,9 +604,7 @@ Bei **variablen** Feldlängen dürfen keine führenden Nullen übertragen werden
 
 Ein alphanumerisches Datenfeld der Länge ”≤ n” (Zeichen) ist durch ein Abrechnungssystem so zu realisieren, dass das betreffende Feld die Anzahl ”n” (Zeichen) aufnehmen kann. Werden weniger  Zeichen in ein derart definiertes Feld eingegeben, so ist die Übertragung führender bzw. nachfolgen-der Leerzeichen nicht erlaubt (Beispiel: FK 3101, Länge  45, Typ a).
 
-Seite 15 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-Feldtabelle sind ein Verweis auf die -Spezifika-
+Seite 16 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026 -Spezifika-
 
 Zeichen mit nachfolgen-
 
@@ -696,7 +638,7 @@ Von den in der Norm enthaltenen Zeichen sind nur die explizit in der Zeichensatz
 
 Die Zeichen ”CR” und ”LF” (”Wagenrücklauf” = ASCII 13, ”Zeilenvorschub” = ASCII 10) dienen bei der Daten-übertragung als Feldende-Kennzeichnung. Sie dürfen auf keinen Fall als Feldinhalt übertragen werden.
 
-Seite 16 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 17 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Existenz-, Kontextprüfungen, Be- sondere Hinweise) nung, F = Fehler, I = Info), vgl. Hin- weis 
 
@@ -736,7 +678,7 @@ Datenverarbeitungstechnisches Abrechnungsverfahren der „Richtlinien der Kassen
 
 -)Daten leitungsgebunden elektronisch zu erfol-
 
-Seite 17 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 18 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -748,15 +690,15 @@ Zhhnnnnnnnnn_TT.MM.JJJJ_hh.mm.eee
 
 Bedeutung:
 
-**Z**
+**Z**        ISO 8859-15 Code
 
-**hh**
+**hh**       Enthaltene Datenpakete in hexadezimaler Darstellung
 
-**nnnnnnnnn**
+**nnnnnnnnn**    die 9-stellige (Neben)Betriebsstättennummer (**1. Priorität**) oder          das Krankenhaus-IK (im Rahmen der ASV-Abrechnung)          **2. Priorität**) des jeweiligen Ortes, an dem die          Abrechnungsdatei erstellt wird.
 
-**TT.MM.JJJJ_hh.mm**
+**TT.MM.JJJJ_hh.mm**  Zeitstempel
 
-**eee**
+**eee**       Dateierweiterung CON (= Defaultwert)
 
 Die Stellen 2 und 3 des Dateinamens werden zur Kodierung des Datenpaket-Inhaltes in hexadezimaler Form  genutzt1 0F
 
@@ -768,40 +710,22 @@ Die Stellen 2 und 3 des Dateinamens werden zur Kodierung des Datenpaket-Inhaltes
 | SADT | 0x20 |
 | Hybrid-DRG | 0x30 |
 
-Bei der hexadezimalen Darstellung wird „0x“
+Bei der hexadezimalen Darstellung wird „0x“ nicht in den Dateinamen geschrieben!
 
 Der Inhalt der Stellen 2 und 3 des Dateinamens wird durch Addition der in der KVDT-Datei enthaltenen Da-tenpakete gebildet. Bsp.: ADT + KADT = 0x01 + 0x04 = 0x05 (hexadezimal)
 
 Hybrid-DRG-Datenpakete dürfen nicht mit anderen Datenpaketen gemischt werden.
 
-________________  1 Der KVDT erlaubt keine Aufteilung eines Datenpaketes auf mehrere Dateien. Unter Berücksichtigung der Übertragungsmöglichkeit weiterer, noch  zu definierender Datenpakete können bei einer hexadezimalen Darstellung mehr Datenpakete (insgesamt 8) dargestellt werden als in dezimaler
+________________  1 Der KVDT erlaubt keine Aufteilung eines Datenpaketes auf mehrere Dateien. Unter Berücksichtigung der Übertragungsmöglichkeit weiterer, noch  zu definierender Datenpakete können bei einer hexadezimalen Darstellung mehr Datenpakete (insgesamt 8) dargestellt werden als in dezimaler  Form (nur 6).
 
-Form (nur 6).
-
-Seite 18 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-ISO 8859-15 Code
-
-Enthaltene Datenpakete in hexadezimaler Darstellung
-
-die 9-stellige (Neben)Betriebsstättennummer ( das Krankenhaus-IK (im Rahmen der ASV-Abrechnung)  **2. Priorität**) des jeweiligen Ortes, an dem die  Abrechnungsdatei erstellt wird.
-
-Zeitstempel
-
-Dateierweiterung CON (= Defaultwert)
-
-nicht in den Dateinamen geschrieben!
-
-**1. Priorität**) oder
-
+Seite 19 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
-**Beispiel:**
+\| **Beispiel:  ** |
+\|---|
 
-Seite 19 von 207 / KBV /
-
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 20 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
 
@@ -845,7 +769,7 @@ Im Folgenden werden die Container-Sätze (con0, con9, besa, rvsa) beschrieben.
 
 ________________
 
-Seite 20 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 21 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 der ser Datei 
 
@@ -872,15 +796,13 @@ der ser Datei
 | 0219 |  |  | 1 | Titel des Arztes | k |  | Relevant bei bereichs- |
 | 0220 |  |  | 1 | Arztvorname | k |  | Relevant bei bereichs- |
 
-Seite 21 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 22 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: Container-
 
-### Satzart:
+### Satzart: Betriebsstättendaten ”besa”
 
 ### Abschluss ”con9”
-
-### Betriebsstättendaten ”besa”
 
 2 3 schluss benbetriebsstättennummer (NBSNR) (LANR) daten stätte und ggf. alle in dieser Abrechnungsda- tei auftretenden Be- triebs- und/oder Ne- benbetriebsstätten- nummern;  Hinweis zu Laborge- meinschaften mit be- reichsfremden LG-Mit- gliedern, vgl. Kapitel fremden LG-Mitglie- dern fremden LG-Mitglie- dern
 
@@ -907,7 +829,7 @@ Seite 21 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 0218 |  | 1 |  | E-Mail der Betriebs- | k |  |  |
 | 0224 |  | 1 |  | Produkttypversion des | m | Falls die In- | vgl. Kapitel 7 |
 
-Seite 22 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 23 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 hausärzte im Rahmen der ASV-Abrechnung kenhaus-Adresse haus-Adresse haus-Adresse stätte/Praxis/ Krankenhaus  Konnektors fremden LG-Mitglie- dern doarztnummer der Betriebsstätte/Pra- xis/Krankenhaus der Betriebsstätte/Pra- xis/Krankenhaus formation
 
@@ -932,7 +854,7 @@ hausärzte im Rahmen der ASV-Abrechnung kenhaus-Adresse haus-Adresse haus-Adress
 | 0211 |  |  | 1 | Arztname oder Erläuterung | m |  | Erläuterung bei Pseu- |
 | 0222 |  |  | n | ASV-Teamnummer | K |  |  |
 
-Seite 23 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 24 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Konnektorzertifikats  tors ponente stattung der Praxis der ASV-Abrechnung) (LANR) ßenschnitt- stelle der Basisan- Dienstver- zeichnis- dienst er- fasst wer- den kann ASV-Abrechnung eines Krankenhauses verwen- det werden doarztnummer
 
@@ -956,7 +878,7 @@ Konnektorzertifikats  tors ponente stattung der Praxis der ASV-Abrechnung) (LANR
 | 0218 |  | 1 |  | E-Mail der Betriebs- | k |  |  |
 | 0224 |  | 1 |  | Produkttypversion des | m | Falls die In- | vgl. Kapitel 7 |
 
-Seite 24 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 25 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 hausärzte im Rahmen der ASV-Abrechnung kenhaus-Adresse haus-Adresse haus-Adresse stätte/Praxis/Krankenhaus Konnektors formation über die Au- ßenschnitt- stelle der Basisan- wendung Dienstver- zeichnis- dienst er- fasst wer- den kann der Betriebsstätte/Pra- xis/Krankenhaus der Betriebsstätte/Pra- xis/Krankenhaus
 
@@ -986,15 +908,14 @@ hausärzte im Rahmen der ASV-Abrechnung kenhaus-Adresse haus-Adresse haus-Adress
 | 0304 |  |  | n |  |  | Analyt-ID | m | Regel 740 |  |
 | 0305 |  |  |  | 1 |  | RV-Zertifikat | m |  |  |
 
-Seite 25 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 26 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Konnektorzertifikats tors ponente stattung der Praxis pflichtigen) Laborleistungen suchszertifikate rechnung von Labor- leistungen innerhalb der Betriebsstätte use-Verwendung
 
 ---
 
-**Hinweis**: Im Rahmen der KVDT-Abrechnung sind nur Ringversuchszertifikate gemäß Kapitel B1  der Richtlinie der Bundesärztekammer („Quantitative Untersuchungen“, siehe  medizin ), welche den Werten der Schlüsseltabelle „S_NVV_RV_ZERTIFIKAT“ entsprechen, zu do-kumentieren.
-
-Weitere  auch RV-pflichtige  Analysen (z.B. gemäß Kapitel B2 der o. g. Richtlinie) sind nicht do-kumentationspflichtig über den KVDT/RVSA-Datensatz.
+\| **Hinweis** medizin] Weitere |
+\|---|
 
 ## 2.3 ANFORDERUNGEN AN DIE DATENQUALITÄT
 
@@ -1013,15 +934,11 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 | 0211 | Arztname oder Erläu- |  | a |  |  | Hansen |
 | 0212 | Lebenslange Arzt- | 9 | n | 050 |  | 123456699 |
 
-Seite 26 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-BAEK_Rili_Labor-
-
-2.3.2
+Seite 27 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026 2.3.2
 
 -Spezifika-Stammdatei
 
-Nebenbetriebsstät- tennummer (NBSNR)  60 haus-Bezeichnung  60 Krankenhaus- Ad- resse  60  60  60 terung nummer (LANR) Dr. Müller, Hohl
+: Im Rahmen der KVDT-Abrechnung sind nur Ringversuchszertifikate gemäß Kapitel B1 der Richtlinie der Bundesärztekammer („Quantitative Untersuchungen“, siehe ), welche den Werten der Schlüsseltabelle „S_NVV_RV_ZERTIFIKAT“ entsprechen, zu do- kumentieren.  auch RV-pflichtige kumentationspflichtig über den KVDT/RVSA-Datensatz.  Analysen (z.B. gemäß Kapitel B2 der o. g. Richtlinie) sind nicht do- BAEK_Rili_Labor- Nebenbetriebsstät- tennummer (NBSNR) haus-Bezeichnung Krankenhaus- Ad- resse terung nummer (LANR)  60  60  60  60  60 Dr. Müller, Hohl
 
 ---
 
@@ -1032,7 +949,7 @@ Nebenbetriebsstät- tennummer (NBSNR)  60 haus-Bezeichnung  60 Krankenhaus- Ad- 
 | 0213 | Krankenhaus-IK (im | 9 | n | 857 |  | 261102323 |
 | 0214 | KV-Bereich | 2 | n | 532 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  18 = Dortmund  19 = Münster  20 = Dortmund  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = Rheinland-Pfalz  60 = Freiburg  61 = Stuttgart  63 = München Stadt u. Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz |  |
 
-Seite 27 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 28 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Rahmen der ASV-Ab- rechnung) 55 = Karlsruhe 62 = Reutlingen
 
@@ -1053,7 +970,7 @@ Rahmen der ASV-Ab- rechnung) 55 = Karlsruhe 62 = Reutlingen
 
 ________________
 
-Seite 28 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 29 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Krankenhaus-Adresse  60 Krankenhaus-Adresse  60 stätte/Praxis/Kran- kenhaus  100 Krankenhausärzte im  Die Prüfziffer wird mittels des Modulo 10 - Verfahrens der Stellen 3 bis 8 der ASV-Teamnummer ermittelt. Bei diesem Verfahren werden die Ziffern 3 bis 8 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Prüfziffer ergibt sich aus der Differenz der Summe der Produkte zum nächs- ten Vielfachen von 10, das gleich oder größer als die Summe der Produkte ist. (Wenn die Summe der Produkte genau ein ganzes Vielfaches von 10 darstellt, dann ist die Differenz 0.) ter@med.de 00 = ASV-ID-Kürzel = Prüfziffer
 
@@ -1076,7 +993,7 @@ Krankenhaus-Adresse  60 Krankenhaus-Adresse  60 stätte/Praxis/Kran- kenhaus  10
 
 ________________
 
-Seite 29 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 30 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 20 des Konnektors TI-Komponente / Ausstattung der Praxis Konnektorzertifikats  60 Konnektors tifikatspflichtigen) La- borleistungen  60  60  ePA4all  ausschließlich  teilweise S_NVV_RV_Zertifikat, OID 1.2.276.0.76.3.1.1.5.2.22,
 
@@ -1101,7 +1018,7 @@ Seite 29 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 
 ________________
 
-Seite 30 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 31 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 satz kete dieser Datei gel 162 nnnnn = Seriennummer ungleich „555555“ sein muss lage 35 des BAR-Schlüsselver- zeichnisses, tolerierter Ersatz- wert für die Ziffern 8  9: 00 Prüfziffer vgl.  Die Prüfziffer wird mittels des Modulo 10 - Verfahrens der Stellen 1 bis 6 der Arztnummer ermittelt. Bei diesem Verfahren werden die Ziffern 1 bis 6 von links nach rechts abwechselnd mit 4 und 9 multipliziert. Die Summe dieser Produkte wird Modulo 10 berechnet. Die Prüfziffer ergibt sich aus der Differenz dieser Zahl zu 10 (ist die Differenz 10, so ist die Prüfziffer 0). 
 
@@ -1122,7 +1039,7 @@ satz kete dieser Datei gel 162 nnnnn = Seriennummer ungleich „555555“ sein m
 
 ________________
 
-Seite 31 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 32 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 § 6 Absatz 3 der KBV Richtlinie nach § 75 Absatz 7 SGB V zur Vergabe der Arzt-, Betriebsstätten- sowie der Praxisnetznummern  Kapitel 4. Betriebsstätten-Nummer der Vereinbarung zwischen KBV und GKV-SV über die Vergabe von Betriebsstätten-Nummern und einer Arztnummer an Leistungserbringer der spezialisierten Palliativversorgung (SAPV) gemäß § 132 d Abs. 1 SGB V … (SAPV = ASV-ID-Kürzel = Prüfziffer gen im Rahmen von § 75 Absatz 1a SGB V erbringen gel 162 gel 162 für Krankenhausärzte im Rah- men der ASV-Abrechnung der jeweils gültigen Anlage 2 der Richtlinie der Kassenärztlichen Bundesvereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Arzt-, Betriebsstätten- und Pra- xisnetznummern Prüfziffer vgl. Rahmen der Terminservicestelle erbringen (Anlage 28 BMV-Ä) ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fach- gruppencodierungen) -BSNR-Vereinbarung)
 
@@ -1144,11 +1061,11 @@ Seite 31 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 750 | Kontext | Der Wert in FK 0201 der SA | W |  |
 | 762 | Kontext | Der (Ersatz- | F |  |
 
-Seite 32 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 33 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
-37-73, 78-81, 83, 85-88, 93-96, 98, 99 triebsstättennummer + Knapp- schaft tifikat, OID 1.2.276.0.76.3.1.1.5.2.22 27, 28, 31, 37, 39-45, 47-51, 55, 60-70, 72, 73, 78-81, 83, 85-87, 93-96, 99 1, dann muss Feld 0301 und mindestens ein Feld 0304 vor- handen sein. oder 2, dann muss Feld 0302 vorhanden sein. con0 und Feldinhalt von FK 9132 = 1 und wenn ein Feld 0201 in SA „besa“ (Inhalt von FK 8000 = besa) vorhanden ist, dann muss ein Satz „rvsa“ (Inhalt von FK 8000 = rvsa) vorhanden sein. vorhanden ist, dann muss min- destens ein Feld 0302 vorhan- den sein  „rvsa“ muss mit einem der Werte aus FK 0201 der SA „besa“ übereinstimmen. )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzu- lässig. des ADT-Datenpaketes gekop- pelt, vgl.
+37-73, 78-81, 83, 85-88, 93-96, 98, 99 triebsstättennummer + Knapp- schaft tifikat, OID 1.2.276.0.76.3.1.1.5.2.22 27, 28, 31, 37, 39-45, 47-51, 55, 60-70, 72, 73, 78-81, 83, 85-87, 93-96, 99 1, dann muss Feld 0301 und mindestens ein Feld 0304 vor- handen sein. oder 2, dann muss Feld 0302 vorhanden sein. con0 und Feldinhalt von FK 9132 = 1 und wenn ein Feld 0201 in der SA „besa“ (Inhalt von FK 8000 = besa) vorhanden ist, dann muss ein Satz „rvsa“ (Inhalt von FK 8000 = rvsa) vorhanden sein. vorhanden ist, dann muss min- destens ein Feld 0302 vorhan- den sein  „rvsa“ muss mit einem der Werte aus FK 0201 der SA „besa“ übereinstimmen. )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzu- lässig. des ADT-Datenpaketes gekop- pelt, vgl.
 
 
 ---
@@ -1164,7 +1081,7 @@ Seite 32 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 872 | Kontext | Wenn | F |  |
 | 874 | Kontext | Wenn | W |  |
 
-Seite 33 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 34 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 REGELTABELLE des Feldes 0201 = 35, dann gilt gel  für den Inhalt des Feldes 0201 die Formatregel 061. des Feldes 0201 = 74, dann gilt für den Inhalt des Feldes 0201 die Formatregel 062. des Feldes 0201 ≠ 35 oder ≠ 74, dann gilt für den Inhalt des Fel- des 0201 die Formatregel 049. 0212 oder ein Feld FK 0223 vor- handen sein. Es können auch beide Feldkennungen vorkom- men. das Feld 0213 muss mindestens einmal (im Satz) vorhanden sein. nungen vorkommen. dung / TI-Komponente) muss je- der erlaubte Wert der Feldken- nung 0225 gemäß der Regel genau einmal zu jeder (N)BSNR (FK 0201) bzw. Krankenhaus-IK (FK 0213) vorkommen. dung Fachanwendung / TI-Kom- ponente) darf jeder Wert der Feldkennung 0225 gemäß der Regel 177 maximal einmal zu je- der (N)BSNR (FK 0201) bzw. Krankenhaus-IK (FK 0213) vor- kommen.  Feld 0224 übertragen wird, dann muss auch das Feld 0227 übertragen werden.   Feld 0224 übertragen wird, dann muss auch das Feld 0228 übertragen werden.  
 
@@ -1177,7 +1094,7 @@ REGELTABELLE des Feldes 0201 = 35, dann gilt gel  für den Inhalt des Feldes 020
 | 875 | Kontext | Der Wert einer „LANR“ (FK 0212) | F | Eine LANR repräsentiert immer |
 | 878 | Kontext | Der Wert einer „(N)BSNR“ (FK | W | Eine BSNR darf nur einmal im |
 
-Seite 34 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 35 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 darf nur einmal unter einer „(N)BSNR“ (FK 0201) vorkom- men. 0201) darf nur einmal im Besa- Datensatz vorkommen. nur eine Person, daher darf sie pro BSNR nur einmal übertragen werden.  Besa-Datensatz übertragen wer- den.
 
@@ -1217,7 +1134,7 @@ Ein Datensatz der Satzarten ”0101 – 0104” besteht aus Feldern mit den Kenn
 
 ##
 
-Seite 35 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 36 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Satz ”adt0” ist einmal vorhanden. Er ist als erster Satz des ADT Sätze ”0101”, ”0102”, ”0103”, ”0104” folgen auf den Satz ”adt0” in beliebiger Anzahl und Reihenfolge. Satz ”adt9” ist pro ADT -Datenpaket einmal vorhanden. Er ist als letzter Satz des ADT- legen. ”8xxx” Satzglobale Felder ”3xxx” Patientenfelder ”4xxx” Satzartspezifische Felder ”5xxx” Leistungsfelder „367x“ Diagnosefelder ”6xxx” -Datenpaketes abzulegen. Datenpaketes abzu-
 
@@ -1232,7 +1149,7 @@ Satz ”adt0” ist einmal vorhanden. Er ist als erster Satz des ADT Sätze ”0
 | 8000 | 1 |  |  | Satzart | M |  | Satzart ADT-Datenpa- |
 | 0105 | 1 |  |  | KBV-Prüfnummer | M |  | Eindeutige Nummer, |
 | 9102 | 1 |  |  | Empfänger | M |  | UKV/OKV-Kennung |
-| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  ADT0726.01  ADT1026.01 |
+| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  ADT1026.01  ADT0127.01 |
 | 0102 | 1 |  |  | Softwareverantwortlicher (SV) | M |  | vgl. Kapitel 7 |
 | 0121 | 1 |  |  | Straße des SV | M |  |  |
 | 0122 | 1 |  |  | PLZ des SV | M |  |  |
@@ -1248,7 +1165,7 @@ Satz ”adt0” ist einmal vorhanden. Er ist als erster Satz des ADT Sätze ”0
 | 0131 | 1 |  |  | Telefaxnummer des SB | K |  |  |
 | 0103 | 1 |  |  | Software | M |  | Name der zugelasse- |
 
-Seite 36 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 37 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: ADT-Datenpaket-Header „adt0“
 
@@ -1277,7 +1194,7 @@ Seite 36 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 |  |  |  |  |  | 1 | 2 | 3 |
 | 8000 | 1 | Satzart | M |  | Satzart ADT-Datenpa- | | |
 
-Seite 37 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 38 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: ADT-Datenpaket-Abschluss ”adt9”
 
@@ -1300,9 +1217,9 @@ paket variante ist deren Name zu hinterlegen. rechnungsteile einer Betriebsstät
 | 3012 |  | 1 |  |  | Error-Code | k |  | vgl. Kapitel 7 |
 | 3013 |  | 1 |  |  | Prüfziffer des Fachdienstes | k |  | vgl. Kapitel 7 |
 
-Seite 38 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 39 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 fung und -aktualisierung (Ti- mestamp) -aktualisierung eingelesen wurde und falls Daten- satz, der zum Nach- weis einer durchge- führten fung und - aktualisie- rung auf der eGK gespei- chert wurde, vorhanden oder falls die Versi- cherten- stammda- ten erfolg- reich vom VSDM 2.0 abgerufen wurden. handlung KVWL 
 
@@ -1336,9 +1253,9 @@ fung und -aktualisierung (Ti- mestamp) -aktualisierung eingelesen wurde und fall
 | 3110 | 1 |  |  |  | Geschlecht | M |  |  |
 | 4101 | 1 |  |  |  | Quartal | M |  | Quartal des Behand- |
 
-Seite 39 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 40 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 adresse entenadresse resse resse resse resse lungsfalles, QJJJJ 
 
@@ -1366,9 +1283,9 @@ adresse entenadresse resse resse resse resse lungsfalles, QJJJJ
 | 4123 | 1 |  |  |  | Personenkreis / Untersuchungska- | K |  |  |
 | 4124 | 1 |  |  |  | SKT-Zusatzangaben | K |  |  |
 
-Seite 40 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 41 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 (KTAB) tenkarte im Quartal tegorie cherten- karte ein- gelesen wurde oder falls die Versi- cherten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. (mobiles Lesegerät) 
 
@@ -1392,9 +1309,9 @@ Seite 40 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 4251 |  |  |  | 1 | Durchführungsart der Kombinati- | m |  |  |
 | 4252 |  |  | 1 |  | Gesamtanzahl bewilligter Thera- | k | Regel 850  Regel 852  Regel 897 |  |
 
-Seite 41 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 42 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 spruch gemäß § 16 Abs. 3a SGB V  des Vertragspsychotherapeuten nungsbescheides) zel- und Gruppentherapie pieeinheiten für den Versicherten zeitraum” Datum des Anerken- nungsbescheids oder des Fristendes nach § 33 Abs. 1 der Psycho- therapie-Richtlinie ermöglicht die Zuord- nung der beantragten GOPen (im Rahmen der Psychotherapie) zu einem Arzt im Rahmen einer Kombinationsbe- handlung durch zwei Therapeuten in einer psychotherapeuti- schen Berufsaus- übungsgemeinschaft. 
 
@@ -1419,7 +1336,7 @@ spruch gemäß § 16 Abs. 3a SGB V  des Vertragspsychotherapeuten nungsbescheide
 | 5000 | n |  |  |  | Leistungstag | M |  | Datum der erbrachten |
 | 5001 |  | n |  |  | GNR | m |  | Gebührennummer,  4.5.1 |
 
-Seite 42 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 43 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 bewilligte GOP für den Versicherten. für den Versicherten Anzahl (quartalsüber- greifend für die bean- tragte Therapie) der für den Versicherten. pieeinheiten für die Bezugsperson son bewilligte GOP für die Bezugsperson. für die Bezugsperson (quartalsüber- greifend für die bean- tragte Therapie) für die Bezugsperson.  vor Aufnahme einer Psychothera- pie vgl. Kapitel 
 
@@ -1452,9 +1369,9 @@ bewilligte GOP für den Versicherten. für den Versicherten Anzahl (quartalsübe
 | 5021 |  |  |  | 1 | Jahr der letzten Krebsfrüherken- | k |  |  |
 | 5023 |  |  | 1 |  | GO-Nummern-Zusatz | k |  |  |
 
-Seite 43 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 44 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 Cent rätes nungsuntersuchung chend P21-015 in KVDT-Anforderungska- talog chend P21-015 in KVDT-Anforderungska- talog 
 
@@ -1483,9 +1400,9 @@ Cent rätes nungsuntersuchung chend P21-015 in KVDT-Anforderungska- talog chend 
 | 5077 |  |  | n |  | HGNC-Gensymbol | m | Regel 770  Regel 816  Regel 828  Regel 829  Regel 830  Regel 834  Regel 843  Regel 854  Regel 892 |  |
 | 5078 |  |  |  | n | Gen-Name | m | Regel 816 |  |
 
-Seite 44 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 45 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 stationär erbrachte Leistungen tation Hautkrebs-Screening eingriff Screening  alphanumerische ID der Meldebestätigung 
 
@@ -1510,7 +1427,7 @@ stationär erbrachte Leistungen tation Hautkrebs-Screening eingriff Screening  a
 | 6008 |  | n |  |  | Diagnosenausnahmetatbestand | m | Regel 491 |  |
 | 3673 | n |  |  |  | Dauerdiagnose (ICD-Code) | m | Regel 486 |  |
 
-Seite 45 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 46 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 erbringung ASV-Abrechnung) des Vertragsarztes/Vertragspsy- chotherapeuten ärzte im Rahmen der ASV-Abrech- nung) des LE arztes
 
@@ -1537,7 +1454,7 @@ erbringung ASV-Abrechnung) des Vertragsarztes/Vertragspsy- chotherapeuten ärzte
 | 3006 | 1 |  |  |  | CDM Version | m | Regel 307 | vgl. Kapitel 7 |
 | 3010 | 1 |  |  |  | Datum und Uhrzeit der Onlineprü- | m | falls eGK | vgl. Kapitel 7 |
 
-Seite 46 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 47 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Dauerdiagnosen fung und -aktualisierung (Ti- mestamp) eingelesen wurde und falls Daten- satz, der zum Nach- weis einer durchge- führten fung und - aktualisie- rung auf der eGK gespei- chert wurde, vorhanden oder falls KVWL
 
@@ -1566,9 +1483,9 @@ Dauerdiagnosen fung und -aktualisierung (Ti- mestamp) eingelesen wurde und falls
 | 3114 | 1 |  |  |  | Wohnsitzlaendercode | m | Regel 784 | vgl. Kapitel 7 |
 | 3113 | 1 |  |  |  | Ort | K |  | Ort der Patientenad- |
 
-Seite 47 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 48 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 -aktualisierung cherten- stammda- ten erfolg- reich vom VSDM 2.0 abgerufen wurden. adresse entenadresse resse resse 
 
@@ -1594,9 +1511,9 @@ Seite 47 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 4109 | 1 |  |  |  | Letzter Einlesetag der Versicher- | m | falls Versi- Regel 876 |  |
 | 4112 | 1 |  |  |  | eEB vorhanden | K | Regel 895 |  |
 
-Seite 48 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 49 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 (KTAB) tenkarte im Quartal cherten- karte ein- gelesen wurde oder falls die Versi- cherten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. resse resse lungsfalles, QJJJJ (mobiles Lesegerät) 
 
@@ -1630,7 +1547,7 @@ Seite 48 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 4217 | 1 |  |  |  | (N)BSNR des Erstveranlassers | k | Regel 431 |  |
 | 4241 |  | 1 |  |  | Lebenslange Arztnummer (LANR) | m |  |  |
 
-Seite 49 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 50 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tegorie zeitraum” spruch gemäß § 16 Abs. 3a SGB V  chungen 
 
@@ -1656,9 +1573,9 @@ tegorie zeitraum” spruch gemäß § 16 Abs. 3a SGB V  chungen
 | 4234 | 1 |  |  |  | anerkannte Psychotherapie | K |  |  |
 | 4235 |  | n |  |  | Datum des Anerkennungsbeschei- | m |  | Das Feld enthält das |
 
-Seite 50 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 51 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 lassers des Erstveranlassers ärzte im Rahmen der ASV-Abrech- nung) des Erstveranlassers ärzte im Rahmen der ASV-Abrech- nung) des Überweisers kennzeichen oder tex- tuelle Bezeichnung des überweisenden Leis- tungserbringers, so- fern keine BSNR vor- liegt (z.B. Zahnärzten).  oder Name des Arztes  zur Kennzeichnung von Knappschaftsfäl- len Datum des Anerken- nungsbescheids oder 
 
@@ -1680,9 +1597,9 @@ lassers des Erstveranlassers ärzte im Rahmen der ASV-Abrech- nung) des Erstvera
 | 4255 |  |  | 1 |  | Gesamtanzahl bewilligter Thera- | k | Regel 851  Regel 852 |  |
 | 4256 |  |  | n |  | Bewilligte GOP für die Bezugsper- | k | Regel 851  Regel 853 | Das Feld enthält die |
 
-Seite 51 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 52 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 des Vertragspsychotherapeuten nungsbescheides) zel- und Gruppentherapie pieeinheiten für den Versicherten für den Versicherten pieeinheiten für die Bezugsperson son 33 Abs. 1 der Psycho- therapie-Richtlinie ermöglicht die Zuord- nung der beantragten GOPen (im Rahmen der Psychotherapie) zu einem Arzt im Rahmen einer Kombinationsbe- handlung durch zwei Therapeuten in einer psychotherapeuti- schen Berufsaus- übungsgemeinschaft. bewilligte GOP für den Versicherten. Anzahl (quartalsüber- greifend für die bean- tragte Therapie) der für den Versicherten. bewilligte GOP für die Bezugsperson. 
 
@@ -1711,7 +1628,7 @@ des Vertragspsychotherapeuten nungsbescheides) zel- und Gruppentherapie pieeinhe
 | 5012 |  |  | n |  | Sachkosten/Materialkosten in | k |  |  |
 | 5011 |  |  |  | n | Sachkosten-Bezeichnung | m |  |  |
 
-Seite 52 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 53 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 für die Bezugsperson tes Cent Anzahl (quartalsüber- greifend für die bean- tragte Therapie) der für die Bezugsperson. lungsfällen ist der Tag der durch den Haus- arzt festgestellten Be- handlungsnotwendig- keit zu übermitteln. vgl. Kapitel
 
@@ -1742,9 +1659,9 @@ für die Bezugsperson tes Cent Anzahl (quartalsüber- greifend für die bean- tr
 | 5036 |  |  | n |  | GNR als Begründung | k |  |  |
 | 5037 |  |  | 1 |  | Gesamt-Schnitt-Naht-Zeit (GSNZ) | m | Simultan- |  |
 
-Seite 53 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 54 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 rätes nungsuntersuchung stationär erbrachte Leistungen chend P21-015 in KVDT-Anforderungska- talog chend P21-015 in KVDT-Anforderungska- talog eingriff 
 
@@ -1768,9 +1685,9 @@ rätes nungsuntersuchung stationär erbrachte Leistungen chend P21-015 in KVDT-A
 | 5098 |  |  | 1 |  | (N)BSNR des Ortes der Leistungs- | m | Regel 859 |  |
 | 5102 |  |  | 1 |  | Krankenhaus-IK (im Rahmen der | m | Regel 859 |  |
 
-Seite 54 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 55 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 tation Hautkrebs-Screening erbringung ASV-Abrechnung)  Screening  alphanumerische ID der Meldebestätigung 
 
@@ -1795,7 +1712,7 @@ tation Hautkrebs-Screening erbringung ASV-Abrechnung)  Screening  alphanumerisch
 | 3676 |  | n |  |  | Diagnosenerläuterung Dauerdiag- | k |  |  |
 | 3677 |  | n |  |  | Diagnosenausnahmetatbestand | m | Regel 491 |  |
 
-Seite 55 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 56 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 des Vertragsarztes/Vertragspsy- chotherapeuten ärzte im Rahmen der ASV-Abrech- nung) des LE arztes Dauerdiagnosen 
 
@@ -1816,7 +1733,7 @@ des Vertragsarztes/Vertragspsy- chotherapeuten ärzte im Rahmen der ASV-Abrech- 
 | 3011 |  | 1 |  |  | Ergebnis der Onlineprüfung und | m |  | vgl. Kapitel 7 |
 | 3012 |  | 1 |  |  | Error-Code | k |  | vgl. Kapitel 7 |
 
-Seite 56 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 57 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 lineprüfung und -aktualisierung (Timestamp) -aktualisierung eingelesen wurde und falls Daten- satz, der zum Nach- weis einer durchge- führten Onlineprü- fung und - aktualisie- rung auf der eGK gespei- chert wurde, vorhan- den oder falls die Versicher- ten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. Behandlung KVWL
 
@@ -1849,9 +1766,9 @@ lineprüfung und -aktualisierung (Timestamp) -aktualisierung eingelesen wurde un
 | 3108 | 1 |  |  |  | Versichertenart | M |  |  |
 | 3110 | 1 |  |  |  | Geschlecht | M |  |  |
 
-Seite 57 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 58 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 adresse  tientenadresse resse resse resse resse 
 
@@ -1879,9 +1796,9 @@ adresse  tientenadresse resse resse resse resse
 | 4122 | 1 |  |  |  | Abrechnungsgebiet | M |  |  |
 | 4123 | 1 |  |  |  | Personenkreis / Untersuchungs- | K |  |  |
 
-Seite 58 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 59 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 reich (KTAB) tenkarte im Quartal kategorie cherten- karte ein- gelesen wurde oder falls die Versi- cherten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. lungsfalles, QJJJJ (mobiles Lesegerät) 
 
@@ -1912,7 +1829,7 @@ reich (KTAB) tenkarte im Quartal kategorie cherten- karte ein- gelesen wurde ode
 | 5001 |  | n |  |  | GNR | m |  | Gebührennummer,  4.5.1 |
 | 5002 |  |  | 1 |  | Art der Untersuchung | k |  |  |
 
-Seite 59 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 60 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 spruch gemäß § 16 Abs. 3a SGB dung (LANR) des Überweisers ten Leistung, 
 
@@ -1944,9 +1861,9 @@ spruch gemäß § 16 Abs. 3a SGB dung (LANR) des Überweisers ten Leistung,
 | 5023 |  |  | 1 |  | GO-Nummern-Zusatz | k |  |  |
 | 5024 |  |  | 1 |  | GNR-Zusatzkennzeichen für | k |  |  |
 
-Seite 60 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 61 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 arztes Cent rätes nungsuntersuchung poststationär erbrachte Leistun- chend P21-015 in KVDT-Anforderungs- katalog chend P21-015 in KVDT-Anforderungs- katalog 
 
@@ -1974,9 +1891,9 @@ arztes Cent rätes nungsuntersuchung poststationär erbrachte Leistun- chend P21
 | 5077 |  |  | n |  | HGNC-Gensymbol | m | Regel 770  Regel 816  Regel 828  Regel 829  Regel 830  Regel 834  Regel 843  Regel 854  Regel 892 |  |
 | 5078 |  |  |  | n | Gen-Name | m | Regel 816  Regel 891  Regel 893 |  |
 
-Seite 61 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 62 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 (GSNZ) mentation Hautkrebs-Screening eingriff Screening  alphanumerische ID der Meldebestäti-
 
@@ -2001,7 +1918,7 @@ Seite 61 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 3676 |  | n |  |  | Diagnosenerläuterung Dauerdi- | k |  |  |
 | 3677 |  | n |  |  | Diagnosenausnahmetatbestand | m | Regel 491 |  |
 
-Seite 62 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 63 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tungserbringung (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten 
 
@@ -2021,7 +1938,7 @@ tungserbringung (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten
 | 3010 | 1 |  |  |  | Datum und Uhrzeit der On- | m | falls eGK  Regel 876 | vgl. Kapitel 7 |
 | 3011 |  | 1 |  |  | Ergebnis der Onlineprüfung und | m |  | vgl. Kapitel 7 |
 
-Seite 63 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 64 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 lineprüfung und -aktualisierung (Timestamp) -aktualisierung eingelesen wurde und falls Daten- satz, der zum Nach- weis einer durchge- führten Onlineprü- fung und - aktualisie- rung auf der eGK gespei- chert wurde, vorhan- den oder falls die Versicher- ten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. dienst/Vertre- tung/Notfall KVWL
 
@@ -2055,9 +1972,9 @@ lineprüfung und -aktualisierung (Timestamp) -aktualisierung eingelesen wurde un
 | 3108 | 1 |  |  |  | Versichertenart | M |  |  |
 | 3110 | 1 |  |  |  | Geschlecht | M |  |  |
 
-Seite 64 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 65 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 adresse tientenadresse resse resse 
 
@@ -2085,9 +2002,9 @@ adresse tientenadresse resse resse
 | 4123 | 1 |  |  |  | Personenkreis / Untersuchungs- | K |  |  |
 | 4124 | 1 |  |  |  | SKT-Zusatzangaben | K |  |  |
 
-Seite 65 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 66 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 reich (KTAB) tenkarte im Quartal kategorie cherten- karte ein- gelesen wurde oder falls die Versi- cherten- stammda- ten erfolg- reich vom Fachdienst VSDM 2.0 abgerufen wurden. lungsfalles, QJJJJ (mobiles Lesegerät) 
 
@@ -2119,7 +2036,7 @@ reich (KTAB) tenkarte im Quartal kategorie cherten- karte ein- gelesen wurde ode
 | 5012 |  |  | n |  | Sachkosten/Materialkosten in | k |  |  |
 | 5011 |  |  |  | n | Sachkosten-Bezeichnung | m |  |  |
 
-Seite 66 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 67 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 arztes Cent handelnden Arztes  ten Leistung vgl. Kapitel
 
@@ -2149,9 +2066,9 @@ arztes Cent handelnden Arztes  ten Leistung vgl. Kapitel
 | 5041 |  |  |  | 1 | Seitenlokalisation OPS | k | Regel 706 |  |
 | 5036 |  |  | n |  | GNR als Begründung | k |  |  |
 
-Seite 67 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 68 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 rätes nungsuntersuchung poststationär erbrachte Leistun- chend P21-015 in KVDT-Anforderungs- katalog chend P21-015 in KVDT-Anforderungs- katalog 
 
@@ -2174,9 +2091,9 @@ rätes nungsuntersuchung poststationär erbrachte Leistun- chend P21-015 in KVDT
 | 5078 |  |  |  | n | Gen-Name | m | Regel 816  Regel 891  Regel 893 |  |
 | 5079 |  |  | n |  | Art der Erkrankung | m | Regel 770  Regel 816  Regel 828  Regel 834  Regel 843  Regel 847  Regel 848  Regel 854 |  |
 
-Seite 68 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 69 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 (GSNZ) mentation Hautkrebs-Screening eingriff Screening  alphanumerische ID der Meldebestäti-
 
@@ -2203,7 +2120,7 @@ Seite 68 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 3676 |  | n |  |  | Diagnosenerläuterung Dauerdi- | k |  |  |
 | 3677 |  | n |  |  | Diagnosenausnahmetatbestand | m | Regel 491 |  |
 
-Seite 69 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 70 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tungserbringung ASV-Abrechnung) (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten ärzte im Rahmen der ASV-Ab- rechnung) des LE arztes Dauerdiagnosen 
 
@@ -2236,7 +2153,7 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 | 0129 | Ort des SB |  | a |  |  | Köln |
 | 0130 | Telefonnummer des |  | a |  |  | 0221/10002 |
 
-Seite 70 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026 0
+Seite 71 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026 0
 
 -Spezifika-Stammdatei
 
@@ -2259,7 +2176,7 @@ wortlicher (SV) betreuer (SB) tung GmbH
 | 3100 | Namenszusatz |  | a |  |  | Herzogin |
 | 3101 | Name |  | a |  |  | Schmitz |
 
-Seite 71 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 72 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 SB der Software der Onlineprüfung -aktualisierung (Ti- mestamp) lineprüfung und -ak-  128  dienstes  45 tung durchgeführt erforderlich nisch  nicht möglich ungültig rungszertifikats technisch nicht möglich nisch  nicht möglich und maximaler Off- line- Zeitraum überschritten
 
@@ -2282,9 +2199,9 @@ SB der Software der Onlineprüfung -aktualisierung (Ti- mestamp) lineprüfung un
 | 3115 | Anschriftenzusatz |  | a |  |  |  |
 | 3116 | WOP | 2 | n | 531  774 | 00 = Dummy bei eGK  01 = Schleswig-Holstein | () fusioniert, teil- |
 
-Seite 72 von 207 / KBV / Datensatzbeschreibung KVDT
+Seite 73 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 code tung  20  46  40  40 3 = Familienversicherter 5 = Rentner 02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen (47 = Koblenz) (48 = Rheinhessen) (49 = Pfalz) (50 = Trier) 51 = Rheinland-Pfalz 52 = Baden-Württemberg weise aber noch in Gebrauch (bspw. KVK-WOP) 
 
@@ -2304,7 +2221,7 @@ code tung  20  46  40  40 3 = Familienversicherter 5 = Rentner 02 = Hamburg 03 =
 | 3673 | Dauerdiagnose (ICD- | 3,5,6 | a | 022  486  489  490  491  492  728  729  761  817  860 |  |  |
 | 3674 | Diagnosensicher- | 1 | a | 109  860 | G = gesicherte Diagnose  A = Ausschluss  V = Verdacht auf  Z = Zustand nach |  |
 
-Seite 73 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 74 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 40 endercode  Code) heit Dauerdiagnose tung (60 = Südbaden) (61 = Nordwürttemberg) (62 = Südwürttemberg) 71 = Bayern 72 = Berlin 73 = Saarland 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen
 
@@ -2323,7 +2240,7 @@ Seite 73 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 4105 | Ergänzende Infor- | ≤ 60 | a |  |  |  |
 | 4106 | Kostenträger-Ab- | 2 | n | 174  778  779  780  818  827  kvx2 | 00 = Primärabrechnung  01 = Sozialversicherungsabkommen  02 = Bundesversorgungsgesetz (BVG)  03 = Bundesentschädigungsgesetz  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS) | 00 |
 
-Seite 74 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 75 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen zur Ver- mittlungs-/Kontakt- rechnungsbereich (KTAB) tung L = links B = beidseitig (SVA) (BEG) schlechtsumwand-
 
@@ -2343,7 +2260,7 @@ Dauerdiagnose rung Dauerdiag- metatbestand Dau- erdiagnosen taktart   mationen z
 | 4121 | Gebührenordnung | 1 | n | 113  210 | 0 = EBM  1 = BMÄ  2 = E-GO  3 = GOÄ | 1 |
 | 4122 | Abrechnungsgebiet | 2 | n | 131  kvx2 | 00 = kein besonderes Abrechnungs- 01 = Dialyse-Arztkosten | 00 |
 
-Seite 75 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 76 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 (mobiles Lesegerät) der Versicherten- karte im Quartal Ende tung len (SHT) (BVFG) gebiet (Defaultwert)  ORGA930M;4.9.0: 1.0.0 duktKürzel;Pro- duktversion (=Firmwarever- sion: Hardwarever- sion)) bspw.
 
@@ -2359,7 +2276,7 @@ Seite 75 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 4126 | SKT-Bemerkungen |  | a | kvx3 |  |  |
 | 4131 | BesonderePerso- | 2 | a | 534  778  779  780  818  827 | 00 = keine Besondere Personen- 04 = BSHG (Bundessozialhilfegesetz) |  |
 
-Seite 76 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 77 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtigte Kran- kenhausärzte ermächtigte Krankenhausärzte  60  60 gruppe (Defaultwert) § 264 SGB V
 
@@ -2373,7 +2290,7 @@ tersuchungskatego- von ... bis ...    nengruppe handlung tungen durch ermächtig
 
 ________________
 
-Seite 77 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 78 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tung recht) schenstaatliches Krankenversi- cherungsrecht: - Personen mit Wohnsitz im Inland, Abrechnung nach Aufwand tungen nach den §§ 4 und 6 des Asylbe- werberleistungsgesetzes (AsylbLG)  ehemals BVG 
 
@@ -2390,7 +2307,7 @@ tung recht) schenstaatliches Krankenversi- cherungsrecht: - Personen mit Wohnsit
 | 4204 | eingeschränkter | 1 | n | 142 | 1 = ja |  |
 | 4205 | Auftrag |  | a | 744  746  755 |  |  |
 
-Seite 78 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 79 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 schutzBeginn Leistungsanspruch gemäß §16 Abs. 3a SGB V  60 tung 2 und KHK Typ 2 und KHK
 
@@ -2412,7 +2329,7 @@ schutzBeginn Leistungsanspruch gemäß §16 Abs. 3a SGB V  60 tung 2 und KHK Typ
 | 4225 | ASV-Teamnummer | 9 | n | 059  431 |  |  |
 | 4226 | ASV-Teamnummer | 9 | n | 059  328  838 |  |  |
 
-Seite 79 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 80 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlassers weisers   60 anderen Ärzten  60 ESS / bei belegärztli- cher Behandlung des Erstveranlassers des Überweisers tung tion, Schwangerschaftsabbruch patitis
 
@@ -2428,7 +2345,7 @@ bindung  60 Verdachtsdiagnose  60  60 zu Untersuchungen IVD-Leistungen veranlass
 | 4236 | Abklärung somati- | 1 | n | 142 | 1 = ja |  |
 | 4239 | Scheinuntergruppe | 2 | n | 331  354  356  426  427  754  755  kvx2 | erlaubte Inhalte bei Satzart 0101  00 =    erlaubte Inhalte bei Satzart 0102  20 =  21 = Auftragsleistungen (Defaultwert  23 = Konsiliaruntersuchung  24 = Mit-/Weiterbehandlung  26 = Stationäre Mitbehandlung, Ver- 27 = Überweisungsschein für Labora- 28 = Anforderungsschein für Labora-   erlaubte Inhalte bei Satzart 0103  30 = Belegärztliche Behandlung  31 = Belegärztliche Mitbehandlung | 24 |
 
-Seite 80 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 81 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Psychotherapie Ambulante Behandlung (Defaultwert) Selbstausstellung bei Einsendepraxen) (Defaultwert; außer bei Einsen- depraxen) gütung nach ambulanten Grundsätzen toriumsuntersuchungen als Auf- tragsleistung (Muster 10 und 10C) toriumsuntersuchungen bei La- borgemeinschaften (Muster 10a) (Defaultwert)
 
@@ -2446,7 +2363,7 @@ lung von... bis... therapie nungsbescheides scher Ursachen vor Aufnahme einer Ps
 | 4249 | Pseudo-LANR (für | 9 | n | 064  845 |  |  |
 | 4250 | Kombinationsbe- | 1 | n | 142 | 1 = ja |  |
 
-Seite 81 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 82 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 nummer (LANR) des Erstveranlassers nummer des Über- weisers  60 der Arzt Anerkennungse- scheides) Krankenhausärzte im Rahmen der ASV- Abrechnung) des Erstveranlassers Krankenhausärzte im Rahmen der ASV- Abrechnung) des Überweisers handlung aus Einzel- und Gruppenthera- tung bei belegärztlicher Behand- lung (Defaultwert) tungsdienst)
 
@@ -2465,7 +2382,7 @@ nummer (LANR) des Erstveranlassers nummer des Über- weisers  60 der Arzt Anerke
 | 4299 | Lebenslange Arzt- | 9 | n | 050  762 |  |  |
 | 5000 | Leistungstag | 8 | d | 304  315 |  | 20191001 |
 
-Seite 82 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 83 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 der Kombinations- behandlung willigter Therapie- einheiten für den Versicherten den Versicherten rechneten GOPen für den Versicher- ten willigter Therapie- einheiten für die Be- zugsperson die Bezugsperson rechneten GOPen für die Bezugsper- son nummer (LANR) des Vertragspsychothe- rapeuten wiegend Einzeltherapie wiegend Gruppentherapie führung durch zwei Psychotherapeu- ten Durchführung durch zwei Psychothe- rapeuten
 
@@ -2484,7 +2401,7 @@ der Kombinations- behandlung willigter Therapie- einheiten für den Versicherten
 | 5009 | freier Begrün- |  | a |  |  | Neuerkrankung |
 | 5010 | Chargennummer |  | a | 868 |  | R3J404Y |
 
-Seite 83 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 84 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tung (GNR) bzw. Untersu- chung telten Facharztes dungstext kvx2  60  60  60
 
@@ -2511,7 +2428,7 @@ tung (GNR) bzw. Untersu- chung telten Facharztes dungstext kvx2  60  60  60
 | 5035 | OP-Schlüssel |  | a | 223  702  703  705 |  | 5-301.1 |
 | 5036 | GNR als Begründung | 5, 6 | a | 042  702 |  | 02300 |
 
-Seite 84 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 85 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 60 rialkosten in Cent  60  60  60 bei Hausbesuchen  60 Standort des Gerä- tersuchung Krebsfrüherken- nungs-untersuchung chen für poststatio- när erbrachte Leis- tungen
 
@@ -2535,7 +2452,7 @@ Seite 84 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 5076 | Rechnungsnummer |  | a |  |  |  |
 | 5077 | HGNC-Gensymbol |  | a | 222  770  816  828  829  830 | Werte gemäß Element /key/@DN |  |
 
-Seite 85 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 86 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Naht-Zeit (Minuten) der eDokumenta- tion Hautkrebs- Screening OPS Kontrast-/Arznei- mittel trast-/Arzneimittel teregister tate-register tateregister Lieferant  20  20 tal Q4/2025) der HGNC-Schlüsseltabelle
 
@@ -2551,7 +2468,7 @@ Naht-Zeit (Minuten) der eDokumenta- tion Hautkrebs- Screening OPS Kontrast-/Arzn
 | 5099 | Lebenslange Arzt- | 9 | n | (050)  (056)  715  721  723  725  762  837 |  |  |
 | 5100 | ASV-Teamnummer | 9 | n | 059  789  838 |  | 001234566 |
 
-Seite 86 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 87 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tung  60  60 der Leistungserbrin- gung nummer (LANR) des Vertragsarztes/Ver- tragspsychothera- peuten des Vertragsarztes
 
@@ -2569,7 +2486,7 @@ tung  60  60 der Leistungserbrin- gung nummer (LANR) des Vertragsarztes/Ver- tra
 | 6008 | Diagnosenausnah- |  | a | 491 |  | Zustand nach Ge- |
 | 8000 | Satzart | 4 | a | 175  331  426  427 | adt0 = ADT-Datenpaket-Header  adt9 = ADT-Datenpaket-Abschluss  0101 = Ambulante Behandlung  0102 = Überweisung | 0102 |
 
-Seite 87 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 88 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Krankenhausärzte im Rahmen der ASV- Abrechnung) des LE Rahmen der ASV- Abrechnung) rung metatbestand tung schlechtsumwand-
 
@@ -2581,9 +2498,7 @@ Krankenhausärzte im Rahmen der ASV- Abrechnung) des LE Rahmen der ASV- Abrechnu
 |  |  |  |  |  | 356  870  kvx2  kvx3 | 0103 = Belegärztliche Behandlung  0104 = Notfalldienst/Vertre- |
 | 9102 | Empfänger | 2 | n | 532  kvx0 | 01 = Schleswig-Holstein  02 = Hamburg  03 = Bremen  17 = Niedersachsen  18 = Dortmund  19 = Münster  20 = Dortmund  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = Rheinland-Pfalz  60 = Freiburg  61 = Stuttgart  63 = München Stadt u. Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern | 27 |
 
-Seite 88 von 207 / KBV /
-
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 89 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tung tung/Notfall 55 = Karlsruhe 62 = Reutlingen 
 
@@ -2607,7 +2522,7 @@ tung tung/Notfall 55 = Karlsruhe 62 = Reutlingen
 
 Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitungs-lichen Vereinigungen, nicht für die Abrechnungssoftware relevant.
 
-Seite 89 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 90 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Software der Kassenärzt-
 
@@ -2622,9 +2537,9 @@ ADT-Datenpaket der Satzbeschrei- bung der AVS nungen von y Parameter tung
 | 016 | Format | QJJJJ | F | Q = Quartal, JJJJ = Jahr |
 | 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  46 = KV Hessen  47 = Koblenz |
 
-Seite 90 von 207 / KBV / Datensatzbeschreibung KVDT
+Seite 91 von 207 / KBV / Datensatzbeschreibung KVDT
 
-Version 6.08 / 24. August 2026
+Version 6.08 / 13. November 2026
 
 Wertebereich: 0000-2359 
 
@@ -2636,9 +2551,9 @@ Wertebereich: 0000-2359
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
 |  |  |  |  | 48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = KV Rheinland-Pfalz  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpom- 79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen  94 = Chemnitz  95 = Dresden |
 
-Seite 91 von 207 / KBV / Datensatzbeschreibung KVDT
+Seite 92 von 207 / KBV / Datensatzbeschreibung KVDT
 
-Version 6.08 / 24. August 2026
+Version 6.08 / 13. November 2026
 
 mern 
 
@@ -2658,9 +2573,9 @@ mern
 | 049 | Format | Kknnnnnmm  mit  kk = erlaubter Inhalt ge- nnnnn = Seriennummer  mm = [undefiniert] | F |  |
 | 050 | Format | nnnnnnmff  mit | F | Verfahren zur Bestimmung der |
 
-Seite 92 von 207 / KBV /
+Seite 93 von 207 / KBV /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 pha[aerw]]][/Lkz] pha[aerw]][/Lkz] mäß Regel 162 reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- versionsnummer Menge ”G alpha” oder mindes- tens ein Zeichen aus der Menge ”n” muss in einer GNR vorhan- den sein. bolklasse kann optional verwen- det werden, d.h. es kommt ge- nau einmal oder keinmal vor. Prüfziffer vgl. 
 
@@ -2670,7 +2585,7 @@ pha[aerw]]][/Lkz] pha[aerw]][/Lkz] mäß Regel 162 reich: JJJJMM00, JJJJ0000, 00
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
-|  |  |  |  | nnnnnn = ID, wobei  m = Prüfziffer  ff = erlaubter Inhalt ge- |
+|  |  |  |  | nnnnnn = ID, wobei „nnn- m = Prüfziffer  ff = erlaubter Inhalt ge- |
 | 052 | Format | a/n[n][n]/JJMM/nn/aaa | F | a = [V, X, Y, Z]  n = numerisch  JJ = Jahr  MM = Monat  aaa = alphanumerisch |
 | 053 | Format | nnnnnn[n][n][n][n][n][n] | F | n = numerisch |
 | 054 | Format | annnnnnnnP | F | a = A-Z (ohne Umlaute)  n = numerisch  P = Prüfziffer, numerisch  Verfahren zur Bestimmung der  194 |
@@ -2679,7 +2594,7 @@ pha[aerw]]][/Lkz] pha[aerw]][/Lkz] mäß Regel 162 reich: JJJJMM00, JJJJ0000, 00
 | 058 | Format | JJJJMMTTJJJJMMTT | F | TT = Tag, MM = Monat,  JJJJ = Jahr |
 | 059 | Format | 00nnnnnnP  mit  00   nnnnnn = eindeutige  P | I | Verfahren zur Bestimmung der  3 |
 
-Seite 93 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 94 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 nnn“ ungleich „555555“ sein muss mäß Anlage 35 des BAR- Schlüsselverzeichnisses, tolerierter Ersatzwert für die Ziffern 8 - 9: 00 nnn“ ungleich „555555“ sein muss mäß Anlage 35 des BAR- Schlüsselverzeichnisses, tolerierter Ersatzwert für die Ziffern 8 - 9: 00 = ASV-ID-Kürzel Nummer Prüfziffer vgl. Erläuterung auf Seite Prüfziffer vgl. Prüfziffer vgl.
 
@@ -2694,10 +2609,9 @@ nnn“ ungleich „555555“ sein muss mäß Anlage 35 des BAR- Schlüsselverzei
 | 063 | Format | 555555nff  mit   555555= Pseudo-Arzt- n = Ordnungsnummer   ff = Fachgruppencode ge- | F | Pseudo-LANR für Krankenhaus-   Wertevorrat:   n ::= 0 |
 | 064 | Format | 555555nff  mit   555555= Pseudo-Arzt- n = Ordnungsnummer   ff = Fachgruppencode ge- | W | Pseudo-LANR für Krankenhaus-   Wertevorrat:   n ::= 0 |
 
-Seite 94 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 95 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Leistungen im Rahmen von § 75 Absatz 1a SGB V erbringen mäß Regel 162 mäß Regel 162 nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung mäß der jeweils gültigen Anlage 2 der Richtlinie der Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Arzt-, Betriebsstätten- und Praxisnetznummern nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung mäß der jeweils gültigen Tag, hh = Stunde, mm = Minute, ss = Sekunde Rahmen der Terminservicestelle erbringen (Anlage 28 BMV-Ä) ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fachgruppencodierungen) ... 9 ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fachgruppencodierungen) ... 9 
-
+Leistungen im Rahmen von § 75 Absatz 1a SGB V erbringen mäß Regel 162 mäß Regel 162 nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung mäß der jeweils gültigen Anlage 2 der Richtlinie der Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Arzt-, Betriebsstätten- und Praxisnetznummern nummer für Krankenhaus- ärzte im Rahmen der ASV- Abrechnung mäß der jeweils gültigen Tag, hh = Stunde, mm = Minute, ss = Sekunde Rahmen der Terminservicestelle erbringen (Anlage 28 BMV-Ä) ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fachgruppencodierungen) ... 9 ärzte im Rahmen der ASV-Ab- rechnung (ASV-AV Anlage 3 Fachgruppencodierungen) ... 9
 
 ---
 
@@ -2725,7 +2639,7 @@ Leistungen im Rahmen von § 75 Absatz 1a SGB V erbringen mäß Regel 162 mäß R
 | 178 | erlaubter Inhalt | L, R | F |  |
 | 201 | Existenzprüfung | Kassendatei | I | Abrechnungs-VKNR vorhanden |
 
-Seite 95 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 96 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Arzt-, Betriebsstätten- und Praxisnetznummern 07, 08, 09, 10, 14, 15 08, 09, 10, 11,12 28, 31, 37-73, 78-81, 83, 85-88, 93-96, 98, 99 07, 08, 09 0103, 0104 kategorie Betriebsstättennummern + Knappschaft und 5-stellig
 
@@ -2747,9 +2661,9 @@ Kassenärztlichen Bundes- vereinigung nach § 75 Abs. 7 SGB V zur Vergabe der Ar
 | 307 | Kontext | Wenn FK 4109 und FK | W | Diese Regel gilt sowohl für das |
 | 308 | Kontext | Feldinhalt von FK 3006 <= | W | Diese Regel gilt sowohl für das |
 
-Seite 96 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08
+Seite 97 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08
 
-/ 24. August 2026
+/ 13. November 2026
 
 von FK 4122 < 80  74799 elle  Maschinenda- 3119 vorhanden sind und Inhalt von FK 4239  21, 27, 28, muss FK 3006 vor- handen sein. 5.2.0 handen und 9-stellig prüfen, wenn kein Selektivver- trag vorliegt. 74799 darf in der Abrechnung nicht an die KVen übermittelt werden in Anbieterstammdatei, dann gilt:  (/JJMM/)+ Gültigkeitsdauer in Monaten (/MM/) + 12 Monate) > = Angabe in Feld „Abrech- nungsquartal“ (FK 9204) 5077) in Element /key/@DN  Element ../opscode_liste/opscode/@V Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. 
 
@@ -2768,7 +2682,7 @@ von FK 4122 < 80  74799 elle  Maschinenda- 3119 vorhanden sind und Inhalt von FK
 | 324 | Kontext | Der Inhalt des Feldes 5000 | F |  |
 | 328 | Kontext | Wenn Feldinhalt von 8000  Es darf nur eins der Felder | F |  |
 
-Seite 97 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 98 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 3006 = 5.2.0 und FK 3012 vorhanden ist, dann darf FK 3012 nicht den Wert 99999 haben. 3006  5.2.0 und FK 3012 vorhanden ist, dann muss FK 3012 den Wert 99999 haben.  Leis- ist, dann gilt:  Versicherungsschutz Ende (FK 4110) identisch sein mit Inhalt Feld 4217 8000 = 0102, dann gilt: FK 4220 muss nur dann vor- handen sein, wenn Feldin- halt von FK 4239  27, 28 muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des Quartals (4101) definiert = 0102, dann muss entwe- der Feld 4218 oder Feld 4219 oder Feld 4226 vor- handen sein. (XOR) 4218, 4219 oder 4226 in einem Satz 0102 vorhan- den sein.
 
@@ -2787,9 +2701,9 @@ Seite 97 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 426 | Kontext | Wenn Inhalt von 8000 = | F |  |
 | 427 | Kontext | Wenn Inhalt von 8000 = | F |  |
 
-Seite 98 von 207 / KBV /
+Seite 99 von 207 / KBV /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 = 0101, dann ist als Inhalt von FK 4239 00 erlaubt. = 30, dann muss das Feld 4233 vorhanden sein  0102, dann sind als Inhalte von 4239 20, 21, 23, 24, 26, 27, 28 erlaubt (Leistungstag) muss in dem Zeitraum liegen, wel- cher durch die Angabe in Feld 4125 (Gültigkeitszeit- raum von ... bis ...) defi- niert ist  4239 = 27, 28, dann muss das Feld 4221 vorhanden sein. handen sein, wenn Feldin- halt von FK 4239 27, 28. FK 4239 = 27 oder FK 4239 = 28 ist, dann muss das Feld 4102 vorhanden sein ist, dann gilt: 4102)  Erstellungsdatum (FK 9103, SA „con0“) 0103, dann sind als Inhalte von 4239 30, 31, 32 er- laubt 0104, dann sind als Inhalte oder gleich dem Erstellungsda- <= 20190202 (02.02.2019) 20190202 
 
@@ -2806,7 +2720,7 @@ Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
 | 479 | Kontext | Das Feld 3112 und/oder **Ausnahmen** Nur wenn FK 3114 vor- Ist ein Einlesedatum (FK    Ist ein Einlesedatum (FK | F |  |
 | 480 | Kontext | Der Inhalt des Feldes 4109 | W | Diese Regel gilt sowohl für das |
 
-Seite 99 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 100 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 45, 46 erlaubt kann entweder FK 4217 oder FK 4225 vorhanden sein. oder 28, darf FK 4229 vor- handen sein ist, dann gilt: 00 und ist kein  vorhanden, dann muss die PLZ in FK 3112 in der SDPLZ vorhanden sein. 3121 muss (je Satz 0101 0104) vorhanden sein. handen und der Feldinhalt ungleich „D“ ist, dann gilt: 4109) vorhanden, dann muss die FK 3112 nicht vorhanden sein. Nur wenn FK 3124 vor- handen und der Feldinhalt ungleich „D“ ist, dann gilt: 4109) vorhanden, dann muss die FK 3121 nicht vorhanden sein. (Einlesedatum) muss in dem Zeitraum liegen, wel- cher durch die Angabe in Feld 4101 (Quartal) defi- niert ist. Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0.
 
@@ -2820,7 +2734,7 @@ Seite 99 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 
 | 490 | Kontext | Wenn zu dem ICD-Code | W | SDICD |
 | 491 | Kontext | Wenn zu dem ICD-Code | W | SDICD |
 
-Seite 100 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 101 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente „ un- tere_altersgrenze und/oder „ obere_alters- grenze “ existieren, dann muss das aus dem Ge- burtsdatum FK 3103 be- rechnete Alter  oberhalb der „ unteren_alters- grenze “ und unterhalb der obere_altersgrenze “ lie- gen. altersbezug_fehlerart “ ist „m“.  das Höchstalter wird prüfmodulseitig zu Quar- talsbeginn und Mindestal- ter zu Quartalsende be- rechnet (FK 6001/3673) in der SDICD das Element krankheit_in_mitteleu- ropa_sehr_selten “ mit In- halt V=“j“ existiert, dann Warnhinweis „ Bitte Kodie- rung überprüfen: Diagno- sen dieses Kodes sind in Mitteleuropa sehr selten (FK 6001 / 3673) in der SDICD das Element „ ge- schlechtsbezug “ existiert und der Inhalt von „ ge- schlechtsbezug_fehlerart mit V=“m“ definiert ist und diese Bedingung nicht mit dem Geschlecht des Patienten (FK 3110) über- einstimmt, muss FK 6008 bzw. 3677 vorhanden sein 
 
@@ -2843,9 +2757,9 @@ der 6001 oder 3673 muss vorhanden sein. (FK 6001/3673) in der SDICD die Elemente
 | 536 | erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06, | F |  |
 | 537 | erlaubter Inhalt | ≠ T555558879 | F |  |
 
-Seite 101 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08
+Seite 102 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08
 
-/ 24. August 2026
+/ 13. November 2026
 
 (FK 6001 /3673) in der SDICD das Element „schlüsselnum- mer_mit_inhalt_belegt“ mit Inhalt „n“ existiert, darf diese nicht übertra- gen werden = 3, dann gilt für den In- halt des Feldes 5001 Regel 035. = 0 oder 1 oder 2, dann gilt für den Inhalt des Fel- des 5001 die Regel 042. 24, 25, 27, 28, 31, 37, 39- 45, 47-51, 55, 60-70, 72, 73, 78-81, 83, 85-87, 93- 96, 99 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, noch in Gebrauch (bspw. KVK- WOP) Abrechnungsempfänger 
 
@@ -2859,11 +2773,11 @@ Seite 101 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08
 | 702 | Kontext | Wenn FK 4121 ≠ 3: Wenn für die GOP in Feld  Wenn für die GOP in Feld | W |  |
 | 703 | Kontext | Wenn FK 4121 ≠ 3:  Wenn für die GOP in Feld | W |  |
 
-Seite 102 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 103 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
-FK 5001 gemäß SDEBM die Zusatzangabe “5034” definiert ist, muss FK 5034 vorhanden sein. FK 5001 in der EBM- Stammdatei ausschließlich das XML-Element ../gnr_zusatzan- gabe/@V=“5035“ bzw. ../gnr_zusatzan- gabe/@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden ist, muss mindestens ein Feld FK 5035 bzw. ein Feld FK 5036 vorhanden sein. FK 5001 in der EBM- Stammdatei die XML-Ele- mente ../gnr_zusatzan- gabe/@V=“5035“ und ../gnr_zusatzan- gabe/@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden sind, muss mindestens entweder ein Feld FK 5035 oder ein Feld FK 5036 vor- handen sein. FK 5001 gemäß Regel 702 mindestens ein Feld FK 5035 vorhanden sein muss und min. das XML- Element .. /begruendun- gen_liste/ops_liste/  vor- handen ist, dann sollte mindestens ein Inhalt des Feldes FK 5035 einem In- halt des Attributs /@V des XML-Elements ../begruen-
+FK 5001 gemäß SDEBM die Zusatzangabe “5034” definiert ist, muss FK 5034 vorhanden sein. FK 5001 in der EBM- Stammdatei ausschließlich das XML-Element ../gnr_zusatzan- gabe/@V=“5035“ bzw. ../gnr_zusatzan- gabe /@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden ist, muss mindestens ein Feld FK 5035 bzw. ein Feld FK 5036 vorhanden sein. FK 5001 in der EBM- Stammdatei die XML-Ele- mente ../gnr_zusatzan- gabe/@V=“5035“ und ../gnr_zusatzan- gabe/@V=“5036“ inner- halb einer GNR-Zusatzan- gabenliste vorhanden sind, muss mindestens entweder ein Feld FK 5035 oder ein Feld FK 5036 vor- handen sein. FK 5001 gemäß Regel 702 mindestens ein Feld FK 5035 vorhanden sein muss und min. das XML- Element .. /begruendun- gen_liste/ops_liste/  vor- handen ist, dann sollte mindestens ein Inhalt des Feldes FK 5035 einem In- halt des Attributs /@V des XML-Elements ../begruen-
 
 
 ---
@@ -2878,7 +2792,7 @@ FK 5001 gemäß SDEBM die Zusatzangabe “5034” definiert ist, muss FK 5034 vo
 | 707 | Kontext | Wenn FK 5042 existiert, | W | Kein Multiplikator zulässig |
 | 710 | Kontext | Inhalt von FK 5012 ≤ | W | Prüfung auf realistische Sach- |
 
-Seite 103 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 104 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 gen_liste/ops_liste/kate- gorie/ops entsprechen. FK 5001 gemäß Regel 702 mindestens ein Feld FK 5036 vorhanden sein muss und min. das XML- Element ..  /begruendun- gen_liste/gnr_liste/  vor- handen ist, dann sollte mindestens ein Inhalt des Feldes FK 5036 einem In- halt des Attributs /@V des XML-Elements ../begruen- gen_liste/gnr_liste/gnr entsprechen. 5035 gemäß SDOPS- Stammdatei mit “kzseite=J” definiert ist, muss zu dieser FK 5035 ein Feld FK 5041 existie- ren. 4101 < „12026“ ist, dann ist der erlaubte Wertebe- reich der FK 5041 gleich Regel 4101 >= „12026“ ist, dann ist der erlaubte Wertebe- reich der FK 5041 gleich Regel darf keine FK 5005 vor- handen sein 999999 schließlich Q4/2025 kann der Wertebereich der Seitenlokali- sation von OPS-Kodes L, R und B sein.  Q1/2026 kann der Wertebe- reich der Seitenlokalisation von OPS-Kodes L und R sein. kosten
 
@@ -2894,7 +2808,7 @@ gen_liste/ops_liste/kate- gorie/ops entsprechen. FK 5001 gemäß Regel 702 minde
 | 723 | Kontext | Wenn Inhalt von 4239 = | W |  |
 | 724 | Kontext | Wenn Inhalt von 4239 = | W |  |
 
-Seite 104 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 105 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 28: Der Wert in FK 5099 muss mit einem der Werte aus FK 0212 (SA „besa“) übereinstimmen, sofern der Wert in FK 5099 ungleich „999999900“ (Inhalt von FK 4101 = FK 9204 (adt0)) 28:  mit einem der Werte aus FK 0201 (SA „besa“) über- einstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)). wenn Feld 4218 vorhan- den ist, dann müssen die Inhalte von FK 4218 und 5098 identisch sein. wenn Feld 4242 vorhan- den ist, dann müssen die Inhalte von FK 4242 und 5099 identisch sein. 28: Der Wert in FK 5099 muss mit einem der Werte aus FK 0212 (SA „besa“) übereinstimmen, sofern der Wert in FK 5099 ungleich „999999900“ 28: Der Wert in FK 5098 muss mit einem der Werte aus FK 0201 (SA „besa“) übereinstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)). tuellen Quartalsfällen (analog Regel 716) tuellen Quartalsfällen gelung: Einweisender Arzt ist auch „durchführender“ Arzt gelung: Einweisender Arzt ist auch „durchführender“ Arzt
 
@@ -2911,7 +2825,7 @@ Seite 104 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 744 | Kontext | Wenn Feldinhalt von 4239 | F |  |
 | 746 | Kontext | Wenn Feldinhalt von 4239 | F |  |
 
-Seite 105 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 106 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 = 28, dann gilt für den In- halt des Feldes 5099 die Formatregel 056. bei SUG 28, wenn aus Überwei- ser-LANR stammend ≠ 28, dann gilt für den In- halt des Feldes 5099 die Formatregel 050. 6001/3673 muss als Ele- ment „ icd_code “ und dem Kindelement „ abrechen- bar “ mit dem Inhalt V=“j“ in der SDICD vorhanden sein. (FK 6001 /3673) das Ele- ment „ notationskennzei- chen “ (SDICD) mit Inhalt  „*“ oder „!“ existiert (=Se- kundärcode), muss mind. ein ICD-Code FK 6001/3673 ohne „ notati- onskennzeichen “ (SDICD) oder  wenn vorhanden, mit Inhalt „+“  (=Primär- code) vorhanden sein. 0101, 0102, 0103, 0104 nenkennziffer bei dem bundes- und der Kostenträger der weiten SKT Bundeswehr KT-Gruppe 75 entspricht (Element /kostentraeger- gruppe (kts)), dann muss der Inhalt des Feldes 4124 dem Format „TTMMJJann- nnn“ entsprechen. muss <= dem Inhalt von FK 9260 sein. = 21, dann muss das Feld 4205 vorhanden sein. = 31, dann muss das Feld 
 
@@ -2928,7 +2842,7 @@ Seite 105 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 756 | Kontext | Wenn Feldinhalt von 4239  Ansonsten darf es nicht | W |  |
 | 761 | Kontext | Wenn zu dem ICD-Code | W | SDICD |
 
-Seite 106 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 107 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 nes der Felder 4205, 4207 oder 4208 vorhanden sein.  des 5001 dem Inhalt des Attributs  /@gop  eines Ele- ments /key  der Schlüs- seltabelle S_NVV_RV_Zer- tifikat entspricht und der Inhalt des Feldes 9204 (adt0) innerhalb von /key/@gueltigkeit liegt, dann gilt: Feld 0304 (SA „rvsa“) mit dem Inhalt aus Attribut /@V des jeweiligen Ele- ments /key mit Feld 0305 = „1“ oder „2“ vorhanden sein. = 28, dann muss Inhalt von 4221 ungleich 3 sein. = 27, dann muss das Feld 4205 vorhanden sein. = 28, dann kann das Feld 4209 vorhanden sein. vorhanden sein. (FK 6001/3673) in der SDICD die Elemente „ un- tere_altersgrenze und/oder „ obere_alters- grenze “ existieren, dann muss das aus dem Ge- burtsdatum FK 3103 be- rechnete Alter  oberhalb der „ unteren_alters- grenze “ und unterhalb der obere_altersgrenze “ lie- gen. RVSA-Satz unter Verwendung der Schlüsseltabelle S_NVV_RV_Zertifikat (OID 1.2.276.0.76.3.1.1.5.2.22)
 
@@ -2942,10 +2856,9 @@ nes der Felder 4205, 4207 oder 4208 vorhanden sein.  des 5001 dem Inhalt des Att
 | 763 | Kontext | Der, aus dem Inhalt der | W | Prüfung gegen Kostenträger- (vgl. Anforderungskatalog  SDKT |
 | 770 | Kontext | Wenn Feldinhalt von 5001 | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht **Hinweis: ** In der 87. Sitzung des erweiter- |
 
-Seite 107 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 108 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-altersbezug_fehlerart “ ist „k“.  das Höchstalter wird prüfmodulseitig zu Quar- talsbeginn und Mindestal- ter zu Quartalsende be- rechnet „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 und 4299 unzulässig. Stellen 1-2 der FK 0201 abgeleitete, KV-Bereich darf nicht dem Inhalt des Attributs @V des Ele- ments /kostentrae- ger/unz_kv_geltungsbe- reich_liste/unz_kv_gel- tungsbereich der Kosten- trägerstammdatei (SDKT) entsprechen. = 11511[G-alpha], 11512[G-alpha], 11516[G- alpha], 11517[G-alpha], 11518[G-alpha], 11521[G- alpha], 11721 [G-alpha], 11722 [G-alpha], 11723 [G- alpha], 11728 [G-alpha], 11730 [G-alpha] oder 11731 [G-alpha], dann müssen die Felder 5077 und 5079 genau einmal vorhanden sein. Stammdatei KVDT, P2-265) auch bei den genannten GOPen mit Buchstabensuffix ten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11511, 11512, 11516 bis 11518 und 11521 im Abschnitt 11.4.2 EBM für Behandlungs- fälle ab dem 01.10.2026 gestri- chen. Da die Abrechnung von sogenannten Nachzüglerfäl- len/Vorquartalsfällen möglich ist und die ursprünglichen Rege- lungen für diese gelten, werden die gestrichen GOPen bis zum vierten Quartal 2028 in der Ta- belle aufgeführt.  
-
+altersbezug_fehlerart “ ist „k“.  das Höchstalter wird prüfmodulseitig zu Quar- talsbeginn und Mindestal- ter zu Quartalsende be- rechnet „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 und 4299 unzulässig. Stellen 1-2 der FK 0201 abgeleitete, KV-Bereich darf nicht dem Inhalt des Attributs @V des Ele- ments /kostentrae- ger/unz_kv_geltungsbe- reich_liste/unz_kv_gel- tungsbereich der Kosten- trägerstammdatei (SDKT) entsprechen. = 11511[G-alpha], 11512[G-alpha], 11516[G- alpha], 11517[G-alpha], 11518[G-alpha], 11521[G- alpha], 11721 [G-alpha], 11722 [G-alpha], 11723 [G- alpha], 11728 [G-alpha], 11730 [G-alpha] oder 11731 [G-alpha], dann müssen die Felder 5077 und 5079 genau einmal vorhanden sein. Stammdatei KVDT, P2-265) auch bei den genannten GOPen mit Buchstabensuffix ten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11511, 11512, 11516 bis 11518 und 11521 im Abschnitt 11.4.2 EBM für Behandlungs- fälle ab dem 01.10.2026 gestri- chen. Da die Abrechnung von sogenannten Nachzüglerfäl- len/Vorquartalsfällen möglich ist und die ursprünglichen Rege- lungen für diese gelten, werden die gestrichen GOPen bis zum vierten Quartal 2028 in der Ta- belle aufgeführt.
 
 ---
 
@@ -2961,7 +2874,7 @@ altersbezug_fehlerart “ ist „k“.  das Höchstalter wird prüfmodulseitig z
 | 780 | Kontext | Wenn Feldinhalt von FK | F |  |
 | 783 | Kontext | Wenn FK 3121 vorhanden  Wenn Inhalt von FK 4106  Einlesedatum (FK 4109) | F |  |
 
-Seite 108 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 109 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 des 3006 > = 5.2.0, dann muss das Feld 3116 vor- handen sein. 3006 vorhanden sind, dann muss das Feld 4133 vorhanden sein. ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 < 800, dann muss das Feld 3119 vorhanden sein. ist und der Inhalt der Stel- len 3 - 5 des Feldes 4104 >= 800, dann muss entwe- der das Feld 3105 oder 3119 vorhanden sein. ist und Feldinhalt von FK 4239  21, 27, 28, muss das Feld 4134 vorhanden sein. 4131 ="07” oder "08", dann muss Feldinhalt von FK 4106 = "01" oder „09“ sein. 4131 ="06”, dann muss Feldinhalt von FK 4106 = "02" oder „09“ sein. 4131 ="04”, dann muss Feldinhalt von FK 4106 = "00" oder „09“ sein. ist, dann gilt: = 00 und ist kein  vorhanden, dann muss die Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. beim Einlesen einer Versicher- tenkarte immer - unabhängig von der Scheinuntergruppe - übertragen werden.
 
@@ -2978,10 +2891,9 @@ des 3006 > = 5.2.0, dann muss das Feld 3116 vor- handen sein. 3006 vorhanden sin
 | 816 | Kontext | Wenn Feldinhalt von 5001  Zusätzlich gilt:  Die Felder 5077 und 5078  sein. | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 817 | Kontext | Wenn zu einem ICD-Code | W | Stimmt das Geschlecht des Pati-   SDICD |
 
-Seite 109 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 110 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-SDPLZ vorhanden sein. 3006 vorhanden sind, muss das Feld 3114 und/oder Feld 3124 vor- handen sein.  den ist, dann gilt: Der Wert in FK 5100 muss mit einem der Werte aus FK 0222 (SA „besa“) über- einstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)) ist und FK 3006 nicht vor- handen, dann muss der In- halt der Stellen 3 - 5 der FK 4104 >= 800 sein. des 8000 = adt0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen onsangabe = 11233[G-alpha], dann muss das Feld 5079 vor- handen sein. dürfen nicht vorhanden (Feldinhalt FK 6001 bzw. 3673) in der SDICD das Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge- schlechtsbezug_fehlerart“ = „k“ ist und kein Feld 6008 / 3677 vorhanden tuellen Quartalsfällen bei „originären“ SKT auch bei der genannten GOP mit Buchstabensuffix enten nicht mit der Angabe im Element „geschlechtsbezug“ überein, ist vom PVS darauf hin- zuweisen (vgl. KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470) 
-
+SDPLZ vorhanden sein. 3006 vorhanden sind, muss das Feld 3114 und/oder Feld 3124 vor- handen sein.  den ist, dann gilt: Der Wert in FK 5100 muss mit einem der Werte aus FK 0222 (SA „besa“) über- einstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)) ist und FK 3006 nicht vor- handen, dann muss der In- halt der Stellen 3 - 5 der FK 4104 >= 800 sein. des 8000 = adt0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen onsangabe = 11233[G-alpha], dann muss das Feld 5079 vor- handen sein. dürfen nicht vorhanden (Feldinhalt FK 6001 bzw. 3673) in der SDICD das Element „geschlechtsbe- zug“ existiert und der In- halt von Element „ge- schlechtsbezug_fehlerart“ = „k“ ist und kein Feld 6008 / 3677 vorhanden tuellen Quartalsfällen bei „originären“ SKT auch bei der genannten GOP mit Buchstabensuffix enten nicht mit der Angabe im Element „geschlechtsbezug“ überein, ist vom PVS darauf hin- zuweisen (vgl. KBV_ITA_VGEX_Anforderungs- katalog_ICD-10, P10-470)
 
 ---
 
@@ -2993,7 +2905,7 @@ SDPLZ vorhanden sein. 3006 vorhanden sind, muss das Feld 3114 und/oder Feld 3124
 | 820 | Kontext | Wenn der Inhalt des Fel- Wenn Inhalt des Feldes | siehe Regel  049  061 | (N)BSNR des Erstveranlassers |
 | 821 | Kontext | Wenn der Inhalt des Fel- Wenn Inhalt des Feldes  Wenn Inhalt des Feldes | siehe Regel  049  061 | (N)BSNR des Überweisers |
 
-Seite 110 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 111 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 schlecht in FK 3110 (so- fern 3110  U, X, D) zu der Angabe unter Element „geschlechtsbezug“ (SDICD) passen. 4131 ="09”, dann soll Fel- dinhalt von FK 4106 = "00" oder „09“ sein. des 8000 = 0102 und wenn Feld 4217 vorhan- den ist und der Inhalt der Stellen 1-2 des Feldes 4217 = 35, dann gilt für den Inhalt des Feldes 4217 die Formatregel 061. 8000 = 0102 und wenn Feld 4217 vorhanden ist und der Inhalt der Stellen 1- 2 des Feldes 4217 ≠ 35, dann gilt für den Inhalt des Feldes 4217 die For- matregel 049. des 8000 = 0102 und wenn Feld 4218 vorhan- den ist und der Inhalt der Stellen 1-2 des Feldes 4218 = 35, dann gilt für den Inhalt des Feldes 4218 die Formatregel 061. 8000 = 0102 und wenn Feld 4218 vorhanden ist und der Inhalt der Stellen 1- 2 des Feldes 4218 ≠ 35 und ≠ 77, dann gilt für den Inhalt des Feldes 4218 die Formatregel 049. 8000 = 0102 und wenn Feld 4218 vorhanden ist und der Inhalt der Stellen
 
@@ -3007,45 +2919,43 @@ schlecht in FK 3110 (so- fern 3110  U, X, D) zu der Angabe unter Element „gesc
 | 823 | Kontext | Wenn der Inhalt der Stel- Wenn der Inhalt der Stel- Wenn der Inhalt der Stel- | siehe Regel 049  061  062 | (N)BSNR des Ortes der Leis- |
 | 827 | Kontext | Falls Feld 4109 vorhanden | W |  |
 | 828 | Kontext | Wenn Feldinhalt des Fel- | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
-| 829 | Kontext | Wenn Feldinhalt von Feld | W | G-alpha ::= AB...Z  [ ] - optional |
 
-Seite 111 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 112 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-dann gilt für den Inhalt des Feldes 4218 gleich 777777700. 8000 = 0103 und wenn Feld 4218 vorhanden ist, dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Feldes 5098 = 35, dann gilt für den Inhalt des Feldes 5098 die For- matregel 061. len 1-2 des Feldes 5098 = 74, dann gilt für den Inhalt des Feldes 5098 die For- matregel 062. len 1- 2 des Feldes 5098 ≠ 35 und ≠ 74, dann gilt für den Inhalt des Feldes 5098 die Formatregel 049. ist und Feld 4131 = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder 09 sein. des 5001 = 11302[G-al- pha], 11303[G-alpha], 11305[G-alpha], oder 19402[G-alpha] ist, dann muss mindestens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5077 und 5079 dürfen nicht übertragen werden. 5001 = 19421[G-alpha], 19451[G-alpha] oder 19452[G-alpha], dann tungserbringung auch bei der genannten GOP mit Buchstabensuffix
+dann gilt für den Inhalt des Feldes 4218 gleich 777777700. 8000 = 0103 und wenn Feld 4218 vorhanden ist, dann gilt für den Inhalt des Feldes 4218 die For- matregel 049. len 1-2 des Feldes 5098 = 35, dann gilt für den Inhalt des Feldes 5098 die For- matregel 061. len 1-2 des Feldes 5098 = 74, dann gilt für den Inhalt des Feldes 5098 die For- matregel 062. len 1- 2 des Feldes 5098 ≠ 35 und ≠ 74, dann gilt für den Inhalt des Feldes 5098 die Formatregel 049. ist und Feld 4131 = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder 09 sein. des 5001 = 11302[G-al- pha], 11303[G-alpha], 11305[G-alpha], oder 19402[G-alpha], 32901[G- alpha], 32902[G-alpha], 32904[G-alpha], 32906[G- alpha], 32908[G-alpha], 32910[G-alpha], 32911[G- alpha], 32915[G-al- pha],32916[G-alpha], 32917[G-alpha] oder 32918[G-alpha] ist, dann muss mindestens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden tungserbringung auch bei der genannten GOP mit Buchstabensuffix
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
-|  |  |  | muss das Feld 5077 genau | Dokumentationspflicht besteht |
+|  |  |  |  | sein und die Felder 5077 |
+| 829 | Kontext | Wenn Feldinhalt von Feld | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 830 | Kontext | Wenn Feldinhalt von Feld | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 834 | Kontext | Wenn der Feldinhalt des | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht **Hinweis: ** In der 87. Sitzung des erweiter- |
-| 837 | Kontext | Wenn der Inhalt des Fel- Es muss entweder das | F |  |
 
-Seite 112 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 113 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-einmal je Feld 5001 vor- handen sein und  es muss mindestens ein Feld 6001 mit einem Inhalt ungleich „Z01.7“ vorhanden sein. 5001 = 19424[G-alpha], 19453[G-alpha], oder 19456[G-alpha], dann muss das Feld 5077 mindestens einmal je Feld 5001 vorhanden sein und es muss mindestens ein Feld 6001 mit einem In- halt ungleich „Z01.7“ vor- handen sein. Feldes 5001 = 11522[G-al- pha], 11513[G-alpha], 11724 [G-alpha], 11725 [G- alpha], 11726 [G-alpha], 11727 [G-alpha] oder 11732 [G-alpha], müssen die Felder FK 5077 und FK 5079 mindestens einmal je Feld 5001 vorhanden sein. des 8000 = 0101, 0102 oder 0104, dann gilt: Feld 5099 oder das Feld 5101 vorhanden sein. auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix ten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11513  und 11522  im Ab- schnitt 11.4.2 EBM für Behand- lungsfälle ab dem 01.10.2026 gestrichen. Da die Abrechnung von sogenannten Nachzüglerfäl- len/Vorquartalsfällen möglich ist und die ursprünglichen Rege- lungen für diese gelten, werden die gestrichen GOPen bis zum vierten Quartal 2028 in der Ta- belle aufgeführt.  
-
+und 5079 dürfen nicht übertragen werden. 5001 = 19421[G-alpha], 19451[G-alpha] oder 19452[G-alpha], dann muss das Feld 5077 genau einmal je Feld 5001 vor- handen sein  es muss mindestens ein Feld 6001 mit einem Inhalt ungleich „Z01.7“ vorhanden sein. 5001 = 19424[G-alpha], 19453[G-alpha], oder 19456[G-alpha], dann muss das Feld 5077 mindestens einmal je Feld 5001 vorhanden sein es muss mindestens ein Feld 6001 mit einem In- halt ungleich „Z01.7“ vor- handen sein. Feldes 5001 = 11522[G-al- pha], 11513[G-alpha], 11724 [G-alpha], 11725 [G- alpha], 11726 [G-alpha], 11727 [G-alpha] oder 11732 [G-alpha], müssen die Felder FK 5077 und FK 5079 mindestens einmal je Feld 5001 vorhanden sein. auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix ten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11513 11522  im Ab- schnitt 11.4.2 EBM für Behand- lungsfälle ab dem 01.10.2026 gestrichen. Da die Abrechnung von sogenannten Nachzüglerfäl- len/Vorquartalsfällen möglich ist und die ursprünglichen Rege- lungen für diese gelten, werden die gestrichen GOPen bis zum vierten Quartal 2028 in der Ta- belle aufgeführt.
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
+| 837 | Kontext | Wenn der Inhalt des Fel- Es muss entweder das | F |  |
 | 838 | Kontext | Wenn Feld 4239 = 28 und | I | „Einweisender Arzt“ ist auch |
 | 839 | Kontext | Wenn Feld 5101 vorhan- | I | Prüfung gegen besa-Satz bei ak- |
 | 840 | Kontext | Wenn das Feld 9102 =  entsprechen | W | 1-23: Versionsnummer  24:  9 9   25-60: |
 | 843 | Kontext | Wenn Feldinhalt des Fel- | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
-| 844 | Kontext | Wenn ein Feld 4225 vor- | W |  |
 
 ________________
 
-Seite 113 von 207 / KBV /
+Seite 114 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+13. November 2026
 
-wenn Feld 4226 vorhan- den ist, dann müssen die Inhalte der Felder 4226 und 5100 identisch sein. den ist, dann gilt:  der Wert in Feld 5101 muss mit einem der Werte aus Feld 0223 (SA „besa“) übereinstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von Feld 4101 = Feld 9204 (adt0)). „94“ oder „95“ oder „96“ ist, dann muss der Feldin- halt des Feldes 0132 dem regulären Ausdruck „(.{1,23})|(.{1,23} \|([0- 9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A- Z][1- 9])*)“ des 5001 = 32901[G-al- pha], 32902[G-alpha], 32904[G-alpha], 32906[G- alpha], 32908[G-alpha], 32910[G-alpha] oder 32911[G-alpha], dann muss mindestens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5077 und 5079 dürfen nicht übertragen werden. handen ist, dann muss entweder ein Feld 4241 oder ein Feld 4248 vor- handen sein.  „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tast „Alt Gr“ und „<“ erzeugt. „durchführender“ Arzt tuellen Quartalsfällen fixes Trennzeichen „|“ sonstige Informatio- nen auch bei der genannten GOP mit Buchstabensuffix enkombination 
+des 8000 = 0101, 0102 oder 0104, dann gilt: Feld 5099 oder das Feld 5101 vorhanden sein. wenn Feld 4226 vorhan- den ist, dann müssen die Inhalte der Felder 4226 und 5100 identisch sein. den ist, dann gilt:  der Wert in Feld 5101 muss mit einem der Werte aus Feld 0223 (SA „besa“) übereinstimmen, sofern kein Vorquartalsfall vorliegt (Inhalt von Feld 4101 = Feld 9204 (adt0)). „94“ oder „95“ oder „96“ ist, dann muss der Feldin- halt des Feldes 0132 dem regulären Ausdruck „(.{1,23})|(.{1,23} \|([0- 9][0-9][0-9][0-9])?([a-ku- x][a-z][1-9])*([a-ku-x][A- Z][1- 9])*)“ des 5001 = 32901[G-al- pha], 32902[G-alpha], 32904[G-alpha], 32906[G- alpha], 32908[G-alpha], 32910[G-alpha] oder 32911[G-alpha], dann muss mindestens ein Feld 6001 mit einem Inhalt un- „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tast „Alt Gr“ und „<“ erzeugt. gleich „Z01.7“ vorhanden sein und die Felder 5077 und 5079 dürfen nicht übertragen werden. „durchführender“ Arzt tuellen Quartalsfällen fixes Trennzeichen „|“ sonstige Informatio- nen auch bei der genannten GOP mit Buchstabensuffix enkombination 
 
 
 ---
@@ -3053,59 +2963,55 @@ wenn Feld 4226 vorhan- den ist, dann müssen die Inhalte der Felder 4226 und 510
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
+| 844 | Kontext | Wenn ein Feld 4225 vor- | W |  |
 | 845 | Kontext | Wenn Feldinhalt von 4239  Wenn Feldinhalt von 4239 | W | vgl. Erläuterung Kapitel 3.6.2 |
 | 847 | Kontext | Wenn Feldinhalt von Feld | I | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 848 | Kontext | Wenn Feldinhalt von Feld | I | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 850 | Kontext | Die Felder 4252 und 4253 | F |  |
 | 851 | Kontext | Die Felder 4255 und 4256 | F |  |
 | 852 | Kontext | Wenn das Feld 4255 be- | F |  |
-| 853 | Kontext | Im Feld 4253 dürfen GNR  Im Feld 4256 dürfen GNR | F | Beispiele:   - |
 
-Seite 114 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 115 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-≠ 28 und wenn ein Feld 4226 vorhanden ist, dann muss entweder ein Feld 4242 oder ein Feld 4249 vorhanden sein. = 28 und wenn ein Feld 4226 vorhanden ist, dann muss ein Feld 4242 vor- handen sein. Das Feld 4249 darf nicht vorhanden sein. 5001 = 19421[G-alpha], 19451[G-alpha] oder 19452[G-alpha], dann sollte das Feld 5079 genau einmal je Feld 5001 vor- handen sein. 5001 = 19424[G-alpha], 19453[G-alpha]  oder 19456[G-alpha], dann sollte das Feld 5079 mindestens einmal je Feld 5001 vorhanden sein.  dürfen nur gemeinsam übertragen werden. dürfen nur gemeinsam übertragen werden. füllt ist, muss auch das Feld 4252 befüllt sein. nicht mehrfach übertra- gen werden. nicht mehrfach übertra- gen werden. auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4256 ist zulässig. 
-
+handen ist, dann muss entweder ein Feld 4241 oder ein Feld 4248 vor- handen sein.  ≠ 28 und wenn ein Feld 4226 vorhanden ist, dann muss entweder ein Feld 4242 oder ein Feld 4249 vorhanden sein. = 28 und wenn ein Feld 4226 vorhanden ist, dann muss ein Feld 4242 vor- handen sein. Das Feld 4249 darf nicht vorhanden sein. 5001 = 19421[G-alpha], 19451[G-alpha] oder 19452[G-alpha], dann sollte das Feld 5079 genau einmal je Feld 5001 vor- handen sein. 5001 = 19424[G-alpha], 19453[G-alpha]  oder 19456[G-alpha], dann sollte das Feld 5079 mindestens einmal je Feld 5001 vorhanden sein.  dürfen nur gemeinsam übertragen werden. dürfen nur gemeinsam übertragen werden. füllt ist, muss auch das Feld 4252 befüllt sein. auch bei der genannten GOP mit Buchstabensuffix auch bei der genannten GOP mit Buchstabensuffix
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
-|  |  |  |  | -  lässig.  -  -  lässig. |
+| 853 | Kontext | Im Feld 4253 dürfen GNR  Im Feld 4256 dürfen GNR | F | Beispiele:   -  -  lässig.  -  -  lässig. |
 | 854 | Kontext | Wenn Feldinhalt des Fel- | W | G-alpha ::= AB...Z  [ ] - optional  Dokumentationspflicht besteht |
 | 856 | Kontext | Wenn der Feldinhalt von | W |  |
 | 859 | Kontext | Wenn der Inhalt des Fel- Es muss entweder das | F |  |
 | 860 | Kontext | Der Inhalt des Feldes 3673 | W |  |
-| 864 | Kontext | Der Inhalt des Feldes 3010 | W | Diese Regel gilt sowohl für das |
 
-Seite 115 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 116 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-des 5001 = 32915[G-al- pha],32916[G-alpha], 32917[G-alpha] oder 32918[G-alpha], dann muss mindestens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5077 und 5079 dürfen nicht übertragen werden. FK 6001 = “Z01.7“, dann muss der Feldinhalt von FK 6003 = „G“ sein. des 8000 = 0101, 0102 oder 0104, dann gilt: Feld FK 5098 oder das Feld FK 5102 vorhanden sein. darf nicht „Z01.7“ sein. muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des Quartals (4101) definiert ist Die Übertragung der Ziffer 35401 in der FK 4253 und 35401B in der FK 4256 ist zu- Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4253 ist nicht zulässig. Die Übertragung der Ziffer 35401 in der FK 4256 und die Übertragung der Ziffer 35401B in der FK 4256 ist zu- auch bei der genannten GOP mit Buchstabensuffix Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0.
-
+nicht mehrfach übertra- gen werden. nicht mehrfach übertra- gen werden. des 5001 = 32915[G-al- pha],32916[G-alpha], 32917[G-alpha] oder 32918[G-alpha], dann muss mindestens ein Feld 6001 mit einem Inhalt un- gleich „Z01.7“ vorhanden sein und die Felder 5077 und 5079 dürfen nicht übertragen werden. FK 6001 = “Z01.7“, dann muss der Feldinhalt von FK 6003 = „G“ sein. des 8000 = 0101, 0102 oder 0104, dann gilt: Feld FK 5098 oder das Feld FK 5102 vorhanden sein. darf nicht „Z01.7“ sein. Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4256 ist zulässig. Die Übertragung der Ziffer 35401 in der FK 4253 und 35401B in der FK 4256 ist zu- Die Übertragung der Ziffer 35401 in der FK 4253 und die erneute Übertragung der Zif- fer 35401 in der FK 4253 ist nicht zulässig. Die Übertragung der Ziffer 35401 in der FK 4256 und die Übertragung der Ziffer 35401B in der FK 4256 ist zu- auch bei der genannten GOP mit Buchstabensuffix
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
+| 864 | Kontext | Der Inhalt des Feldes 3010 | W | Diese Regel gilt sowohl für das |
 | 868 | Kontext | Wenn für die GOP in Feld | W |  |
 | 869 | Kontext | Sofern kein Vorquartalsfall  Wenn in einem Datensatz | W | Diese Regel gilt NUR für das Ein- lesen einer eGK |
 | 870 | Kontext | Wenn in einem Datensatz | F |  |
 | 876 | Kontext | Wenn die FK 3010 vorhan- | W | Diese Regel gilt sowohl für das |
 | 877 | Kontext | Wenn der Feldinhalt von | W | Bei Hausarzt-Vermittlungsfällen |
-| 886 | Kontext | Das Datum in FK 4115 darf  Hinweis: Wenn in der be- | W | Der Anwender soll einen Hin- |
 
-Seite 116 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 117 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-5001 in der EBM-Stamm- datei das XML-Element ../gnr_zusatzanga- ben/gnr_zusatzanga- ben_liste/gnr_zusatzan- gabe/@V=“5010“ vorhan- den ist, dann muss das Feld 5010 einmal je Feld 5001 vorhanden sein. vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)) gilt: die FK 3010 vorhanden und FK 3006 = 5.2.0 ist, dann muss für min. eine der unter FK 5098 angege- benen (N)BSNR in der SA „besa“ zu dieser (N)BSNR (FK 5098 gleich FK 0201) das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.  die FK 4103 vorhanden ist und den Wert 3 besitzt, muss der Inhalt des Feldes 8000 = 0102 sein. den ist, dann muss auch die FK 4109 vorhanden sein.  FK 4103 = 3, dann muss die FK 4115 vorhanden sein. nicht mehr als 60 Tage vor dem Datum in FK 5000 lie- gen.  troffenen Satzart mehr als Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. ist der Tag der durch den Haus- arzt festgestellten Behandlungs- notwendigkeit anzugeben. weis erhalten, dass für den Tag der Terminvermittlung ein rela- tives altes Datum eingegeben wurde. 
-
+muss in dem umschriebe- nen Zeitraum liegen, wel- cher durch die Angabe des Quartals (4101) definiert ist 5001 in der EBM-Stamm- datei das XML-Element ../gnr_zusatzanga- ben/gnr_zusatzanga- ben_liste/gnr_zusatzan- gabe/@V=“5010“ vorhan- den ist, dann muss das Feld 5010 einmal je Feld 5001 vorhanden sein. vorliegt (Inhalt von FK 4101 = FK 9204 (adt0)) gilt: die FK 3010 vorhanden und FK 3006 = 5.2.0 ist, dann muss für min. eine der unter FK 5098 angege- benen (N)BSNR in der SA „besa“ zu dieser (N)BSNR (FK 5098 gleich FK 0201) das Feld 0224 (Produkt- typversion des Konnek- tors) vorhanden sein.  die FK 4103 vorhanden ist und den Wert 3 besitzt, muss der Inhalt des Feldes 8000 = 0102 sein. den ist, dann muss auch die FK 4109 vorhanden sein.  FK 4103 = 3, dann muss die FK 4115 vorhanden sein. Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. ist der Tag der durch den Haus- arzt festgestellten Behandlungs- notwendigkeit anzugeben.
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
-|  |  |  |  | eine FK 5000 enthalten ist, |
+| 886 | Kontext | Das Datum in FK 4115 darf  Hinweis: Wenn in der be- | W | Der Anwender soll einen Hin- |
 | 887 | Kontext | Das Datum im Feld FK | W |  |
 | 888 | Kontext | Wenn FK 4121 ≠ 3: Wenn für die GOP in Feld | W |  |
 | 889 | Kontext | Wenn FK 4121 ≠ 3: Wenn für die GOP in Feld | W |  |
@@ -3113,29 +3019,28 @@ Seite 116 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 891 | Kontext | Wenn der Inhalt des Fel- | W |  |
 | 892 | Kontext | Wenn für die GOP in Feld | W |  |
 
-Seite 117 von 207 / KBV /
+Seite 118 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-dann erfolgt die Prüfung gegen den ältesten Feldin- halt der FK 5000.  4115 darf nicht größer als das Systemdatum sein.  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5050“ vorhan- den ist, muss das Feld FK 5050 vorhanden sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5051“ vorhan- den ist, muss das Feld FK 5051 vorhanden sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5052“ vorhan- den ist, muss das Feld FK 5052 vorhanden sein. des 5077 = “999999”, dann muss mindestens ein Feld 5078 vorhanden sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5077“ vorhan- den ist, muss das Feld FK 5077 mindestens einmal vorhanden sein. 
-
+nicht mehr als 60 Tage vor dem Datum in FK 5000 lie- gen.  troffenen Satzart mehr als eine FK 5000 enthalten ist, dann erfolgt die Prüfung gegen den ältesten Feldin- halt der FK 5000.  4115 darf nicht größer als das Systemdatum sein.  FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe /@V=“5050“ vorhan- den ist, muss das Feld FK 5050 vorhanden sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5051“ vorhan- den ist, muss das Feld FK 5051 vorhanden sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“5052“ vorhan- den ist, muss das Feld FK 5052 vorhanden sein. des 5077 = “999999”, dann muss mindestens ein Feld 5078 vorhanden sein. FK 5001 in der EBM- weis erhalten, dass für den Tag der Terminvermittlung ein rela- tives altes Datum eingegeben wurde.
 
 ---
 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
+|  |  |  |  | Stammdatei das XML-Ele- |
 | 893 | Kontext | Wenn der Inhalt des Fel- | W |  |
 | 894 | Kontext | Wenn die FK 5050 und die | W | Beispiele:   - Die FK 5050 ist einmal vorhan- - Die FK 5050 ist zweimal vor- - Die FK 5050 ist zweimal vor-**Hinweis:** |
 | 895 | Kontext | Wenn die FK 4112 vorhan- | W |  |
 | 897 | Kontext | Wenn die FK 4235 vorhan- | W |  |
 | 899 | Kontext | Das Datum der FK 4214 | W | Zulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260425 oder  Unzulässig:   FK 5000 gleich 20260425  FK 4214 gleich 20260426 |
 | 900 | Kontext | Das Datum der FK 4214 | W |  |
-| 901 | Kontext | Wenn für die GOP in Feld | W | Das Feld sollte aus fachlicher |
 
-Seite 118 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 119 von 207 / KBV /
 
-des 5077 ungleich “999999”, dann darf das Feld 5078 nicht vorhan- den sein. FK 5005 vorhanden sind, dann muss die Anzahl der vorhandenen FK 5050 gleich dem Wert der FK 5005 entsprechen. den ist, dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  den ist, dann sollte auch die FK 4252 und FK 4253 vorhanden sein darf nicht größer dem Da- tum der FK 5000 sein. darf nicht mehr als 60 Tage kleiner als das Da- tum der FK 5000 sein. FK 5001 in der EBM- Stammdatei das XML-Ele- den und die FK 5005 ist nicht vorhanden. handen und die FK 5005 ist vor- handen, dann muss die FK 5005 den Wert 002 besitzen.  handen und die FK 5005 ist nicht vorhanden.  Die FK 5005 kann nur mit einem Wert mindestens 002 vorkommen. 20260424 Sicht auch bei den weiteren be-
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+ment ../gnr_zusatzan- gabe/@V=“5077“ vorhan- den ist, muss das Feld FK 5077 mindestens einmal vorhanden sein. des 5077 ungleich “999999”, dann darf das Feld 5078 nicht vorhan- den sein. FK 5005 vorhanden sind, dann muss die Anzahl der vorhandenen FK 5050 gleich dem Wert der FK 5005 entsprechen. den ist, dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  den ist, dann sollte auch die FK 4252 und FK 4253 vorhanden sein darf nicht größer dem Da- tum der FK 5000 sein. darf nicht mehr als 60 den und die FK 5005 ist nicht vorhanden. handen und die FK 5005 ist vor- handen, dann muss die FK 5005 den Wert 002 besitzen.  handen und die FK 5005 ist nicht vorhanden.  Die FK 5005 kann nur mit einem Wert mindestens 002 vorkommen. 20260424 
 
 
 ---
@@ -3143,14 +3048,15 @@ des 5077 ungleich “999999”, dann darf das Feld 5078 nicht vorhan- den sein. 
 | ADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüfstatus | Erläuterung |
-|  |  |  | ment ../gnr_zusatzan- | troffenen IVD-Leistungen ge- |
+|  |  |  |  | Tage kleiner als das Da- |
+| 901 | Kontext | Wenn für die GOP in Feld | W | Das Feld sollte aus fachlicher |
 | 999* | besondere Hin- | wird von KV überlesen, |  | Für Praxiscomp. bei Rücksen- |
 
 ## 3.6 BESONDERE HINWEISE
 
 ### 3.6.1 Auftrag zur in-vitro-Diagnostik an Facharzt
 
-Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in-vitro-diagnostische Leistungen als Auftragsleistungen (Muster 10) darf nur die Satzart 0102 mit der Schein-untergruppe „27“ (= Überweisungsschein für in-vitro-diagnostische Auftragsleistungen) verwenden.
+Die Abrechnung von in-vitro-diagnostischen Leistungen auf Grundlage eines Überweisungsscheins für in-vitro-diagnostische Leistungen als Auftragsleistungen (Muster 10) darf nur die Satzart 0102 mit der Schein-untergruppe „27“ (= Überweisungsschein für in
 
 Das Feld FK 4217 ((N)BSNR des Erstveranlassers) wird nur dann übertragen, wenn auf Basis der Überwei-sung des Erstveranlassers eine Weiterüberweisung veranlasst wurde.
 
@@ -3164,14 +3070,19 @@ In den Feldern FK 4217 und FK 4218 dürfen nur (Neben-)Betriebsstättennummern v
 
 Das Feld FK 4219 dient der eindeutigen Abgrenzung zu den Feldern FK 4218 und Feld FK 4226. Feld FK 4219  wird übertragen, wenn eine Überweisung durch einen Leistungserbringer ohne BSNR vorliegt, z.B. eine  Überweisung von Zahnärzte, Bundeswehrärzten usw..
 
-Zusätzlich zur (N)BSNR ist jeweils die „Lebenslange Arztnummer (LANR)“ bzw. zur ASV-Teamnummer ist je-weils die „Lebenslange Arztnummer (LANR)“ oder die „Pseudo-LANR für Krankenhausärzte im Rahmen der  ASV-Abrechnung“ erforderlich, d.h. es sind jeweils die Feldpaare 4217/4241, 4218/4242 bzw. 4225/4241,  4225/4248, 4226/4242 oder 4226/4249 zu übermitteln.
+Zusätzlich zur (N)BSNR ist jeweils die „Lebenslange Arztnummer (LANR)“ bzw. zur ASV weils die „Lebenslange Arztnummer (LANR)“ oder die „Pseudo
 
-Seite 119 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 120 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-gabe/@V=“4214“ vorhan- setzt werden (siehe hierzu die den ist und das Feld FK KVDT-Anforderung KP2-565). 8000 = „0102“  und das Feld FK 4239 = „21“ oder „27“ oder „28“  ist, muss das Feld FK 4214 vorhan- den sein. weise kann in jeder Satzart dung mehrfach vorkommen 
+-vitro-diagnostische Auftragsleistungen) verwenden.
 
+-LANR für Krankenhausärzte im Rahmen der -Teamnummer ist je-
+
+weise tum der FK 5000 sein. FK 5001 in der EBM- Stammdatei das XML-Ele- ment ../gnr_zusatzan- gabe/@V=“4214“ vorhan- den ist und das Feld FK 8000 = „0102“  und das Feld FK 4239 = „21“ oder „27“ oder „28“  ist, muss das Feld FK 4214 vorhan- den sein. kann in jeder Satzart mehrfach vorkommen Sicht auch bei den weiteren be- troffenen IVD-Leistungen ge- setzt werden (siehe hierzu die KVDT-Anforderung KP2-565). dung
 
 ---
+
+ASV-Abrechnung“ erforderlich, d.h. es sind jeweils die Feldpaare 4217/4241, 4218/4242 bzw. 4225/4241,  4225/4248, 4226/4242 oder 4226/4249 zu übermitteln.
 
 ### 3.6.2 Laborauftrag an Laborgemeinschaft
 
@@ -3205,13 +3116,15 @@ Nur zur Scheinuntergruppe „27“ darf Feld 4217 oder Feld 4225 vorhanden sein.
 
 ### 3.6.4 Handhabung der Laboraufträge von Knappschaftsärzten
 
-Stellt ein Vertragsarzt in seiner Funktion als Knappschaftsarzt für einen Patienten der Knappschaft eine  Überweisung zur Durchführung von Laboratoriumsuntersuchungen aus, benutzt er dazu ebenfalls den Vor-druck 10 bzw. 10A (falls gemäß KV-Spezifika „99“ der Knappschaft definiert). Es bedarf daher einer beson-deren Kennzeichnung, damit die Kosten dieser Laboratoriumsuntersuchungen nicht zulasten des vertrags-ärztlichen Wirtschaftlichkeitsbonus angerechnet werden.
+Stellt ein Vertragsarzt in seiner Funktion als Knappschaftsarzt für einen Patienten der Knappschaft eine  Überweisung zur Durchführung von Laboratoriumsuntersuchungen aus, benutzt er dazu ebenfalls den Vor-
 
 ________________
 
-Seite 120 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 121 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ---
+
+druck 10 bzw. 10A (falls gemäß KV-Spezifika „99“ der Knappschaft definiert). Es bedarf daher einer beson-deren Kennzeichnung, damit die Kosten dieser Laboratoriumsuntersuchungen nicht zulasten des vertrags-ärztlichen Wirtschaftlichkeitsbonus angerechnet werden.
 
 Folgende Vorgehensweise kommt in diesen Fällen zur Anwendung: Der Knappschaftsarzt kennzeichnet die  betreffenden Laboraufträge mittels der technischen Kennziffer 87777 im zutreffenden Feld als Kennziffer  (entsprechend dem ADT-Feld 4229).
 
@@ -3226,7 +3139,7 @@ Ausnahmen:
 - Feld „Pseudo-LANR für Krankenhausärzte im Rahmen der ASV-Abrechnung“ (FK 0223) ergänzt in der  Container-Satzart „Betriebsstättendaten“ (besa)
 - Feld „Pseudo-LANR (für Krankenhausärzte im Rahmen der ASV-Abrechnung) des LE (FK 5101) ergänzt in  den ADT-Satzarten „Ambulante Behandlung“ (0101), „Überweisung“ (0102) und „Notfalldienst/ Vertre-tung/ Notfall“ (0104)
 - Feld „ASV Teamnummer des Erstveranlassers“ (FK 4225) ergänzt in der ADT Satzart „Überweisung“  (0102)
-- Feld „ASV Teamnummer des Überweisers“ (FK 4226) ergänzt in der ADT Satzart „Überweisung“ (0102)
+- Feld „ASV-Teamnummer des Überweisers“ (FK 4226) ergänzt in der ADT Satzart „Überweisung“ (0102)
 - Feld 4248 „Pseudo-LANR (für Krankenhausärzte im Rahmen der ASV-Abrechnung) des Erstveranlassers“  ergänzt in der ADT-Satzart „Überweisung“ (0102)
 - Feld 4249 „Pseudo-LANR (für Krankenhausärzte im Rahmen der ASV-Abrechnung) des Überweisers“ er-gänzt in der ADT-Satzart „Überweisung“ (0102)
 - Feld 0213 „Krankenhaus-IK (im Rahmen der ASV-Abrechnung)“ ergänzt in der Container Satzart „Be-triebsstättendaten (besa)“ zur Übermittlung der IK-Nummer des Krankenhauses
@@ -3240,11 +3153,10 @@ Ansonsten werden bestehende Felder des ADT-Datenpakets gemäß der nachfolgenden
 | 5001 | GNR | von EBM-GOPen  3.6.5.1 | 50200  88500 |
 | 5011 | Sachkosten-Bezeichnung | von Sachkosten-Bezeichnungen bzw.  3.6.5.1 | 5489 |
 | 5012 | Sachkosten/Materialkosten in | von Sach-/Materialkosten in Cent bzw.  3.6.5.1 | 52458 |
-| 6006 | Diagnosenerläuterung | einer Leistungsdokumentation (sofern | rT1N2M1G2R1 |
 
-Seite 121 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 122 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-rechnung zur Übertragung … bzw. „Pseudoziffern für ASV-Leistungen außerhalb des EBM“ gemäß Kapitel der GOÄ-Nummer der erbrachten Leis- tung gemäß Kapitel des Preises in Cent zur GOÄ-Nummer gemäß Kapitel in der ASV-Richtlinie vorgegeben), bspw. des TNM-Status mit R- und G- Code nach UICC-Stadium, eine Angabe 
+rechnung zur Übertragung … bzw. „Pseudoziffern für ASV-Leistungen außerhalb des EBM“ gemäß Kapitel der GOÄ-Nummer der erbrachten Leis- tung gemäß Kapitel des Preises in Cent zur GOÄ-Nummer gemäß Kapitel 
 
 
 ---
@@ -3252,7 +3164,7 @@ rechnung zur Übertragung … bzw. „Pseudoziffern für ASV-Leistungen außerha
 | ASV-ABRECHNUNGSINFORMATIONEN | | | |
 |---|---|---|---|
 | **FK** | Feldbezeichnung | Verwendung im Rahmen der ASV-Ab- | Beispiele |
-|  |  |  | für die Progression der Tumorerkran- |
+| 6006 | Diagnosenerläuterung | einer Leistungsdokumentation (sofern | rT1N2M1G2R1 |
 
 Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer GOP aus EBM-Kapitel VII (Ausschließlich  im Rahmen der ambulanten spezialfachärztlichen Versorgung (ASV) berechnungsfähige Gebührenord-nungspositionen): 01380000102
 
@@ -3268,7 +3180,7 @@ Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer GOP aus EBM-Kapit
 
 ### 3.6.5.1 Abrechnung von ASV-Leistungen, die nicht Bestandteil des EBM sind
 
-Seit dem 01.01.2015 können gemäß Beschluss des ergänzten erweiterten Bewertungsausschusses nach §  87 Abs. 5a SGB V zur Vergütung der Leistungen der ambulanten spezialfachärztlichen Versorgung gemäß §  116b Abs. 6 Satz 8 SGB V, **2. Vergütung der ASV-Leistungen** und Anlage 5 zur Vereinbarung gemäß § 116b  Abs. 6 Satz 12 SGB V über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke  für die ambulante spezialfachärztliche Versorgung (ASV-AV) Leistungen, die nicht Bestandteil des EBM sind,  mittels KVDT/ADT-Abrechnung an die jeweilige Kassenärztliche Vereinigung übermittelt werden.
+Seit dem 01.01.2015 können gemäß Beschluss des ergänzten erweiterten Bewertungsausschusses nach §  87 Abs. 5a SGB V zur Vergütung der Leistungen der ambulanten spezialfachärztlichen Versorgung gemäß §  116b Abs. 6 Satz 8 SGB V, **2. Vergütung der ASV-Leistungen** Abs. 6 Satz 12 SGB V über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke  für die ambulante spezialfachärztliche Versorgung (ASV-AV) Leistungen, die nicht Bestandteil des EBM sind,  mittels KVDT/ADT-Abrechnung an die jeweilige Kassenärztliche Vereinigung übermittelt werden.
 
 ASV-Ärzte, die diese Leistungen abrechnen, geben eine Pseudoziffer in ihrer Abrechnung im Feld 5001 (Ge-bührennummer) an und kennzeichnen sie mit ihrer ASV-Teamnummer im Feld 5100 (ASV-Teamnummer  des Vertragsarztes).
 
@@ -3276,28 +3188,35 @@ Zusätzlich müssen die GOÄ-Nummer der erbrachten Leistung im Feld 5011 (Sachko
 
 Die Vergütung der Leistungen erfolgt nach der Gebührenordnung für Ärzte (GOÄ) mit den für die ASV ge-mäß § 2 Vergütung der ASV-Leistungen festgelegten Gebührensätzen (Laborleistungen 1-facher, technische  Leistungen 1,2-facher und übrige ärztliche Leistungen 1,5-facher Gebührensatz).
 
-Die vereinbarten Pseudoziffern und weitere Informationen (z. B. Praxisnachrichten zur Information Ihrer  ASV-Kunden) finden Sie auf der KBV-Webseite ([KBV_ASV]).
+Die vereinbarten Pseudoziffern und weitere Informationen (z. B. Praxisnachrichten zur Information Ihrer  ASV-Kunden) finden Sie auf der KBV-Webseite ([
 
 Im Folgenden ein Beispiel:
 
 Leistung im Abschnitt 2 des Appendix Gastrointestinale Tumoren: PET/ PET-CT
 
-Pseudo-GOP: 88500        Inhalt des Feldes 5001
+Pseudo-GOP: 88500
 
-GOÄ-Nummer: 5489        Inhalt des Feldes 5011
+GOÄ-Nummer: 5489
+
+Seite 123 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+und Anlage 5 zur Vereinbarung gemäß § 116b
+
+KBV_ASV]).
+
+Inhalt des Feldes 5001
+
+Inhalt des Feldes 5011
+
+rechnung zur Übertragung … in der ASV-Richtlinie vorgegeben), bspw. des TNM-Status mit R- und G- Code nach UICC-Stadium, eine Angabe für die Progression der Tumorerkran- kung
+
+---
 
 einfacher Satz: 437,15 €
 
 Preis: 437,15 € * 1,2 = 524,58€ = 52458 Cent  Inhalt des Feldes 5012
 
 GOÄ-Nummer 5489 entspricht einer Leistung des Abschnitt O, es gilt der Steigerungsfaktor 1,2
-
-Seite 122 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-rechnung zur Übertragung … kung 
-
-
----
 
 Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer Pseudoziffer für eine ASV-Leistung außer-halb des EBM 01380000102
 
@@ -3317,7 +3236,7 @@ Beispielhafter Auszug aus einem Datensatz zur Abrechnung einer Pseudoziffer für
 
 ### 3.6.5.2 Angabe „Tumorstadium“ (s. g. „TNM Status“) und / oder Progression
 
-Progression zur Dokumentation des im Einzelfall schweren Verlaufs der Erkrankung zu dokumentieren sind,  erfolgt dies gemäß der in der **Anlage 6 TNM-Status**  über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante  spezialfachärztliche Versorgung (ASV-AV) festgelegten Kodierungen, vgl. [
+Progression zur Dokumentation des im Einzelfall schweren Verlaufs der Erkrankung zu dokumentieren sind,  erfolgt dies gemäß der in der **Anlage 6 TNM-Status** zur Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V  über Form und Inhalt des Abrechnungsverfahrens sowie die erforderlichen Vordrucke für die ambulante  spezialfachärztliche Versorgung (ASV-AV) festgelegten Kodierungen, vgl. [
 
 Grundlage bildet die internationale Klassifikation von Tumorstadien
 
@@ -3333,9 +3252,7 @@ Hinweis: Sowohl die Angabe des TNM-Status als auch die Angabe der Progression k�
 
 Beispiele:  Angabe TNM-Status ohne Progression: rT1N2M1G2R1  Angabe TNM-Status mit Progression: rT1N2M1G2R1+1  Angabe Progression ohne TNM-Status: 1
 
-Seite 123 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-zur Vereinbarung gemäß § 116b Abs. 6 Satz 12 SGB V
+Seite 124 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 KBV_ASV_AV_Anlage 6
 
@@ -3385,7 +3302,7 @@ Ein Datensatz der Satzart ”0109” besteht aus Feldern mit den Kennungen:
 - ”5xxx” Leistungsfelder
 - ”6xxx” Diagnosefelder
 
-Seite 124 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 125 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 - -Datenpaketes abzulegen.
 
@@ -3401,7 +3318,7 @@ Seite 124 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 8000 | 1 |  |  | Satzart | M |  | Satzart KADT-Datenpa- |
 | 0105 | 1 |  |  | KBV-Prüfnummer | M |  | Eindeutige Nummer, |
 | 9102 | 1 |  |  | Empfänger | M |  | 20 |
-| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  KADT0726.01  KADT1026.01 |
+| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  KADT1026.01 |
 | 0102 | 1 |  |  | Softwareverantwortlicher (SV) | M |  | vgl. Kapitel 7 |
 | 0121 | 1 |  |  | Straße des SV | M |  |  |
 | 0122 | 1 |  |  | PLZ des SV | M |  |  |
@@ -3417,12 +3334,11 @@ Seite 124 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 0131 | 1 |  |  | Telefaxnummer des SB | K |  |  |
 | 0103 | 1 |  |  | Software | M |  | Name der zugelasse- |
 
-Seite 125 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 126 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: KADT-Datenpaket-Header „kad0“
 
-(SB) ket-Header die bei der System-prü- fung von der KBV ver- geben wird der KADT-Satzbeschrei- nen Software oder Softwarevariante. Bei 
-
+(SB) ket-Header die bei der System-prü- fung von der KBV ver- geben wird der KADT-Satzbeschrei- nen Software oder Softwarevariante. Bei Einsatz einer Software- variante ist deren Name zu hinterlegen.
 
 ---
 
@@ -3430,7 +3346,6 @@ Seite 125 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 |---|---|---|---|---|---|---|---|
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
-|  |  |  |  |  |  |  | Einsatz einer Software- |
 | 0132 | 1 |  |  | Release-Stand der Software | K |  |  |
 | 9116 | 1 |  |  | Erstellungsdatum KADT-Daten- | K |  |  |
 | 9204 | 1 |  |  | Abrechnungsquartal | M |  |  |
@@ -3457,7 +3372,7 @@ Seite 125 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 3006 | 1 |  |  | CDM Version | m | Regel 791 | vgl. Kapitel 7 |
 | 3010 | 1 |  |  | Datum und Uhrzeit der On- | m | falls eGK ein- | vgl. Kapitel 7 |
 
-Seite 126 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 127 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: KADT-Datenpaket-
 
@@ -3465,7 +3380,7 @@ Seite 126 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 
 ### Abschluss ”kad9”
 
-paket variante ist deren Name zu hinterlegen. neimittelverordnungs- software, sofern vor- handen lineprüfung und  Aktualisie- rung (Timestamp) gelesen wurde und handlung KVWL
+paket neimittelverordnungs- software, sofern vor- handen lineprüfung und  Aktualisie- rung (Timestamp) gelesen wurde und falls Daten- satz, der zum Nachweis ei- handlung KVWL
 
 ---
 
@@ -3473,7 +3388,7 @@ paket variante ist deren Name zu hinterlegen. neimittelverordnungs- software, so
 |---|---|---|---|---|---|---|---|
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
-|  |  |  |  |  |  |  | falls Daten- Regel 876 |
+|  |  |  |  |  |  |  | ner durchge- Regel 876 |
 | 3011 |  | 1 |  | Ergebnis der Onlineprüfung | m |  | Vgl. Kapitel 7 |
 | 3012 |  | 1 |  | Error-Code | k |  | vgl. Kapitel 7 |
 | 3013 |  | 1 |  | Prüfziffer des Fachdienstes | k |  | vgl. Kapitel 7 |
@@ -3486,10 +3401,12 @@ paket variante ist deren Name zu hinterlegen. neimittelverordnungs- software, so
 | 3119 | 1 |  |  | Versicherten_ID | m | Regel 791 | vgl. Kapitel 7 |
 | 3107 | 1 |  |  | Straße | K |  | Straße der Patientenad- |
 | 3109 | 1 |  |  | Hausnummer | K |  |  |
+| 3115 | 1 |  |  | Anschriftenzusatz | K |  |  |
+| 3112 | 1 |  |  | PLZ | K |  | PLZ der Patientenad- |
 
-Seite 127 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 128 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-und -aktualisierung satz, der zum Nachweis ei- ner durchge- führten On- und -aktuali- sierung auf der eGK ge- speichert wurde, vor- handen oder falls die Versi- cherten- stammdaten erfolgreich vom Fach- dienst VSDM 2.0 abgerufen wurden. resse
+und -aktualisierung führten On- und -aktuali- sierung auf der eGK ge- speichert wurde, vor- handen oder falls die Versi- cherten- stammdaten erfolgreich vom Fach- dienst VSDM 2.0 abgerufen wurden. resse resse
 
 ---
 
@@ -3497,8 +3414,6 @@ und -aktualisierung satz, der zum Nachweis ei- ner durchge- führten On- und -ak
 |---|---|---|---|---|---|---|---|
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
-| 3115 | 1 |  |  | Anschriftenzusatz | K |  |  |
-| 3112 | 1 |  |  | PLZ | K |  | PLZ der Patientenad- |
 | 3114 | 1 |  |  | Wohnsitzlaendercode | K |  | vgl. Kapitel 7 |
 | 3113 | 1 |  |  | Ort | K |  | Ort der Patientenad- |
 | 3121 | 1 |  |  | PostfachPLZ | K |  | PLZ der Postfachadresse |
@@ -3514,8 +3429,11 @@ und -aktualisierung satz, der zum Nachweis ei- ner durchge- führten On- und -ak
 | 4112 | 1 |  |  | eEB vorhanden | K | Regel 895 |  |
 | 4133 | 1 |  |  | VersicherungsschutzBeginn | m | Regel 791 |  |
 | 4110 | 1 |  |  | VersicherungsschutzEnde | K |  |  |
+| 4111 | 1 |  |  | Kostentraegerkennung | M |  |  |
+| 4134 | 1 |  |  | Kostentraegername | m | Regel 791 |  |
+| 4131 | 1 |  |  | BesonderePersonengruppe | M |  |  |
 
-Seite 128 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 129 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 chertenkarte im Quartal chertenkarte eingelesen wurde oder falls die Versi- cherten- stammdaten erfolgreich vom Fach- dienst VSDM 2.0 abgerufen wurden. kasse biles Lesegerät)
 
@@ -3525,9 +3443,6 @@ chertenkarte im Quartal chertenkarte eingelesen wurde oder falls die Versi- cher
 |---|---|---|---|---|---|---|---|
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
-| 4111 | 1 |  |  | Kostentraegerkennung | M |  |  |
-| 4134 | 1 |  |  | Kostentraegername | m | Regel 791 |  |
-| 4131 | 1 |  |  | BesonderePersonengruppe | M |  |  |
 | 4132 | 1 |  |  | DMP_Kennzeichnung | M |  |  |
 | 4261 | 1 |  |  | Kurart | M |  |  |
 | 4262 |  | 1 |  | Durchführung als Kompaktkur | k | Regel 382  Regel 881 |  |
@@ -3545,8 +3460,10 @@ chertenkarte im Quartal chertenkarte eingelesen wurde oder falls die Versi- cher
 | 4269 | 1 |  |  | Verhaltenspräventive Maß- | K |  |  |
 | 4270 | 1 |  |  | Verhaltenspräventive Maß- | K |  |  |
 | 4271 | 1 |  |  | Kompaktkur nicht möglich | k | Regel 383 |  |
+| 5000 | n |  |  | Leistungstag | M |  | Datum der erbrachten |
+| 5001 |  | n |  | GNR | m |  | Gebührennummer |
 
-Seite 129 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 130 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 mit Refresher chen Kuraufenthaltes Refresher Refresher Refresher Wochen nahmen angeregt nahmen durchgeführt
 
@@ -3556,8 +3473,6 @@ mit Refresher chen Kuraufenthaltes Refresher Refresher Refresher Wochen nahmen a
 |---|---|---|---|---|---|---|---|
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
-| 5000 | n |  |  | Leistungstag | M |  | Datum der erbrachten |
-| 5001 |  | n |  | GNR | m |  | Gebührennummer |
 | 5098 |  |  | 1 | (N)BSNR des Ortes der Leis- | M |  |  |
 | 5099 |  |  | 1 | Lebenslange Arztnummer | M |  |  |
 | 6001 | n |  |  | ICD-Code | M |  | vgl. Kapitel 4.5.1 |
@@ -3584,17 +3499,17 @@ Um die ordnungsgemäße Weiterleitung der Abrechnungsdatei in der Abrechnungsste
 
 ### 4.7.1 KADT-Feldtabelle
 
-Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können sofort anhand der Eintragung in  dieser Tabelle durchgeführt werden, während zu weiteren Prüfungen in die Regeltabelle (vgl. Kapitel
+Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können sofort anhand der Eintragung in  dieser Tabelle durchgeführt werden, während zu weiteren Prüfungen in die Regeltabelle (vgl. Kapitel  bzw. in untergeordnete Tabellen verzweigt werden muss. In der Feldtabelle ist jeder Eintrag eindeutig ei-nem Feld zugeordnet. Die Einträge „kvxn“ (n= 0,1,2,3) sind ein Verweis auf die KV (vgl. Kapitel 1.6.2
 
-Seite 130 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 131 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 sind sowohl 4.7.2
+
+-Spezifika-Stammdatei
 
 tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychotherapeu- stand
 
 ---
-
-bzw. in untergeordnete Tabellen verzweigt werden muss. In der Feldtabelle ist jeder Eintrag eindeutig ei-nem Feld zugeordnet. Die Einträge „kvxn“ (n= 0,1,2,3) sind ein Verweis auf die KV (vgl. Kapitel 1.6.2
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
@@ -3617,21 +3532,19 @@ bzw. in untergeordnete Tabellen verzweigt werden muss. In der Feldtabelle ist je
 | 0132 | Release-Stand  der Software |  | a |  |  | 2.52b |
 | 3000 | Patientennummer |  | a |  |  | 127 |
 | 3003 | Schein-ID |  | a |  |  |  |
-| 3006 | CDM Version | 5-11 | a | 055  308 |  |  |
+| 3006 | CDM Version | 5-11 | a | 055  308  791 |  |  |
+| 3010 | Datum und Uhrzeit der | 14 | n | 060  865 |  | 20191024101010 |
 
-Seite 131 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 132 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Spezifika-Stammdatei
-
-cher (SV) treuer (SB) 17 AG
+cher (SV) 17 treuer (SB) Onlineprüfung und AG
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-|  |  |  |  |  |  | 791 |
-| 3010 | Datum und Uhrzeit der | 14 | n | 060  865  866  867  876 |  | 20191024101010 |
+|  |  |  |  |  | -aktualisierung (Ti- | 866  867  876 |
 | 3011 | Ergebnis der On- | 1 | n | 528 | 1 = Aktualisierung VSD auf eGK  2 = Keine Aktualisierung VSD auf  3 = Aktualisierung VSD auf eGK  4 = Authentifizierungszertifikat eGK  5 = Onlineprüfung des Authentifizie- 6 = Aktualisierung VSD auf eGK |  |
 | 3012 | Error-Code |  | n | 309  310 |  | 12101 |
 | 3013 | Prüfziffer des Fach- |  | a |  |  |  |
@@ -3642,18 +3555,19 @@ cher (SV) treuer (SB) 17 AG
 | 3104 | Titel |  | a |  |  | Dr. |
 | 3107 | Straße |  | a |  |  | Holzweg |
 | 3108 | Versichertenart | 1 | n | 116 | 1 = Mitglied  3 = Familienversicherter  5 = Rentner | 3 |
+| 3109 | Hausnummer |  | a |  |  |  |
+| 3110 | Geschlecht | 1 | a | 533 | M = männlich |  |
 
-Seite 132 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 133 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Onlineprüfung und -aktualisierung (Ti- mestamp) lineprüfung und -aktu-  128  dienstes  45  45  46 durchgeführt eGK erforderlich technisch nicht möglich ungültig rungszertifikats technisch nicht möglich technisch nicht möglich und ma- ximaler Offline-Zeitraum über- schritten
+mestamp) lineprüfung und - aktu- dienstes  128  20  45  45 durchgeführt eGK erforderlich technisch nicht möglich ungültig rungszertifikats technisch nicht möglich technisch nicht möglich und ma- ximaler Offline-Zeitraum über- schritten  20  46
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
-| 3109 | Hausnummer |  | a |  |  |  |
-| 3110 | Geschlecht | 1 | a | 533 | M = männlich  W = weiblich  U = unbekannt  X = unbestimmt D = divers |  |
+|  |  |  |  |  |  | W = weiblich  U = unbekannt  X = unbestimmt D = divers |
 | 3112 | PLZ |  | a |  |  | 50859 |
 | 3113 | Ort |  | a |  |  | Köln |
 | 3114 | Wohnsitzlaendercode |  | a |  |  |  |
@@ -3667,39 +3581,39 @@ Onlineprüfung und -aktualisierung (Ti- mestamp) lineprüfung und -aktu-  128  d
 | 4102 | Ausstellungsdatum | 8 | d |  |  |  |
 | 4104 | Abrechnungs-VKNR | 5 | n | 017  201  212 |  | 27106 |
 | 4108 | Zulassungsnummer | ≤ 40 | a |  |  | INGHC;  (Hersteller-ID; |
+| 4109 | letzter Einlesetag der | 8 | d | 791  876 |  |  |
 
-Seite 133 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 134 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-(mobiles Lesegerät) ORGA930M; 4.9.0:1.0.0 ProduktKürzel; Produktversion (=Firmwarever- sion: Hardware- version))
+(mobiles Lesegerät) Versichertenkarte im Quartal ORGA930M; 4.9.0:1.0.0 ProduktKürzel; Produktversion (=Firmwarever- sion: Hardware- version))
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-| 4109 | letzter Einlesetag der | 8 | d | 791  876 |  |  |
 | 4110 | Versicherungsschut- | 8 | d | 315 |  | 20191010 |
 | 4111 | Kostentraegerkennung | 9 | n | 202 |  | 101568008 |
 | 4112 | eEB vorhanden | 1 | n | 142  895 | 1 = ja |  |
 | 4131 | BesonderePersonen- | 2 | a | 530 | 00 = keine Besondere Personen- 04 = BSHG (Bundessozialhilfegesetz) |  |
-| 4132 | DMP_Kennzeichnung | 2 | a | 536 | 00 = kein DMP-Kennzeichnen          (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary          disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas Erwachsene  13 = Adipositas Kinder und Jugendli- 30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK  35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK |  |
+| 4132 | DMP_Kennzeichnung | 2 | a | 536 | 00 = kein DMP-Kennzeichnen          (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary          disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas Erwachsene  13 = Adipositas Kinder und Jugendli- 30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK  35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK |  |
 
-Seite 134 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 135 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Versichertenkarte im Quartal zEnde gruppe gruppe (Defaultwert)       § 264 SGB V
+zEnde gruppe gruppe (Defaultwert)       § 264 SGB V
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-|  |  |  |  |  |  | 39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  44 = Brustkrebs, Diabetes Typ 2 und  45 = Asthma, Brustkrebs und Diabe- 46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK  48 = Brustkrebs, COPD und Diabetes  49 = Asthma, Diabetes Typ 1 und  50 = Asthma, Brustkrebs und KHK  51 = Brustkrebs, COPD und KHK  52 = Brustkrebs, COPD, Diabetes  53 = Asthma, Brustkrebs, Diabetes  54 = Brustkrebs, Diabetes Typ 1 und  55 = Asthma, Brustkrebs und Diabe- 56 = Asthma, Brustkrebs, Diabetes  57 = Brustkrebs, COPD und Diabetes  58 = Brustkrebs, COPD, Diabetes |
+|  |  |  |  |  |  | 42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  44 = Brustkrebs, Diabetes Typ 2 und  45 = Asthma, Brustkrebs und Diabe- 46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK  48 = Brustkrebs, COPD und Diabetes  49 = Asthma, Diabetes Typ 1 und  50 = Asthma, Brustkrebs und KHK  51 = Brustkrebs, COPD und KHK  52 = Brustkrebs, COPD, Diabetes  53 = Asthma, Brustkrebs, Diabetes  54 = Brustkrebs, Diabetes Typ 1 und  55 = Asthma, Brustkrebs und Diabe- 56 = Asthma, Brustkrebs, Diabetes  57 = Brustkrebs, COPD und Diabetes  58 = Brustkrebs, COPD, Diabetes |
 | 4133 | Versicherungsschutz- | 8 | d | 791 |  |  |
 | 4134 | Kostentraegername |  | a | 791 |  |  |
 | 4261 | Kurart | 1 | n | 106  382 | 1 = Ambulante Vorsorgeleistung zur   2 = Ambulante Vorsorgeleistung bei   3 = Ambulante Vorsorgeleistung für | 1 |
-| 4262 | Durchführung | 1 | n | 101 |  | 1 |
+| 4262 | Durchführung   als Kompaktkur | 1 | n | 101  382  383  881 |  | 1 |
 
-Seite 135 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 136 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Beginn Typ 2 und KHK Typ 2 und KHK  Krankheitsverhütung  bestehenden Krankheiten Kinder
 
@@ -3708,7 +3622,6 @@ Beginn Typ 2 und KHK Typ 2 und KHK  Krankheitsverhütung  bestehenden Krankheite
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-|  |  |  |  |  | als Kompaktkur | 382  383  881 |
 | 4263 | genehmigte Kurdauer |  | n | 168 |  | 3 |
 | 4264 | Anreisetag | 8 | d | 316  882  883  884  885 |  |  |
 | 4265 | Abreisetag | 8 | d | 317  866  882  883  884  885 |  |  |
@@ -3718,9 +3631,9 @@ Beginn Typ 2 und KHK Typ 2 und KHK  Krankheitsverhütung  bestehenden Krankheite
 | 4269 | Verhaltenspräventive   Maßnahmen angeregt | 1 | n | 101 |  | 1 |
 | 4270 | Verhaltenspräventive | 1 | n | 101 |  | 1 |
 | 4271 | Kompaktkur nicht   möglich | 1 | n | 101  383 |  | 1 |
-| 4272 | Durchführung als Kom- | 1 | n | 101  317  318  382  383 |  |  |
+| 4272 | Durchführung als Kom- | 1 | n | 101  317  318  382  383  866  881  882  883 |  |  |
 
-Seite 136 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 137 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 in Wochen rung in Wochen Maßnahmen durchge- führt paktkur mit Refresher
 
@@ -3729,46 +3642,49 @@ in Wochen rung in Wochen Maßnahmen durchge- führt paktkur mit Refresher
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-|  |  |  |  |  |  | 866  881  882  883  884  885 |
+|  |  |  |  |  |  | 884  885 |
 | 4275 | Kontakt zur Vorberei- | 1 | n | 101 |  |  |
 | 4276 | Anreisetag als Teil 2 | 8 | d | 317  318  879  882  883  884  885 |  |  |
 | 4277 | Abreisetag als Teil 2 | 8 | d | 317  866  879  882  883  884  885 |  |  |
 | 4278 | Kurabbruch am als Teil | 8 | d | 318  867  880  884  885 |  |  |
 | 5000 | Leistungstag | 8 | d | 304  315  316  317  318  882  883  884  885 |  |  |
+| 5001 | Gebührennummer | 5, 6 | a | 042  203  kvx1 |  | 00001U |
+| 5098 | (N)BSNR des Ortes der | 9 | n | 049  730 |  |  |
 
-Seite 137 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 138 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-tung des Kuraufenthal- tes bei Refresher bei Refresher 2 bei Refresher
+tung des Kuraufenthal- bei Refresher bei Refresher 2 bei Refresher (GNR) Leistungserbringung
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-| 5001 | Gebührennummer | 5, 6 | a | 042  203  kvx1 |  | 00001U |
-| 5098 | (N)BSNR des Ortes der | 9 | n | 049  730 |  |  |
 | 5099 | Lebenslange Arztnum- | 9 | n | 050  731  762 |  |  |
 | 6001 | ICD-Code | 3, 5, 6 | a | 022  489  490  491  492  728  729  761  817  856 |  | L50.0 |
 | 6003 | Diagnosensicherheit | 1 | a | 109  856 | V = Verdacht auf  Z = Zustand nach  A = Ausschluss  G = gesicherte Diagnose | V |
 | 6004 | Seitenlokalisation | 1 | a | 110 | R = rechts  L = links  B = beidseitig | R |
 | 6006 | Diagnosenerläuterung |  | a |  |  |  |
 | 6008 | Diagnosenausnahme- |  | a | 491 |  |  |
-| 8000 | Satzart | 4 | a | 165  kvx2 | kad0 = KADT-Datenpaket-Header kad9 = KADT-Datenpaket-Abschluss 0109 = Kurärztliche Abrechnung |  |
+| 8000 | Satzart | 4 | a | 165  kvx2 | kad0 = KADT-Datenpaket-Header  kad9 = KADT-Datenpaket-Abschluss 0109 = Kurärztliche Abrechnung |  |
 | 9102 | Empfänger | 2 | n | 166  kvx0 | 20 = KV Westfalen Lippe | 20 |
 | 9116 | Erstellungsdatum | 8 | d |  |  |  |
+| 9204 | Abrechnungsquartal | 5 | n | 016 |  | 12020 |
+| 9212 | Version |  | a | 031  814 |  |  |
+| 9250 | AVWG-Prüfnummer | 15-17 | a | 052  204 |  | Y/1/1901/36/id9 |
 
-Seite 138 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 139 von 207 / KBV / Datensatzbeschreibung KVDT /
 
-(GNR) Leistungserbringung mer (LANR) des Ver- tragsarztes/Vertrags- psychotherapeuten tatbestand kvx3
+Version 6.08 / 13. November 2026
+
+mer (LANR) des Ver- tragsarztes/Vertrags- psychotherapeuten tatbestand der Satzbeschreibung der AVS kvx3 
+
 
 ---
 
 | KADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren  Bedeutung | Beispiel |
-| 9204 | Abrechnungsquartal | 5 | n | 016 |  | 12020 |
-| 9212 | Version |  | a | 031  814 |  |  |
-| 9250 | AVWG-Prüfnummer | 15-17 | a | 052  204 |  | Y/1/1901/36/id9 |
 | 9251 | HMV-Prüfnummer | 15-17 | a | 052  204 |  | Y/2/1912/36/xxx |
 | 9901 | Systeminterner |  | a | 999 |  | abcd/q<rs |
 
@@ -3780,24 +3696,22 @@ Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitung
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | 016 | Format | QJJJJ | F | Q = Quartal, JJJJ = Jahr |
-| 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster |
+| 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = LinkerNiederrhein  31 = Ruhr |
 
-Seite 139 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-11 der Satzbeschreibung der AVS  60 Parameter status
+Seite 140 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026 60 Parameter status
 
 ---
 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = LinkerNiederrhein  31 = Ruhr  37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns |
+|  |  |  |  | 37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpom- 79 = Potsdam  80 = Cottbus |
 
-Seite 140 von 207 / KBV / Datensatzbeschreibung KVDT
+Seite 141 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
-status 51 = KV Rheinland-Pfalz 
+status 51 = KV Rheinland-Pfalz mern 
 
 
 ---
@@ -3805,28 +3719,25 @@ status 51 = KV Rheinland-Pfalz
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpom- 79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen  94 = Chemnitz  95 = Dresden  96 = Leipzig  98 = KV Sachsen  99 = KBV-Pseudo-Nummer |
+|  |  |  |  | 81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen  94 = Chemnitz  95 = Dresden  96 = Leipzig  98 = KV Sachsen  99 = KBV-Pseudo-Nummer |
 | 021 | Format | JJJJMMTT | F | TT=Tag; MM=Monat; JJJJ=Jahr  zusätzlich erlaubter Wertebe- |
 | 022 | Format | ann, ann.n, ann.nn, ann.n- | F |  |
 | 031 | Format | [a]aaaMMJJ.nn | F | [a]aaa = Datenpaketkürzel, MM |
 | 042 | Format | nnnnn, nnnnn[G-alpha] | F |  |
 | 049 | Format | kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel  mm = [undefiniert] | F |  |
-| 050 | Format | Nnnnnnmff  mit | F | Verfahren zur Bestimmung der |
+| 050 | Format | Nnnnnnmff  mit  m = Prüfziffer, wobei „nnnnnn“ un- ff = erlaubter Inhalt gemäß Anlage | F | Verfahren zur Bestimmung der |
+| 052 | Format | a/n[n][n]/JJMM/nn/aaa | F | a = [V, X, Y, Z]  n = numerisch |
 
-Seite 141 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+Seite 142 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-24. August 2026
-
-162 status mern reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- versionsnummer Prüfziffer vgl.
-
+162 gleich „555555“ sein muss 35 des BAR-Schlüsselverzeichnisses, tolerierter Ersatzwert für die Ziffern  9: 00 status reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- versionsnummer Prüfziffer vgl.
 
 ---
 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | m = Prüfziffer, wobei „nnnnnn“ un- ff = erlaubter Inhalt gemäß Anlage |
-| 052 | Format | a/n[n][n]/JJMM/nn/aaa | F | a = [V, X, Y, Z]  n = numerisch  JJ = Jahr  MM = Monat  aaa = alphanumerisch |
+|  |  |  |  | JJ = Jahr  MM = Monat  aaa = alphanumerisch |
 | 054 | Format | annnnnnnnP | F | a = A-Z (ohne Umlaute)  n = numerisch  P = Prüfziffer, numerisch  Verfahren zur Bestimmung der |
 | 055 | Format | n[n][n].n[n][n].n[n][n] | F | n = numerisch |
 | 060 | Format | JJJJMMTThhmmss | F | JJJJ = Jahr, MM = Monat, TT = |
@@ -3838,19 +3749,19 @@ Seite 141 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 142 | erlaubter In- | 1 | F |  |
 | 162 | erlaubter In- | 01-03, 06-21, 24, 25, 27, 28, 31, 37- | F | UKV-/OKV-Kennungen in den Be- |
 | 165 | erlaubter In- | kad0, kad9, 0109 | F |  |
+| 166 | erlaubter In- | 20 | F |  |
+| 168 | erlaubter In- | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | F |  |
+| 174 | erlaubter In- | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 | F |  |
 
-Seite 142 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 143 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-gleich „555555“ sein muss 35 des BAR-Schlüsselverzeichnisses, tolerierter Ersatzwert für die Ziffern  9: 00 73, 78-81, 83, 85-88, 93-96, 98, 99 status Tag, hh = Stunde, mm = Minute, ss = Sekunde triebsstättennummern + Knapp- schaft
+halt halt halt halt halt halt  halt 73, 78-81, 83, 85-88, 93-96, 98, 99 halt halt halt halt status Tag, hh = Stunde, mm = Minute, ss = Sekunde triebsstättennummern + Knapp- schaft
 
 ---
 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-| 166 | erlaubter In- | 20 | F |  |
-| 168 | erlaubter In- | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | F |  |
-| 174 | erlaubter In- | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 | F |  |
 | 201 | Existenzprü- | Kassendatei | I | Abrechnungs-VKNR vorhanden |
 | 202 | Existenzprü- | Kassendatei | I | Krankenkassennummer (IK) vor- |
 | 203* | Existenzprü- | GO-Stammdatei | - |  |
@@ -3861,18 +3772,21 @@ gleich „555555“ sein muss 35 des BAR-Schlüsselverzeichnisses, tolerierter E
 | 308 | Kontext | Feldinhalt von FK 3006 <= 5.2.0 | W |  |
 | 309 | Kontext | Wenn Feldinhalt von FK 3006 = | W |  |
 | 310 | Kontext | Wenn Feldinhalt von FK 3006 | W |  |
+| 313 | Kontext | Geburtsdatum | F | Vermeidung von Fehleingaben |
+| 315 | Kontext | Falls FK 4110 vorhanden ist, dann  Leistungsdatum (FK 5000) | W | Vermeidung von Fehleingaben |
 
-Seite 143 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 144 von 207 / KBV /
 
-74799  Maschinendatum 5.2.0 und FK 3012 vorhanden ist, dann darf FK 3012 nicht den Wert 99999 haben. 5.2.0 und FK 3012 vorhanden ist, dann muss FK 3012 den Wert 99999 haben. status und 5-stellig handen und 9-stellig 74799 darf in der Abrechnung nicht an die KVen übermittelt in Anbieterstammdatei, dann gilt:  (/JJMM/) + Gültigkeitsdauer in Monaten (/MM/) + 12 Monate) > = Angabe in Feld „Abrech- nungsquartal“ (FK 9204)
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+74799  Maschinendatum 5.2.0 und FK 3012 vorhanden ist, dann darf FK 3012 nicht den Wert 99999 haben. 5.2.0 und FK 3012 vorhanden ist, dann muss FK 3012 den Wert 99999 haben. gilt:  Versi- cherungsschutz Ende (FK 4110) status und 5-stellig handen und 9-stellig 74799 darf in der Abrechnung nicht an die KVen übermittelt in Anbieterstammdatei, dann gilt:  (/JJMM/) + Gültigkeitsdauer in Monaten (/MM/) + 12 Monate) > = Angabe in Feld „Abrech- nungsquartal“ (FK 9204)
+
 
 ---
 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-| 313 | Kontext | Geburtsdatum | F | Vermeidung von Fehleingaben |
-| 315 | Kontext | Falls FK 4110 vorhanden ist, dann  Leistungsdatum (FK 5000) | W | Vermeidung von Fehleingaben |
 | 316 | Kontext | Leistungsdatum (FK 5000) | F |  |
 | 317 | Kontext | Wenn die FK 4272 nicht vorhanden | F |  |
 | 318 | Kontext | Wenn die FK 4272 nicht vorhanden  Leistungsdatum (FK 5000) | F |  |
@@ -3880,10 +3794,11 @@ Seite 143 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 383 | Kontext | Nur wenn Feld 4262 oder 4272 vor- | F |  |
 | 489 | Kontext | Wenn zu dem ICD-Code (FK  Der Inhalt von Element „ *) | W | SDICD |
 | 490 | Kontext | Wenn zu dem ICD-Code (FK | W | SDICD |
+| 491 | Kontext | Wenn zu dem ICD-Code (FK 6001 / | W | SDICD |
 
-Seite 144 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 145 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status gilt:  Versi- cherungsschutz Ende (FK 4110) Anrei- setag (FK 4264) ist, dann gilt:   Abrei- setag (FK 4265) ist und die FK 4266 vorhanden ist, dann gilt:  Kurab- bruch am (FK 4266) 2, darf das Feld 4262 oder 4272 vorhanden sein handen ist, darf das Feld 4271 vor- handen sein 6001/3673) in der SDICD die Ele- mente „ untere_altersgrenze und/oder „ obere_altersgrenze existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete Alter oberhalb der „ unteren_al- tersgrenze “ und unterhalb der obere_altersgrenze “ liegen. altersbe- zug_fehlerart “ ist „m“.  das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net 6001/3673) in der SDICD das Ele- krankheit_in_mitteleu- ropa_sehr_selten “ mit Inhalt V=“j“ 
+status Anrei- setag (FK 4264) ist, dann gilt:   Abrei- setag (FK 4265) ist und die FK 4266 vorhanden ist, dann gilt:  Kurab- bruch am (FK 4266) 2, darf das Feld 4262 oder 4272 vorhanden sein handen ist, darf das Feld 4271 vor- handen sein 6001/3673) in der SDICD die Ele- mente „ untere_altersgrenze und/oder „ obere_altersgrenze existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete Alter oberhalb der „ unteren_al- tersgrenze “ und unterhalb der obere_altersgrenze “ liegen. altersbe- zug_fehlerart “ ist „m“.  das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net 6001/3673) in der SDICD das Ele- krankheit_in_mitteleu- ropa_sehr_selten “ mit Inhalt V=“j“ existiert, dann Warnhinweis „ Bitte Kodierung überprüfen: Diagnosen dieses Kodes sind in Mitteleuropa sehr selten 3673) in der SDICD das Element 
 
 
 ---
@@ -3891,8 +3806,7 @@ status gilt:  Versi- cherungsschutz Ende (FK 4110) Anrei- setag (FK 4264) ist, d
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | existiert, dann Warnhinweis „ |
-| 491 | Kontext | Wenn zu dem ICD-Code (FK 6001 / | W | SDICD |
+|  |  |  |  | „ |
 | 492 | Kontext | Wenn zu einer Diagnose (FK 6001 | F | SDICD |
 | 528 | erlaubter In- | 1, 2, 3, 4, 5, 6 | F |  |
 | 530 | erlaubter In- | 00, 04 | F |  |
@@ -3902,29 +3816,26 @@ status gilt:  Versi- cherungsschutz Ende (FK 4110) Anrei- setag (FK 4264) ist, d
 | 728 | Kontext | Der Inhalt von FK 6001/3673 muss | F | SDICD |
 | 729 | Kontext | Wenn zu einer Diagnose (FK 6001 | F | SDICD |
 
-Seite 145 von 207 / KBV /
+Seite 146 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-Bitte Kodierung überprüfen: Diagnosen dieses Kodes sind in Mitteleuropa sehr selten 3673) in der SDICD das Element geschlechtsbezug “ existiert und der Inhalt von „ geschlechtsbe- zug_fehlerart “ mit V=“m“ definiert ist , und diese Bedingung nicht mit dem Geschlecht des Patienten (FK 3110) übereinstimmt, muss FK 6008 bzw. 3677 vorhanden sein /3673) in der SDICD das Element „schlüsselnummer_mit_inhalt_be- legt“ mit Inhalt „n“ existiert, darf diese nicht übertragen werden 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 als Element „ icd_code “ und dem halt V=“j“ von Kindelement „ abre- chenbar “  in der SDICD vorhanden sein. /3673) das Element „ notations- kennzeichen “ (SDICD) mit Inhalt  „*“ oder „!“ existiert (=Sekundärcode), muss mind. ein ICD-Code FK status 
-
+geschlechtsbezug “ existiert und der Inhalt von „ geschlechtsbe- zug_fehlerart “ mit V=“m“ definiert ist , und diese Bedingung nicht mit dem Geschlecht des Patienten (FK 3110) übereinstimmt, muss FK 6008 bzw. 3677 vorhanden sein /3673) in der SDICD das Element „schlüsselnummer_mit_inhalt_be- legt“ mit Inhalt „n“ existiert, darf diese nicht übertragen werden 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 als Element „ icd_code “ und dem In- halt V=“j“ von Kindelement „ abre- chenbar “  in der SDICD vorhanden sein. /3673) das Element „ notations- kennzeichen “ (SDICD) mit Inhalt  „*“ oder „!“ existiert (=Sekundärcode), muss mind. ein ICD-Code FK 6001/3673 ohne „ notationskennzei- chen “ (SDICD) oder  wenn vorhan- den, mit Inhalt „+“  (=Primärcode) vorhanden sein. status
 
 ---
 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 6001/3673 ohne „ |
 | 730 | Kontext | Der Wert in FK 5098 muss mit ei- | F | Prüfung gegen Besa-Satz bei ak- |
 | 731 | Kontext | Der Wert in FK 5099 muss mit ei- | W | Prüfung gegen Besa-Satz bei ak- |
 | 761 | Kontext | Wenn zu dem ICD-Code (FK  Der Inhalt von Element „ *) | W | SDICD |
 | 762 | Kontext | Der (Ersatz- | F |  |
 | 791 | Kontext | Falls FK 4109 vorhanden ist, dann | F | KVK für GKV-Versicherten unzu- |
 | 814 | Kontext | Wenn der Inhalt des Feldes 8000 =  Versions- entsprechen. | W |  |
+| 817 | Kontext | Wenn zu einem ICD-Code (Feldin- | W | SDICD |
 
-Seite 146 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 147 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status notationskennzei- “ (SDICD) oder  wenn vorhan- den, mit Inhalt „+“  (=Primärcode) vorhanden sein. nem der Werte aus FK 0201 (SA tuellen Quartalsfällen (nicht bei „besa“) übereinstimmen, sofern Vorquartalsfällen) kein Vorquartalsfall vorliegt (Inhalt von FK 5000 liegt innerhalb von FK 9204 (kadt0)). nem der Werte aus FK 0212 (SA tuellen Quartalsfällen (nicht bei „besa“) übereinstimmen, sofern der Vorquartalsfällen) Wert in FK 5099 ungleich „999999900“ ist (wenn Inhalt von FK 5000 innerhalb von FK 9204 (kadt0)). 6001/3673) in der SDICD die Ele- mente „ untere_altersgrenze und/oder „ obere_altersgrenze existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete Alter oberhalb der „ unteren_al- tersgrenze “ und unterhalb der obere_altersgrenze “ liegen. altersbe- zug_fehlerart “ ist „k“.  das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. müssen die Felder 3006, 3119, 4133 lässig ab 01.01.2015 und 4134 vorhanden sein.  kad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe 
+status nem der Werte aus FK 0201 (SA tuellen Quartalsfällen (nicht bei „besa“) übereinstimmen, sofern Vorquartalsfällen) kein Vorquartalsfall vorliegt (Inhalt von FK 5000 liegt innerhalb von FK 9204 (kadt0)). nem der Werte aus FK 0212 (SA tuellen Quartalsfällen (nicht bei „besa“) übereinstimmen, sofern der Vorquartalsfällen) Wert in FK 5099 ungleich „999999900“ ist (wenn Inhalt von FK 5000 innerhalb von FK 9204 (kadt0)). 6001/3673) in der SDICD die Ele- mente „ untere_altersgrenze und/oder „ obere_altersgrenze existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete Alter oberhalb der „ unteren_al- tersgrenze “ und unterhalb der obere_altersgrenze “ liegen. altersbe- zug_fehlerart “ ist „k“.  das Höchstalter wird prüfmodul- seitig zu Quartalsbeginn und Min- destalter zu Quartalsende berech- net )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. müssen die Felder 3006, 3119, 4133 lässig ab 01.01.2015 und 4134 vorhanden sein.  kad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe halt FK 6001 bzw. 3673) in der SDICD das Element „ geschlechtsbe- zug “ existiert und der Inhalt von 
 
 
 ---
@@ -3932,15 +3843,15 @@ status notationskennzei- “ (SDICD) oder  wenn vorhan- den, mit Inhalt „+“ 
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-| 817 | Kontext | Wenn zu einem ICD-Code (Feldin- | W | SDICD |
+|  |  |  |  | Element „ |
 | 856 | Kontext | Wenn der Feldinhalt von FK 6001 = | W |  |
 | 865 | Kontext | Datum und Uhrzeit der Onlineprü- | W |  |
 | 866 | Kontext | Wenn die FK 4272 nicht vorhanden  Datum und Uhrzeit der Onlineprü-   Wenn die FK 4272 vorhanden ist,  Datum und Uhrzeit der Onlineprü- | W |  |
 | 867 | Kontext | Wenn die Feldkennung 4266 vor- dann muss die Feldkennung Datum    Wenn die Feldkennung 4278 vor- dann muss die Feldkennung Datum | W |  |
 
-Seite 147 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 148 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status halt FK 6001 bzw. 3673) in der SDICD das Element „ geschlechtsbe- zug “ existiert und der Inhalt von Element „ geschlechtsbezug_fehler- art “ = „k“ ist und kein Feld 6008 / 3677 vorhanden ist, dann muss das Geschlecht in FK 3110 (sofern 3110  U, X, D) zu der Angabe unter Ele- ment „geschlechtsbezug“ (SDICD) passen. “Z01.7“ ist, dann muss der Feldin- halt von FK 6003 = „G“ sein. fung und -aktualisierung (Ti- mestamp) (FK 3010) Anreisetag (FK 4264) ist, dann gilt:  fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag (FK 4265) dann gilt:  fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag (FK 4277) und Uhrzeit der Onlineprüfung und -aktualisierung (Timestamp) (FK 3010) <= Kurabbruch am (FK 4266) sein und Uhrzeit der Onlineprüfung und 
+status geschlechtsbezug_fehler- art “ = „k“ ist und kein Feld 6008 / 3677 vorhanden ist, dann muss das Geschlecht in FK 3110 (sofern 3110  U, X, D) zu der Angabe unter Ele- ment „geschlechtsbezug“ (SDICD) passen. “Z01.7“ ist, dann muss der Feldin- halt von FK 6003 = „G“ sein. fung und -aktualisierung (Ti- mestamp) (FK 3010) Anreisetag (FK 4264) ist, dann gilt:  fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag (FK 4265) dann gilt:  fung und -aktualisierung (Ti- mestamp) (FK 3010)  Abreisetag (FK 4277) und Uhrzeit der Onlineprüfung und -aktualisierung (Timestamp) (FK 3010) <= Kurabbruch am (FK 4266) sein und Uhrzeit der Onlineprüfung und -aktualisierung (Timestamp) (FK 3010) <= Kurabbruch am als Teil 2 bei Refresher (FK 4278) sein 
 
 
 ---
@@ -3948,20 +3859,19 @@ status halt FK 6001 bzw. 3673) in der SDICD das Element „ geschlechtsbe- zug �
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | -aktualisierung (Timestamp) (FK |
 | 876 | Kontext | Wenn die FK 3010 vorhanden ist, | W | Diese Regel gilt sowohl für das |
 | 879 | Kontext | Wenn Feld 4272 vorhanden ist, | W |  |
 | 880 | Kontext | Wenn Feld 4272 vorhanden ist, darf | W |  |
 | 881 | Kontext | Es darf entweder die FK 4262 oder | W |  |
 | 882 | Kontext | Wenn die FK 4272 vorhanden ist,  Das Leistungsdatum (FK 5000) kann  1. FK 5000 muss >= FK 4264 und     2. FK 5000 muss >= 4276 und <= | W | Bildet den Fall einer Kompaktkur  Der Versicherte kommt zum ers- |
 | 883 | Kontext | Wenn die FK 4272 und die FK 4266  Das Leistungsdatum (FK 5000) kann    1. FK 5000 muss >= FK 4264 und    2. FK 5000 muss >= 4276 und <= | W | Bildet den Fall einer Kompaktkur  Der Versicherte kommt zum ers- |
-| 884 | Kontext | Wenn die FK 4272 und die FK 4278  Das Leistungsdatum (FK 5000) kann    1. FK 5000 muss >= FK 4264 und | W | Bildet den Fall einer Kompaktkur  Der Versicherte kommt zum ers- |
+| 884 | Kontext | Wenn die FK 4272 und die FK 4278  Das Leistungsdatum (FK 5000) kann    1. FK 5000 muss >= FK 4264 und    2. FK 5000 muss >= 4276 und <= | W | Bildet den Fall einer Kompaktkur  Der Versicherte kommt zum ers- |
 
-Seite 148 von 207 / KBV /
+Seite 149 von 207 / KBV /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-3010) <= Kurabbruch am als Teil 2 bei Refresher (FK 4278) sein dann muss auch die FK 4109 vor- handen sein.  müssen dann dürfen die Felder 4276 und 4277 vorhanden sein. das Feld 4278 vorhanden sein. die FK 4272 oder keine gesetzt sein. dann gilt:  in den folgenden Zeiträumen lie- gen:  <= 4265  4277 vorhanden sind, dann gilt: in den folgenden Zeiträumen lie- gen:  <= 4265        und <= 4266  4277 sein vorhanden sind, dann gilt in den folgenden Zeiträumen lie- gen:  <= 4265  status Einlesen einer eGK als auch für den erfolgreichen Abruf der Ver- sichertenstammdaten vom Fach- dienst VSDM 2.0. als Refresher ab.  ten sowie zum zweiten Teil der Kur als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings wird der erste Teil vorzeitig abgebrochen. als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings wird der zweite Teil vorzeitig abgebrochen. 
+dann muss auch die FK 4109 vor- handen sein.  müssen dann dürfen die Felder 4276 und 4277 vorhanden sein. das Feld 4278 vorhanden sein. die FK 4272 oder keine gesetzt sein. dann gilt:  in den folgenden Zeiträumen lie- gen:  <= 4265  4277 vorhanden sind, dann gilt: in den folgenden Zeiträumen lie- gen:  <= 4265        und <= 4266  4277 sein vorhanden sind, dann gilt in den folgenden Zeiträumen lie- gen:  <= 4265  4277 und        <= 4278 status Einlesen einer eGK als auch für den erfolgreichen Abruf der Ver- sichertenstammdaten vom Fach- dienst VSDM 2.0. als Refresher ab.  ten sowie zum zweiten Teil der Kur als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings wird der erste Teil vorzeitig abgebrochen. als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings wird der zweite Teil vorzeitig abgebrochen. 
 
 
 ---
@@ -3969,7 +3879,6 @@ Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
 | KADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 2. FK 5000 muss >= 4276 und <= |
 | 885 | Kontext | Wenn die FK 4272 und FK 4266 und  Das Leistungsdatum (FK 5000) kann    1. FK 5000 muss >= FK 4264 und    2. FK 5000 muss >= 4276 und <= | W | Bildet den Fall einer Kompaktkur  Der Versicherte kommt zum ers- |
 | 895 | Kontext | Wenn die FK 4112 vorhanden ist, | W |  |
 | 999* | besondere | wird von KV überlesen, kann in je- |  | Für Praxiscomp. Bei Rücksen- |
@@ -3978,19 +3887,13 @@ Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
 
 Vorderseite Kurarztschein:
 
-Seite 149 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 150 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Hinweise 4277 und        <= 4278 die FK 4278 vorhanden sind, dann gilt in den folgenden Zeiträumen lie- gen:  <= 4265        und <= 4266  4277 und         <= 4278 dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  der Satzart mehrfach vorkommen status als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings werden der erste und zweite Teil abgebrochen. dung
+die FK 4278 vorhanden sind, dann gilt in den folgenden Zeiträumen lie- gen:  <= 4265        und <= 4266  4277 und         <= 4278 dann dürfen die FK 4109 und FK 3010 und FK 4108 und FK 3006 nicht vorhanden sein.  Hinweise der Satzart mehrfach vorkommen status als Refresher ab.  ten sowie zum zweiten Teil der Kur. Allerdings werden der erste und zweite Teil abgebrochen. dung
 
 ---
 
 Rückseite Kurarztschein
-
-Seite 150 von 207 / KBV /
-
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
----
 
 # 5 SADT-DATENPAKET NRW
 
@@ -4016,14 +3919,20 @@ Folgende SADT-Sätze sind definiert:
 Reihenfolge, Anzahl und Position der Satzarten innerhalb des SADT-Datenpaketes sind wie folgt
 
 - Satz ”sad0” ist einmal vorhanden. Er ist als erster Satz des SADT-Datenpaketes abzulegen.
+
+Seite 151 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+
+---
+
 - Sätze ”sad1“, ”sad2”, ”sad3“ folgen auf den Satz ”sad0” in beliebiger Anzahl und Reihenfolge.
-- Satz ”sad9” ist pro SADT-Datenpaket einmal vorhanden. Er ist als letzter Satz des SADT Datenpaketes  abzulegen.
+- Satz ”sad9” ist pro SADT abzulegen.
 
 ## 5.4 SADT-SATZTABELLEN
 
 Im Folgenden werden die bereits definierten Sätze beschrieben:
 
-**5.4.1** **Satzart: SADT-Datenpaket-Header ”sad0”**
+**5.4.1**
 
 | SAD0 | | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -4031,19 +3940,7 @@ Im Folgenden werden die bereits definierten Sätze beschrieben:
 |  |  |  |  |  | 1 | 2 | 3 |
 | 8000 | 1 |  |  | Satzart | M |  | Satzart SADT-Datenpa- |
 | 0105 | 1 |  |  | KBV-Prüfnummer | M |  | Eindeutige Nummer, |
-
-Seite 151 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-```
--
-```
-
-ket- Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird
-
----
-
 | 9102 | 1 |  |  | Empfänger | M |  | UKV-Kennung |
-|---|---|---|---|---|---|---|---|
 | 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  SADT0125.01 |
 | 0102 | 1 |  |  | Softwareverantwortlicher (SV) | M |  | vgl. Kapitel 5.5.1 |
 | 0121 | 1 |  |  | Straße des SV | M |  |  |
@@ -4057,7 +3954,25 @@ ket- Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird
 | 0128 | 1 |  |  | PLZ des SB | M |  |  |
 | 0129 | 1 |  |  | Ort des SB | M |  |  |
 | 0130 | 1 |  |  | Telefonnummer des SB | M |  |  |
+
+### Satzart: SADT-Datenpaket-
+
+Seite 152 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+- -Datenpaket einmal vorhanden. Er ist als letzter Satz des SADT Datenpaketes
+
+### Header ”sad0”
+
+```
+-
+```
+
+(SB) ket- Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird (eingeschränkt auf KVWL und KVNO) der SADT-Satzbeschrei-
+
+---
+
 | 0131 | 1 |  |  | Telefaxnummer des SB | K |  |  |
+|---|---|---|---|---|---|---|---|
 | 0103 | 1 |  |  | Software | M |  | Name der zugelasse- |
 | 0132 | 1 |  |  | Release-Stand der Software | K |  |  |
 | 9122 | 1 |  |  | Erstellungsdatum SADT-Daten- | K |  |  |
@@ -4065,14 +3980,7 @@ ket- Header „sad0“ die bei der Systemprü- fung von der KBV ver- geben wird
 | 9250 | n |  |  | AVWG-Prüfnummer der AVS | K |  | Prüfnummer der ein- |
 | 9251 | n |  |  | HMV-Prüfnummer | K |  |  |
 
-Seite 152 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-(SB) paket (eingeschränkt auf KVWL und KVNO) der SADT-Satzbeschrei- nen Software oder Softwarevariante. Bei Einsatz einer Software- variante ist deren Name zu hinterlegen. gesetzten Arzneimittel- verordnungssoftware, falls vorhanden 
-
-
----
-
-**5.4.2** **Satzart: SADT-Datenpaket-**
+**5.4.2**
 
 | SAD9 | | | | | | | |
 |---|---|---|---|---|---|---|---|
@@ -4080,7 +3988,7 @@ Seite 152 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 |  |  |  |  |  | 1 | 2 | 3 |
 | 8000 | 1 |  |  | Satzart | M |  | Satzart SADT-Datenpa- |
 
-**5.4.3** **Satzart: SADT-**
+**5.4.3**
 
 | SAD1 | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|
@@ -4090,6 +3998,25 @@ Seite 152 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 3005 | 1 |  |  |  | Kennziffer SA | M |  |  |
 | 4101 | 1 |  |  |  | Quartal | M |  | Quartal des Behand- |
 | 4104 | 1 |  |  |  | Abrechnungs-VKNR | M |  |  |
+
+Seite 153 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+### Satzart: SADT-Datenpaket-
+
+### Satzart: SADT-
+
+### Abschluss ”sad9”
+
+### ambulante Behandlung ”sad1”
+
+paket nen Software oder Softwarevariante. Bei Einsatz einer Software- variante ist deren Name zu hinterlegen. gesetzten Arzneimittel- verordnungssoftware, falls vorhanden ket- Abschluss „sad9“ lungsfalles, QJJJJ
+
+---
+
+| SAD1 | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
+|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 4111 | 1 |  |  |  | Kostentraegerkennung | M |  | Verkettung (‘10‘, Stel- 11 11 |
 | 5000 | n |  |  |  | Leistungstag | M |  | Datum der erbrachten |
 | 5001 |  | n |  |  | GNR | m |  | Gebührennummer, vgl.  4.5.1 |
@@ -4098,26 +4025,9 @@ Seite 152 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 5011 |  |  |  | n | Sachkosten-Bezeichnung | m |  |  |
 | 5076 |  |  |  | 1 | Rechnungsnummer | k |  |  |
 | 5098 |  |  | 1 |  | (N)BSNR des Ortes der Leis- | M | Regel 732 |  |
-
-________________
-
-Seite 153 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-### Abschluss ”sad9”
-
-### ambulante Behandlung ”sad1”
-
-ket- Abschluss „sad9“  CONCAT-Methode Cent tungserbringung lungsfalles, QJJJJ len 9  15 aus FK 3005) Kapitel
-
----
-
-| SAD1 | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
-|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 5099 |  |  | 1 |  | Lebenslange Arztnummer | M | Regel 733 |  |
 
-**5.4.4** **Satzart: SADT-Überweisung ”sad2”**
+**5.4.4** **Satzart: SADT-**
 
 | SAD2 | | | | | | | | |
 |---|---|---|---|---|---|---|---|---|
@@ -4128,6 +4038,24 @@ ket- Abschluss „sad9“  CONCAT-Methode Cent tungserbringung lungsfalles, QJJJ
 | 4101 | 1 |  |  |  | Quartal | M |  | Quartal des Behand- |
 | 4104 | 1 |  |  |  | Abrechnungs-VKNR | M |  |  |
 | 4111 | 1 |  |  |  | Kostentraegerkennung | M |  | Verkettung (‘10‘, Stel- |
+
+________________
+
+Seite 154 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
+
+### Überweisung ”sad2”
+
+13. November 2026
+
+CONCAT-Methode Cent tungserbringung (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten len 9  15 aus FK 3005) Kapitel lungsfalles, QJJJJ len 9  15 aus FK 3005) 
+
+
+---
+
+| SAD2 | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
+|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 4205 | n |  |  |  | Auftrag | M |  |  |
 | 4218 | 1 |  |  |  | (N)BSNR des Überweisers | M |  | (Neben-)Betriebstätten |
 | 4242 |  | 1 |  |  | Lebenslange Arztnummer des | m |  |  |
@@ -4137,17 +4065,6 @@ ket- Abschluss „sad9“  CONCAT-Methode Cent tungserbringung lungsfalles, QJJJ
 | 5009 |  |  | n |  | freier Begründungstext | k |  |  |
 | 5012 |  |  | n |  | Sachkosten/Materialkosten in | k |  |  |
 | 5011 |  |  |  | n | Sachkosten-Bezeichnung | m |  |  |
-
-Seite 154 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-(LANR) des Vertragsarztes/Ver- tragspsychotherapeuten Cent lungsfalles, QJJJJ len 9  15 aus FK 3005) Nummer des überwei- senden Vertragsarztes  oder Name des Arztes  Kapitel
-
----
-
-| SAD2 | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
-|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 5076 |  |  |  | 1 | Rechnungsnummer | k |  |  |
 | 5098 |  |  | 1 |  | (N)BSNR des Ortes der Leis- | M | Regel 732 |  |
 | 5099 |  |  | 1 |  | Lebenslange Arztnummer | M | Regel 733 |  |
@@ -4161,6 +4078,17 @@ Seite 154 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 8000 | 1 |  |  |  | Satzart | M |  | Satzart „sad3“ |
 | 3005 | 1 |  |  |  | Kennziffer SA | M |  |  |
 | 4101 | 1 |  |  |  | Quartal | M |  | Quartal des Behand- |
+
+Seite 155 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+Cent tungserbringung (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten Nummer des überwei- senden Vertragsarztes  oder Name des Arztes  Kapitel lungsfalles, QJJJJ
+
+---
+
+| SAD3 | | | | | | | | |
+|---|---|---|---|---|---|---|---|---|
+| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
+|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 4104 | 1 |  |  |  | Abrechnungs-VKNR | M |  |  |
 | 4111 | 1 |  |  |  | Kostentraegerkennung | M |  | Verkettung (‘10‘, Stellen |
 | 5000 | n |  |  |  | Leistungstag | M |  | Datum der erbrachten |
@@ -4170,17 +4098,6 @@ Seite 154 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 5011 |  |  |  | n | Sachkosten-Bezeichnung | m |  |  |
 | 5076 |  |  |  | 1 | Rechnungsnummer | k |  |  |
 | 5098 |  |  | 1 |  | (N)BSNR des Ortes der Leistungs- | M | Regel 732 |  |
-
-Seite 155 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-tungserbringung (LANR) des Vertragsarztes/Ver- tragspsychotherapeuten Cent erbringung lungsfalles, QJJJJ  15 aus FK 3005) Kapitel
-
----
-
-| SAD3 | | | | | | | | |
-|---|---|---|---|---|---|---|---|---|
-| **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | | |
-|  |  |  |  |  | 1 | 2 | 3 | 4 |
 | 5099 |  |  | 1 |  | Lebenslange Arztnummer (LANR) | M | Regel 733 |  |
 
 ## 5.5 ANFORDERUNGEN AN DIE DATENQUALITÄT
@@ -4196,6 +4113,17 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
 | 0102 | Softwareverantwort- |  | a |  |  | KBV Arztsoft- |
 | 0103 | Software |  | a |  |  | DOCSFUN |
+
+Seite 156 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+15 aus FK 3005) Kapitel Cent erbringung des Vertragsarztes/Vertragspsy- chotherapeuten licher (SV)  60 ware GmbH  60 
+
+
+---
+
+| SADT-FELDTABELLE | | | | | | |
+|---|---|---|---|---|---|---|
+| **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
 | 0105 | KBV-Prüfnummer | 15 | a | 052  204  213 |  | X/1/1401/36/ |
 | 0111 | Email-Adresse des SV |  | a |  |  | test@kbv.de |
 | 0121 | Straße des SV |  | a |  |  | Ottostr. 1 |
@@ -4204,17 +4132,6 @@ Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können so
 | 0124 | Telefonnummer des |  | a |  |  | 0261/4094 |
 | 0125 | Telefaxnummer des |  | a |  |  | 0261/40943 |
 | 0126 | Regionaler System- |  | a |  |  | Fa. Datasoft |
-
-Seite 156 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-des Vertragsarztes/Vertragspsy- chotherapeuten licher (SV) ware GmbH 17 id9 betreuer (SB) 
-
-
----
-
-| SADT-FELDTABELLE | | | | | | |
-|---|---|---|---|---|---|---|
-| **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
 | 0127 | Straße des SB |  | a |  |  | Dürener Str. |
 | 0128 | PLZ des SB |  | a |  |  | 50859 |
 | 0129 | Ort des SB |  | a |  |  | Köln |
@@ -4226,17 +4143,12 @@ des Vertragsarztes/Vertragspsy- chotherapeuten licher (SV) ware GmbH 17 id9 betr
 | 4104 | Abrechnungs-VKNR | 5 | n | 017  201  212 |  | 27106 |
 | 4111 | Kostentraegerken- | 9 | n | 202 |  | 101568008 |
 | 4205 | Auftrag |  | a |  |  |  |
-| 4218 | (N)BSNR des Über- | 9 | n | 049 |  |  |
-| 4242 | lebenslange Arzt- | 9 | n | 050  762 |  |  |
-| 4220 | Überweisung an |  | a |  |  | Radiologen |
-| 5000 | Leistungstag | 8 | d | 304  324 |  |  |
-| 5001 | Gebührennummer | 5, 6 | a | 203 |  | 13100 |
-| 5009 | freier Begrün- |  | a |  |  | Neuerkran- |
-| 5011 | Sachkosten-Bezeich- |  | a |  |  | Norm-Silber- |
 
-Seite 157 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 157 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-60 322  60  60  60  60 der Software  60 weisers nummer des Über- weisers  60 (GNR)  60 dungstext kung  60 stift 
+13. November 2026
+
+betreuer (SB) der Software id9 322 
 
 
 ---
@@ -4244,24 +4156,36 @@ Seite 157 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | SADT-FELDTABELLE | | | | | | |
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
+| 4218 | (N)BSNR des Über- | 9 | n | 049 |  |  |
+| 4242 | lebenslange Arzt- | 9 | n | 050  762 |  |  |
+| 4220 | Überweisung an |  | a |  |  | Radiologen |
+| 5000 | Leistungstag | 8 | d | 304  324 |  |  |
+| 5001 | Gebührennummer | 5, 6 | a | 203 |  | 13100 |
+| 5009 | freier Begrün- |  | a |  |  | Neuerkran- |
+| 5011 | Sachkosten-Bezeich- |  | a |  |  | Norm-Silber- |
 | 5012 | Sachkosten / Materi- |  | n | 710 |  | 12345 |
 | 5076 | Rechnungsnummer |  | a |  |  |  |
 | 5098 | (N)BSNR des Ortes | 9 | n | 049  732 |  |  |
 | 5099 | Lebenslange Arzt- | 9 | n | 050  733  762 |  |  |
 | 8000 | Satzart | 4 | a | 523 | sad0 = SADT-Datenpaket-Header  sad9 = SADT-Datenpaket-Abschluss  sad1 = SADT-ambulante Behandlung  sad2 = SADT-Überweisung  sad3 = SADT-belegärztliche Behand- |  |
-| 9102 | Empfänger | 2 | n | 524  kvx0 | 18 = Dortmund  19 = Münster  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein  31 = Ruhr  37 = Bergisch-Land | 27 |
+| 9102 | Empfänger | 2 | n | 524  kvx0 | 18 = Dortmund  19 = Münster  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = Linker Niederrhein | 27 |
+
+Seite 158 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+weisers nummer des Über- weisers  60 (GNR)  60 dungstext  60 alkosten in Cent der Leistungserbrin- gung nummer (LANR) des Vertragsarztes/Ver- tragspsychothera- peuten 20 = Dortmund kung stift
+
+---
+
+| SADT-FELDTABELLE | | | | | | |
+|---|---|---|---|---|---|---|
+| **FK** | Feldbezeichnung | Länge | Typ | Regel | erlaubte Inhalte und deren Bedeutung | Beispiel |
+|  |  |  |  |  |  | 31 = Ruhr  37 = Bergisch-Land |
 | 9122 | Erstellungsdatum | 8 | d |  |  |  |
 | 9204 | Abrechnungsquartal | 5 | n | 016 |  | 22020 |
 | 9212 | Version |  | a | 031  815 |  |  |
 | 9250 | AVWG-Prüfnummer | 15-17 | a | 052  204 |  | Y/1/1901/36/ |
 | 9251 | HMV-Prüfnummer | 15-17 | a | 052  204 |  | Y/2/1912/36/ |
 | 9901 | Systeminterner |  | a | 999 |  | abcd/q<rs |
-
-Seite 158 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-alkosten in Cent der Leistungserbrin- gung nummer (LANR) des Vertragsarztes/Ver- tragspsychothera- peuten  11 der Satzbeschrei- bung der AVS  60 Parameter 20 = Dortmund id9 xxx
-
----
 
 ### 5.5.2 SADT-Regeltabelle
 
@@ -4271,22 +4195,23 @@ Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitung
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | 016 | Format | QJJJJ | F | Q = Quartal, JJJJ = Jahr |
-| 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = LinkerNiederrhein  31 = Ruhr  37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden |
+| 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden |
 
-Seite 159 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 159 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status
+SADT-Datenpaket der Satzbeschrei- bung  11 der AVS id9 xxx Parameter  60 status 
+
 
 ---
 
 | SADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = KV-Rheinland-Pfalz  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken  68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpommern  79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen |
+|  |  |  |  | 16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund  19 = Münster  20 = KV Westfalen-Lippe  21 = Aachen  24 = Düsseldorf  25 = Duisburg  27 = Köln  28 = LinkerNiederrhein  31 = Ruhr  37 = Bergisch-Land  38 = KV Nordrhein  39 = Darmstadt  40 = Frankfurt/Main  41 = Gießen  42 = Kassel  43 = Limburg  44 = Marburg  45 = Wiesbaden  46 = KV Hessen  47 = Koblenz  48 = Rheinhessen  49 = Pfalz  50 = Trier  51 = KV-Rheinland-Pfalz  52 = KV Baden-Württemberg  53 = Mannheim  54 = Pforzheim  55 = Karlsruhe  56 = Baden-Baden  57 = Freiburg  58 = Konstanz  59 = Offenburg  60 = Freiburg  61 = Stuttgart  62 = Reutlingen  63 = München Stadt und Land  64 = Oberbayern  65 = Oberfranken  66 = Mittelfranken  67 = Unterfranken |
 
 Seite 160 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 status 
 
@@ -4296,24 +4221,25 @@ status
 | SADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
-|  |  |  |  | 94 = Chemnitz  95 = Dresden  96 = Leipzig  98 = KV Sachsen  99 = KBV-Pseudo-Nummer |
+|  |  |  |  | 68 = Oberpfalz  69 = Niederbayern  70 = Schwaben  71 = KV Bayerns  72 = KV Berlin  73 = KV Saarland  74 = KBV  78 = KV Mecklenburg-Vorpommern  79 = Potsdam  80 = Cottbus  81 = Frankfurt/Oder  83 = KV Brandenburg  85 = Magdeburg  86 = Halle  87 = Dessau  88 = KV Sachsen-Anhalt  89 = Erfurt  90 = Gera  91 = Suhl  93 = KV Thüringen  94 = Chemnitz  95 = Dresden  96 = Leipzig  98 = KV Sachsen  99 = KBV-Pseudo-Nummer |
 | 031 | Format | [a]aaaMMJJ.nn | F | [a]aaa = Datenpaketkürzel, MM = |
 | 048 | Format | nddddddnnnnnnnnnnnnna[a][a][a][a ][a][a]    erlaubte Inhalte:    Stellen 2-7  Stellen 8-20  Stellen 21-27 | F |  |
-| 049 | Format | kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel  mm = [undefiniert] | F |  |
-| 050 | Format | nnnnnnmff  mit  m = Prüfziffer, wobei „nnnnnn“ un- ff = erlaubter Inhalt gemäß Anlage 35 | F | Verfahren zur Bestimmung der |
-| 052 | Format | a/n[n][n]/JJMM/nn/aaa | F | a = [V, X, Y, Z]  n = numerisch  JJ = Jahr  MM = Monat  aaa = alphanumerisch |
-| 162 | erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37- | F | Zulässige UKV-/OKV-Kennungen in |
-| 201 | Existenzprüfung | Kassendatei | I | Abrechnungs-VKNR vorhanden und |
+| 049 | Format | kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel | F |  |
 
-Seite 161 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 161 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Stelle 1 0, 1 TTMMJJ gleich „555555“ sein muss des BAR-Schlüsselverzeichnisses, to- lerierter Ersatzwert für die Ziffern 8 9: 00 73, 78-81, 83, 85-88, 93-96, 98, 99 status Monat, JJ = Jahr, nn = Unterversi- onsnummer Prüfziffer vgl. den Betriebsstättennummern + Knappschaft 5-stellig
+Stelle 1 0, 1 TTMMJJ numerisch alphanumerisch 162 status Monat, JJ = Jahr, nn = Unterversi- onsnummer
 
 ---
 
 | SADT-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
+|  |  |  |  | mm = [undefiniert] |
+| 050 | Format | nnnnnnmff  mit  m = Prüfziffer, wobei „nnnnnn“ un- ff = erlaubter Inhalt gemäß Anlage 35 | F | Verfahren zur Bestimmung der |
+| 052 | Format | a/n[n][n]/JJMM/nn/aaa | F | a = [V, X, Y, Z]  n = numerisch  JJ = Jahr  MM = Monat  aaa = alphanumerisch |
+| 162 | erlaubter Inhalt | 01-03, 06-21, 24, 25, 27, 28, 31, 37- | F | Zulässige UKV-/OKV-Kennungen in |
+| 201 | Existenzprüfung | Kassendatei | I | Abrechnungs-VKNR vorhanden und |
 | 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) |
 | 203* | Existenzprüfung | GO-Stammdatei | - |  |
 | 204# | Existenzprüfung | Anbieterstammdatei | W | Prüfnummer existent und gültig |
@@ -4321,29 +4247,29 @@ Stelle 1 0, 1 TTMMJJ gleich „555555“ sein muss des BAR-Schlüsselverzeichnis
 | 213# | Existenzprüfung | Anbieterstammdatei | F | Erweiterte Existenzprüfung:  Falls Prüfnummer nicht existent in  (Angabe 1.Monat der Gültigkeit |
 | 304 | Kontext | Datum | F | Vermeidung von Fehleingaben |
 | 324 | Kontext | Der Inhalt des Feldes 5000 muss in | F |  |
+
+Seite 162 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
+
+gleich „555555“ sein muss des BAR-Schlüsselverzeichnisses, to- lerierter Ersatzwert für die Ziffern 8 9: 00 73, 78-81, 83, 85-88, 93-96, 98, 99  74799  Maschinendatum dem umschriebenen Zeitraum liegen, welcher durch die Angabe des Quar- tals (4101) definiert ist status Prüfziffer vgl. den Betriebsstättennummern + Knappschaft 5-stellig 74799 darf in der Abrechnung nicht Anbieterstammdatei, dann gilt:  (/JJMM/) + Gültigkeitsdauer in Mo- naten (/MM/) + 12 Monate) > = An- gabe in Feld „Abrechnungsquartal“ (FK 9204)
+
+---
+
+| SADT-REGELTABELLE | | | | |
+|---|---|---|---|---|
+| **R-Nr** | Kategorie | Prüfung | status | Erläuterung |
 | 523 | erlaubter Inhalt | sad0, sad9, sad1, sad2, sad3 | F |  |
 | 524 | erlaubter Inhalt | 18, 19, 20, 21, 24, 25, 27, 28, 31, 37, | F | Empfänger der Abrechnung:  UKV-Kennung |
 | 709 | Kontext | Wenn die 1. Stelle von FK 3005 = „0“, | W | Der Schein ist dann direkt mit dem |
 | 710 | Kontext | Inhalt von FK 5012 ≤ 999999 | W | Prüfung auf realistische Sachkosten |
 | 732 | Kontext | Der Wert in FK 5098 muss mit einem | F | Keine Prüfung gegen Besa-Satz bei |
 | 733 | Kontext | Der Wert in FK 5099 muss mit einem | F | Keine Prüfung gegen Besa-Satz bei |
-
-Seite 162 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-74799  Maschinendatum dem umschriebenen Zeitraum liegen, welcher durch die Angabe des Quar- tals (4101) definiert ist dann keine Abrechnung über SADT möglich. der Werte aus FK 0201 (SA „besa“) übereinstimmen, sofern kein Vor- quartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (sad0)). der Werte aus FK 0212 (SA „besa“) übereinstimmen, sofern der Wert in FK 5099 ungleich „999999900“ (In- halt von FK 4101 = FK 9204 (sad0)) status 74799 darf in der Abrechnung nicht Anbieterstammdatei, dann gilt:  (/JJMM/) + Gültigkeitsdauer in Mo- naten (/MM/) + 12 Monate) > = An- gabe in Feld „Abrechnungsquartal“ (FK 9204) Kostenträger abzurechnen. Nachzüglerfällen. Nachzüglerfällen.
-
----
-
-| SADT-REGELTABELLE | | | | |
-|---|---|---|---|---|
-| **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | 762 | Kontext | Der (Ersatz- | F |  |
 | 815 | Kontext | Wenn der Inhalt des Feldes 8000 =  Versions- entsprechen. | W |  |
 | 999* | besondere Hin- | wird von KV überlesen, kann in jeder |  | Für Praxiscomp. Bei Rücksendung |
 
-Seite 163 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 163 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-weise )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. sad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe Satzart mehrfach vorkommen status
+dann keine Abrechnung über SADT möglich. der Werte aus FK 0201 (SA „besa“) übereinstimmen, sofern kein Vor- quartalsfall vorliegt (Inhalt von FK 4101 = FK 9204 (sad0)). der Werte aus FK 0212 (SA „besa“) übereinstimmen, sofern der Wert in FK 5099 ungleich „999999900“ (In- halt von FK 4101 = FK 9204 (sad0)) )wert „888888800“ ist obsolet und als Feldinhalt von FK 0212, 4241, 4242, 5099 unzulässig. sad0 ist, dann muss der Inhalt des Feldes 9212 der aktuellen angabe weise Satzart mehrfach vorkommen Prüf- Kostenträger abzurechnen. Nachzüglerfällen. Nachzüglerfällen.
 
 ---
 
@@ -4387,7 +4313,7 @@ Im Folgenden werden die bereits definierten Sätze beschrieben.
 |  |  |  |  |  | 1 | 2 | 3 |
 | 8000 | 1 |  |  | Satzart | M |  | Satzart HDRG-Daten- |
 
-Seite 164 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 164 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 HDRG_Ver-
 
@@ -4400,7 +4326,7 @@ Satz ”con0” ist pro Datei einmal vorhanden. Er ist als erster Satz abzulegen
 | **FK** | Vorkommen | Feldbezeichnung | Feldart | Bedingung | Erläuterung | | |
 |  |  |  |  |  | 1 | 2 | 3 |
 | 0105 | 1 |  |  | KBV-Prüfnummer | K |  | Eindeutige Nummer, |
-| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  HDRG0726.01  HDRG1026.01 |
+| 9212 | 1 |  |  | Version der Satzbeschreibung | M |  | Verbindliche Version  HDRG1026.01  HDRG0127.01 |
 | 0103 | 1 |  |  | Software | M |  | Name der zugelasse- |
 | 0132 | 1 |  |  | Release-Stand der Software | K |  |  |
 | 0104 | 1 |  |  | Grouper-Software | K |  | Namen der eingesetz- |
@@ -4414,7 +4340,7 @@ Satz ”con0” ist pro Datei einmal vorhanden. Er ist als erster Satz abzulegen
 |  |  |  |  |  | 1 | 2 | 3 |
 | 8000 | 1 |  |  | Satzart | M |  | Satzart HDRG-Daten- |
 
-Seite 165 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 165 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 ### Satzart: HDRG-Datenpaket-Abschluss ”hdrg9”
 
@@ -4437,7 +4363,7 @@ Datenpaket die bei der Systemprü- fung von der KBV ver- geben wird der HDRG-Sat
 | 3013 |  | 1 |  | Prüfziffer des Fachdienstes | k |  | vgl. Kapitel 7 |
 | 3100 | 1 |  |  | Namenszusatz | K |  | vgl. Kapitel 7 |
 
-Seite 166 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 166 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 lineprüfung und -aktualisie- rung (Timestamp) und -aktualisierung eingelesen wurde und falls Daten- satz, der zum Nach- weis einer durchge- führten Onlineprü- fung und - aktualisie- rung auf der eGK gespei- chert wurde, vorhan- den oder falls die Versicher- ten- stammda- ten erfolg- reich vom Fach- VSDM 2.0 abgerufen wurden.
 
@@ -4469,7 +4395,7 @@ lineprüfung und -aktualisie- rung (Timestamp) und -aktualisierung eingelesen wu
 | 3110 | 1 |  |  | Geschlecht | M |  |  |
 | 3111 | 1 |  |  | Aufnahmegewicht | k |  | Aufnahmegewicht in |
 
-Seite 167 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 167 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 adresse tientenadresse resse resse resse resse Gramm bei Kleinkin- dern bis zu 1 Jahr
 
@@ -4495,7 +4421,7 @@ adresse tientenadresse resse resse resse resse Gramm bei Kleinkin- dern bis zu 1
 | 4242 |  | 1 |  | Lebenslange Arztnummer | m |  |  |
 | 5027 | 1 |  |  | Hybrid-DRG Leistung | M |  |  |
 
-Seite 168 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 168 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 bereich (KTAB) chertenkarte im Quartal bis ... cherten- karte ein- gelesen wurde oder falls die Versi- cherten- stammda- ten erfolg- reich vom Fach- dienst VSDM 2.0 abgerufen wurden. zeitraum”
 
@@ -4523,7 +4449,7 @@ bereich (KTAB) chertenkarte im Quartal bis ... cherten- karte ein- gelesen wurde
 
 Die Feldtabelle dient der Prüfung der Feldinhalte. Einige Prüfungen können sofort anhand der Eintragung in  dieser Tabelle durchgeführt werden, während zu weiteren Prüfungen in die HDRG-Regeltabelle bzw. in un-tergeordnete Tabellen verzweigt werden muss. In der Feldtabelle ist jeder Eintrag eindeutig einem Feld zu-geordnet.
 
-Seite 169 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 169 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychothera- peuten Kode) Kode) Abrechnungsbegrün-
 
@@ -4544,7 +4470,7 @@ tungserbringung (LANR) des Vertragsarz- tes/Vertragspsychothera- peuten Kode) Ko
 | 3013 | Prüfziffer des Fach- |  | a |  |  |  |
 | 3100 | Namenszusatz |  | a |  |  | Herzogin |
 
-Seite 170 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 170 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 der Software der Onlineprüfung -aktualisierung (Ti- mestamp) lineprüfung und -ak-  128  dienstes tung durchgeführt erforderlich technisch  nicht möglich ungültig zierungszertifikats technisch nicht möglich technisch  nicht möglich und maximaler Offline- Zeitraum überschritten
 
@@ -4571,7 +4497,7 @@ der Software der Onlineprüfung -aktualisierung (Ti- mestamp) lineprüfung und -
 
 Seite 171 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 46  40 code  40 tung 3 = Familienversicherter 5 = Rentner 02 = Hamburg 03 = Bremen 17 = Niedersachsen 20 = Westfalen-Lippe 38 = Nordrhein 46 = Hessen weise aber noch in Gebrauch (bspw. KVK-WOP) 
 
@@ -4591,7 +4517,7 @@ Seite 171 von 207 / KBV / Datensatzbeschreibung KVDT
 | 4104 | Abrechnungs-VKNR | 5 | n | 017  201  212  790 |  | 27106 |
 | 4106 | Kostenträger-Ab- | 2 | n | 174  778  779  780  818  827 | 00 = Primärabrechnung  01 = Sozialversicherungsabkommen  02 = Bundesversorgungsgesetz  03 = Bundesentschädigungsgesetz  04 = Grenzgänger (GG)  05 = Rheinschiffer (RHS) | 00 |
 
-Seite 172 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 172 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 40 endercode  rechnungsbereich (KTAB) tung (48 = Rheinhessen) (49 = Pfalz) (50 = Trier) 51 = Rheinland-Pfalz 52 = Baden-Württemberg (55 = Nordbaden) (60 = Südbaden) (61 = Nordwürttemberg) (62 = Südwürttemberg) 71 = Bayern 72 = Berlin 73 = Saarland 78 = Mecklenburg-Vorpommern 83 = Brandenburg 88 = Sachsen-Anhalt 93 = Thüringen 98 = Sachsen (SVA) (BVG) (BEG)
 
@@ -4612,7 +4538,7 @@ Seite 172 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 
 ________________
 
-Seite 173 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 173 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 der Versicherten- karte im Quartal zEnde  60 von ... bis ...     60 nengruppe  ehemals BVG tung stellen (SHT) (BVFG) gruppe (Defaultwert) setz) § 264 SGB V recht) schenstaatliches Krankenversi- cherungsrecht: - Personen mit Wohnsitz im Inland, Abrech- nung nach Aufwand leistungen
 
@@ -4622,13 +4548,11 @@ der Versicherten- karte im Quartal zEnde  60 von ... bis ...     60 nengruppe  e
 |---|---|---|---|---|---|---|
 | **FK** | Feldbezeichnung | Länge | Typ | Regel | Erlaubte Inhalte und deren Bedeu- | Beispiel |
 |  |  |  |  |  |  | nach den §§ 4 und 6 des Asyl- |
-| 4132 | DMP_Kennzeich- | 2 | a | 536 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas Erwachsene  13 = Adipositas Kinder und Jugend- 30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK  35 = Asthma und KHK  36 = Asthma, Diabetes Typ 2 und  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  44 = Brustkrebs, Diabetes Typ 2 und  45 = Asthma, Brustkrebs und Diabe- 46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK |  |
+| 4132 | DMP_Kennzeich- | 2 | a | 536 | 00 = kein DMP-Kennzeichnen           (Defaultwert)  01 = Diabetes mellitus Typ 2  02 = Brustkrebs  03 = Koronare Herzkrankheit  04 = Diabetes mellitus Typ 1  05 = Asthma bronchiale   06 = COPD (chronic obstructive pul- monary disease)  07 = Chronische Herzinsuffizienz  08 = Depression  09 = Rückenschmerz  10 = Rheuma  11 = Osteoporose  12 = Adipositas Erwachsene  liche  30 = Diabetes Typ 2 und KHK  31 = Asthma und Diabetes Typ 2  32 = COPD und Diabetes Typ 2  33 = COPD und KHK  34 = COPD, Diabetes Typ 2 und KHK  35 = Asthma und KHK  KHK  37 = Brustkrebs und Diabetes Typ 2  38 = Diabetes Typ 1 und KHK  39 = Asthma und Diabetes Typ 1  40 = Asthma und Brustkrebs  41 = Brustkrebs und KHK  42 = Brustkrebs und COPD  43 = COPD und Diabetes Typ 1  KHK  45 = Asthma, Brustkrebs und Diabe- 46 = Brustkrebs und Diabetes Typ 1  47 = COPD, Diabetes Typ 1 und KHK |  |
 
-Seite 174 von 207 / KBV /
+Seite 174 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
-
-tung bewerberleistungsgesetzes (AsylbLG) liche 
+tung bewerberleistungsgesetzes (AsylbLG) 13 = Adipositas Kinder und Jugend- 36 = Asthma, Diabetes Typ 2 und 44 = Brustkrebs, Diabetes Typ 2 und 
 
 
 ---
@@ -4641,12 +4565,12 @@ tung bewerberleistungsgesetzes (AsylbLG) liche
 | 4218 | (N)BSNR des Über- | 9 | n | 049 |  |  |
 | 4242 | Lebenslange Arzt- | 9 | n | 056  764 |  |  |
 | 5009 | freier Begrün- |  | a |  |  | Dokumentation |
-| 5027 | Hybrid-DRG Leis- | 4 | a | 066  221 |  | G24M |
+| 5027 | Hybrid-DRG Leis- | 4,5 | a | 066  221 |  | G24M |
 | 5028 | Datum Beginn der | 8 | d | 365  390  706 |  | 20240502 |
 | 5029 | Datum Ende der | 8 | d | 366 |  | 20240503 |
 | 5030 | Beatmungsstunden | ≤4 | n | 896 |  | 0 |
 
-Seite 175 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 175 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 schutzBeginn weisers  nummer des Über- weisers  60 dungstext tung Leistung Leistung tung tes Typ 2 Typ 2 und KHK Typ 2 und KHK Typ 1 und KHK Typ 1 und KHK der Abrechnungs- begründung
 
@@ -4665,7 +4589,7 @@ schutzBeginn weisers  nummer des Über- weisers  60 dungstext tung Leistung Leis
 | 6011 | Nebendiagnose | 3, 5, 6 | a | 024  493  494  498  499  735  737 |  |  |
 | 6012 | Seitenlokalisation | 1 | a | 110 | R = rechts  L = links  B = beidseitig |  |
 
-Seite 176 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 176 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 OPS der Leistungserbrin- gung nummer (LANR) des Vertragsarztes/Ver- tragspsychothera- peuten (ICD-10-GM-Kode) (ICD-10-GM-Kode) tung 31.12.2025)
 
@@ -4688,7 +4612,7 @@ Die mit Sternchen (*) gekennzeichneten Regeln sind nur für die Fallaufbereitung
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
 | 017 | Format | nnmmm | F | nn = KV-Kennung  mmm = Seriennummer  Wertebereich nn:  01 = KV Schleswig-Holstein  02 = KV Hamburg  03 = KV Bremen  06 = Aurich  07 = Braunschweig  08 = Göttingen  09 = Hannover  10 = Hildesheim  11 = Lüneburg  12 = Oldenburg  13 = Osnabrück  14 = Stade  15 = Verden  16 = Wilhelmshaven  17 = KV Niedersachsen  18 = Dortmund |
 
-Seite 177 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 177 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Hybrid-DRG-Daten- paket der Satzbeschrei- bung  60 Parameter tung hdrg0 = Hybrid-DRG -Datenpa- ket-Header hdrg9 = Hybrid-DRG -Datenpa- ket-Abschluss hdrg1 = Hybrid-DRG status
 
@@ -4701,7 +4625,7 @@ Hybrid-DRG-Daten- paket der Satzbeschrei- bung  60 Parameter tung hdrg0 = Hybrid
 
 Seite 178 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 status 
 
@@ -4719,7 +4643,7 @@ status
 | 049 | Format | Kknnnnnmm  mit  kk = erlaubter Inhalt gemäß Regel 162  nnnnn = Seriennummer  mm = [undefiniert] | F |  |
 | 052 | Format | a/n[n][n]/JJMM/nn/aaaa | F | a = [V, X, Y, Z] |
 
-Seite 179 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 179 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 status mern reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- versionsnummer 
 
@@ -4735,7 +4659,7 @@ status mern reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- 
 | 056 | Format | nnnnnnmff  mit  nnnnnn = ID, wobei „nnnnnn“ ungleich  m = Prüfziffer  ff = erlaubter Inhalt gemäß Anlage 35 | W | Verfahren zur Bestimmung der  5 |
 | 058 | Format | JJJJMMTTJJJJMMTT | F | TT = Tag, MM = Monat,  JJJJ = Jahr |
 | 060 | Format | JJJJMMTThhmmss | F | JJJJ = Jahr, MM = Monat, TT = |
-| 066 | Format | anna | F | a = A-Z (ohne Umlaute) [nur  n = numerisch (0-9) |
+| 066 | Format | anna  oder   annan  oder   annaa | F | a = A-Z (ohne Umlaute) [nur  n = numerisch (0-9) |
 | 110 | erlaubter Inhalt | R, L, B | F |  |
 | 116 | erlaubter Inhalt | 1, 3, 5 | F |  |
 | 142 | erlaubter Inhalt | 1 | F |  |
@@ -4743,17 +4667,17 @@ status mern reich: JJJJMM00, JJJJ0000, 00000000 = Monat, JJ = Jahr, nn = Unter- 
 | 174 | erlaubter Inhalt | 00, 01, 02, 03, 04, 05, 06, 07, 08, 09 | F |  |
 | 178 | erlaubter Inhalt | R, L | F |  |
 | 201 | Existenzprüfung | Kassendatei | I | Abrechnungs-VKNR vorhanden |
-| 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
 
-Seite 180 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 180 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-„555555“ sein muss des BAR-Schlüsselverzeichnisses, tole- rierter Ersatzwert für die Ziffern 8 - 9: 00 78-81, 83, 85-88, 93-96, 98, 99 status Prüfziffer vgl. Tag, hh = Stunde, mm = Minute, ss = Sekunde Großbuchstaben] triebsstättennummer + Knapp- schaft und 5-stellig handen und 9-stellig
+„555555“ sein muss des BAR-Schlüsselverzeichnisses, tole- rierter Ersatzwert für die Ziffern 8 - 9: 00 78-81, 83, 85-88, 93-96, 98, 99 status Prüfziffer vgl. Tag, hh = Stunde, mm = Minute, ss = Sekunde Großbuchstaben] triebsstättennummer + Knapp- schaft und 5-stellig
 
 ---
 
 | HDRG-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | status | Erläuterung |
+| 202 | Existenzprüfung | Kassendatei | I | Krankenkassennummer (IK) vor- |
 | 212 | erlaubter Inhalt |  | F | Der Kostenträger mit der VKNR |
 | 221 | Existenzprüfung | Prüfung, ob der übermittelte Wert in | W |  |
 | 223 | Existenzprüfung | OPS-Stammdatei | F | OP-Schlüssel (Inhalt FK 5035) in |
@@ -4767,15 +4691,16 @@ Seite 180 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 322 | Kontext | Falls FK 4133 vorhanden ist, dann gilt:  OP-Datum (FK 5034) >= Versicherungs- | W | Vermeidung von Fehleingaben |
 | 364 | Kontext | Wenn das Feld 4125 vorhanden ist, | W | Vermeidung von Fehleingaben |
 
-Seite 181 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 181 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-74799 der Stammdatei für Hybrid-DRGs (SDH- DRG) enthalten ist.   Maschinendatum sind, muss FK 3006 vorhanden sein. und FK 3012 vorhanden ist, dann darf FK 3012 nicht den Wert 99999 haben. und FK 3012 vorhanden ist, dann muss FK 3012 den Wert 99999 haben. schutz Ende (FK 4110) schutz Beginn (FK 4133) dann muss das Datum des Feldes 5034 (OP-Datum) in dem Zeitraum liegen, welcher durch die Angabe in Feld 4125 (Gültigkeitszeitraum von ... bis ...) defi- niert ist.  Prüf- 74799 darf in der Abrechnung nicht an die KVen übermittelt werden Element ../opscode_liste/opscode/@V Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0.
+74799 der Stammdatei für Hybrid-DRGs (SDH- DRG) enthalten ist.   Maschinendatum sind, muss FK 3006 vorhanden sein. und FK 3012 vorhanden ist, dann darf FK 3012 nicht den Wert 99999 haben. und FK 3012 vorhanden ist, dann muss FK 3012 den Wert 99999 haben. schutz Ende (FK 4110) schutz Beginn (FK 4133) dann muss das Datum des Feldes 5034 (OP-Datum) in dem Zeitraum liegen, welcher durch die Angabe in Feld 4125 Prüf- handen und 9-stellig 74799 darf in der Abrechnung nicht an die KVen übermittelt werden Element ../opscode_liste/opscode/@V Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0.
 
 ---
 
 | HDRG-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
+|  |  |  |  | (Gültigkeitszeitraum von ... bis ...) defi- |
 | 365 | Kontext | Wenn das Feld 4125 vorhanden ist, | W | Vermeidung von Fehleingaben |
 | 366 | Kontext | Wenn das Feld 4125 vorhanden ist, | W | Vermeidung von Fehleingaben |
 | 390 | Kontext | Wenn das Alter des Versicherten ≤ 1 | W |  |
@@ -4783,9 +4708,9 @@ Seite 181 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 | 494 | Kontext | Wenn zu dem ICD-Code (FK 6009/ 6011) | W | SDICD |
 | 498 | Kontext | Wenn zu einer Diagnose (FK 6009/ | F | SDICD |
 
-Seite 182 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 182 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status dann muss das Datum des Feldes 5028 (Datum Beginn der Leistung) in dem Zeitraum liegen, welcher durch die An- gabe in Feld 4125 (Gültigkeitszeitraum von ... bis ...) definiert ist. dann muss das Datum des Feldes 5029 (Datum Ende der Leistung) in dem Zeit- raum liegen, welcher durch die Angabe in Feld 4125 (Gültigkeitszeitraum von ... bis ...) definiert ist. Jahr (FK 5028 (Datum Beginn der Leis- tung) - FK 3103 (Geburtsdatum)) ist, muss das Feld 3111 (Aufnahmegewicht) vorhanden sein. in der SDICD die Elemente „ untere_al- tersgrenze “ und/oder „ obere_alters- grenze “ existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete oberhalb der „ unteren_alters- grenze “ und unterhalb der „ obere_al- tersgrenze “ liegen. altersbe- zug_fehlerart “ ist „m“.  das Höchstalter wird prüfmodulseitig zum Datum Beginn der Leistung (5028) und das Mindestalter zum Datum Ende der Leistung (5029) berechnet in der SDICD das Element „ krank- heit_in_mitteleuropa_sehr_selten “ mit Inhalt V=“j“ existiert, dann Warnhinweis Bitte Kodierung überprüfen: Diagnosen dieses Kodes sind in Mitteleuropa sehr selten 6011) in der SDICD das Element „schlüs- selnummer_mit_inhalt_belegt“ mit In- halt „n“ existiert, darf diese nicht über- tragen werden 
+status niert ist.  dann muss das Datum des Feldes 5028 (Datum Beginn der Leistung) in dem Zeitraum liegen, welcher durch die An- gabe in Feld 4125 (Gültigkeitszeitraum von ... bis ...) definiert ist. dann muss das Datum des Feldes 5029 (Datum Ende der Leistung) in dem Zeit- raum liegen, welcher durch die Angabe in Feld 4125 (Gültigkeitszeitraum von ... bis ...) definiert ist. Jahr (FK 5028 (Datum Beginn der Leis- tung) - FK 3103 (Geburtsdatum)) ist, muss das Feld 3111 (Aufnahmegewicht) vorhanden sein. in der SDICD die Elemente „ untere_al- tersgrenze “ und/oder „ obere_alters- grenze “ existieren, dann muss das aus dem Geburtsdatum FK 3103 berechnete oberhalb der „ unteren_alters- grenze “ und unterhalb der „ obere_al- tersgrenze “ liegen. altersbe- zug_fehlerart “ ist „m“.  das Höchstalter wird prüfmodulseitig zum Datum Beginn der Leistung (5028) und das Mindestalter zum Datum Ende der Leistung (5029) berechnet in der SDICD das Element „ krank- heit_in_mitteleuropa_sehr_selten “ mit Inhalt V=“j“ existiert, dann Warnhinweis Bitte Kodierung überprüfen: Diagnosen dieses Kodes sind in Mitteleuropa sehr selten 6011) in der SDICD das Element „schlüs-
 
 
 ---
@@ -4793,6 +4718,7 @@ status dann muss das Datum des Feldes 5028 (Datum Beginn der Leistung) in dem Ze
 | HDRG-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
+|  |  |  |  | selnummer_mit_inhalt_belegt“ mit In- |
 | 499 | Kontext | Der Inhalt von FK 6009/ 6011 muss als | F | SDICD |
 | 528 | erlaubter Inhalt | 1, 2, 3, 4, 5, 6 | F |  |
 | 534 | erlaubter Inhalt | 00, 04, 06, 07, 08, 09 | F |  |
@@ -4803,17 +4729,17 @@ status dann muss das Datum des Feldes 5028 (Datum Beginn der Leistung) in dem Ze
 | 706 | Kontext | Wenn der Wert der FK 5028 <  110.   Wenn der Wert der FK 5028  >=  178. | F | Für Behandlungsfälle bis ein-   Für Behandlungsfälle ab |
 | 735 | Kontext | Wenn zu einer Diagnose (FK 6009/ | F | SDICD |
 | 734 | Kontext | Wenn der Kostenträger der KT-Gruppe | W | Plausibilitätsprüfung der Perso- |
-| 764 | Kontext | Der (Ersatz- | F |  |
 
-Seite 183 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 183 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status Element „icd_code“ und dem Kindele- ment „abrechenbar“ mit dem Inhalt V=“j“ in der SDICD vorhanden sein. 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58  „20260101“ ist, dann ist der erlaubte Wertebereich der FK 5041 gleich Regel „20260101“ ist, dann ist der erlaubte Wertebereich der FK 5041 gleich Regel 6011) das Element „ notationskennzei- chen “ (SDICD) mit Inhalt  „*“ oder „!“ existiert (=Sekundärcode), muss mind. ein ICD- Code FK 6009 / 6011 ohne „ no- tationskennzeichen “ (SDICD) oder  wenn vorhanden, mit Inhalt „+“  (=Primär- code) vorhanden sein  75 entspricht (Element /kostentraeger- gruppe (kts)), dann muss der Inhalt des Feldes 4124 dem Format „TTMMJJann- nnn“ entsprechen. )wert „888888800“ ist obso- let und als Feldinhalt von 4242 und 5099 unzulässig. schließlich 31.12.2025 kann der Wertebereich der Seitenlokali- sation von OPS-Kodes L, R und B sein.  01.01.2026 kann der Wertebe- reich der Seitenlokalisation von OPS-Kodes L und R sein. nenkennziffer bei dem bundes- weiten SKT Bundeswehr
+status halt „n“ existiert, darf diese nicht über- tragen werden Element „icd_code“ und dem Kindele- ment „abrechenbar“ mit dem Inhalt V=“j“ in der SDICD vorhanden sein. 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58  „20260101“ ist, dann ist der erlaubte Wertebereich der FK 5041 gleich Regel „20260101“ ist, dann ist der erlaubte Wertebereich der FK 5041 gleich Regel 6011) das Element „ notationskennzei- chen “ (SDICD) mit Inhalt  „*“ oder „!“ existiert (=Sekundärcode), muss mind. ein ICD- Code FK 6009 / 6011 ohne „ no- tationskennzeichen “ (SDICD) oder  wenn vorhanden, mit Inhalt „+“  (=Primär- code) vorhanden sein  75 entspricht (Element /kostentraeger- gruppe (kts)), dann muss der Inhalt des Feldes 4124 dem Format „TTMMJJann- nnn“ entsprechen. schließlich 31.12.2025 kann der Wertebereich der Seitenlokali- sation von OPS-Kodes L, R und B sein.  01.01.2026 kann der Wertebe- reich der Seitenlokalisation von OPS-Kodes L und R sein. nenkennziffer bei dem bundes- weiten SKT Bundeswehr
 
 ---
 
 | HDRG-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | Prüf- | Erläuterung |
+| 764 | Kontext | Der (Ersatz- | F |  |
 | 775 | Kontext | Wenn FK 4109 und FK 3006 vorhanden | F |  |
 | 776 | Kontext | Falls FK 4109 vorhanden ist und der In- Falls FK 4109 vorhanden ist und der In- | F |  |
 | 778 | Kontext | Wenn Feldinhalt von FK 4131 ="07” | F |  |
@@ -4822,11 +4748,11 @@ status Element „icd_code“ und dem Kindele- ment „abrechenbar“ mit dem In
 | 784 | Kontext | Wenn FK 4109 und FK 3006 vorhanden | F |  |
 | 790 | Kontext | Wenn FK 4109 vorhanden ist und FK | F | KVK ab 01.01.2015 nur zulässig |
 | 824 | Kontext | Wenn der Inhalt des Feldes 8000 =  Versionsangabe  entsprechen. | W |  |
-| 737 | Kontext | Wenn zu einem ICD-Code (Feldinhalt FK | W | Stimmt das Geschlecht des Pati-   SDICD |
+| 737 | Kontext | Wenn zu einem ICD-Code (Feldinhalt FK | W | Stimmt das Geschlecht des Pati- |
 
-Seite 184 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 184 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-status sind, dann muss das Feld 4133 vorhan- den sein. halt der Stellen 3 - 5 des Feldes 4104 < 800, dann muss das Feld 3119 vorhan- den sein. halt der Stellen 3 - 5 des Feldes 4104 >= 800, dann muss entweder das Feld 3105 oder das Feld 3119 vorhanden sein. oder "08", dann muss Feldinhalt von FK 4106 = "01" oder „09“ sein. dann muss Feldinhalt von FK 4106 = "02" oder „09“ sein. dann muss Feldinhalt von FK 4106 = "00" oder „09“ sein. sind, muss das Feld 3114 und/oder Feld 3124 vorhanden sein.  3006 nicht vorhanden, dann muss der bei „originären“ SKT Inhalt der Stellen 3 - 5 der FK 4104 >= 800 sein. hdrg0 ist, dann muss der Inhalt des Fel- des 9212 der aktuellen 6009 bzw. 6011) in der SDICD das Ele- enten nicht mit der Angabe im ment „geschlechtsbezug“ existiert und Element „geschlechtsbezug“ der Inhalt von Element „geschlechtsbe- überein, ist vom PVS darauf hin- zug_fehlerart“ =  „k“ ist, dann muss das zuweisen (vgl. Geschlecht in FK 3110 (sofern 3110  X, KBV_ITA_VGEX_Anforderungs- D) zu der Angabe unter Element „ge- katalog_ICD-10, P10-470) schlechtsbezug“ (SDICD) passen.
+status )wert „888888800“ ist obso- let und als Feldinhalt von 4242 und 5099 unzulässig. sind, dann muss das Feld 4133 vorhan- den sein. halt der Stellen 3 - 5 des Feldes 4104 < 800, dann muss das Feld 3119 vorhan- den sein. halt der Stellen 3 - 5 des Feldes 4104 >= 800, dann muss entweder das Feld 3105 oder das Feld 3119 vorhanden sein. oder "08", dann muss Feldinhalt von FK 4106 = "01" oder „09“ sein. dann muss Feldinhalt von FK 4106 = "02" oder „09“ sein. dann muss Feldinhalt von FK 4106 = "00" oder „09“ sein. sind, muss das Feld 3114 und/oder Feld 3124 vorhanden sein.  3006 nicht vorhanden, dann muss der Inhalt der Stellen 3 - 5 der FK 4104 >= 800 sein. bei „originären“ SKT hdrg0 ist, dann muss der Inhalt des Fel- des 9212 der aktuellen 6009 bzw. 6011) in der SDICD das Ele- ment „geschlechtsbezug“ existiert und der Inhalt von Element „geschlechtsbe- zug_fehlerart“ =  „k“ ist, dann muss das Geschlecht in FK 3110 (sofern 3110  X, enten nicht mit der Angabe im Element „geschlechtsbezug“ überein, ist vom PVS darauf hin- zuweisen (vgl. 
 
 
 ---
@@ -4834,6 +4760,7 @@ status sind, dann muss das Feld 4133 vorhan- den sein. halt der Stellen 3 - 5 de
 | HDRG-REGELTABELLE | | | | |
 |---|---|---|---|---|
 | **R-Nr** | Kategorie | Prüfung | status | Erläuterung |
+|  |  |  | D) zu der Angabe unter Element „ge- | KBV_ITA_VGEX_Anforderungs-   SDICD |
 | 818 | Kontext | Wenn Feldinhalt von FK 4131 ="09”, | W |  |
 | 827 | Kontext | Falls Feld 4109 vorhanden ist und Feld | W |  |
 | 876 | Kontext | Wenn die FK 3010 vorhanden ist, dann | W | Diese Regel gilt sowohl für das |
@@ -4842,9 +4769,9 @@ status sind, dann muss das Feld 4133 vorhan- den sein. halt der Stellen 3 - 5 de
 | 898 | Kontext | Wenn die FK 4109 vorhanden ist, dann  Wenn die FK 4109 nicht vorhanden ist, | siehe  021  023 |  |
 | 999* | besondere Hin- | wird von KV überlesen, kann in jeder |  | Für Praxiscomp. bei Rücksen- |
 
-Seite 185 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 185 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-dann soll Feldinhalt von FK 4106 = "00" oder „09“ sein. 4131 = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder 09 sein. muss auch die FK 4109 vorhanden sein.  dürfen die FK 4109 und FK 3010 und FK 3006 nicht vorhanden sein.  darf diese nicht mit einem Wert >0 be- füllt werden. gilt für den Inhalt des Feldes 3103 die Formatregel 021. dann gilt für den Inhalt des Feldes 3103 die Formatregel 023. weise Satzart mehrfach vorkommen Prüf- Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. ist, dann wird die Leistung zu DRG-Leistungen und nicht zu Hybrid-DRG-Leistungen grup- piert. dung
+schlechtsbezug“ (SDICD) passen. dann soll Feldinhalt von FK 4106 = "00" oder „09“ sein. 4131 = 00, dann muss der Feldinhalt von Feld 4106 = 00 oder 09 sein. muss auch die FK 4109 vorhanden sein.  dürfen die FK 4109 und FK 3010 und FK 3006 nicht vorhanden sein.  darf diese nicht mit einem Wert >0 be- füllt werden. gilt für den Inhalt des Feldes 3103 die Formatregel 021. dann gilt für den Inhalt des Feldes 3103 die Formatregel 023. weise Satzart mehrfach vorkommen Prüf- katalog_ICD-10, P10-470) Einlesen einer eGK als auch für den erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0. ist, dann wird die Leistung zu DRG-Leistungen und nicht zu Hybrid-DRG-Leistungen grup- piert. dung
 
 ---
 
@@ -4870,7 +4797,7 @@ Dieses Feldverzeichnis beschreibt alle im KVDT definierten Felder. Zu jedem Feld
 | 0125 | Telefaxnummer des SV |  | a | adt0, kad0, sad0 |  |
 | 0126 | Regionaler Systembe- |  | a | adt0, kad0, sad0 | Regionaler Systembetreuer |
 
-Seite 186 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 186 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Feldkennung (FK), Feldbezeichnung, evtl. Ersatzwert, Länge des Feldinhaltes,  Feldtyp, Vorkommen in Satzart, teilweise ergänzende Erläuterung. (SV)  17  7 treuer (SB) die juristische oder natürliche Person, die für die Einhaltung der Zulassungskriterien im rechtlichen Sinne gegenüber der KBV verantwortlich zeich- net. ware oder Softwarevariante. Bei Einsatz einer Softwareva- riante ist deren Name zu hin- terlegen. ist die juristische oder natür- liche Person, die im Auftrag
 
@@ -4893,7 +4820,7 @@ Feldkennung (FK), Feldbezeichnung, evtl. Ersatzwert, Länge des Feldinhaltes,  F
 
 ________________
 
-Seite 187 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 187 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 benbetriebsstättennum- mer (NBSNR) Bezeichnung /Krankenhaus-Adresse rung „|“ = Senkrechter Strich, im Programmiererjargon „Pipe” genannt. Auf PCs mit dem Betriebssystem Windows wird er über die Tast „Alt Gr“ und „<“ erzeugt chen Dienstleistungen bzgl. der zugelassenen Software vornimmt.  lich zur Übertragung des Re- lease-Stands der Software. im Rahmen von KV-spezifi- schen Verträgen zur Über- mittlung sonstiger Informati- onen verwendet werden. Das Feld muss entsprechend fol- gende Informationen enthal- ten können: Versionsnummer fixes Trennzeichen „|“ nen enkombination
 
@@ -4915,7 +4842,7 @@ benbetriebsstättennum- mer (NBSNR) Bezeichnung /Krankenhaus-Adresse rung „|�
 
 Seite 188 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 
-24. August 2026
+13. November 2026
 
 (LANR) : 999999900 men der ASV-Abrech- nung)  7 kenhaus-Adresse  60 kenhaus-Adresse  60 Praxis/Krankenhaus  100  45 hausärzte im Rahmen der ASV-Abrechnung Konnektors Konnektors kann über die Außenschnittstelle der Tele- matikinfrastruktur-Basisan- wendung Dienstverzeichnis- dienst erfasst werden. Im Antwortdokument dieses Dienstes ist die Produkt- typversion des Konnektors in der Produktinformation ent- halten, welche mittels des XML Schemas „ProductInfor- mation.xsd“ beschrieben wird. Weitere Informationen sind der aktuellen „Spezifika- tion Konnektor“ und dem ak- tuellen Dokument „Übergrei- fende Spezifikation Operati- ons und Maintenance“ der gematik zu entnehmen. 
 
@@ -4936,7 +4863,7 @@ Seite 188 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 /
 | 0305 | RV-Zertifikat | 1 | n | rvsa |  |
 | 3000 | Patientennummer |  | a | 0101, 0102, 0103, 0104, | Dieses Feld dient zur Über- |
 
-Seite 189 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 189 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Komponente Ausstattung der Praxis Konnektorzertifikats  60 tors katspflichtigen) Laborleis- tungen  60  60  20  0109, hdrg1 durch den Anwender ist nicht zu ermöglichen. zeichnung der TI-Fachanwen- dung bzw. der TI-Kompo- nente, auf die sich die An- gabe in FK 0226 bezieht. weis, dass in einer Betriebs- stätte ein Primärsystem zur Verfügung steht, welches die Funktionsmerkmale der in FK 0225 angegebenen TI-Fach- anwendung unterstützt bzw. die in FK 0225 angegebene TI-Komponente unterstützt hat. tisch vorbelegt werden. Eine manuelle Erfassung durch den Anwender ist zu ermögli- chen. tragung der praxisinternen Patientennummer. Diese An- gabe kann im Rahmen der Fehlerprotokoll-Schnittstelle
 
@@ -4950,7 +4877,7 @@ Komponente Ausstattung der Praxis Konnektorzertifikats  60 tors katspflichtigen)
 
 ________________
 
-Seite 190 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 190 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 |  |  |  |  |  | **1.** **2.** |  |
 |---|---|---|---|---|---|---|
@@ -4968,7 +4895,7 @@ eGK-Versichertenstamm- daten-Schema-Version  VSDMBundle-Version  CDM = Abkürzun
 
 Seite 191 von 207 / KBV / Datensatzbeschreibung KVDT
 
-Version 6.08 / 24. August 2026
+Version 6.08 / 13. November 2026
 
 Auf der eGK wird der „Prüfungsnachweis“ in der Datei EF.PN abgelegt.  Bei Abrufversuch vom Fachdienst VSDM 2.0:  ruf vom Fachdienst VSDM 2.0 ist die Versionsnummer aus dem Element Bundle.meta.profile zu ent- nehmen (siehe Erläuterung in der [ ping_KVK Datum und Uhrzeit der alisierung (Timestamp) 0109, hdrg1 die folgenden Inhalte abge- bildet werden: aktualiserung (E) (EC) (PZ) sprechend in den Feldern FK  3013 unverändert übertragen werden.  Da als Zeitzone für den Ti- mestamp im Element /PN/TS UTC verwendet werden muss, gilt diese Festlegung auch für FK 3010. dem aktuellen „Implementie- rungsleitfaden Primärsys- teme  Telematikinfrastruk- tur (TI)“ und dem aktuellen Dokument „Systemspezifi- sches Konzept Versicherten- stammdatenmanagement (VSDM)“ der gematik zu ent- nehmen. /PN/TS KP2-168 des KVDT-Anforde- rungskataloges beschrieben.  
 
@@ -4984,7 +4911,7 @@ Auf der eGK wird der „Prüfungsnachweis“ in der Datei EF.PN abgelegt.  Bei A
 | 3102 | Vorname |  | a | 0101, 0102, 0103, 0104, |  |
 | 3103 | Geburtsdatum **Ersatzwert** | 8 | n | 0101, 0102, 0103, 0104, | Transformationsempfehlung  Das in Druckzeile 3, Position  Wenn JJ <= 3.-4.Stelle der ak- Systemdatum, dann JJJJ =    Geburtsdaten in der Form |
 
-Seite 192 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 192 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 fung und -aktualisierung 0109, hdrg1  5 0109, hdrg1  128  tes 0109, hdrg1  20 0109, hdrg1  45 0109, hdrg1  45 0109, hdrg1 : 00000000 0109, hdrg1 KP2-185 und KP2-186 KP2-185 und KP2-186 KP2-185 und KP2-186 lage 07 (Tabelle der gültigen Namenszusätze) unter tausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp bei Erfassung eines Geburts- datums im Ersatzverfahren ohne Arzt-Patienten-Kontakt: 23  30 ausgedruckte Ge- burtsdatum im Format „TT.MM.JJ“ muss in die Form „JJJJMMTT“ transformiert werden. tuellen vierstelligen Jahres- zahl und Datumsangabe < Verkettung (‘20‘,JJ), sonst JJJJ = Verkettung (‘19‘,JJ). JJJJMM00, JJJJ0000 und 00000000 sind gültige Da- tumsformate. Anlass ist die Ausgabe von Versicherten- karten mit unvollständigen Geburtsdaten, z. B. ohne An- gabe eines Geburtsmonats und/oder eines Geburtsta- ges.
 
@@ -5000,7 +4927,7 @@ fung und -aktualisierung 0109, hdrg1  5 0109, hdrg1  128  tes 0109, hdrg1  20 01
 
 Seite 193 von 207 / KBV /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 20 0109, hdrg1 hdrg1  46 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 tragung der KVK-Versicher- tennummer. schiedliche Strukturen für die Aufnahme einer Straßenad- resse und/oder einer Post- fachadresse definiert. Falls beide Adresstyen auf einer eGK vorhanden sind, können sowohl die Straßenadresse (FK 3107, 3109, 3112, 3113, 3114, 3115) als auch die Postfachadresse (FK 3121 3124) in einem Datensatz 010x vorhanden sein. Die Straßenadresse hat im Rah- men der Bedruckung eines Personalienfeldes Priorität, vgl. „Mappingtabelle_KVK“ ping_KVK] Gemäß der Dokumentation zum eGK-Schema VSD 5.2.0 gilt zum Element ///Strasse folgendes: Gibt den Namen der Strasse an. Wenn die Hausnummer nicht separat abgelegt werden kann, ist es zulässig, die Hausnummer in das Feld Straße zu überneh- men. Anlage 9.4 (…) Straßenname und die Haus- nummer in einem Element ///Strasse abgelegt sind, sind diese unverändert in das Feld „Straße“ (FK 3107) zu über- nehmen.  
 
@@ -5018,7 +4945,7 @@ Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
 
 ________________
 
-Seite 194 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 194 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 40  40 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs- und  -Übermittlungsverord- nung - DEÜV) Anlage 08 (Staatsangehörig- keit und Länderkennzeichen für Auslandsanschriften) un- ter austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp Teil (Versicherten-ID) der eGK-Krankenversicherten- nummer der Versicherten-ID erfolgt nach dem Schema der Anlage 1 der Richtlinie „Organisatori- sche und technische Richtli- nien zur Nutzung der Versi- cherungsnummer nach §147 SGB VI bei Einführung einer neuen Krankenversicherten- nummer nach § 290 SGB V, Version 1.5“. Die Prüfziffer wird mit einem Modulo-10- Verfahren ermittelt. Der Buchstabe wird dabei durch zwei Ziffern ersetzt, das A mit 0 und 1, das B mit 0 und 2, …, und das Z mit 2 und 6. Die Ziffern werden von links nach rechts abwechselnd mit 1 und 2 multipliziert. Es erfolgt eine Quersummenbildung der einzelnen Produkte, mit
 
@@ -5035,7 +4962,7 @@ Seite 194 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 
 ________________
 
-Seite 195 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 195 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Verordnung über die Erfassung und Übermittlung von Daten für die Träger der Sozialversicherung (Datenerfassungs- und  -übermittlungsverord- nung - DEÜV) code  0109, hdrg1 0109, hdrg1  40 0109, hdrg1  8 0109, hdrg1 0109, hdrg1 Summenbil- dung  der Quersummen. Die Prüfziffer ergibt sich aus dem Rest der ganzzahligen Divi- sion dieser Summe durch 10. beim Scannen von gedruck- ten Patientenstammdaten (z. B. Überweisungsschein im La- bor) kann  eine Überprüfung zur Vermeidung von Tipp- bzw. Lesefehlern (OCR) erfol- gen. lage 06 (Tabelle der gültigen Vorsatzworte) unter tausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp nummer ohne beschreibendes Schlüs- selwort.  nummer "12345" Anlage 08 (Staatsangehörig- keit und Länderkennzeichen für Auslandsanschriften) un- ter austausch.de/arbeitge- ber/deuev/gemein- same_rundschreiben/ge- meinsame_rundschreiben.jsp
 
@@ -5059,7 +4986,7 @@ Verordnung über die Erfassung und Übermittlung von Daten für die Träger der 
 
 Seite 196 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs- nungsbereich (KTAB) biles Lesegerät) sichertenkarte im Quartal  60  60  60 sad1, sad2, sad3 0109, sad1, sad2, sad3, hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 bspw.  des „Bis -Datum der Gültig- keit“ im Format „MMJJ“ in die Form „JJJJMMTT“ not- wendig, wobei TT = letzter möglicher Tag dieses Monats und JJJJ = Verkettung (’20‘,JJ), vgl. Mappingtabelle_KVK ping_KVK]
 
@@ -5079,11 +5006,11 @@ erdiagnose erdiagnose Dauerdiagnose bestand Dauerdiagnosen nen zur Vermittlungs-
 | 4131 | BesonderePersonen- | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4132 | DMP-Kennzeichnung | 2 | a | 0101, 0102, 0103, 0104, |  |
 | 4133 | VersicherungsschutzBe- | 8 | d | 0101, 0102, 0103, 0104, |  |
-| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80,  eGK:   1. Priorität: |
+| 4134 | Kostentraegername |  | a | 0101, 0102, 0103, 0104, | KVK: Objekttag 80, „Kranken- eGK:   1. Priorität: |
 
-Seite 197 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 197 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, hdrg1 0109, hdrg1 hdrg1 hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109 „Kranken- KassenName“ Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz/Kostentrae- ger/AbrechnenderKosten- traeger/Name 2. Priorität: Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz /Kostentrae- ger/Name Das Feld muss übertragen
+lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, hdrg1 0109, hdrg1 hdrg1 hdrg1 hdrg1 0109, hdrg1 0109, hdrg1 0109, hdrg1 0109 KassenName“ Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz/Kostentrae- ger/AbrechnenderKosten- traeger/Name 2. Priorität: Inhalt von Element UC_Allge- meineVersicherungsda- tenXML/Versicherter/ Versi- cherungsschutz /Kostentrae- ger/Name Das Feld muss übertragen
 
 ---
 
@@ -5094,7 +5021,7 @@ lung chungskategorie  60 bis …    60 gruppe ginn  45 0109, sad1, sad2, sad3, h
 
 Seite 198 von 207 / KBV /
 
-Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 tungsanspruch gemäß §16 Abs. 3a SGB V  chertenkarte eingelesen die Daten von einem mobilen Kartenterminal in ein PVS übernommen werden.  durch den Anwender im Er- satzverfahren ist nicht gefor- dert, da faktisch nicht mög- lich. datei abgeleitete "Kassen- name zur Bedruckung" darf nicht übertragen werden. zeichnung von Fällen mit „eingeschränktem Leistungs- anspruch gemäß § 16 Absatz 3a SGB V“. Anspruchsberechtigung bei Ruhen des Anspruchs gemäß § 16 Absatz 3a SGB V) wird von den Krankenkassen aus- gestellt und dient dem Ver- tragsarzt als Information über den Behandlungsan- spruch. Fällen die Versichertenkarte und der „Versicherte“ muss manuell im Ersatzverfahren aufgenommen werden. schein) wurde um ein ent- sprechendes Ankreuzfeld (eingeschränkter Leistungs- anspruch gemäß § 16 Absatz 3a SGB V) erweitert. Der überweisende Vertragsarzt muss dieses Feld ankreuzen, um den Arzt, der auf Über- weisung tätig wird, über den eingeschränkten Leistungsan- spruch zu informieren.  
 
@@ -5121,7 +5048,7 @@ tungsanspruch gemäß §16 Abs. 3a SGB V  chertenkarte eingelesen die Daten von 
 
 ________________
 
-Seite 199 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 199 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 kA = Abkürzung für „keine Angabe“  60 dung  60  60  60 Untersuchungen Leistungen  60 Ärzten : unbekannt  60 : kA. bei belegärztlicher Be- Erstveranlassers von … bis … diese Information im Rahmen seiner Abrechnung unter An- gabe des Feldes 4204 ent- sprechend übertragen.  Kennzeichnung von Knapp- schaftsfällen
 
@@ -5129,7 +5056,7 @@ kA = Abkürzung für „keine Angabe“  60 dung  60  60  60 Untersuchungen Leis
 
 | 4234 | anerkannte Psychothera- | 1 | n | 0101, 0102 | Ankreuzfeld |
 |---|---|---|---|---|---|
-| 4235 | Datum des Anerken- | 8 | d | 0101, 0102 | Datum des |
+| 4235 | Datum des Anerken- | 8 | d | 0101, 0102 | Datum des Anerkennungsbe- |
 | 4236 | Abklärung somatischer | 1 | n | 0101 | Ankreuzfeld |
 | 4239 | Scheinuntergruppe | 2 | n | 0101, 0102, 0103, 0104 |  |
 | 4241 | Lebenslange Arztnummer | 9 | n | 0102 |  |
@@ -5144,9 +5071,9 @@ kA = Abkürzung für „keine Angabe“  60 dung  60  60  60 Untersuchungen Leis
 | 4253 | Bewilligte GOP für den | 5, 6 | a | 0101, 0102 |  |
 | 4254 | Anzahl der abgerechneten |  | n | 0101, 0102 |  |
 
-Seite 200 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 200 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-pie nungsbescheides Anerkennungsbe- scheides des Kostenträgers Ursachen vor Aufnahme einer Psychotherapie (LANR) des Erstveranlas- sers  999999900 des Überweisers  999999900 : unbekannt  60 kennungsbescheides ) kenhausärzte im Rahmen der ASV-Abrechnung) des Erstveranlassers kenhausärzte im Rahmen der ASV-Abrechnung) des Überweisers aus Einzel- und Gruppen- therapie Therapieeinheiten für den Versicherten Versicherten GOPen für den Versicher-
+pie nungsbescheides scheides des Kostenträgers Ursachen vor Aufnahme einer Psychotherapie (LANR) des Erstveranlas- sers  999999900 des Überweisers  999999900 : unbekannt  60 kennungsbescheides ) kenhausärzte im Rahmen der ASV-Abrechnung) des Erstveranlassers kenhausärzte im Rahmen der ASV-Abrechnung) des Überweisers aus Einzel- und Gruppen- therapie Therapieeinheiten für den Versicherten Versicherten GOPen für den Versicher-
 
 
 ---
@@ -5172,7 +5099,7 @@ pie nungsbescheides Anerkennungsbe- scheides des Kostenträgers Ursachen vor Auf
 | 4277 | Abreisetag als Teil 2 bei | 8 | d | 0109 |  |
 | 4278 | Kurabbruch am als Teil 2 | 8 | d | 0109 |  |
 
-Seite 201 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 201 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Therapieeinheiten für die Bezugsperson zugsperson GOPen für die Bezugsper- son Wochen rung in Wochen verlängerung Maßnahmen angeregt Maßnahmen durchge- führt paktkur mit Refresher des Kuraufenthaltes Refresher Refresher bei Refresher 
 
@@ -5197,14 +5124,14 @@ Therapieeinheiten für die Bezugsperson zugsperson GOPen für die Bezugsper- son
 
 Seite 202 von 207 / KBV / Datensatzbeschreibung KVDT
 
-/ Version 6.08 / 24. August 2026
+/ Version 6.08 / 13. November 2026
 
 Facharztes ten in Cent  60  60  60  60  60  60 0109, sad1, sad2, sad3 0109, sad1, sad2, sad3 sad1, sad2, sad3, hdrg1 sad1, sad2, sad3 sad1, sad2, sad3 mehrfaches Ansetzen der in FK 5001 erfassten Leistung zu kennzeichnen. zusätzlich ein mehrfaches An- setzen der in FK 5012 erfass- ten Sach- und Materialkosten kennzeichnen, falls dies von der zuständigen Kassenärztli- chen Vereinigung individuell je Gebührenordnungsposi- tion festgelegt wird. tragung von Arztnamen, die nach den Be-stimmungen des EBM als Begründung zu einer Gebührennummer anzuge- ben sind. Mögliche Inhalte des Feldes sind Empfänger 
 
 
 ---
 
-|  |  |  |  |  | des |
+|  |  |  |  |  | des Briefes, Name des Konsi- |
 |---|---|---|---|---|---|
 | 5017 | Besuchsort bei Hausbesu- |  | a | 0101, 0102, 0104 |  |
 | 5018 | Zone bei Besuchen | 2 | a | 0101, 0102, 0103, 0104 |  |
@@ -5226,9 +5153,9 @@ Facharztes ten in Cent  60  60  60  60  60  60 0109, sad1, sad2, sad3 0109, sad1
 | 5038 | Komplikation |  | a | 0101, 0102, 0103, 0104 |  |
 | 5040 | Patientennummer der e- |  | a | 0101, 0102, 0103, 0104 |  |
 
-Seite 203 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 203 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
-60  60 des Gerätes chung früherkennungsuntersu- chung poststationär erbrachte Leistungen (Minuten)  60 Dokumentation Haut- krebs-Screening Briefes, Name des Konsi- liarpartners, Name des Anäs- thesisten.
+60  60 des Gerätes chung früherkennungsuntersu- chung poststationär erbrachte Leistungen (Minuten)  60 Dokumentation Haut- krebs-Screening liarpartners, Name des Anäs- thesisten.
 
 ---
 
@@ -5253,7 +5180,7 @@ Seite 203 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 
 Seite 204 von 207 / KBV / Datensatzbeschreibung KVDT /
 
-Version 6.08 / 24. August 2026
+Version 6.08 / 13. November 2026
 
 gister gister  60 rant  60  60  20  60  60 Leistungserbringung (LANR) des Vertragsarz- tes/Vertragspsychothera- peuten  999999900 Vertragsarztes kenhausärzte im Rahmen der ASV-Abrechnung) des LE men der ASV-Abrech- nung) hdrg1 sad1, sad2, sad3 0109, sad1, sad2, sad3, hdrg1 0109, sad1, sad2, sad3, hdrg1 
 
@@ -5280,7 +5207,7 @@ gister gister  60 rant  60  60  20  60  60 Leistungserbringung (LANR) des Vertra
 | 9122 | Erstellungsdatum SADT- | 8 | d | sad0 |  |
 | 9132 | enthaltene Datenpakete | 1 | n | con0 | Dieses Feld definiert die Da- sein. |
 
-Seite 205 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 205 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 bestand GM-Kode) GM-Kode) DRG-Datenpaket dieser Datei 0109 0109 0109 0109 0109 tenpakete, die in einer KVDT- Datei enthalten sind. Jedes Datenpaket darf nur genau einmal je Datei vorhanden
 
@@ -5296,7 +5223,7 @@ bestand GM-Kode) GM-Kode) DRG-Datenpaket dieser Datei 0109 0109 0109 0109 0109 t
 | 9261 | Abrechnungsteil x von y | 2 | n | adt0 |  |
 | 9901 | Systeminterner Parameter |  | a | alle Satzarten | Dieses Feld unterscheidet  einer Datei. |
 
-Seite 206 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 206 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 11 bung AVS einmal vorhanden sein.  ten Arzneimittelverordnungs- software, falls vorhanden sich von allen anderen Fel- dern dadurch, dass es von den Kassenärztlichen Vereini- gungen überlesen wird. Da- mit ist es möglich, Daten ab- zuspeichern, die nur system- intern relevant sind. Dieses Feld kann in jeder Satzart an beliebiger Stelle in beliebiger Anzahl übertragen werden, aber nicht als allererstes Feld
 
@@ -5310,7 +5237,7 @@ Seite 206 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August
 
 [1. [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf)[KBV_ITA_VGEX_Anforderungskatalog_KVDT](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_KVDT.pdf)
 
-[2. [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping_KVK.pdf)[KBV_ITA_VGEX_Mapping_KVK](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping_KVK.pdf)
+[2. [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)[KBV_ITA_VGEX_Mapping](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)
 
 [3. [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung.pdf)[KBV_IA_VGEX_Anforderungskatalog_Formularbe-](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung.pdf) [druckung](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung.pdf)
 
@@ -5330,7 +5257,7 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 207 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 24. August 2026
+Seite 207 von 207 / KBV / Datensatzbeschreibung KVDT / Version 6.08 / 13. November 2026
 
 Dokument
 

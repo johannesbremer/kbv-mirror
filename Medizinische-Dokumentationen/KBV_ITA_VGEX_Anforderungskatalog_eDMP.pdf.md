@@ -4,366 +4,324 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  21. AUGUST 2026  VERSION: 2.50   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. NOVEMBER 2026   VERSION: 2.51   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # ANFORDERUNGSKATALOG EDMP
 
 ## [KBV_ITA_VGEX_ANFORDERUNGSKATALOG_EDMP]
 
-Seite 1 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 1 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
 
 ---
 
-## INHALT
+INHALT
 
-**1** **EINLEITUNG**
-
-**8**
-
-1.1 Zielbestimmung
-
-8
-
-1.2 Pflichtfunktionen und optionale Funktionen der Software 8
+| 1 | EINLEITUNG | 9 |
+|---|---|---|
+| 1.1 | Zielbestimmung | 9 |
+| 1.2 | Pflichtfunktionen und optionale Funktionen der | Software 9 |
 
 **2** **ÄRZTLICHES DOKUMENTIEREN**
 
-**9**
+**10**
 
 2.1 Allgemeine Vorgaben
 
-9
+10
 
-2.1.1 Anlage von Dokumentationen 9
+2.1.1 Anlage von Dokumentationen 10
 
-2.1.2 Automatische Vorauswahlen vom System 16
+2.1.2 Automatische Vorauswahlen vom System 17
 
 2.1.3 Dateneingabe
 
-17
+18
 
 2.1.4 Parameter-Erläuterungen
 
-17
+18
 
-2.1.5 Übernahme von Parametern 41
+2.1.5 Übernahme von Parametern 42
 
-2.1.6 Datenübernahme für das eDMP Adipositas - Erwachsene 45
+2.1.6 Datenübernahme für das eDMP Adipositas - Erwachsene 46
 
 2.1.7 Multimorbide Auswahl
 
-46
+47
 
-2.1.8 Erhebung der Symptome für das eDMP chronischer Rückenschmerz 47
+2.1.8 Erhebung der Symptome für das eDMP chronischer Rückenschmerz 48
 
-2.1.9 Erhebung der Symptomatik für das eDMP Depression 50
+2.1.9 Erhebung der Symptomatik für das eDMP Depression 51
 
-2.1.10 Erhebung der Krankheitsaktivität für das eDMP Rheumatoide Arthritis 52
+2.1.10 Erhebung der Krankheitsaktivität für das eDMP Rheumatoide Arthritis 53
 
 2.1.11 Datenprüfung
 
-58
+59
 
-2.1.12 Beenden der Dokumentation 61
+2.1.12 Beenden der Dokumentation 62
 
-2.1.13 Speichern von Dokumentationsdaten 61
+2.1.13 Speichern von Dokumentationsdaten 62
 
-2.1.14 Archivieren von Dokumentationsdaten 61
+2.1.14 Archivieren von Dokumentationsdaten 62
 
-2.1.15 Eindeutigkeit von elektronischen Dokumentationen 62
+2.1.15 Eindeutigkeit von elektronischen Dokumentationen 63
 
-2.1.16 Übersicht der Dokumentation 62
+2.1.16 Übersicht der Dokumentation 63
 
 2.1.17 Reminderfunktion
 
-63
+64
 
 2.1.18 Kostenerstattung
 
-63
+64
 
 2.1.19 Korrekturlieferung
 
-64
+65
 
 2.2 Versicherteninformationen
 
-64
+65
 
-2.2.1 Patientenstammdaten "manuell" erfassen 65
+2.2.1 Patientenstammdaten "manuell" erfassen 66
 
 2.2.1.1 Ersatzverfahren
 
-66
+67
 
-2.2.2 Geburtsdatum mit besonderem Wertebereich 68
+2.2.2 Geburtsdatum mit besonderem Wertebereich 69
 
 2.2.3 Name der Krankenkasse
 
-68
+69
 
-2.2.4 Administratives Geschlecht des Patienten 69
+2.2.4 Administratives Geschlecht des Patienten 70
 
 2.3 Drucken der Dokumentation
 
-69
+70
 
 2.4 Datenübermittlung
 
-71
+72
 
-2.4.1 Anwendung Prüfmodul (XPM) 71
+2.4.1 Anwendung Prüfmodul (XPM) 72
 
 2.4.2 Export der Daten
 
-71
+72
 
 2.4.3 Verschlüsseln der Daten
 
-73
+74
 
-2.4.4 Datenträgerbeschriftung und Transportbegleitzettel 73
+2.4.4 Datenträgerbeschriftung und Transportbegleitzettel 74
 
 2.4.5 Übertragungsweg
 
-74
+75
 
-**3** **BARCODE DES FORMULARS DER TEILNAHMEERKLÄRUNG (EXEMPLAR FÜR DIE DATENSTELLE) 75**
+**3** **BARCODE DES FORMULARS DER TEILNAHMEERKLÄRUNG (EXEMPLAR FÜR DIE DATENSTELLE) 76**
 
-3.1 Anforderungen zur Barcodebedruckung 75
+3.1 Anforderungen zur Barcodebedruckung 76
 
 3.1.1 Zielbestimmung
 
-75
+76
 
 3.1.2 Barcode PDF 417
 
-75
+76
 
 3.1.3 Bedruckungsvorgaben
 
-75
+76
 
-3.2 Datensatzbeschreibung Barcode 76
+3.2 Datensatzbeschreibung Barcode 77
 
-3.2.1 Allgemeine Informationen Barcode 76
+3.2.1 Allgemeine Informationen Barcode 77
 
-3.2.2 Positionierung / Aufdruck des Barcodes 76
+3.2.2 Positionierung / Aufdruck des Barcodes 77
 
 3.3 Barcode Inhalt
 
-77
+78   Seite 2 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Seite 2 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Pflichtfunktionen und optionale Funktionen der Software 
+
 
 ---
 
 **4** **STAMMDATEIEN DER KBV**
 
-**79**
+**80**
 
-4.1 Kostenträger-Stammdateien der KBV (EHD-Format) 79
+4.1 Kostenträger-Stammdateien der KBV (EHD-Format) 80
 
-4.1.1 Verbindlichkeit und Gültigkeit der SDKT 79
+4.1.1 Verbindlichkeit und Gültigkeit der SDKT 80
 
 4.1.2 Temporäre Erweiterung
 
-80
+81
 
-4.1.2.1 Temporäre Erweiterung durch den Anwender 80
+4.1.2.1 Temporäre Erweiterung durch den Anwender 81
 
-4.1.2.2 Temporäre Erweiterung durch den Softwareverantwortlichen 80
+4.1.2.2 Temporäre Erweiterung durch den Softwareverantwortlichen 81
 
-4.2 Stammdatei Datenannahmestellen (SDDA) 80
+4.2 Stammdatei Datenannahmestellen (SDDA) 81
 
-4.2.1 Verbindlichkeit und Gültigkeit 80
+4.2.1 Verbindlichkeit und Gültigkeit 81
 
 4.2.2 Temporäre Erweiterung
 
-81
+82
 
-4.2.2.1 Temporäre Erweiterung und Änderung durch den Anwender 81
+4.2.2.1 Temporäre Erweiterung und Änderung durch den Anwender 82
 
-4.2.2.2 Temporäre Erweiterung und Änderung durch den Softwareverantwortlichen 82
+4.2.2.2 Temporäre Erweiterung und Änderung durch den Softwareverantwortlichen 83
 
 **5** **REFERENZIERTE DOKUMENTE**
 
-**83**
+**84**
 
-Seite 3 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 3 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen vom 13.02.2026/21.08.2026 (Version 2.49 und 2.50) treten zum **01.10.2026** in Kraft.
+Die Änderungen vom 13.11.2026 (Version 2.51) treten zum
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| 2.50 | 21.08.2026 | KBV | Fehlerkorrektur Anforderung KP2- | Fehlerkorrektur | 36 |
-| 2.49 | 13.02.2026 | KBV | Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch    Anpassung der Anforderungen KP2-   Anpassung der Anforderung KP1-48    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Anpassung der Anforderung P1-50    Aufnahme der Anforderung P1-42     Redaktionelle Anpassungen | Plausibilitätsänderung | 10, 11,  11, 12  31, 34  45, 45,  12, 71     14, 71      18, 40        29    77      29    18    alle |
-| 2.48 | 15.05.2025 | KBV | Anpassung der Anforderung KP2-20 |  | 53 |
-| 2.47 | 15.11.2024 | KBV | Aufnahme der Anforderung O4-42      Anpassung der folgenden  KP1-48  P1-15  KP1-22  P4-20    Redaktionelle Anpassungen | Aufnahme von KIM als    Änderungen der    Redaktionelle | 60    29  14  9  71 |
-| 2.46 | 15.08.2024 | KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48 | Redaktionelle | 18  22  24  29 |
+| 2.51 | 13.11.2026 | KBV | Anpassung der Anforderung KP2-610      Ergänzung Anforderung P1-50 | Vereinheitlichung mit    Ergänzung der | 37      42 |
+| 2.50 | 21.08.2026 | KBV | Fehlerkorrektur Anforderung KP2- | Fehlerkorrektur | 37 |
+| 2.49 | 13.02.2026 | KBV | Einführung eDMP Adipositas –        Anpassung P1-15 und P4-20 durch    Anpassung der Anforderungen KP2-   Anpassung der Anforderung KP1-48    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3)    Anpassung der Anforderung P1-50    Aufnahme der Anforderung P1-42     Redaktionelle Anpassungen | Plausibilitätsänderung | 11, 12,  12, 13  32, 35  46, 46,  13, 72     15, 72      19, 41        30    78      29    19    alle |
+| 2.48 | 15.05.2025 | KBV | Anpassung der Anforderung KP2-20 |  | 54 |
+| 2.47 | 15.11.2024 | KBV | Aufnahme der Anforderung O4-42      Anpassung der folgenden  KP1-48  P1-15  KP1-22  P4-20 | Aufnahme von KIM als    Änderungen der    Redaktionelle | 60    30  15  10  72 |
 
-Seite 4 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+**01.01.2027**
 
-610, Tabelle 17 Erwachsene und eDMP Adipositas Kinder und Jugendliche Änderungen KHK, DM1, DM2  KHK, DM1, DM2 210 und O1-46 durch Änderungen DM1 und DM2 Übertragungsweg Anforderungen: Plausibilitäten Herzinsuffizienz  Anpassungen für die Vereinheitlichung der Anforderungen: 
+Seite 4 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+in Kraft.
+
+610, Tabelle 17 Erwachsene und eDMP Adipositas Kinder und Jugendliche Änderungen KHK, DM1, DM2  210 und O1-46 durch Änderungen DM1 und DM2 Anforderungen: KP2-510 Adipositas-Indikationen bei der Übernahme des Parameters „Raucher“ KHK, DM1, DM2 Übertragungsweg Plausibilitäten Herzinsuffizienz  Anpassungen für die
+
+---
+
+| Version | Datum | Autor | Änderung | Begründung | Seite |
+|---|---|---|---|---|---|
+| Redaktionelle Anpassungen | Vereinheitlichung der | | | | |
+| 2.46 | 15.08.2024 | KBV | Anpassung der folgenden  KP2-210   KP2-310  KP2-410  KP1-48  P1-47  P1-101  P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) | Redaktionelle                    Nähere | 19  23  25  30  41  50  69  72    24        53        78 |
+| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310        Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100 | Überführung in        Nähere    Nähere | 15      16      19, 21,  22    23        25        63 |
+| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. |  | 29    17, 41,  63 |
+| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen |  | 9, 10,  13, 14,  15, 16,  17, 18, |
+
+Seite 5 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+Anforderungen: Anforderungen Änderungen Parametererläuterung Asthma berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen einzelne Anforderungen 210 und KP2-210 KP2-220 Parametererläuterung Parametererläuterung KHK Korrektur der Verlinkung 
 
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| P1-47  P1-101  P2-50  P4-20    Aufnahme der Anforderung KP2-320        Ergänzung einer zu    Anpassung der möglichen   DMP-Kennzeichen (Abschnitt 3.3) | Nähere | 40  50  68  71    23        53        77 | | | |
-| 2.45 | 15.01.2024 | KBV | Anpassung der P1-15 an die COPD-    Streichung der Anforderung KP1-42      Überarbeitung der Anforderung KP2-   Aufnahme der Anforderung KP2-310        Aufnahme der Anforderung KP2-310        Anpassung der Anforderung P1-100 | Überführung in        Nähere    Nähere | 14      16      18, 20,  21    22        24        62 |
-| 2.44 | 25.10.2023 | KBV | Anpassung der Anforderung P1-50    Verbesserung der Formulierung bzw. |  | 29    17, 40,  62 |
-| 2.43 | 26.04.2023 | KBV | Redaktionelle Korrekturen                    Anpassung an die DM1 & 2 |  | 8, 9,  12, 13,  14, 15,  16, 17,  17, 15,  25, 29,  40, 44,  47, 60,  63, 69, |
+| Anpassung an die DM1 & 2      Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100 | Angleichung der | 18, 15,  26, 30,  41, 45,  48, 61,  64, 70,    19, 21,  22, 42,  47, 72    65, 67            40    59      59      63 | | | |
+| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6- |  | 13, 15,  29, 40,  42, 42,  53, 72    75        82, 83 |
+| 2.41 | 12.11.2021 | KBV | Anpassung der Anforderung P1-61 |  | 47 |
+| 2.40 | 13.08.2021 | KBV | Neue Pflichtfunktion P1-82 |  | 61 |
+| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2    Redaktionelle Anpassungen |  | 13, 15,  40, 42,  72, 84  16, 17,  40, 72  47, 48,  71 |
+| 2.38 | 12.02.2021 | KBV | Fehlerkorrektur bei KP1-76 |  | 48 |
 
-Seite 5 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 6 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Parametererläuterung Asthma berücksichtigenden Anforderung aus KVDT (Abschnitt 2.2) Änderungen einzelne Anforderungen 210 und KP2-210 KP2-220 Parametererläuterung Parametererläuterung KHK Korrektur der Verlinkung Anpassungen 79
+80 eindeutigen Ident- Nummern, Vereinheitlichung von Arthritis auf der übergreifenden Teilnahmeerklärung 20 und K6-21 Akzeptanzkriterium 2 
+
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| Redaktionelle Bearbeitung /          Anpassung der Anforderung O1-45    Aktualisierung der Anforderung P1-   Aktualisierung der Anforderung P1-   Klarstellung der Anforderung P1-100 | Angleichung der | 18, 20,  21, 41,  46, 71    64, 66            39    58      58      62 | | | |
-| 2.42 | 11.08.2022 | KBV | Einführung eDMP Rheumatoide        Einführung eines Barcodes PDF417    Klarstellung der Anforderungen P6- |  | 12, 14,  28, 39,  41, 41,  52, 71    74        81, 82 |
-| 2.41 | 12.11.2021 | KBV | Anpassung der Anforderung P1-61 |  | 46 |
-| 2.40 | 13.08.2021 | KBV | Neue Pflichtfunktion P1-82 |  | 60 |
-| 2.39 | 15.02.2021 | KBV | Einführung des eDMP Osteoporose      Anpassung der eDMP DM1 und DM2    Redaktionelle Anpassungen |  | 12, 14,  39, 41,  71, 83  16, 17,  39, 71  46, 47,  70 |
-| 2.38 | 12.02.2021 | KBV | Fehlerkorrektur bei KP1-76 |  | 47 |
-| 2.37 | 15.01.2021 | KBV | Anpassung der Schnittstellenversion |  | 14, 71 |
-| 2.36 | 13.11.2020 | KBV | Fehlerkorrektur der |  | 71 |
-
-Seite 6 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-eindeutigen Ident- Nummern, Vereinheitlichung von 72 Arthritis auf der übergreifenden Teilnahmeerklärung 20 und K6-21 Akzeptanzkriterium 2 und der Archivbezeichnungen des eDMP Depression Archivbezeichnungen 
-
-
----
+| 2.37 | 15.01.2021 | KBV | Anpassung der Schnittstellenversion |  | 15, 72 |
+| 2.36 | 13.11.2020 | KBV | Fehlerkorrektur der |  | 72 |
 
 # TABELLENVERZEICHNIS
 
-Tabelle 1: Parameter abhängig von Dokumentationsart
+Tabelle 1: Parameter abhängig von Dokumentationsart 19
 
-Tabelle 2: Nähere Parameter-Erläuterungen Diabetes mellitus 1 & 2 (Intervall für künftige Fußinspektionen)
+Tabelle 2: Nähere Parameter-Erläuterungen Diabetes mellitus 1 & 2 (Intervall für künftige Fußinspektionen) 20
 
-Tabelle 3: Schweregradeinteilung der stabilen Angina pectoris nach der Canadian Cardiovascular Soiciety  (CCS)
+Tabelle 3: Schweregradeinteilung der stabilen Angina pectoris nach der Canadian Cardiovascular Soiciety  (CCS) 25
 
-Tabelle 4: Übersicht Statindosierungen
+Tabelle 4: Übersicht Statindosierungen 26
 
-Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuelle Symptomatik  Summenwert)
+Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuelle Symptomatik  PHQ-9  Summenwert) 27
 
-Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik  PHQ-9 Summenwert)
+Tabelle 6: Nähere Parameter-Erläuterungen Folgedokumentation Depression (Aktuelle Symptomatik   PHQ-9 Summenwert) 29
 
-Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert)
+Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert) 29
 
-Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert)
+Tabelle 8: Nähere Parameter-Erläuterungen Folgedokumentation Rheumatoide Arthritis (Aktuelle  Krankheitsaktivität  DAS-28-Wert) 30
 
-Tabelle 9: NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit)
+Tabelle 9: NYHA-Klassifikation bei Herzinsuffizienz (nach Leistungsfähigkeit) 31
 
-Tabelle 10: Evidenzbasierte Dosistabelle
+Tabelle 10: Evidenzbasierte Dosistabelle 32
 
-Tabelle 11: Evidenzbasierte Dosistabelle
+Tabelle 11: Evidenzbasierte Dosistabelle 32
 
-Tabelle 12 Evidenzbasierte Dosistabelle
+Tabelle 12 Evidenzbasierte Dosistabelle 32
 
-Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur vorherigen Dokumentation)
+Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur vorherigen Dokumentation) 33
 
-Tabelle 14: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur Erstdokumentation)
+Tabelle 14: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur Erstdokumentation) 34
 
-Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur ältesten verfügbaren Dokumentation)
+Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erwachsene (BMI im  Vergleich zur ältesten verfügbaren Dokumentation) 34
 
-Tabelle 16: Nähere Parameter-Erläuterungen Adipositas - Kinder und Jugendliche (BMI-SDS)
+Tabelle 16: Nähere Parameter-Erläuterungen Adipositas - Kinder und Jugendliche (BMI-SDS) 35
 
-Tabelle 17: L-, S- und M-Werte von Jungen für den BMI-SDS-Wert in halbjährigen Altersstufen im Alter von  0 bis 21 Jahren
+Tabelle 17: L-, S- und M-Werte von Jungen für den BMI-SDS-Wert in halbjährigen Altersstufen im Alter von  0 bis 21 Jahren 37
 
-Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in halbjährigen Altersstufen  im Alter von 0 bis 21 Jahren
+Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in halbjährigen Altersstufen  im Alter von 0 bis 21 Jahren 38
 
-Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur vorherigen Dokumentation)
+Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur vorherigen Dokumentation) 38
 
-Tabelle 20: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur Erstdokumentation)
+Tabelle 20: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur Erstdokumentation) 39
 
-Tabelle 21: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur ältesten verfügbaren Dokumentation)
+Tabelle 21: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche  (BMI-SDS im Vergleich zur ältesten verfügbaren Dokumentation) 39
 
-Tabelle 22: relevante Parameter mit Art der Quittierung
+Tabelle 22: relevante Parameter mit Art der Quittierung 45
 
-Tabelle 23: Berechnung des Schweregrades nach von Korff
+Tabelle 23: Berechnung des Schweregrades nach von Korff 50
 
-Tabelle 24: Einteilung des Schweregrades nach von Korff
+Tabelle 24: Einteilung des Schweregrades nach von Korff 50
 
-Tabelle 25: Berechnung des DAS-28-Scores
+Tabelle 25: Berechnung des DAS-28-Scores 57
+
+Seite 7 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+und der Archivbezeichnungen des eDMP Depression Archivbezeichnungen 
+
+
+---
 
 Tabelle 26: Übersicht der zu realisierenden Pflichtfunktionen analog zu  [KBV_ITA_VGEX_Anforderungskatalog_KVDT]
 
-Tabelle 27: Übersicht der zu erfassenden Daten im Ersatzverfahren / manuelle Versichertendaten
+66
 
-Tabelle 28: Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1)
+Tabelle 27: Übersicht der zu erfassenden Daten im Ersatzverfahren / manuelle Erfassung von  Versichertendaten 69
 
-Tabelle 29: Inhalt des Barcodes des Formulars der Teilnahmeerklärung
+Tabelle 28: Abbildung der Geschlechtsausprägung auf Schlüsseltabellenwert (2.16.840.1.113883.5.1) 70
 
-Seite 7 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026 18
+Tabelle 29: Inhalt des Barcodes des Formulars der Teilnahmeerklärung 79
 
-19
-
-24
-
-25
-
-PHQ-9  26 28
-
-28
-
-29
-
-30
-
-31
-
-31
-
-31
-
-32
-
-33
-
-33
-
-34
-
-36
-
-37
-
-37
-
-38
-
-38
-
-44
-
-49
-
-49
-
-56
-
-65
-
-Erfassung von 68
-
-69
-
-78
-
+Seite 8 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -408,7 +366,7 @@ Optionale Funktionen sind wie folgt gekennzeichnet:
 
 ________________  1 Dazu zählen die DMP (Disease Management Programme) Diabetes Mellitus Typ 1, Diabetes Mellitus Typ 2, Koronare Herzkrankheit (KHK), Asthma  bronchiale, COPD, Herzinsuffizienz (HI), chronischer Rückenschmerz, Depression, Osteoporose, Rheumatoide Arthritis, Adipositas – Erwachsene und  Adipositas - Kinder und Jugendliche.
 
-Seite 8 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 9 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O8-30 
 
@@ -421,9 +379,8 @@ Pn-nn,  P4-10 KPn-nn, KP4-10 On-nn,  O8-30
 
 **2.1.1** **Anlage von Dokumentationen**
 
-| PFLICHTFUNKTION EDMP |  |
+| **PFLICHTFUNKTION EDMP  P1-10** | Neuanlage einer erstmaligen Dokumentation |
 |---|---|
-| **P1-10** | Neuanlage einer erstmaligen Dokumentation |
 
 Bei der Neuanlage einer erstmaligen Dokumentation für einen Patienten muss der Anwender eine bisher  nicht für einen anderen Patienten vergebene, eindeutige DMP-Fallnummer eingeben. Systemseitig kann  der Anwender dabei unterstützt werden. Die DMP-Fallnummer muss dem Patienten eindeutig zugeordnet  werden.
 
@@ -431,8 +388,10 @@ Bei der Neuanlage einer erstmaligen Dokumentation für einen Patienten muss der 
 
 Beachten Sie diesbezüglich auch Kapitel 2.1.15
 
-| **PFLICHTFUNKTION EDMP  P1-12** | Folgedokumentationen bedürfen einer erstmaligen Dokumentation |
+| **PFLICHTFUNKTION EDMP  P1-12** |  |
 |---|---|
+
+Folgedokumentationen bedürfen einer erstmaligen Dokumentation
 
 Wird für einen eingeschriebenen Patienten eine Folgedokumentation angelegt, so muss die Software  sicherstellen, dass eine Erstdokumentation existiert. Dies ist über den internen Datenbestand zu prüfen  oder aber vom Anwender explizit zu bestätigen, nachdem die Software eine Warnmeldung zu diesem  Sachverhalt ausgegeben hat.
 
@@ -440,8 +399,9 @@ Diese Regelung greift nicht, wenn der eingeschriebene Patient den dokumentierend
 
 Prinzipiell ist es also möglich, dass der Verlauf einer Falldokumentation mit einer Folgedokumentation  beginnt.
 
-| **KONDITIONALE PFLICHTFUNKTION EDMP  KP1-22** | Prüfung auf Folgedokumentationen bei dem eDMP chronischer Rückenschmerz |
+| KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
+| **KP1-22** | Prüfung auf Folgedokumentationen bei dem eDMP chronischer Rückenschmerz |
 
 Das System prüft bei der Anlage einer Dokumentation des eDMPs chronischer Rückenschmerz, ob bei dem  Patienten in der vorherigen Dokumentation die Beendigung der Teilnahme vereinbart wurde.
 
@@ -454,12 +414,12 @@ Der Anwender soll darauf hingewiesen werden, dass er möglicherweise eine Folged
 - 1. Das System muss beim Anlegen einer Folgedokumentation prüfen, welche Angabe in der letzten  Dokumentation der Behandlung bei dem Parameter „Beendigung der DMP-Teilnahme vereinbart“  gemacht wurde. Falls die Angabe „Ja“ gesetzt war, erhält der Anwender eine Hinweismeldung mit  folgendem Inhalt:
 - „Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung  der Teilnahme am DMP chronischer Rückenschmerz vereinbart. Bitte beachten Sie, dass keine  weitere Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP chronischer
 
-Seite 9 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 10 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
 - Rückenschmerz ist bei Vorliegen der Einschlusskriterien eine erneute Einschreibung mittels einer  neuen Teilnahme- und Einwilligungserklärung sowie Erstdokumentation notwendig.“
-2. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
+- 2. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
 
 **Bedingung:**
 
@@ -496,17 +456,17 @@ Der Anwender soll darauf hingewiesen werden, dass er möglicherweise eine Folged
 
 **Akzeptanzkriterium:**
 
-- 2. Das System muss beim Anlegen einer Folgedokumentation prüfen, welche Angabe in der letzten  Dokumentation der Behandlung bei dem Parameter „Beendigung der DMP-Teilnahme“ gemacht wurde.  Falls die Angabe „Ja“ gesetzt war, erhält der Anwender eine Hinweismeldung mit folgendem Inhalt:
+- 1. Das System muss beim Anlegen einer Folgedokumentation prüfen, welche Angabe in der letzten  Dokumentation der Behandlung bei dem Parameter „Beendigung der DMP-Teilnahme“ gemacht wurde.  Falls die Angabe „Ja“ gesetzt war, erhält der Anwender eine Hinweismeldung mit folgendem Inhalt:
 - *Im Rahmen der letzten Dokumentation haben Sie gemeinsam mit Ihrem Patienten die Beendigung*  *der Teilnahme am DMP Adipositas - Erwachsene vereinbart. Bitte beachten Sie, dass keine weitere*  *Folgedokumentation vergütet wird. Für eine erneute Teilnahme am DMP Adipositas - Erwachsene ist*  *bei Vorliegen der Einschlusskriterien eine erneute Einschreibung mittels einer neuen Teilnahme- und*  *Einwilligungserklärung sowie Erstdokumentation notwendig.*
 
-Seite 10 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 11 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 chronischer Rückenschmerz 
 
 
 ---
 
-- 3. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
+- 2. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
 
 **Bedingung:**
 
@@ -514,7 +474,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **KP1-25** | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas -  Erwachsene |
+| **KP1-25** | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas - |
 
 Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ mit dem Wert „Nein“ vor.
 
@@ -549,7 +509,10 @@ Der Anwender soll darauf hingewiesen werden, dass er möglicherweise eine Folged
 
 - 2. Im Rahmen eines Arztwechsels (siehe P1-13) oder im Falle einer Vertretung, welche in der  Folgedokumentation dokumentiert werden können, wird Akzeptanzkriterium 1. nicht geprüft.
 
-Seite 11 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 12 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+Erwachsene 
+
 
 ---
 
@@ -559,7 +522,7 @@ Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Adipos
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **KP1-27** | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas -  Kinder und Jugendliche |
+| **KP1-27** | Vorbelegung des Parameters „Beendigung der DMP-Teilnahme“ beim eDMP Adipositas - |
 
 Das System belegt den Parameter „Beendigung der DMP-Teilnahme“ mit dem Wert „Nein“ vor.
 
@@ -601,7 +564,10 @@ Die Benennung der einzelnen Eingabefelder soll wortgleich mit den im Bundesanzei
 - EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend
 - EXT_ITA_VGEX_Plausi_eDMP_KHK
 
-Seite 12 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 13 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+Kinder und Jugendliche 
+
 
 ---
 
@@ -653,7 +619,7 @@ Zu beachten ist in diesem Zusammenhang auch die Pflichtfunktion P1-15
 |---|---|
 | **P1-19** | Erläuterung Kopfdatum |
 
-Seite 13 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 14 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -708,7 +674,7 @@ Die Software muss vom Anwender den Zeitpunkt abfragen, an dem die Dokumentation 
 - ab dem 01.10.2023 bis zum 30.09.2026 die Schnittstellenversion 6.07
 - ab dem 01.10.2026 die Schnittstellenversion 6.08
 
-Seite 14 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 15 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -760,7 +726,7 @@ Um zu gewährleisten, dass der Anwender die korrekten Parameter erfasst und das 
 
 **Akzeptanzkriterium:**
 
-Seite 15 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 16 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -804,7 +770,7 @@ Für den Patienten Karl Mustermann liegt bereits eine Erstdokumentation DM2 vor.
 
 Für den Patienten Karl Mustermann liegt bereits eine Erstdokumentation DM2 vor. Systemseitig wird die  Vorauswahl Folgedokumentation DM2 getroffen. Hierbei muss es dennoch möglich sein, die Vorauswahl  einer Folgedokumentation in eine Erstdokumentation abzuändern, wenn bspw. eine zwischenzeitliche  Ausschreibung stattfand. Zusätzlich sollte der Arzt bei diesem Wechsel noch einmal per Hinweis ganz  gezielt darauf aufmerksam gemacht werden.
 
-Seite 16 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 17 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -855,11 +821,12 @@ Zur textuellen Erläuterung muss bei einer Erstdokumentation der Parameter um de
 
 Bei einer Folgedokumentation muss der Parameter um die textuelle Erläuterung „( *Ereignisse dokumentieren*)“ erweitert werden.
 
-Seite 17 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 18 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 *Bitte bereits*
 
 *Bitte neu aufgetretene*
+
 
 ---
 
@@ -905,10 +872,10 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 | Kriterium | Künftige Frequenz der Fußinspektion |
 |---|---|
 | Keine sensible Neuropathie | Mindestens jährlich |
-| sensible Neuropathie | Mindestens alle 6 sechs Monate |
-| sensible Neuropathie und Zeichen einer peripheren | alle 3 drei Monate oder häufiger |
+| sensible Neuropathie | Mindestens alle sechs Monate |
+| sensible Neuropathie und Zeichen einer peripheren | alle drei Monate oder häufiger |
 
-Seite 18 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 19 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 arteriellen Verschlusskrankheit und/oder Risiken 
 
@@ -948,7 +915,7 @@ erfolgt ist, dann muss das System dem Anwender den folgenden Text anzeigen, ohne
 
 Die Angabe [ANZAHL_MONATE] im anzuzeigenden Text muss von der Software durch die tatsächliche  Anzahl an Monaten ersetzt werden, seit denen keine komplette Fußuntersuchung stattgefunden hat.
 
-Seite 19 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 20 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Osteoarthropathie), Hyperkeratose mit Einblutung, Z. n. Ulkus, Z. n. Amputation 
 
@@ -980,7 +947,7 @@ UND
 
 UND
 
-[ 3. weiteres Risiko für Ulkus Ulcus: „Fußdeformität“ ODER „Hyperkeratose mit Einblutung“ ODER „Z. n.  Ulkus“ ODER „Z.n. Amputation“ ODER „ja“ ODER „nein“]
+[ 3. weiteres Risiko für Ulkus: „Fußdeformität“ ODER „Hyperkeratose mit Einblutung“ ODER „Z. n. Ulkus“  ODER „Z.n. Amputation“ ODER „ja“ ODER „nein“]
 
 UND
 
@@ -1007,7 +974,7 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 *„Denken Sie an die Kontrolle beim Augenarzt!*  *Eine augenärztliche Kontrolle soll mindestens alle 2 Jahre durchgeführt werden. In der aktuellen*
 
-Seite 20 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 21 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -1048,7 +1015,7 @@ Die Angabe [ANZAHL_MONATE] im anzuzeigenden Text nach Akzeptanzkriterium 1 muss 
 
 *dem 11. Lebensjahr erfolgen.“*
 
-Seite 21 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 22 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -1094,7 +1061,7 @@ Für [DATUM] wird das Datum der vorherigen Folgedokumentation im Format DD.MM.YY
 
 *„Bitte denken Sie an die mindestens jährliche Bestimmung des FEV -Wertes. In der aktuellen und 1* *den Dokumentationen der letzten* [ANZAHL_MONATE]* Monate haben Sie keinen FEV -Wert bei 1* *diesem Patienten dokumentiert.“*
 
-Seite 22 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 23 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -1134,7 +1101,7 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 - 1. Wenn der Patient mindestens 5 Jahre alt ist und falls in der aktuellen Folgedokumentation für den  Parameter „Aktueller FEV1-Wert (mindestens alle 12 Monate)“ die Angabe „Nicht durchgeführt“ erfolgt,  muss das System prüfen, wann die letzte Untersuchung dokumentiert wurde, in der eine Angabe in der  Ausprägung „X Prozent des Soll-Wertes“ bei dem Parameter „Aktueller FEV1-Wert (mindestens alle 12  Monate)“ gemacht wurde.
 - a) Wenn das System errechnet, dass diese Untersuchung mehr als 9 Monate vor dieser Dokumentation  erfolgt ist, muss das System den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
 
-Seite 23 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 24 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -1173,12 +1140,11 @@ Der Anwender soll bei der Umsetzung der Anforderungen der Richtlinie unterstütz
 
 Tabelle 3 : Schweregradeinteilung der stabilen Angina pectoris nach der Canadian Cardiovascular Soiciety (CCS)
 
-Quelle: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK – Langfassung, 3 1. Auflage.  Version 1 7. 2014 2024
+Quelle: Bundesärztekammer (BÄK), Kassenärztliche Bundesvereinigung (KBV), Arbeitsgemeinschaft der Wissenschaftlichen  Medizinischen Fachgesellschaften (AWMF). Nationale VersorgungsLeitlinie Chronische KHK – Langfassung, 1. Auflage.  Version 7. 2024
 
-Seite 24 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 25 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-geringster körperlicher Belastung (normales Gehen, Ankleiden) (schnelles Laufen, Bergaufgehen, Treppensteigen nach dem Essen, bei Kälte, Wind oder psychischer Belastung) Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung 
-
+geringster körperlicher Belastung (normales Gehen, Ankleiden) (schnelles Laufen, Bergaufgehen, Treppensteigen nach dem Essen, bei Kälte, Wind oder psychischer Belastung) Treppensteigen), jedoch bei plötzlicher oder längerer physischer Belastung
 
 ---
 
@@ -1218,10 +1184,9 @@ Der Anwender soll bei der richtlinienkonformen Befüllung der Dokumentation unte
 
 *„Sofern Sie hier „Ja“ angeben, erfolgt eine Beendigung der DMP-Teilnahme (Ausschreibung!) durch*  *die Krankenkasse. In diesem Fall endet die DMP-Teilnahme mit dem Erstelldatum dieser*  *Dokumentation. Der Patient wird hierüber nochmals gesondert von der Krankenkasse informiert.*  *Bitte beachten Sie, dass DMP-spezifische Leistungen, die nach dem Erstelldatum erbracht werden,*  *nicht mehr vergütet werden. Eine erneute Teilnahme des Patienten ist bei Vorliegen der*  *Einschlusskriterien möglich.“*
 
-Seite 25 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 26 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Reduktion ≥ 50 %)
-
 
 ---
 
@@ -1263,7 +1228,7 @@ Tabelle 5: Nähere Parameter-Erläuterungen Erstdokumentation Depression (Aktuel
 
 - 3. Falls eine Folgedokumentation erstellt wird, muss dem Anwender nach der Erfassung des Parameters  „Aktuelle Symptomatik – PHQ-9 Summenwert“ in Abhängigkeit vom aktuellen Wert und vom  berechneten Differenzwert der folgende Text als Hinweis zur Anzeige gebracht werden, ohne den  Workflow zu unterbrechen:
 
-Seite 26 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 27 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ 
 
@@ -1285,12 +1250,9 @@ Symptomausprägung“ Symptomausprägung“ Symptomausprägung“ Symptomausprä
 | 15 – 19 | > -5 bis < 5 | „Aktueller PHQ-9-Wert: Schwere |
 | 15 – 19 | <= -5 | „Aktueller PHQ-9-Wert: Schwere |
 
-Seite 27 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 /
+Seite 28 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-21. August 2026
-
-Relevante Verbesserung zur letzten Dokumentation“  Keine relevante Veränderung zur letzten Dokumentation“  Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ 
-
+Relevante Verbesserung zur letzten Dokumentation“  Keine relevante Veränderung zur letzten Dokumentation“  Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
 
 ---
 
@@ -1331,10 +1293,9 @@ Tabelle 7: Nähere Parameter-Erläuterungen Erstdokumentation Rheumatoide Arthri
 
 - **2.** Falls eine Folgedokumentation erstellt wird, muss das System nach der Erfassung des Parameters  „Aktuelle Krankheitsaktivität - DAS-28-Wert“ die Differenz zum Wert dieses Parameters aus der  vorhergehenden verfügbaren Dokumentation berechnen.
 
-Seite 28 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 29 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“ 
-
+Symptomausprägung. Relevante Verbesserung zur letzten Dokumentation“  Symptomausprägung. Keine relevante Veränderung zur letzten Dokumentation“  Symptomausprägung. Relevante Verschlechterung zur letzten Dokumentation“
 
 ---
 
@@ -1364,7 +1325,7 @@ Das System muss sicherstellen, dass dem Anwender bei dem eDMP Herzinsuffizienz z
 
 **Begründung:**
 
-Seite 29 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 30 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚
 
@@ -1374,8 +1335,7 @@ Seite 29 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 
 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
 
-anzuzeigenden Text Relevante Verbesserung zur letzten Dokumentation“ relevante Verbesserung zur letzten Dokumentation“ Relevante Verbesserung zur letzten Dokumentation“  Keine relevante Verbesserung zur letzten Dokumentation“ Relevante Verbesserung zur letzten Dokumentation“ relevante Verbesserung zur letzten Dokumentation“ 
-
+anzuzeigenden Text Relevante Verbesserung zur letzten Dokumentation“ relevante Verbesserung zur letzten Dokumentation“ Relevante Verbesserung zur letzten Dokumentation“  Keine relevante Verbesserung zur letzten Dokumentation“ Relevante Verbesserung zur letzten Dokumentation“ relevante Verbesserung zur letzten Dokumentation“
 
 ---
 
@@ -1435,7 +1395,7 @@ Valsartan
 
 Sacubitril/ Valsartan
 
-Seite 30 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026 2x5 mg/d
+Seite 31 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026 2x5 mg/d
 
 1x4 mg/d
 
@@ -1447,8 +1407,7 @@ Seite 30 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 
 2x97/103 mg/d
 
-verursacht keine inadäquate Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris. Leistungsfähigkeit bei gewohnter Tätigkeit. Keine Beschwerden in Ruhe. Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris, z. B. Gehen in der Ebene. 
-
+verursacht keine inadäquate Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris. Leistungsfähigkeit bei gewohnter Tätigkeit. Keine Beschwerden in Ruhe. Geringe körperliche Belastung verursacht Erschöpfung, Rhythmusstörungen, Luftnot oder Angina pectoris, z. B. Gehen in der Ebene.
 
 ---
 
@@ -1498,7 +1457,7 @@ Spironolacton
 
 **KP2-510** Nähere Parameter-Erläuterungen bei dem eDMP Adipositas - Erwachsene
 
-Seite 31 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 32 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Zieldosierung 1x10 mg/d
 
@@ -1511,6 +1470,7 @@ Zieldosierung 1x10 mg/d
 Zieldosierung 1x50 mg/d
 
 1x50 mg/d
+
 
 ---
 
@@ -1544,7 +1504,7 @@ Tabelle 13: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 - b) Falls in dem Akzeptanzkriterium 2 die Berechnung nicht durchführbar ist, weil die für die Berechnung  notwendige vorherige Dokumentation nicht zur Verfügung steht oder gefunden werden kann, wird  das Akzeptanzkriterium 2 nicht geprüft und angezeigt.
 - **3.** Das System muss nach jeder Angabe des Parameters „Körpergewicht“ in einer Folgedokumentation die  Differenz des Wertes des Parameters „Körpergewicht“ in der aktuellen Dokumentation zum Wert des  Parametes „Körpergewicht“ aus der Erstdokumentation berechnen, sofern die Erstdokumentation im  System vorliegt.
 
-Seite 32 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 33 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 - **Tabelle 22**) den Body-Mass-Index (BMI) berechnen.
 
@@ -1552,9 +1512,7 @@ Seite 32 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 
 *2*
 
-𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-𝐚𝐚 𝐃𝐃
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
 
 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠
 
@@ -1573,13 +1531,11 @@ Anzuzeigender Text
 
 ---
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-𝐚𝐚 𝐃𝐃
+𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
 
 𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
 
-𝐃𝐃 𝐃𝐃 𝐢𝐢𝐢𝐢 % = 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐃𝐃 𝐃𝐃 𝐢𝐢𝐢𝐢 % =
 
 𝐚𝐚 𝐃𝐃
 
@@ -1615,7 +1571,7 @@ Tabelle 15: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Erw
 
 *= 0*
 
-Seite 33 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 34 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Anzuzeigender Text
 
@@ -1632,6 +1588,7 @@ Angezeigter Text
 *„Differenz zwischen dem aktuellen Körpergewicht und dem*  *Körpergewicht der ältesten verfügbaren Dokumentation:*  *[Differenzwert] kg ([Differenzwert in %] %)*  *(Gewichtsabnahme)“*
 
 *„Differenz zwischen dem aktuellen Körpergewicht und dem*  *Körpergewicht der ältesten verfügbaren Dokumentation:*  *[Differenzwert] kg ([Differenzwert in %] %) (Keine*  *Gewichtszunahme)“*
+
 
 ---
 
@@ -1662,9 +1619,7 @@ Tabelle 16: Nähere Parameter-Erläuterungen Adipositas - Kinder und Jugendliche
 
 Für die verwendeten Parameter gilt:
 
-| › | BMI: Der Body-Mass-Index (BMI) | berechnet sich als Quotient aus dem aktuellen Körpergewicht und der |
-|---|---|---|
-|  | aktuellen Körpergröße zum Quadrat |  |
+- **BMI**: Der Body-Mass-Index (BMI) berechnet sich als Quotient aus dem aktuellen Körpergewicht und der  aktuellen Körpergröße zum Quadrat
 
 ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 𝐫𝐫 𝐫𝐫𝐫𝐫 𝐤𝐤𝐤𝐤  ö𝐫𝐫 𝐫𝐫𝐫𝐫𝐫𝐫𝐫𝐫 öß𝐞𝐞 𝐦𝐦
 
@@ -1687,7 +1642,7 @@ Für die verwendeten Parameter gilt:
 
 > 2,58
 
-Seite 34 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 35 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Anzuzeigender Text
 
@@ -1701,37 +1656,66 @@ Anzuzeigender Text
 
 *„Extreme Adipositas“*
 
-: Der Body-Mass-Index (BMI) berechnet sich als Quotient aus dem aktuellen Körpergewicht und der 
-
 
 ---
 
-- aktuelle Alter des Kindes, mit einer Nachkommastelle, berechnet werden. In Abhängigkeit des aktuellen
+- aktuelle Alter des Kindes, mit einer Nachkommastelle, berechnet werden. In Abhängigkeit des aktuellen  Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entsprechenden Tabelle abzulesen  und in die Formel zur Berechnung des BMI-SDS einzusetzen.
 - **(t):** Das Alter (t) des Kindes berechnet sich aus der Angabe im Parameter „Datum der Erstellung“ (Feld  22 der Anlage 2) der aktuellen Dokumentation und der Angabe im Parameter „Geburtsdatum der/des  Versicherten“ (Feld 3 der Anlage 2).
 
 Das Alter wird in halbjährigen Altersstufen eingeordnet, es wird in 0,5 Schritten abgerundet.
 
-Alters in Jahren (t) sind die entsprechenden Werte M, L und S aus der entsprechenden Tabelle abzulesen  und in die Formel zur Berechnung des BMI-SDS einzusetzen.
+Alter in Jahren (t)  (männlich)
 
-Alter in Jahren (t)  (männlich)  0,0  0,5  1,0  1,5  2,0  2,5  3,0  3,5  4,0  4,5  5,0  5,5  6,0  6,5  7,0  7,5  8,0
+| 0,0 | 1,306 | 0,101 | 12,676 |
+|---|---|---|---|
+| 0,5 | -0,667 | 0,084 | 16,699 |
+| 1,0 | -1,051 | 0,081 | 16,791 |
+| 1,5 | -1,276 | 0,081 | 16,440 |
+| 2,0 | -1,453 | 0,082 | 16,079 |
+| 2,5 | -1,577 | 0,083 | 15,799 |
+| 3,0 | -1,672 | 0,085 | 15,619 |
+| 3,5 | -1,746 | 0,087 | 15,512 |
+| 4,0 | -1,804 | 0,088 | 15,451 |
+| 4,5 | -1,848 | 0,090 | 15,416 |
+| 5,0 | -1,881 | 0,093 | 15,398 |
+| 5,5 | -1,904 | 0,096 | 15,404 |
+| 6,0 | -1,918 | 0,099 | 15,447 |
+| 6,5 | -1,924 | 0,102 | 15,534 |
+| 7,0 | -1,923 | 0,106 | 15,661 |
+| 7,5 | -1,917 | 0,110 | 15,822 |
+| 8,0 | -1,906 | 0,114 | 16,006 |
+| 8,5 | -1,891 | 0,118 | 16,209 |
+| 9,0 | -1,872 | 0,123 | 16,423 |
+| 9,5 | -1,850 | 0,126 | 16,650 |
+| 10,0 | -1,827 | 0,130 | 16,891 |
+| 10,5 | -1,801 | 0,133 | 17,145 |
+| 11,0 | -1,774 | 0,136 | 17,413 |
+| 11,5 | -1,747 | 0,137 | 17,697 |
+| 12,0 | -1,719 | 0,139 | 17,993 |
+| 12,5 | -1,691 | 0,139 | 18,300 |
+| 13,0 | -1,663 | 0,139 | 18,616 |
+| 13,5 | -1,635 | 0,139 | 18,937 |
+| 14,0 | -1,606 | 0,138 | 19,258 |
+| 14,5 | -1,578 | 0,137 | 19,575 |
+| 15,0 | -1,550 | 0,136 | 19,886 |
+| 15,5 | -1,522 | 0,134 | 20,189 |
+| 16,0 | -1,495 | 0,133 | 20,483 |
+| 16,5 | -1,467 | 0,131 | 20,767 |
+| 17,0 | -1,440 | 0,130 | 21,042 |
+| 17,5 | -1,492 | 0,128 | 21,375 |
+| 18,0 | -1,458 | 0,128 | 21,642 |
+| 18,5 | -1,425 | 0,128 | 21,897 |
+| 19 | -1,393 | 0,128 | 22,143 |
+| 19,5 | -1,361 | 0,128 | 22,382 |
 
-8,5  9,0  9,5  10,0  10,5  11,0  11,5  12,0  12,5  13,0  13,5  14,0
-
-14,5  15,0  15,5  16,0  16,5  17,0 17,5  18,0  18,5
-
-19  19,5
-
-Seite 35 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 36 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 L
 
 S
 
-1,306 0,101  -0,667 0,084  -1,051 0,081  -1,276 0,081  -1,453 0,082  -1,577 0,083  -1,672 0,085  -1,746 0,087  -1,804 0,088  -1,848 0,090  -1,881 0,093  -1,904 0,096  -1,918 0,099  -1,924 0,102  -1,923 0,106  -1,917 0,110  -1,906 0,114  -1,891 0,118  -1,872 0,123  -1,850 0,126  -1,827 0,130  -1,801 0,133  -1,774 0,136  -1,747 0,137  -1,719 0,139  -1,691 0,139  -1,663 0,139  -1,635 0,139  -1,606 0,138  -1,578 0,137  -1,550 0,136  -1,522 0,134  -1,495 0,133  -1,467 0,131  -1,440 0,130  -1,492 0,128  -1,458 0,128  -1,425 0,128  -1,393 0,128  -1,361 0,128
-
 M
 
-12,676  16,699  16,791  16,440  16,079  15,799  15,619  15,512  15,451  15,416  15,398  15,404  15,447  15,534  15,661  15,822  16,006  16,209  16,423  16,650  16,891  17,145  17,413  17,697  17,993  18,300  18,616  18,937  19,258  19,575  19,886  20,189  20,483  20,767  21,042  21,375  21,642  21,897  22,143  22,382
 
 ---
 
@@ -1784,11 +1768,12 @@ Tabelle 17: L-, S- und M-Werte von Jungen für den BMI-SDS-Wert in halbjährigen
 
 20  20,5  21
 
-Seite 36 von 84 / KBV / Anforderungskatalog eDMP /
+Seite 37 von 85 / KBV / Anforderungskatalog eDMP
 
--1,331 0,128  -1,301 0,129  -1,272 0,129 22,615  22,840  23,057
+-1,331 0,128  -1,301 0,129  -1,272 0,129
 
-Version: 2.50 / 21. August 2026
+/ Version: 2.51 / 13. November 2026 22,615  22,840  23,057
+
 
 ---
 
@@ -1799,48 +1784,50 @@ Tabelle 18: L-, S- und M-Werte von Mädchen und divers für den BMI-SDS-Wert in 
 
 - 2. Das System muss in jeder Folgedokumentation die Differenz des Wertes BMI-SDS in der aktuellen  Dokumentation zum Wert des BMI-SDS aus der vorhergehenden verfügbaren Dokumentation nach der  folgenden Formel berechnen:
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
-
-𝐚𝐚 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
-
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+𝐃𝐃
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: +[Differenzwert]  (Gewichtszunahme)“* |
-| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert]  (Gewichtsstabilisierung)“* |
-| <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der letzten verfügbaren  Dokumentation: [Differenzwert] (Klinische  relevante Gewichtsabnahme, guter Erfolg)“* |
+| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
 
 Tabelle 19: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur vorherigen Dokumentation)
 
 - b) Falls die Berechnung nicht durchführbar ist, weil eine der für die Berechnung notwendigen  Dokumentationen nicht zur Verfügung steht oder gefunden werden kann, wird das Akzeptanzkriterium  2 nicht geprüft und angezeigt.
 - 3. Das System muss in jeder Folgedokumentation die Differenz des Wertes des BMI-SDS aus der aktuellen  Dokumentation zum Wert des BMI-SDS aus der Erstdokumentation nach der folgenden Formel  berechnen, sofern die Erstdokumentation im System vorliegt.
 
-𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚
+𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
 
-𝐚𝐚 𝐃𝐃
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯 𝐯𝐯 𝐯𝐯𝐯𝐯𝐯𝐯 ü𝐠𝐠 𝐠𝐠𝐠𝐠 𝐃𝐃
 
-𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃
+
+𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖
 
 - a) Das System muss einen Hinweistext zur Anzeige bringen, ohne den Workflow zu unterbrechen. Der  Inhalt des Hinweistexts hängt von dem berechneten Differenzwert ab:
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  +[Differenzwert] (Gewichtszunahme)“* |
+| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
 
-Seite 37 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 38 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚𝐚 𝐚𝐚 𝐃𝐃
+
+𝐃𝐃𝐃𝐃𝐃𝐃 𝐃𝐃 𝐖𝐖𝐖𝐖 𝐚𝐚𝐚𝐚 𝐝𝐝𝐝𝐝𝐝𝐝 𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄𝐄
+
+dem BMI-SDS der letzten verfügbaren Dokumentation: +[Differenzwert] (Gewichtszunahme)“ dem BMI-SDS der letzten verfügbaren Dokumentation: [Differenzwert] (Gewichtsstabilisierung)“ dem BMI-SDS der letzten verfügbaren Dokumentation: [Differenzwert] (Klinische relevante Gewichtsabnahme, guter Erfolg)“ dem BMI-SDS der Erstdokumentation: +[Differenzwert] (Gewichtszunahme)“
 
 ---
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
-| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Gewichtsstabilisierung)“* |
-| > -0,50 bis <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Klinisch relevante  Gewichtsabnahme, guter Erfolg)“* |
-| <= -0,50 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der Erstdokumentation:  [Differenzwert] (Klinisch relevante  Gewichtsabnahme, sehr guter Erfolg)“* |
+| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| > -0,50 bis <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| <= -0,50 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
 
 Tabelle 20: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im
 
@@ -1850,19 +1837,23 @@ Vergleich zur Erstdokumentation)
 
 | Differenzwert | Anzuzeigender Text |
 |---|---|
-| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: +[Differenzwert]  (Gewichtszunahme)“* |
-| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert]  (Gewichtsstabilisierung)“* |
-| > -0,50 bis <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert] (Klinisch relevante  Gewichtsabnahme, guter Erfolg)“* |
-| <= -0,50 | *„Differenz zwischen dem aktuellen BMI-SDS und  dem BMI-SDS der ältesten verfügbaren  Dokumentation: [Differenzwert] (Klinisch relevante  Gewichtsabnahme, sehr guter Erfolg)“* |
+| > 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| > -0,20 bis <= 0 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| > -0,50 bis <= -0,20 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
+| <= -0,50 | *„Differenz zwischen dem aktuellen BMI-SDS und* |
 
 Tabelle 21: Nähere Parameter-Erläuterungen Folgedokumentation Adipositas - Kinder und Jugendliche (BMI-SDS im  Vergleich zur ältesten verfügbaren Dokumentation)
 
 - c) Falls die Berechnungen nicht durchführbar sind, weil die für die Berechnung notwendigen  Dokumentationen nicht zur Verfügung stehen oder gefunden werden können, wird das  Akzeptanzkriterium 3 nicht geprüft und angezeigt.
-- 4. Wenn der Patient über 18 Jahre alt ist und eine Folgedokumentation angelegt wird, muss das System  dem Anwender als nähere Erläuterung den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
+- 4. Sofern die zur Verfügung stehende vorherige Dokumentation für die Berechnung der Akzeptanzkriterien  2 und 3 die gleiche Dokumentation ist, wird ausschließlich der Hinweistext gemäß Akzeptanzkriterium 2  ausgeführt.
 
-Seite 38 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 39 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+dem BMI-SDS der Erstdokumentation: [Differenzwert] (Gewichtsstabilisierung)“ dem BMI-SDS der Erstdokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, guter Erfolg)“ dem BMI-SDS der Erstdokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, sehr guter Erfolg)“ dem BMI-SDS der ältesten verfügbaren Dokumentation: +[Differenzwert] (Gewichtszunahme)“ dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Gewichtsstabilisierung)“ dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, guter Erfolg)“ dem BMI-SDS der ältesten verfügbaren Dokumentation: [Differenzwert] (Klinisch relevante Gewichtsabnahme, sehr guter Erfolg)“
 
 ---
+
+- 5. Wenn der Patient über 18 Jahre alt ist und eine Folgedokumentation angelegt wird, muss das System  dem Anwender als nähere Erläuterung den folgenden Text zur Anzeige bringen, ohne den Workflow zu  unterbrechen:
 
 *„Ihre Patientin oder Ihr Patient ist über 18 Jahre alt. Bitte prüfen Sie, ob im Einzelfall eine Teilnahme über*  *das 18. Lebensjahr hinaus sinnvoll ist. Die Teilnahme endet spätestens mit der Vollendung des 21.*  *Lebensjahres.“*
 
@@ -1903,13 +1894,15 @@ Die Deaktivierung von Parametern, die bei der jeweiligen Dokumentationsart nicht
 
 **Hinweis:**
 
-Die Anforderung betrifft in der Regel Parameter, die in den indikationsspezifischen sowie  indikationsübergreifenden Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] beispielweise als  bedingtes Pflichtfeld und einem Hinweis wie „Eine Angabe ist erforderlich, wenn die Anlage XX im Rahmen  einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht  zulässig“ markiert sind.
+Die Anforderung betrifft in der Regel Parameter, die in den indikationsspezifischen sowie  indikationsübergreifenden Plausibilitäten [EXT_ITA_VGEX_Plausi_eDMP_Uebergreifend] beispielweise als  bedingtes Pflichtfeld und einem Hinweis wie „Eine Angabe ist erforderlich, wenn die Anlage XX im Rahmen
 
-**Beispiel:**
-
-Seite 39 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 40 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
+
+einer Folgedokumentation auszufüllen ist. Eine Angabe im Rahmen einer Erstdokumentation ist nicht  zulässig“ markiert sind.
+
+**Beispiel:**
 
 - Bei der Indikation Asthma bronchiale muss der Parameter „Empfohlene Asthma-Schulung  wahrgenommen“ bei der Eingabe einer Erstdokumentation inaktiv dargestellt werden.
 -  „Bei der Indikation Asthma bronchiale muss der Parameter „Asthma-Schulung schon vor Einschreibung  in DMP bereits wahrgenommen“ bei der Eingabe einer Folgedokumentation inaktiv dargestellt werden.
@@ -1922,7 +1915,7 @@ Das System kann direkt auf Eingaben mit Ein- und Ausblenden von weiteren Paramet
 
 **Beispiel 1:**
 
-Auswahl der Indikation DM2 und Eingabe der Anamnese- und Befunddaten. Werden zum Parameter  „Weiteres Risiko für Ulkus Ulcus“ die Angaben „Nein“ oder „Nicht untersucht“ ausgewählt, so muss die  Eingabe weiterer Angaben unterbunden werden. Wurden andere Angaben als „Nein“ oder „Nicht  untersucht“ angegeben, so muss die zusätzliche Angabe von „Nein“ oder „Nicht untersucht“ unterbunden  werden.
+Auswahl der Indikation DM2 und Eingabe der Anamnese- und Befunddaten. Werden zum Parameter  „Weiteres Risiko für Ulkus“ die Angaben „Nein“ oder „Nicht untersucht“ ausgewählt, so muss die Eingabe  weiterer Angaben unterbunden werden. Wurden andere Angaben als „Nein“ oder „Nicht untersucht“  angegeben, so muss die zusätzliche Angabe von „Nein“ oder „Nicht untersucht“ unterbunden werden.
 
 **Beispiel 2:**
 
@@ -1944,11 +1937,13 @@ Im Falle einer Multimorbidität und Einschreibung in mehrere DMP müssen die jew
 
 **Beispiel:**
 
-Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus Typ 1 (Erstdokumentation)  und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter  „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. Bei der Speicherung der jeweiligen  Dokumentation muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als  Begleiterkrankung, neben eventuell weiteren ausgewählten Begleiterkrankungen, in den Datensatz  übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP KHK umgesetzt werden.  Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz  aufgenommen werden.
+Der Anwender wählt beim Parameter „Einschreibung wegen“: Diabetes mellitus Typ 1 (Erstdokumentation)  und KHK (Erstdokumentation) gleichzeitig aus. Somit verringern sich die Ausprägungen für den Parameter  „Begleiterkrankungen“ um Diabetes mellitus sowie um KHK. Bei der Speicherung der jeweiligen  Dokumentation muss dann für z. B. die Dokumentation zum DMP DM1 automatisch KHK als  Begleiterkrankung, neben eventuell weiteren ausgewählten Begleiterkrankungen, in den Datensatz  übernommen werden. Gleichermaßen muss dies für die Dokumentation zum DMP KHK umgesetzt werden.
 
-Seite 40 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 41 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
+
+Hier muss für den Parameter „Begleiterkrankungen“ automatisch Diabetes mellitus in den Datensatz  aufgenommen werden.
 
 **2.1.5** **Übernahme von Parametern**
 
@@ -1965,21 +1960,21 @@ Es ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernah
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
 | Indikationsübergreifend | Geschlecht | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Rückenschmerz  Depression  Osteoporose  Rheumatoide Arthritis  Herzinsuffizienz  Adipositas - Erwachsene   (für die Indikation  Adipositas - Kinder und  Jugendliche darf keine  automatische Übernahme  erfolgen) | Körpergröße | einzeln oder blockweise mit weiteren |
-| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose  Rheumatoide Arthritis  (für die Indikation  Adipositas - Kinder und  Jugendliche und  Adipositas - Erwachsene | Körpergewicht | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose  Rheumatoide Arthritis  Herzinsuffizienz  Adipositas - Erwachsene   (für die Indikation | Körpergröße | einzeln oder blockweise mit weiteren |
+| Diabetes mellitus 1 + 2  KHK  Asthma  COPD  Chronischer  Depression  Osteoporose  Rheumatoide Arthritis  (für die Indikation | Körpergewicht | einzeln oder blockweise mit weiteren |
 
-Seite 41 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 42 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 **Tabelle 22** zu entnehmen.
 
-Herzinsuffizienz, indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten 
-
+Rückenschmerz Adipositas - Kinder und Jugendliche darf keine automatische Übernahme erfolgen) Rückenschmerz Herzinsuffizienz, Adipositas - Kinder und indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten
 
 ---
 
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
-| Diabetes mellitus 1 + 2   KHK   Herzinsuffizienz  Chronischer  Depression  Osteoporose  (für die Indikation COPD, | Raucher | einzeln oder blockweise mit weiteren |
+| Jugendliche und | | |
+| Diabetes mellitus 1 + 2   KHK   Herzinsuffizienz  Chronischer  Depression  Osteoporose  Adipositas - Erwachsene  Adipositas - Kinder und  Jugendliche  (für die Indikation COPD, | Raucher | einzeln oder blockweise mit weiteren |
 | Indikationsübergreifend | Begleiterkrankungen | einzeln oder blockweise mit weiteren |
 | Diabetes mellitus Typ 2 | Insulin oder Insulin-Analoga | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
 | Diabetes mellitus Typ 2 | Thrombozytenaggregationshemmer | einzeln oder blockweise mit  ausschließlich folgenden Parametern:  › › |
@@ -1988,33 +1983,33 @@ Herzinsuffizienz, indikationsübergreifenden Anamnese- und Befunddaten indikatio
 | Diabetes mellitus Typ 2 | SGLT2-Inhibitor | einzeln |
 | Diabetes mellitus Typ 2 | GLP-1-Rezeptoragonist | einzeln |
 | Diabetes mellitus Typ 1 | Thrombozyten- | einzeln |
-| KHK | Thrombozyten-  aggregationshemmer | einzeln oder blockweise mit  › › |
 
-Seite 42 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 43 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Rückenschmerz Asthma und Rheumatoide Arthritis darf keine automatische Übernahme erfolgen) Medikation indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten Medikation Medikation Betablocker ACE-Hemmer 
-
+darf keine automatische Übernahme erfolgen) Rückenschmerz Asthma und Rheumatoide Arthritis darf keine automatische Übernahme erfolgen) Medikation indikationsübergreifenden Anamnese- und Befunddaten indikationsübergreifenden Anamnese- und Befunddaten Medikation Medikation
 
 ---
 
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
+|  | | |
+| KHK | Thrombozyten-  aggregationshemmer | einzeln oder blockweise mit  › › |
 | KHK | Betablocker | einzeln oder blockweise mit  › › |
 | KHK | ACE-Hemmer | einzeln oder blockweise mit  › › |
 | Asthma | Inhalative Glukokortikosteroide | einzeln oder blockweise mit  › › › › |
 | Asthma | Inhalative lang wirksame Beta-2- | einzeln oder blockweise mit  › › › › |
 | Asthma | Kurz wirksame inhalative Beta-2- | einzeln oder blockweise mit  › › › › |
-| Asthma | Systemische Glukokortikosteroide | einzeln oder blockweise mit  › › › › |
+| Asthma | Systemische Glukokortikosteroide | einzeln oder blockweise mit |
 
-Seite 43 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 44 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer  ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer ausschließlich folgenden Parametern: Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation 
-
+Sympathomimetika Sympathomimetika ausschließlich folgenden Parametern: ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer  ausschließlich folgenden Parametern: Thrombozytenaggregationshemmer ausschließlich folgenden Parametern: Sympathomimetika Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:  Sympathomimetika Sonstige asthmaspezifische Medikation ausschließlich folgenden Parametern:
 
 ---
 
 | Indikation | Übernahmerelevanter Parameter | Quittierung |
 |---|---|---|
+| › › › › | | |
 | Asthma | Sonstige asthmaspezifische | einzeln oder blockweise mit  › › › › |
 | COPD | Kurz wirksame Beta-2- | einzeln oder blockweise ausschließlich |
 | COPD | Lang wirksame Beta-2- | einzeln oder blockweise ausschließlich |
@@ -2028,20 +2023,19 @@ Tabelle 22: relevante Parameter mit Art der Quittierung
 |---|---|
 | **O1-51** | Datenübernahme aus dem PVS2 |
 
-Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls diese  durch eine **Quittierung** Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).
+________________
 
-Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird.  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.
+2 Praxisverwaltungssystem
 
-________________  2 Praxisverwaltungssystem
+Seite 45 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Seite 44 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der
-
-Medikation Sympathomimetika und/oder Sympathomimetika ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta-2- Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten 
-
+Medikation Sympathomimetika und/oder Sympathomimetika Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Medikation ausschließlich folgenden Parametern:  Inhalative Glukokortikosteroide Inhalative lang wirksame Beta-2- Sympathomimetika Kurz wirksame inhalative Beta-2- Sympathomimetika Systemische Glukokortikosteroide mit den folgenden beiden Parametern: (Lang wirksame Beta-2- Sympathomimetika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Anticholinergika)  mit den folgenden beiden Parametern: (Kurz wirksame Beta-2- Sympathomimetika und/oder Anticholinergika, Lang wirksame Beta- 2-Sympathomimetika)  Anamnese- und Befunddaten Anamnese- und Befunddaten
 
 ---
+
+Die Software kann eine automatisierte Übernahme von Parametern aus dem PVS unterstützen, falls diese  durch eine **Quittierung** des Anwenders in das eDMP übernommen werden. Dies gilt für alle Formen der  Dateneingabe (z. B. Beleglesung, Digitalisierbrett, Tastatur, Scanner).
+
+Hierbei ist darauf zu achten, dass stets der aktuellste verfügbare Wert zur Übernahme herangezogen wird.  Eine Quittierung hat immer zu erfolgen, auch wenn es sich um tagesaktuelle Werte handelt.
 
 | OPTIONALE FUNKTION EDMP |  |
 |---|---|
@@ -2053,7 +2047,7 @@ Das System kann den Parameter mit dem Wert „Bei letzter Dokumentation keine Sc
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **KP2-530** | Datenübernahme für den Parameter „Prädiabetes bei Einschreibung“ bei dem eDMP  Adipositas - Erwachsene |
+| **KP2-530** | Adipositas - Erwachsene |
 
 Das System muss den Wert des Parameters „Prädiabetes bei Einschreibung“ automatisch aus der  Erstdokumentation in alle Folgedokumentationen unveränderbar übernehmen.
 
@@ -2079,7 +2073,14 @@ Die Anforderung O1-45 ist auf diese Anforderung nicht anzuwenden.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
-| **KP2-540** | Datenübernahme für den Parameter „Manifester Diabetes mellitus Typ 2“ bei dem eDMP  Adipositas - Erwachsene |
+| **KP2-540** | Adipositas - Erwachsene |
+
+Seite 46 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+Datenübernahme für den Parameter „Prädiabetes bei Einschreibung“ bei dem eDMP Datenübernahme für den Parameter „Manifester Diabetes mellitus Typ 2“ bei dem eDMP 
+
+
+---
 
 Das System muss ermöglichen, bestimmte Daten aus einer vorhergehenden Dokumentation zu  übernehmen.
 
@@ -2088,10 +2089,6 @@ Das System muss ermöglichen, bestimmte Daten aus einer vorhergehenden Dokumenta
 Der Parameter „Manifester Diabetes Typ 2“ muss befüllt werden, falls im Parameter „Prädiabetes bei  Einschreibung“ ein „Ja“ angegeben wurde.
 
 **Akzeptanzkriterium:**
-
-Seite 45 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
----
 
 - **1.** Falls in der aktuellen Folgedokumentation im Parameter „Prädiabetes bei Einschreibung“ die Angabe  „Ja“ steht, muss das System den Parameter „Manifester Diabetes Typ 2“ anzeigen.
 - a) Falls die vorherige Dokumentation eine Erstdokumentation war, dann muss das System eine Eingabe  des Parameters „Manifester Diabetes mellitus Typ 2“ fordern.
@@ -2125,13 +2122,11 @@ Das System muss dem Anwender bei der Dokumentation des Parameters „Dokumentati
 
 **Beispiel:**
 
-Es wird eine Kombination von DM2 und KHK dokumentiert. Hierbei überschneiden sich die Parameter  „Thrombozytenaggregationshemmer“ im Abschnitt „Medikamente“ sowie der Parameter  „Dokumentationsintervall“ im Abschnitt „Behandlungsplanung“. Selektiert der Anwender bspw. bei DM2  „Ja“ beim Parameter „Thrombozytenaggregationshemmer“, so muss automatisch beim Parameter  „Thrombozytenaggregationshemmer“ bei KHK die Ausprägung „Ja“ ausgewählt werden. Ändert der  Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter  „Dokumentationsintervall“, so muss automatisch beim Parameter „Dokumentationsintervall“ bei KHK die
-
-Seite 46 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 47 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
-Ausprägung „Quartalsweise“ ausgewählt werden. Ändert der Anwender die Angabe bei KHK auf „Jedes  zweite Quartal“, darf keine automatische gleichartige Änderung bei der Indikation DM2 erfolgen.
+Es wird eine Kombination von DM2 und KHK dokumentiert. Hierbei überschneiden sich die Parameter  „Thrombozytenaggregationshemmer“ im Abschnitt „Medikamente“ sowie der Parameter  „Dokumentationsintervall“ im Abschnitt „Behandlungsplanung“. Selektiert der Anwender bspw. bei DM2  „Ja“ beim Parameter „Thrombozytenaggregationshemmer“, so muss automatisch beim Parameter  „Thrombozytenaggregationshemmer“ bei KHK die Ausprägung „Ja“ ausgewählt werden. Ändert der  Anwender die Angabe bei KHK auf „Nein“, so erfolgt automatisch eine gleichartige Änderung bei der  Indikation DM2. Selektiert der Anwender bspw. bei DM2 „Quartalsweise“ beim Parameter  „Dokumentationsintervall“, so muss automatisch beim Parameter „Dokumentationsintervall“ bei KHK die  Ausprägung „Quartalsweise“ ausgewählt werden. Ändert der Anwender die Angabe bei KHK auf „Jedes  zweite Quartal“, darf keine automatische gleichartige Änderung bei der Indikation DM2 erfolgen.
 
 **2.1.8** **Erhebung der Symptome für das eDMP chronischer Rückenschmerz**
 
@@ -2167,21 +2162,18 @@ Die verpflichtende Schweregradbestimmung mittels des CPG-Fragebogens leitet sich
 
 - 1. Das System stellt sicher, dass der Anwender vor Erstellung einer Erstdokumentation jeweils eine gültige  Angabe zu den Fragen 1 bis 7 zur Bestimmung des Schweregrades nach von Korff gemacht hat.
 
-| CPG-FRAGEBOGEN |  |
-|---|---|
-| Frage 1: Wie würden Sie Ihre  einschätzen, wenn | |
-| Auswahlmöglichkeit zu Frage 1: Ganzzahl zwischen 0 bis 10 | |
-| Frage 2: Wie würden Sie Ihre | |
+Seite 48 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Seite 47 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-Erstdokumentation momentanen  Rückenschmerzen, d. h. jetzt im Augenblick , auf einer Skala  0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? stärksten Rückenschmerzen  in den letzten 3 Monaten einschätzen, wenn = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? 
+Erstdokumentation 
 
 
 ---
 
 | CPG-FRAGEBOGEN |  |
 |---|---|
+| Frage 1: Wie würden Sie Ihre  einschätzen, wenn | |
+| Auswahlmöglichkeit zu Frage 1: Ganzzahl zwischen 0 bis 10 | |
+| Frage 2: Wie würden Sie Ihre | |
 | Auswahlmöglichkeit zu Frage 2: Ganzzahl zwischen 0 bis 10 | |
 | Frage 3: Wie stark waren Ihre Rückenschmerzen | |
 | Auswahlmöglichkeit zu Frage 3: Ganzzahl zwischen 0 bis 10 | |
@@ -2199,18 +2191,18 @@ Erstdokumentation momentanen  Rückenschmerzen, d. h. jetzt im Augenblick , auf 
 | Berechnung | Bewertung |  |
 |---|---|---|
 | **Schmerzintensität ** (Ergebnis Frage 1 +   Ergebnis Frage 2 +   Ergebnis Frage 3) / 3 * 10 | **Schmerz-Score: **              0 = 0 (kein)      1 - 49 = 1 (geringer)  50 - 100 = 2 (hoher) |  |
-| **Beeinträchtigungsgrad  ** (Ergebnis Frage 5 +   Ergebnis Frage 6 +   Ergebnis Frage 7) / 3 * 10 | **Disability-Score:**        0 - 29 = 0        30 - 49 = 1        50 - 69 = 2      70 - 100 = 3 | **Disability-Punkte: ** Summe aus **Disablity-Score ** und **Disablilty-Tagen** |
-| **Beeinträchtigungstage  ** Anzahl der Tage in Frage 4 | **Disability-Tage:**          0 - 6 = 0 | |
+| **Beeinträchtigungsgrad** | **Disability-Score:** | **Disability-Punkte:** |
 
-Seite 48 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 49 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-in den letzten 3 Monaten im Durchschnitt kein Schmerz und 10 = stärkster vorstellbarer Schmerz An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn keine Aktivitäten  mehr möglich bedeuten? oder Unternehmungen im Familien- und Freundeskreis und 10 = keine Aktivitäten mehr möglich  bedeuten? (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten?  bedeuten? 0 = keine Beeinträchtigung und 10 =  beeinträchtigt, wenn , wenn 0 = Freizeitaktivitäten 0 = keine Beeinträchtigung Arbeitsfähigkeit
+momentanen  Rückenschmerzen, d. h. jetzt im Augenblick 0 = kein Schmerz und 10 = stärkster vorstellbarer Schmerz stärksten Rückenschmerzen  in den letzten 3 Monaten einschätzen, wenn = kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? in den letzten 3 Monaten im Durchschnitt kein Schmerz und 10 = stärkster vorstellbarer Schmerz  bedeuten? An wie vielen Tagen  konnten Sie in den letzten 3 Monaten aufgrund von Rückenschmerzen nicht Ihren üblichen Aktivitäten nachgehen (z. B. Arbeit, Schule, Haushalt)? (Ankleiden, Waschen, Essen, Einkaufen etc.) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten  mehr möglich bedeuten? oder Unternehmungen im Familien- und Freundeskreis  beeinträchtigt, wenn und 10 = keine Aktivitäten mehr möglich  bedeuten? (einschließlich Hausarbeit) beeinträchtigt, wenn 0 = keine Beeinträchtigung und 10 = keine Aktivitäten mehr möglich  bedeuten? , auf einer Skala   bedeuten? Freizeitaktivitäten 0 = keine Beeinträchtigung Arbeitsfähigkeit 0 =
 
 ---
 
 | Berechnung | Bewertung |  |
 |---|---|---|
-| 7 - 14 = 1        15 - 30 = 2          >=  31 = 3 | | |
+| (Ergebnis Frage 5 +   Ergebnis Frage 6 +   Ergebnis Frage 7) / 3 * 10 | 0 - 29 = 0        30 - 49 = 1        50 - 69 = 2      70 - 100 = 3 | Summe aus **Disablity-Score ** und **Disablilty-Tagen** |
+| **Beeinträchtigungstage  ** Anzahl der Tage in Frage 4 | **Disability-Tage:**          0 - 6 = 0          7 - 14 = 1        15 - 30 = 2          >=  31 = 3 | |
 
 Tabelle 23: Berechnung des Schweregrades nach von Korff
 
@@ -2247,16 +2239,16 @@ Im Rahmen der Folgedokumentation und gegebenenfalls eines Vergleiches kann der A
 
 **Akzeptanzkriterium:**
 
+Seite 50 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+
+---
+
 - 1. Das System ermöglicht dem Anwender das freiwillige Ausfüllen des CPG-Fragebogens im Rahmen einer  Folgedokumentation, nach den aufgeführten Fragen des Akzeptanzkriteriums 1 der Anforderung KP1-
 
 76.
 
 - 2. Sofern der Anwender alle Fragen des CPG-Fragebogens ausgefüllt hat, führt die Software erst die  Berechnungen nach Akzeptanzkriterium 2 und dann nach Akzeptanzkriterium 3 der Anforderung KP1-76  durch.
-
-Seite 49 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
----
-
 - a) Das System zeigt dem Anwender den Schweregrad nach von Korff in Form der römischen Zahl I, II, III,  oder IV an.
 
 **Bedingung:**
@@ -2297,19 +2289,22 @@ Der Anwender soll die Möglichkeit erhalten, den im eDMP Depression verpflichten
 
 **Akzeptanzkriterium:**
 
-Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [KBV_ITA_VHEX_PHQ-9-Fragebogen] im Rahmen der Erst- und/oder Folgedokumentation vollständig auszudrucken.
+Das System muss dem Anwender die Möglichkeit bieten, den PHQ-9-Fragebogen [ Fragebogen] im Rahmen der Erst- und/oder Folgedokumentation vollständig auszudrucken.
 
 **Bedingung:**
+
+Seite 51 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+KBV_ITA_VHEX_PHQ-9-
+
+
+---
 
 Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Depression unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
 | **KP1-80** | Überprüfung der Eingaben des PHQ-9-Fragebogens auf Plausibilität |
-
-Seite 50 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
----
 
 Das System muss sicherstellen, dass ein Anwender bei jeder Dokumentation (Erst- und  Folgedokumentation) die Bestimmung der Symptomschwere mittels der neun Fragen des PHQ-9-Fragebogens durchführt.
 
@@ -2324,7 +2319,7 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ-9
 | **PHQ-9-Fragebogen** |  |
 |---|---|
 
-| Wie oft fühlten Sie sich im Verlauf der | nicht | Tagen | der Hälfte | jeden Tag |
+| Wie oft fühlten Sie sich im Verlauf der | Überhaupt | An einzelnen | An mehr als | Beinahe |
 |---|---|---|---|---|
 | a. Wenig Interesse oder Freude an Ihren | 0 | 1 | 2 | 3 |
 | b. Niedergeschlagenheit, Schwermut oder | 0 | 1 | 2 | 3 |
@@ -2333,25 +2328,19 @@ Die verpflichtende regelmäßige Bestimmung der Symptomschwere mittels des PHQ-9
 | e. Verminderter Appetit oder übermäßiges | 0 | 1 | 2 | 3 |
 | f. Schlechte Meinung von sich selbst; Gefühl, | 0 | 1 | 2 | 3 |
 | g. Schwierigkeiten, sich auf etwas zu | 0 | 1 | 2 | 3 |
-| h. Waren Ihre Bewegungen oder Ihre | 0 | 1 | 2 | 3 |
-| i. Gedanken, dass Sie lieber tot wären oder | 0 | 1 | 2 | 3 |
 
-- 2. Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i.  gebildet. Der Summenscore muss zwischen 0 und 27 liegen.
+Seite 52 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Seite 51 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-letzten 2 Wochen durch die folgenden Beschwerden beeinträchtigt? Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten Überhaupt An einzelnen An mehr als Beinahe der Tage
-
-|  |  |  |  |  |  |
-|---|---|---|---|---|---|
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
-|  |  |  |  |  |  |
+letzten 2 Wochen durch die folgenden jeden Tag nicht Tagen der Hälfte Beschwerden beeinträchtigt? der Tage Tätigkeiten Hoffnungslosigkeit oder vermehrter Schlaf haben Bedürfnis zu essen ein Versager zu sein oder die Familie enttäuscht zu haben konzentrieren, z. B. beim Zeitunglesen oder Fernsehen 
 
 
 ---
+
+| h. Waren Ihre Bewegungen oder Ihre | 0 | 1 | 2 | 3 |
+|---|---|---|---|---|
+| i. Gedanken, dass Sie lieber tot wären oder | 0 | 1 | 2 | 3 |
+
+- 2. Das System führt die folgenden Berechnungen durch: Es wird die Summe aller Werte der Fragen a. bis i.  gebildet. Der Summenscore muss zwischen 0 und 27 liegen.
 
 | Summenscore = | Wert a + Wert b + Wert c + Wert d + Wert e + Wert f + Wert g + Wert h + Wert i |
 |---|---|
@@ -2394,6 +2383,14 @@ Der Anwender soll die Möglichkeit erhalten, das im eDMP Rheumatoide Arthritis v
 
 - 1. Das System muss dem Anwender die Möglichkeit bieten, den DAS-28 [DAS-28 Print] im Rahmen der  Erst- und Folgedokumentation vollständig auszudrucken.
 - 2. Der Ausdruck muss es dem Anwender ermöglichen, die vier Parameter zur Berechnung des DAS-28-Scores einzutragen:
+
+Seite 53 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+Sprache so verlangsamt, dass es auch anderen auffallen würde? Oder waren Sie im Gegenteil „zappelig“ oder ruhelos und hatten dadurch einen stärkeren Bewegungsdrang als sonst? sich Leid zufügen möchten 
+
+
+---
+
 - a) Anzahl geschwollener Gelenke (sw28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - b) Anzahl druckschmerzhafter Gelenke (t28): Darstellung der 14 beidseitig zu beurteilenden Gelenke in  Form einer Tabelle oder als Grafik.
 - c) Subjektive Krankheitsaktivität (VAS): Einschätzung der Krankheitsaktivität in den letzten sieben Tagen  durch die Patientin oder den Patienten auf einer visuellen Analogskala von 0 (keine  Krankheitsaktivität) bis 100 (stärkst mögliche Krankheitsaktivität).
@@ -2402,10 +2399,6 @@ Der Anwender soll die Möglichkeit erhalten, das im eDMP Rheumatoide Arthritis v
 **Bedingung:**
 
 Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Rheumatoide Arthritis  unterstützen.
-
-Seite 52 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
----
 
 | KONDITIONALE PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -2439,6 +2432,14 @@ Die unter (1) und (2) durch die Ärztin oder den Arzt zu beurteilenden Gelenke s
 - 8. Fingergrundgelenk MCP 5
 - 9. Fingermittelgelenk PIP 1
 - 10. Fingermittelgelenk PIP 2
+
+Seite 54 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
+
+und Folgedokumentation) 
+
+
+---
+
 - 11. Fingermittelgelenk PIP 3
 - 12. Fingermittelgelenk PIP 4
 - 13. Fingermittelgelenk PIP 5
@@ -2446,20 +2447,13 @@ Die unter (1) und (2) durch die Ärztin oder den Arzt zu beurteilenden Gelenke s
 
 Die 14 definierten Gelenke werden sowohl auf der rechten als auch auf der linken Körperseite beurteilt,  sodass eine Anzahl von 28 zu beurteilenden Gelenken resultiert. Dabei soll für jedes der 28 Gelenke zum  einen angegeben werden, ob es geschwollen ist und zum anderen, ob es druckschmerzhaft ist. Ein von der  RA betroffenes Gelenk kann entweder geschwollen und gleichzeitig nicht druckschmerzhaft,  druckschmerzhaft und gleichzeitig nicht geschwollen oder gleichzeitig geschwollen und druckschmerzhaft  sein. Daher sind die Gelenke separat hinsichtlich der Schwellung und hinsichtlich der Schmerzen zu  beurteilen.
 
-Seite 53 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-und Folgedokumentation) 
-
-
----
-
 Die folgenden schematischen Darstellungen dienen der Erfassung der Anzahl der geschwollenen Gelenke von  28 definierten Gelenken (Abb. 1) sowie der Anzahl der druckschmerzhaften Gelenke von 28 definierten  Gelenken (Abb. 2).
 
 **Geschwollene Gelenke (sw28)**
 
 Abbildung 1: Erfassung der Anzahl der geschwollenen Gelenke (sw28)
 
-Seite 54 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 55 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2472,13 +2466,13 @@ Abbildung 2: Erfassung der Anzahl der druckschmerzhaften Gelenke (t28)
 - 1. Das System muss dem Anwender die 14 beidseitig zu erfassenden Gelenke darstellen, die für die  Abfrage „Geschwollen“ und die Abfrage „Druckschmerzhaft“ geprüft werden müssen. Die Darstellung  kann in textueller oder grafischer Form [Markierte_Gelenke] erfolgen.
 - 2. Das System muss sicherstellen, dass der Anwender zur Erstellung einer Erst- oder Folgedokumentation  die folgenden vier Parameter zur Berechnung des DAS-28-Scores („Aktuelle Krankheitsaktivität – DAS-28-Wert“ in [EXT_ITA_VGEX_Plausi_eDMP_Rheumatoide Arthritis]) eingibt:
 
-| 1. | Anzahl geschwollener Gelenke (sw28)   (Wertebereich: 0 – 28) | ________ |
+| 1. | Anzahl geschwollener Gelenke (sw28)   (Wertebereich: 0 – 28) |  |
 |---|---|---|
-| **2.** | **Anzahl druckschmerzhafter Gelenke (t28)   (Wertebereich 0 - 28)** | ________ |
+| **2.** | **Anzahl druckschmerzhafter Gelenke (t28)   (Wertebereich 0 - 28)** |  |
 | **3.** | **Subjektive Krankheitsaktivität (VAS)   (Wertebereich 0 – 100)** |  |
 | **4.** | **Blutsenkung (BSG)  (Wertebereich 0 – 999)** | ________ mm/h |
 
-Seite 55 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 56 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2524,7 +2518,7 @@ Die Auswahl der druckschmerzhaften Gelenke und der geschwollenen Gelenke in der 
 
 **Hinweis:**
 
-Seite 56 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 57 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Wert = 0.56*√(t28) + 0.28*√(sw28) + 0.70*Ln(BSG) + 0.014*VAS   t28: Anzahl druckschmerzhafter Gelenke; sw28: Anzahl geschwollener Gelenke; Ln(BSG): natürlicher Logarithmus des Wertes der BSG; BSG: Blutsenkungsgeschwindigkeit; VAS: Visuelle Analogskala.  Das Zeichen * ist das mathematische Multiplikationszeichen. 
 
@@ -2554,7 +2548,7 @@ Die doppelte Eingabe von bereits erfassten Daten soll verhindert werden. Die man
 
 Die Anforderung muss von allen Systemen umgesetzt werden, welche das eDMP Rheumatoide Arthritis  unterstützen.
 
-Seite 57 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 58 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2604,7 +2598,7 @@ Das System muss auf Anforderung des Anwenders eine Gesamtprüfung auf Plausibili
 - 4. Falls das System alle Prüfungen als plausibel abgeschlossen hat, muss dies dem Anwender angezeigt  werden.
 - 5. Das System muss dem Anwender ermöglichen, die eingegebenen Dokumentationsdaten in einem  angemessenen Format auszudrucken. Dem Anwender ist der Ausdruck freigestellt. Es muss der Hinweis
 
-Seite 58 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 59 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2648,11 +2642,12 @@ Mit den folgenden Kriterien kann die Güte der Asthmakontrolle, über die die me
 - EXT_ITA_VGEX_Asthma_Kontrolle
 - Die Einstufung, ob es sich um ein „Teilweise kontrolliertes Asthma“ handelt bestimmt die Software  anhand der Einstufungskriterien des Kapitels „3. TEILWEISE KONTROLLIERTES ASTHMA“ des  Dokumentes [EXT_ITA_VGEX_Asthma_Kontrolle
 
-Seite 59 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 60 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
 - Die Einstufung, ob es sich um ein „Unkontrolliertes Asthma“ handelt bestimmt die Software anhand der  Einstufungskriterien des Kapitels „4. UNKONTROLLIERTES ASTHMA“ des Dokumentes
+- EXT_ITA_VGEX_Asthma_Kontrolle
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -2686,9 +2681,7 @@ Beispiel: Parameter Körpergröße 0,00 – 2,50 m (Eingabe 1,6 / Formatierung z
 
 Beispiel: Parameter BMI-SDS -3,00 bis 6,00 (Eingabe -1,6 / Formatierung zu -1,60)
 
-EXT_ITA_VGEX_Asthma_Kontrolle
-
-Seite 60 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 61 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2738,7 +2731,7 @@ Das System muss die Möglichkeit bieten die Dokumentationsdaten gemäß der Schn
 
 KBV_ITA_VGEX_Schnittstelle_eHeader] nach dem Versand zu einer Datenannahmestelle zu archivieren.
 
-Seite 61 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 62 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2778,7 +2771,7 @@ Dem Anwender muss zu jeder Zeit eine Übersicht bereitstehen, welche mindestens 
 - 4. alle Dokumentationen einer bestimmten Indikation eines bestimmten Patienten
 - 5. alle zu erwartenden Dokumentationen unabhängig bzw. abhängig von einem gewählten Patienten in  einem angemessenen Zeitraum (z. B. 1-2 Quartale)
 
-Seite 62 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 63 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2824,7 +2817,7 @@ Die Software muss dem Anwender die Möglichkeit geben, Patienten im Rahmen der K
 
 Ist ein Patient GKV-versichert und nimmt an einem Verfahren zur Kostenerstattung teil, werden in der  Regel keine Daten zum Kostenträger etc. erfasst, sondern der Patient wird im PVS als Privatpatient erfasst.  Wird für diesen Patienten eine eDMP-Dokumentation angelegt, so sind keine Informationen zum
 
-Seite 63 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 64 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2872,7 +2865,7 @@ Für die Anwendung der in Tabelle 26 gelisteten Pflichtfunktionen gilt, dass „
 |---|---|---|
 | **KP2-100** | Einsatz zertifizierter Lesegeräte | |
 
-Seite 64 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 65 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -2910,12 +2903,11 @@ Neben dem Einlesen einer Versichertenkarte existieren weitere Möglichkeiten, Pa
 - Patientenstammdaten manuell über Tastatur eingeben,
 - gedruckte Patientenstammdaten (z. B. Überweisungsschein im Labor) scannen und interpretieren.
 
-Seite 65 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 66 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 KBV_ITA_VGEX_Anforderungskatalog_KVDT
 
-Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR- Seriennummer 3.-5. Stelle >= 800) angezeigt Versichertenkarte  Erfassung bzw. im Ersatzverfahren 
-
+Leistungen ungültig – Ausnahmeregelung für „originäre“ Sonstige Kostenträger (VKNR- Seriennummer 3.-5. Stelle >= 800) angezeigt Versichertenkarte  Erfassung bzw. im Ersatzverfahren
 
 ---
 
@@ -2952,47 +2944,47 @@ Die übergreifend definierten Plausibilitäten eDMP [EXT_ITA_VGEX_Plausi_eDMP_Ue
 
 - 1. Die Software stellt dem Anwender alle entsprechenden Erfassungsfelder zur Verfügung. Diese sind:
 
-| Bezeichnung | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
-|---|---|---|
-| Vorsatzwort | <person><person_name><nm><pfx> |  |
-| Namenszusatz | <person><person_name><nm><pfx> |  |
+| Bezeichnung | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- | | | | |
+|---|---|---|---|---|---|---|
+| Vorsatzwort  Namenszusatz | <person><person_name><nm><pfx> |  |  |  |  |  |
+
+<person><person_name><nm><pfx>
 
 ________________  3 sinngemäß laut Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur Anwendung der elektronischen Gesundheitskarte), Anhang 1, 2.4 Anlage 4  BMV-Ä/EKV (Vereinbarung zur Gestaltung und zum Inhalt der Krankenversichertenkarte) und Anlage 6 BMV-Ä (Datenaustausch)
 
-Seite 66 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 67 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 vergleiche [[ angabe 
 
 
 ---
 
-| Bezeichnung | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- |
-|---|---|---|
-| Name | <person><person_name><nm><fam> | X |
-| Vorname | <person><person_name><nm><giv> | X |
-| Geburtsdatum | <birth_dttm> | X |
-| Titel des Patienten | <person><person_name><nm><pfx> |  |
-| Versichertennummer | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertennummer> | X |
-| Versicherungsschutz Ende | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |  |
-| **Straßenadresse** |  |  |
-| Straße | <person><addr><STR> |  |
-| PLZ | <person><addr><ZIP> |  |
-| Ort | <person><addr><CTY> |  |
-| Hausnummer | <person><addr><HNR> |  |
-| Wohnsitzländercode | <person><addr><CNT> |  |
-| **alternativ** |  |  |
-| Postfach PLZ | <person><addr><ZIP> |  |
-| Postfach Ort | <person><addr><CTY> |  |
-| Postfach | <person><addr><POB> |  |
-| Postfach | <person><addr><CNT> |  |
-| Kostentraegerkennung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X |
-| WOP-Kennzeichen (KV- | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><KVBereich><WOP> |  |
-| DMP-Kennzeichnung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) |
-| BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) |
-| Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> | X |
-| Geschlecht | <administrative_gender_cd> | X   (vgl. KP2- |
+|  |  |  | PLZ |  | Postfach | <person><addr><CNT> |
+|---|---|---|---|---|---|---|
+| **Bezeichnung** | Elemente gem. DMP-Header (Kindelemente von cda:patient  KBV_ITA_VGEX_Schnittstelle_eHeader]]) | Mindest- | | | | |
+| Name | <person><person_name><nm><fam> | X | | | | |
+| Vorname | <person><person_name><nm><giv> | X | | | | |
+| Geburtsdatum | <birth_dttm> | X | | | | |
+| Titel des Patienten | <person><person_name><nm><pfx> |  | | | | |
+| Versichertennummer | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertennummer> | X | | | | |
+| Versicherungsschutz Ende | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><VersicherungsschutzEnde> |  | | | | |
+| **Straßenadresse** |  |  | | | | |
+| Straße | <person><addr><STR>  <person><addr><ZIP> |  | | | | |
+| Ort | <person><addr><CTY> |  | | | | |
+| Hausnummer | <person><addr><HNR> |  | | | | |
+| Wohnsitzländercode | <person><addr><CNT> |  | | | | |
+| **alternativ** |  |  | | | | |
+| Postfach PLZ | <person><addr><ZIP> |  | | | | |
+| Postfach Ort | <person><addr><CTY> |  | | | | |
+| Postfach | <person><addr><POB> |  | | | | |
+| Kostentraegerkennung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Kostentraegerkennung> | X | | | | |
+| WOP-Kennzeichen (KV- | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><KVBereich><WOP> |  | | | | |
+| DMP-Kennzeichnung | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><DMP_Kennzeichnung> | X   (vgl. KVDT   P2-402) | | | | |
+| BesonderePersonengruppe | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung>  <BesonderePersonengruppe> | X  (vgl. KVDT   P2-401) | | | | |
+| Versichertenart | <local_header><sciphox-ssu>  <GesetzlicheKrankenversicherung><Versichertenart> | X | | | | |
+| Geschlecht | <administrative_gender_cd> | X   (vgl. KP2- | | | | |
 
-Seite 67 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 68 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Postfachadresse Bereich) vergleiche [[ angabe 52)
 
@@ -3039,7 +3031,7 @@ Das Geburtsdatum ist für die Ermittlung der Einschreibekriterien unabdingbar. D
 |---|---|
 | **P2-51** | Name der Krankenkasse |
 
-Seite 68 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 69 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3094,7 +3086,7 @@ Der Anwender muss dem Patienten einen Ausdruck der Dokumentation mitgeben könne
 - 1. Die Software muss einen Ausdruck der Dokumentation ermöglichen.
 - 2. Die Software muss sicherstellen, dass auf dem erzeugten Ausdruck alle Daten nach der aktuell gültigen  DMP-Richtlinie des G-BA ([GBA_DMP_A_RL]) ausgedruckt werden.
 
-Seite 69 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 70 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3130,7 +3122,7 @@ Mithilfe dieser Anforderung soll sichergestellt werden, dass die aus dem System 
 - 1. Das System muss dem Anwender ermöglichen, die Teilnahmeerklärung zu drucken.
 - 2. Das System muss beim Ausdruck der Teilnahmeerklärung stets die aktuell veröffentlichte Vorlage  inklusive der Abmaße berücksichtigen und vollständig ausdrucken.
 - 3. Die Bedruckung des Personalienfeldes erfolgt stets nach den Bedruckungsvorschriften des Kapitels „2.3  Bedruckung des Personalienfeldes“ aus dem Dokument „Anwendung der eGK - Technische Anlage zu  Anlage 4a (BMV-Ä)“ [KBV_ITA_VGEX_Mapping.pdf]
-- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2-210, P2-220 und P2-411 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
+- 4. Der im Personalienfeld zu druckende Kostenträgername muss anhand der Anforderungen P2-210, P2-220 und P2-410 aus dem Dokument [KBV_ITA_VGEX_Anforderungskatalog_KVDT] ermittelt werden.
 
 | PFLICHTFUNKTION EDMP |  |
 |---|---|
@@ -3140,7 +3132,7 @@ Das System weist den Anwender vor dem Versand einer erstmaligen Dokumentation au
 
 **Begründung:**
 
-Seite 70 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 71 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3186,7 +3178,7 @@ Das System muss,
 
 Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabetes mellitus Typ 2, KHK,  Herzinsuffizienz, chronischer Rückenschmerz, Depression, Osteoporose und Rheuma, welche mit einem  Erstelldatum ab dem 1. April 2023 erstellt bzw. exportiert werden, erhalten die folgenden Archivkürzel:
 
-Seite 71 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 72 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3235,7 +3227,7 @@ Die Dokumentationen der Indikation Asthma, COPD, Diabetes mellitus Typ 1, Diabet
 
 - a) Das System muss es automatisiert ermöglichen, die Dokumentationsdaten empfängerspezifisch zu  exportieren. Dazu ist die von der KBV bereitgestellte Stammdatei* Datenannahmestellen* einzusetzen.  Details zu den Vorgaben zum Einsatz dieser Stammdatei sind Kapitel 4.2 zu entnehmen.
 
-Seite 72 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 73 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3284,7 +3276,7 @@ Das System muss den Anwender auf die korrekte Beschriftung von eingesetzten Date
 
 Um die korrekte Zuordnung und Vollständigkeit der übermittelten Dokumente sicherzustellen, müssen  Datenträger beschriftet werden.
 
-Seite 73 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 74 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3320,7 +3312,7 @@ Der Übertragungsweg KIM kann zur Übermittlung der eDMP Dokumentationen verwend
 
 Wenn eine Datenannahmestelle das KIM-Verfahren gemäß der [eDMP 1.0] unterstützt, dann enthält die  SDDA einen entsprechenden Eintrag.
 
-Seite 74 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 75 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3362,13 +3354,15 @@ Es dürfen nur die Informationen im Barcode codiert werden, die auch auf der TE/
 
 - **1.** Die Software muss den Barcode an der definierten Position der TE/EWE auf der Ausfertigung (als  Vordruck und/oder als eigenständiger Ausdruck gemäß der bereitgestellten Vorlage
 
-Seite 75 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 76 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 Einwilligungserklärung 
 
 
 ---
 
+- EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend]) für die Datenstelle aufdrucken (siehe Kapitel 3.2.2
+- 3.2.2 Positionierung / Aufdruck des Barcodes
 - 1. Falls die auf der TE/EWE aufgedruckte Information auch als Inhalt des Barcodes definiert ist, muss die  Software diese Information unter Beachtung der Barcodedefinition in den Barcode codieren.
 - 2. Falls für ein definiertes Feld des Barcodes keine Information auf dem Formular aufgedruckt wird, muss  die Software das entsprechende Feld im Barcode leer codieren.
 - 3. Die Software darf außer der DMP-Fallnummer nur Informationen im Barcode codieren, die auch auf  dem Formular aufgedruckt werden. Die DMP-Fallnummer, welche nicht gesondert im Formular  aufgeführt wird, muss zusätzlich in den Barcode übernommen werden.
@@ -3391,15 +3385,11 @@ KBV_ITA_VGEX_Technisches_Handbuch_BFB] definierten Ruhezonen in den freien Berei
 
 Abbildung 3: Positionierung des PDF 417 Barcodes auf dem Formular Teilnahmeerklärung
 
-Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070E 070F) kann in der markierten Stelle in
+Auf der Datenstellenausfertigung der TE/EWE (Versionsmuster 070F) kann in der markierten Stelle in
 
 Abbildung 3 - unterhalb des Textes „Erklärung zur Teilnahme an einem strukturierten  Behandlungsprogramm für“ und oberhalb des Feldes „Krankenhaus-IK“ - ein 2D-Barcode (PDF 417)  gedruckt werden.
 
-EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend 3.2.2 Positionierung / Aufdruck des Barcodes
-
-Seite 76 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
-
-]) für die Datenstelle aufdrucken (siehe Kapitel 3.2.2
+Seite 77 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3407,9 +3397,9 @@ Seite 76 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 
 | NR. | FELDBEZEICHNUNG | FELDLÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-| **01** | **Formularcode** | 4 | a | 070E  070F | Name des Formulars |
+| **01** | **Formularcode** | 4 | a | 070F | Name des Formulars |
 | **02** | **Formularcodeergänzung** | 1 | a | a | Exemplar für die |
-| **03** | **Versionsnummer** | 2 | n | 02  03 |  |
+| **03** | **Versionsnummer** | 2 | n | 03 |  |
 | **04** | **Nachname** | <=45 | a |  |  |
 | **05** | **Vorname** | <=45 | a |  |  |
 | **06** | **Geburtsdatum** | 8 | n |  | Format: JJJJMMTT |
@@ -3418,7 +3408,7 @@ Seite 76 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 | **09** | **Versicherten-ID** | <=12 | a |  |  |
 | **10** | **Versichertenart** | 1 | n | 1,3,5 |  |
 | **11** | **Besondere Personengruppe** | 2 | n | 00, 04, 06, 07, 08, |  |
-| **12** | **DMP-Kennzeichnung** | 2 | n | 00, 01, 02, 03, 04,  10, 11, 12, 13, 30, |  |
+| **12** | **DMP-Kennzeichnung** | 2 | n | 00, 01, 02, 03, 04, |  |
 | **13** | **(Neben-)  Betriebsstättennummer** | 9 | n |  |  |
 | **14** | **LANR** | 9 | n |  |  |
 | **15** | **Ausstellungsdatum** | 8 | n |  | Format: JJJJMMTT |
@@ -3426,37 +3416,35 @@ Seite 76 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 | **17** | **Krankenhaus-IK** | 9 | n |  |  |
 | **18** | **Diabetes mellitus Typ 1 oder  2** | 1 | n |  | 1 = Diabetes Typ 1,  2 = Diabetes Typ 2 |
 | **19** | **Koronare Herzkrankheit oder  Herzinsuffizienz** | 1 | n |  | 1 = Koronare  2 = Herzinsuffizienz |
-| **20** | **Asthma oder COPD** | 1 | n |  | 1 = Asthma, |
+| **20** | **Asthma oder COPD** | 1 | n |  | 1 = Asthma,  2 = COPD |
 
-Seite 77 von 84 / KBV / Anforderungskatalog eDMP /
+Seite 78 von 85 / KBV / Anforderungskatalog eDMP /
 
 ## BARCODE INHALT
 
-Version: 2.50 / 21. August 2026
+Version: 2.51 / 13. November 2026
 
-05, 06, 07, 08, 09, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Datenstelle zusätzlicher Wertebereich: JJJJMM00, JJJJ0000, 00000000 Herzkrankheit,
+05, 06, 07, 08, 09, 10, 11, 12, 13, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58 Datenstelle zusätzlicher Wertebereich: JJJJMM00, JJJJ0000, 00000000 Herzkrankheit,
 
 ---
 
 | NR. | FELDBEZEICHNUNG | FELDLÄNGE | TYP | ERLAUBTE INHALTE | FORMAT/ BEMERKUNG |
 |---|---|---|---|---|---|
-|  | 2 = COPD | | | | |
 | **21** | **Brustkrebs** | 1 | n |  | 1 = angekreuzt |
 | **22** | **Depression** | 1 | n |  | 1 = angekreuzt |
 | **23** | **Rheumatoide Arthritis** | 1 | n |  | 1 = angekreuzt |
 | **24** | **Rückenschmerz** | 1 | n |  | 1 = angekreuzt |
 | **25** | **Osteoporose** | 1 | n |  | 1 = angekreuzt |
-| **26** | **Adipositas – Erwachsene oder  Adipositas – Kinder und  Jugendliche** | 1 | n |  | 1 = Adipositas –  Erwachsene   2 = Adipositas – Kinder  und Jugendliche |
+| **26** | **Adipositas – Erwachsene oder  Adipositas – Kinder und  Jugendliche** | 1 | n |  | 1 = Adipositas –  2 = Adipositas – Kinder |
 
 \|  |
 \|---|
 
 Tabelle 29: Inhalt des Barcodes des Formulars der Teilnahmeerklärung
 
-Seite 78 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 79 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-MAXIMALE GESAMTLÄNGE  189 + TABS   
-
+MAXIMALE GESAMTLÄNGE  189 + TABS
 
 ---
 
@@ -3509,7 +3497,7 @@ Mit einem Update zur KT-Stammdatei muss spätestens mit Beginn des neuen Quartal
 
 haben einen "amtlichen" Charakter, d. h. sie dürfen für den Anwender nicht veränderbar sein (nur  Anzeigefelder!).
 
-Seite 79 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 80 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3555,7 +3543,7 @@ Mit einem Update zur SDDA muss spätestens mit Beginn des neuen Quartals die neu
 
 **Hinweis:**
 
-Seite 80 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 81 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3599,7 +3587,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 - 2. Die Software stellt dem Anwender eine Funktion zur Verfügung, bestehende Datenannahmestellen-Stammsätze nach Maßgabe der in [ anzupassen.
 - 3. Die nach den Akzeptanzkriterien 1 und 2 durchgeführten Änderungen bleiben bis zur Anpassung der  Datengrundlage auf Grundlage einer aktualisierten SDDA erhalten.
 
-Seite 81 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 82 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 **darf** bereits unmittelbar nach Auslieferung der Datei seitens der KBV
 
@@ -3607,6 +3595,7 @@ Seite 81 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 
 - KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben
 - KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben
+
 
 ---
 
@@ -3630,7 +3619,7 @@ Da Ergänzungen oder Änderungen nach Redaktionsschluss der für das Folgequarta
 - KBV_ITA_VGEX_Schnittstelle_SDDA] aufgeführten Vorgaben anpassen.
 - 3. Die nach den Akzeptanzkriterien 1 und 2 durchgeführten Änderungen bleiben bis zur Anpassung der  Datengrundlage auf Grundlage einer aktualisierten SDDA erhalten.
 
-Seite 82 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 83 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
 ---
 
@@ -3662,10 +3651,9 @@ Seite 82 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 20
 | [KBV_ITA_VHEX_PHQ-9-Fragebogen] | PHQ-9-Fragebogen zur Bestimmung des |
 | [EXT_ITA_VGEX_Plausi_eDMP_Osteoporose] | Plausibilität eDMP Osteoporose |
 
-Seite 83 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 84 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Versorgung dem 01.07.2018 allgemeinen Datensatz zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Abs. 2 SGB V Jugendliche die Entscheidung über den Zustand der Asthmakontrolle beschrieben. Schweregrades nach Korff Schweregrades der Depression 
-
+Versorgung dem 01.07.2018 allgemeinen Datensatz zur Zusammenführung der Anforderungen an strukturierte Behandlungsprogramme nach § 137f Abs. 2 SGB V Jugendliche die Entscheidung über den Zustand der Asthmakontrolle beschrieben. Schweregrades nach Korff Schweregrades der Depression
 
 ---
 
@@ -3690,6 +3678,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 84 von 84 / KBV / Anforderungskatalog eDMP / Version: 2.50 / 21. August 2026
+Seite 85 von 85 / KBV / Anforderungskatalog eDMP / Version: 2.51 / 13. November 2026
 
-Primärsysteme Telematikinfrastruktur bzw. geschwollenen Gelenke  Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen 
+Primärsysteme Telematikinfrastruktur bzw. geschwollenen Gelenke  Markierung der druckschmerzhaften bzw. geschwollenen Gelenke Anwendung der elektronischen Gesundheitskarte für die Übermittlung von Nachrichten durch den sicheren Kommunikationsdienst KIM (Kommunikation im Medizinwesen) Versichertenstammdatenmanagements und der Basisdienste QES, Signatur und Verschlüsselung in Primärsystemen

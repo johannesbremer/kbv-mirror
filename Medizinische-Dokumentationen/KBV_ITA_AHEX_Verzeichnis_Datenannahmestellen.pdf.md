@@ -1,4 +1,4 @@
-**Übersicht der DMP-Datenannahmestellen (gültig ab 01.10.2026, Stand 06.08.2026)**
+**Übersicht der DMP-Datenannahmestellen (gültig ab 01.01.2027, Stand 03.11.2026)**
 
 | KV-Bereich | Einschränkung | Name | IK | Postanschrift | E-Mail-Adresse und KIM- | Ansprechpersonen |
 |---|---|---|---|---|---|---|
@@ -18,11 +18,11 @@ Services GmbH (ab 01.07.2025) DMP-Datenstelle Bayern GbR  Die Firma IQVIA Health
 | Berlin | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.07.2025) | data experts gmbh | 59 11 02 528 | DMP-Datenstelle Berlin  c/o data experts gmbh  Niederlassung Berlin  Allee der Kosmonauten 33g  12681 Berlin | DMP-Annahme-Berlin@data-experts.de    KIM-Adresse:  DMP-Datenstelle@data- experts.kim.telematik | DMP-Hotline:  Tel.: 030-54708-126  Fax: 030-54708-29126    dmpdatenstelle@data- experts.de |
 | Brandenburg | AOK, LKK, IKK, BKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD | data experts gmbh | 59 11 02 528 | DMP-Datenstelle Brandenburg  c/o data experts gmbh  Niederlassung Berlin  Postfach 400160  12631 Berlin | KIM-Adresse:  DMP-Datenstelle@data- experts.kim.telematik | DMP-Hotline:  Tel.: 030-54708-136  Fax: 030-54708-29126    dmpdatenstelle@data- experts.de |
 | Bremen | AOK, IKK, BKK, KBS, vdek, LKK  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.07.2024) | IQVIA Health System | 66 14 30 035 | IQVIA Health System Services  1 1   Abteilung DMP-HB  Postfach 50 06 62  04305 Leipzig | KIM-Adresse:  dmp-datenstelle@iqvia-hss.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-hb@iqvia-hss.de |
-| Hamburg | AOK, IKK, BKK, LKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.01.2025) | IQVIA Health System | 66 14 30 035 | IQVIA Health System Services  Abteilung DMP-HH  Postfach 50 07 53  04304 Leipzig | KIM-Adresse:  dmp-datenstelle@iqvia-hss.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-hh@iqvia-hss.de |
+| Hamburg | AOK, IKK, BKK, LKK, KBS, vdek  Diabetes mellitus Typ 1,  Diabetes mellitus Typ 2,  Brustkrebs,  KHK,  Asthma bronchiale,  COPD,  Osteoporose (ab 01.01.2025),  Rheumatoide Arthritis (ab | IQVIA Health System | 66 14 30 035 | IQVIA Health System Services  Abteilung DMP-HH  Postfach 50 07 53  04304 Leipzig | KIM-Adresse:  dmp-datenstelle@iqvia-hss.kim.telematik | DMP-Hotline:  Tel.: 0341-25920-43  Fax: 0341-25920-22    dmp-hh@iqvia-hss.de |
 
 Datenannahmestellen
 
-Services GmbH Services GmbH  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. GmbH GmbH Adresse für Dokumentations- datensätze Seite 2 von 6
+Services GmbH Services GmbH 01.01.2027)  Die Firma IQVIA Health System Services GmbH vergibt für jeden KV-Bezirk ein Postfach in Leipzig, an welches die Ärzte die Teilnahme- und Einwilligungserklärungen sowie Korrekturen schicken sollen. Für nähere Informationen wenden Sie sich bitte direkt an die Firma IQVIA Health System Services GmbH. GmbH GmbH Adresse für Dokumentations- datensätze Seite 2 von 6
 
 
 ---

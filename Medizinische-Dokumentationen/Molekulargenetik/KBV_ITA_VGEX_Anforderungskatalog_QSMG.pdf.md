@@ -11,7 +11,7 @@
 |  | Kassenärztliche Bundesvereinigung |
 |  | Version |
 
-kulargenetik 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
+kulargenetik 1.17 Datum: 13.11.2026 Kennzeichnung: Öffentlich  Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
@@ -20,10 +20,11 @@ kulargenetik 1.16 Datum: 14.11.2025 Kennzeichnung: Öffentlich  Status: In Kraft
 
 ### DOKUMENTENHISTORIE
 
-Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
+Die Änderungen vom 13.11.2026 treten zum 01.01.2027 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.17 | 13.11.2026 | KBV | Überführung der Anforderung | Importstatus der Datenannah- | **15** |
 | 1.16 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in kon- | Abschaltung KV-Connect | **15** |
 | 1.15 | 14.02.2025 | KBV | - | KIM als Übertragungsweg | **15** |
 | 1.14 | 07.05.2018 | KBV | -  - | Aktualisierung der KV- | **15** |
@@ -33,9 +34,9 @@ Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
 | 1.10 | 09.08.2012 | KBV | redaktionelle Überarbeitung | Anpassung an das neue |  |
 | 1.00 | 25.04.2012 | KBV | Neues Dokument |  |  |
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
-ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen Übermittlung. berücksichtigen ( Connect Spezifikation Layout Seite 2 von 19
+KP2-264 in P2-264. Klarstellende Erläuterungen hinzugefügt. ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenom- veralteter Links überarbeitet Pflichtfelder hinwegsetzen Übermittlung. berücksichtigen ( mestelle näher beschrieben Connect Spezifikation Layout Seite 2 von 19
 
 
 ---
@@ -86,7 +87,7 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 2.2.1 Übermittlung......................................................................................................................... 15
 
-2.2.2 Export der Daten .................................................................................................................. 17
+2.2.2 Export der Daten .................................................................................................................. 18
 
 2.2.3 Verschlüsseln der Daten ...................................................................................................... 18
 
@@ -94,11 +95,11 @@ ditionale Pflichtfunktion KP2- P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu
 
 **19**
 
-### INHALTSVERZEICHNIS
-
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+### INHALTSVERZEICHNIS
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 3 von 19
 
@@ -107,11 +108,11 @@ Seite 3 von 19
 
 **ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
-### ABBILDUNGSVERZEICHNIS
-
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+### ABBILDUNGSVERZEICHNIS
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 4 von 19
 
@@ -165,12 +166,10 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 (2-70) Seite 5 von 19
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17 (2-70) Seite 5 von 19
 
 
 ---
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 # 2 Ärztliches Dokumentieren
 
@@ -186,11 +185,7 @@ Die Bedieneroberfläche der Software muss eine lückenlose und korrekte Eingabe 
 
 Die in der Schnittstellenbeschreibung QS Molekulargenetik
 
-[KBV_ITA_VGEX_Schnittstelle_QSMG]
-
-fassbar sein.
-
-festgelegten Datenelemente müssen vollständig er-
+[KBV_ITA_VGEX_Schnittstelle_QSMG] festgelegten Datenelemente müssen vollständig er-fassbar sein.
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
@@ -198,29 +193,33 @@ festgelegten Datenelemente müssen vollständig er-
 
 Die Behandlungsfälle werden erstmals vom 01.04.2012 - 31.12.2012 erfasst, danach jährlich  vom 01.01.-31.12. des Untersuchungsjahres.
 
-Untersuchungsjahr: 01.01.-. 31.12 Das Kalenderjahr, in dem die molekulargenetischen  Untersuchungen durchgeführt werden.
+Untersuchungen durchgeführt werden.
 
-Meldequartal: 01.01.-. 31.03 Das sich an das Untersuchungsjahr anschließende
+Untersuchungsjahr: 01.01.-. 31.12 Das Kalenderjahr, in dem die molekulargenetischen
 
-Prüfquartal: 01.01
+Meldequartal: 01.01.-. Quartal.  31.03 Das sich an das Untersuchungsjahr anschließende
 
-Quartal.
+dient den Korrekturen.
 
-01.04.-. 30.06 Das sich an das Meldequartal anschließende Quartal  dient den Korrekturen.
+Prüfquartal:
 
-31.12
-
-### Untersuchungsjahr
+01.04.-. 30.06 Das sich an das Meldequartal anschließende Quartal
 
 **Abbildung 1: Berichtszeiträume**
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16 31.03
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik 01.01
+
+### Untersuchungsjahr
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17 31.12
+
+31.03
+
+30.06
 
 Melde-
 
-### quartal 30.06
-
-### Prüfquartal
+### Prüfquartal quartal
 
 Seite 6 von 19
 
@@ -259,7 +258,7 @@ Es werden nur abgeschlossene Behandlungsfälle berücksichtigt, für die mind. e
 
 Die Anzahl aller Behandlungsfälle (mit mind. einer Leistung aus dem EBM Unterabschnitt  11.4.2) ist für die Betriebsstätte zu berechnen und in der Jahresstatistik anzuzeigen.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 7 von 19
 
@@ -305,7 +304,7 @@ Es existieren verschiedene Befunde. Es gibt jedoch nur einen Befund im Sinne der
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 8 von 19
 
@@ -347,7 +346,7 @@ Die zu unterscheidenden Befunde sind in den Ausfüllhinweisen beschrieben
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 9 von 19
 
@@ -389,7 +388,7 @@ Beispiel
 
 Beispiel 3 Quotient differenziert nach Art des Befundes
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 wurden 50 GOPs abgerechnet. Quotient1: 50 / 25 = 2 den 30 GOPs abgerechnet. Quotient2: 30 / 10 = 3 wurden 50 GOPs abgerechnet. Quotient3: 50 / 20 = 2,5 Seite 10 von 19
 
@@ -438,7 +437,7 @@ Für die visuelle Darstellung beim Arzt wird die 8.-9.-Stelle der LANR gemäß d
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 11 von 19
 
@@ -472,7 +471,7 @@ Beispiel 4 Gesamtanzahl der Untersuchungen
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 12 von 19
 
@@ -518,7 +517,7 @@ somit nur nach entsprechender Kenntnisnahme durchgeführt werden.
 
 Eine Ausnahme bilden die Pflichtfelder, welche immer ausgefüllt werden müssen. Bedingte  Pflichtfelder hingegen sind optional, d.h. der Anwender kann sich über Warnungen zu diesen  Feldern hinwegsetzen.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 13 von 19
 
@@ -563,7 +562,7 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 14 von 19
 
@@ -592,23 +591,6 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss
 
 | PFLICHTFUNKTION QS Molekulargenetik | |
 |---|---|
-| **P1-265** | **QSMG auf Basis von KV-Connect** |
-
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Dokumentationen auf Basis von KV-Connect bereitstellen.
-
-**Begründung:**
-
-Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KV-Connect.
-
-**Akzeptanzkriterium:**
-
-- (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
--  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku
--  „KV-Connect Anbindung an KV-Connect“ in der stets aktuellen Version
-- Anbindung_KV_Connect
-
-| PFLICHTFUNKTION QS Molekulargenetik | |
-|---|---|
 | **P1-266** | **QSMG auf Basis von KIM** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Dokumentationen auf Basis von KIM bereitstellen.
@@ -617,39 +599,36 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSMG-Doku
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSMG-Dokumentation auf Basis von KIM.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+**Akzeptanzkriterium:**
+
+- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
+- dokumentes bereitstellen:
+-  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM
+
+**Hinweis:**
+
+Wenn eine KV für das Verfahren QSMG das KIM-Verfahren gemäß der
+
+Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-trag.
+
+| KONDITIONALE PFLICHTFUNKTION QS Molekulargenetik | |
+|---|---|
+| **KP2-264** | **Importstatus von der Datenannahmestelle** |
+
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM] an  den Absender der Dokumentationsdaten.
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 15 von 19
 
 
 ---
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+Beim Importieren wird die Dokumentations-Datei geprüft und anschließend eine KIM-Nachricht mit dem Import-Status und ggf. Fehlermeldungen erstellt.
 
-**Akzeptanzkriterium:**
+Die KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt, von der  aus der Anwender (Arzt) die exportierten Dateien über KIM übermittelt hat.
 
-- (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
-- dokumentes bereitstellen:
--  "eDokumentation V2.0“ in der stets aktuellen Version [
-
-**Bedingung:**
-
-- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei-willig.
-- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich-tend.
-
-**Hinweis:**
-
-Wenn eine KV für das Verfahren QSMG das KIM-Verfahren gemäß der
-
-Spezifikation_eDoku_KIM
-
-trag.
-
-| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Molekulargenetik | |
-|---|---|
-| **K KP2-264** | **E-Mail Rückmeldung Importstatus von der Datenannahmestelle** |
-
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten. E-Mail-Versand.  Beim Importieren wird die Verordnungs-Datei geprüft und eine E-Mail KIM-Nachricht mit dem  Import-Status und ggf. Fehlermeldungen wird erstellt.
+Das PVS muss dem Anwender die Möglichkeit bieten, den aktuellen Versand- / Importstatus  zu der übermittelten Jahresstatistik anzuzeigen.
 
 Es sind folgende Import-Status möglich:
 
@@ -657,27 +636,74 @@ Es sind folgende Import-Status möglich:
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
 | OK (implausibel) | Die Datei wurde erfolgreich importiert, aber sie ist implausibel. D.h. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- cher Zuordnung (BSNR, Jahr, GUID) vorhanden ist. |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht  P1-20) übermittelt. |
-
-Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
-
-Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
 **Bedingung:**
 
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+**Erläuterung zur Struktur der Rückmeldung der Datenstelle eDoku-Portal der KBV:**
 
-] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
+Die KIM-Nachricht der Rückmeldung des eDoku-Portals beinhaltet im KIM-Body für jede  übermittelte Dokumentation einen Importstatus.
 
-- Spezifikation_eDoku_KIM
+Die Informationen zu einer Dokumentation sind wie folgt aufgebaut (kursive Elemente sind  optional):
 
-Spezifikation_eDoku_KIM] an
+Datensatz X von XYZ
 
-es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 16 von 19
+GUID: [Die GUID aus der übermittelten Dokumentation]
+
+(N)BSNR: [Die (N)BSNR aus der übermittelten Dokumentation]
+
+Jahr: [Das Jahr aus der übermittelten Dokumentation]
+
+Status: OK | OK (implausibel) | Datei existiert bereits | Fehlgeschlagen
+
+*Hinweis*: [optionales Element: einzeiliger Freitext]
+
+*Erläuterung*: [optionales Element: mehrzeiliger Freitext als Aufzählung]
+
+**Beispiel des KIM-Body einer Rückmeldung der Datenstelle eDoku-Portal der KBV:**
+
+Vielen Dank für die Übermittlung Ihrer Daten. Bitte beachten Sie, dass diese Rückmeldung  automatisiert erstellt wurde.
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
+
+es sind Fehler in der Datei, die jedoch nicht zum Abbruch des Im- ports führen. gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 16 von 19
+
+
+---
+
+Falls Sie Ihre Angaben nachträglich einsehen oder ergänzen möchten, ist dies möglich, in-[dem Sie die Web-Adresse](https://edoku.kv-safenet.de/)[https://edoku.kv-safenet.de](https://edoku.kv-safenet.de/)[in Ihren Internet-Browser eingeben.](https://edoku.kv-safenet.de/) [Die Zugangsdaten zu diesem zugriffsgeschützten Bereich erhalten Sie von Ihrer Kassenärzt-](https://edoku.kv-safenet.de/) lichen Vereinigung. Für Rückfragen können Sie sich an Ihren PVS-Hersteller oder gerne an  unsere Mitarbeiter vom technischen Service wenden.
+
+Rückmeldung zu Ihren übermittelten Datensätzen gemäß Qualitätssicherungsvereinbarung  Molekulargenetik:
+
+Datensatz 1 von 1
+
+GUID: 111 (N)BSNR: 111222333
+
+Jahr: 2018
+
+Status: OK
+
+Hinweis: Die Daten wurden importiert und können in der Auswertung berücksichtigt werden.
+
+____________________
+
+Technischer Service
+
+Tel.: 030 4005-2121
+
+[edoku-service@kbv.de](mailto:edoku-service@kbv.de)
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
+
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
+
+Seite 17 von 19
 
 
 ---
@@ -701,22 +727,11 @@ b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen]
 - ben für den Export vorbereiten,
 - beschriebenen Vorga-
 
-c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Molekulargenetik und der KV-Connect KIM Begleitdatei besteht,
+c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Molekulargenetik und der KIM Begleitdatei besteht,
 
 d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 
 e) den Pfad zur Exportdatei dem Anwender bekannt machen.
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
-
-Seite 17 von 19
-
-
----
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
 ### 2.2.3 Verschlüsseln der Daten
 
@@ -726,33 +741,33 @@ Seite 17 von 19
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QS-MG-Datenverschlüsselung (Oeffentlich_QSMG_Vxy.key) zu verschlüs-seln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in  sen.
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
 
-[KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
 
 Seite 18 von 19
 
 
 ---
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
-
 # 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen Versor- |
 | [KBV_ITA_VGEX_Schnittstelle_QSMG] | Schnittstellenbeschreibung QS Molekulargenetik |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise zur betriebsstättenbezogenen Jahres- |
-| [KBV_ITA_VGEX_Plausi_QSMG] | Berechnungsvorschriften zur betriebsstättenbezoge- |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSMG] | Ausfüllhinweise zur betriebsstättenbezogenen Jahresstatistik |
+| [KBV_ITA_VGEX_Plausi_QSMG] | Berechnungsvorschriften zur betriebsstättenbezogenen Jah- |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [1] | Qualitätssicherungsvereinbarung Molekulargenetik  http://www.kbv.de/html/themen_2846.php |
 | [2] | Schlüsseltabelle S_BAR2_ARZTNRFACHGRUPPE |
-| [3] | Richtlinie der Bundesärztekammer zur Qualitätssiche- |
-| [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
+| [3] | Richtlinie der Bundesärztekammer zur Qualitätssicherung labo- |
+| [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentation V2.0“  in der stets aktuellen Version  https://partnerportal.kv- telematik.de/spaces/KDK/pages/71095111/Dokumente+zum+Download |
 
-KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.16
+**IT in der Arztpraxis**  Anforderungskatalog QS Molekulargenetik
 
-Versorgung statistik für Molekulargenetik nen Jahresstatistik in der Molekulargenetik rung laboratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversu- che) Seite 19 von 19
+KBV_ITA_VGEX_Anforderungskatalog_QSMG * Version 1.17
+
+gung für Molekulargenetik resstatistik in der Molekulargenetik ratoriumsmedizinischer Untersuchungen Tabelle B2-2 Externe Qualitätssicherung (Ringversuche) Seite 19 von 19

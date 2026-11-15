@@ -2,13 +2,13 @@ An alle Entwickler  von Praxis- und Laborverwaltungssystemen
 
 **Update der Kassenärztlichen Bundesvereinigung**
 
-**für das IV. Quartal 2026**
+**für das I. Quartal 2027**
 
 Sehr geehrte Damen und Herren,
 
-am heutigen Tag wird das Update für das IV. Quartal 2026 unter  [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)[veröffentlicht.](https://update.kbv.de/ita-update/)
+am heutigen Tag wird das Update für das I. Quartal 2027 unter  [https://update.kbv.de/ita-update/](https://update.kbv.de/ita-update/)[veröffentlicht.](https://update.kbv.de/ita-update/)
 
-[In dem vorliegenden Dokument haben wir Ihnen eine Übersicht zu den aktuellen](https://update.kbv.de/ita-update/) Ankündigungen, den wesentlichen Änderungen gegenüber dem Update vom 13.  Mai 2026 und allgemeine Informationen beigefügt.
+[In dem vorliegenden Dokument haben wir Ihnen eine Übersicht zu den aktuellen](https://update.kbv.de/ita-update/) Ankündigungen, den wesentlichen Änderungen gegenüber dem Update vom 14.  August 2026 und allgemeine Informationen beigefügt.
 
 Eine weiterführende Übersicht aller Dokumente mit Informationen zu relevanten  [Änderungen finden Sie in dem Dokument [](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_SIEX_Inhalt_Update.pdf)[KBV_ITA_SIEX_Inhalt_Update](https://update.kbv.de/ita-update/Allgemein/KBV_ITA_SIEX_Inhalt_Update.pdf)
 
@@ -18,240 +18,272 @@ Mit freundlichen Grüßen
 
 IT in der Arztpraxis
 
-Seite 1 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 /
+Seite 1 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 /
 
-Dezernat Digitalisierung und IT  Abteilung IT in der Arztpraxis
+Dezernat Digitalisierung und IT
+
+Abteilung IT in der Arztpraxis
 
 Tel.: 030 4005-2077
 
 E-Mail: [ita@kbv.de](mailto:ita@kbv.de)
 
-ITA 14 August 2026
+ITA
 
-14. August 2026
+13. November 2026
+13. November 2026
 
 
 ---
 
 # ANKÜNDIGUNGEN
 
-## ANBIETERMEETING: 32. ANBIETERMEETING DER KBV AM 1. OKTOBER 2026
+## KOB: UMSETZUNG DER KONFORMITÄTSBEWERTUNG (KOB) STUFE 3 FÜR MEDICATION SERVICE EPA 3.0
 
-Die KBV veranstaltet am 1. Oktober 2026 das 32. Anbietermeeting.
+Die Umsetzung der **KOB-Stufe 3 für den Medication Service ePA 3.0** erfolgt mit einer Umsetzungsfrist bis  zum **31. Dezember 2026**. Insbesondere mit Blick auf das Jahresende empfiehlt das KIG, die erforderlichen  Unterlagen und Nachweise möglichst frühzeitig einzureichen, um ausreichend Zeit für die fachliche Prüfung  sowie gegebenenfalls notwendige Nachbesserungen einzuplanen. Bei erhöhtem Einreichungsaufkommen  können verlängerte Bearbeitungszeiten nicht ausgeschlossen werden.
 
-Eingeladen sind die Vertreter der Anbieter KBV-zertifizierter Softwareprodukte für den Praxis- und  Laborbereich, die Provider und Applikationsanbieter sowie die Vertreter der Kassenärztlichen  Vereinigungen.
+[Alle Informationen zur Konformitätsbewertung finden Sie auf der entsprechenden](https://www.ina.gematik.de/kompetenzzentrum/wirkungsfelder-im-ueberblick/konformitaetsbewertung/konformitaetsbewertung-im-rahmen-des-rollouts-der-epa-fuer-alle)**[INA-Seite](https://www.ina.gematik.de/kompetenzzentrum/wirkungsfelder-im-ueberblick/konformitaetsbewertung/konformitaetsbewertung-im-rahmen-des-rollouts-der-epa-fuer-alle)**
 
-Die Veranstaltung findet
+Bitte beachten Sie die Ablauffristen der **KOB-Stufe 2**[und die rechtzeitige Einreichung der](https://www.ina.gematik.de/kompetenzzentrum/wirkungsfelder-im-ueberblick/konformitaetsbewertung/konformitaetsbewertung-im-rahmen-des-rollouts-der-epa-fuer-alle)**[KOB-Stufe 3](https://www.ina.gematik.de/kompetenzzentrum/wirkungsfelder-im-ueberblick/konformitaetsbewertung/konformitaetsbewertung-im-rahmen-des-rollouts-der-epa-fuer-alle)** damit durchgehend ein gültiges Zertifikat vorliegt.
 
-**als Hybrid-Veranstaltung**
+Bei Rückfragen wenden Sie sich bitte an das KIG. Nähere Informationen finden Sie unter  [https://www.ina.gematik.de/service-support/kontakt](https://www.ina.gematik.de/service-support/kontakt)
 
-**am 1. Oktober 2026**
+## SDHDRG: ANKÜNDIGUNG DER AKTUALISIERUNG DES HYBRID-DRG-STAMMDATENPAKETES FÜR DAS  ERSTE QUARTAL 2027
 
-**von 10:00 bis ca. 16:30 Uhr**
+Aufgrund der noch laufenden Verhandlungen konnte in diesem Quartalsupdate keine aktualisierte Hybrid-DRG Stammdatei für das Jahr 2027 bereitgestellt werden.
 
-statt.
+Die Bereitstellung der Hybrid-DRG-Stammdateien erfolgt voraussichtlich Anfang bis Mitte Dezember 2026.
 
-[Auch in diesem Jahr haben wir wieder eine interessante](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)[Agenda](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)[für Sie zusammengestellt.](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)
+## ARV: ANKÜNDIGUNG DER AKTUALISIERUNG DES ARV-STAMMDATENPAKETES FÜR DAS ERSTE QUARTAL  2027
 
-[Freuen Sie sich auf das 32. Anbietermeeting der KBV und reservieren Sie sich bereits jetzt die Teilnahme am](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting) [Meeting über das](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)[Anmeldeformular auf unserer Website](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)[. Bitte warten Sie mit einer möglichen Reise- sowie](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting) [Hotelbuchung bis Sie eine Bestätigung zur Vor-Ort-Teilnahme von uns erhalten haben.](https://www.kbv.de/infothek/veranstaltungen/32-anbietermeeting)
+Aufgrund der noch laufenden Abstimmungen in der KV Niedersachsen konnte im heutigen Quartalsupdate  keine aktualisierte Stammdatei für diese KV bereitgestellt werden.
 
-## KOB: START DER KONFORMITÄTSBEWERTUNG STUFE 3 FÜR DEN MEDIKATIONSSERVICE DER EPA  RELEASE 3.1.3 (DGMP)
+Die Bereitstellung der ARV-Stammdatei erfolgt voraussichtlich Anfang Dezember 2026.
 
-Zum 1. September 2026 startet die Konformitätsbewertung (KOB) Stufe 3 für den Medikationsservice der  [ePA Release 3.1.3 im Rahmen des digital gestützten Medikationsprozesses (dgMP). Die in den](https://www.ina.gematik.de/detailansicht/standard/iop-anforderung-gemaess-385-sgb-v-im-rahmen-der-epa-fuer-alle-new6a0b67cea69e8528644491)[IOP-](https://www.ina.gematik.de/detailansicht/standard/iop-anforderung-gemaess-385-sgb-v-im-rahmen-der-epa-fuer-alle-new6a0b67cea69e8528644491) [Anforderungen](https://www.ina.gematik.de/detailansicht/standard/iop-anforderung-gemaess-385-sgb-v-im-rahmen-der-epa-fuer-alle-new6a0b67cea69e8528644491)[beschriebenen Anforderungen und Testfälle sind von bestätigungsrelevanten Systemen](https://www.ina.gematik.de/detailansicht/standard/iop-anforderung-gemaess-385-sgb-v-im-rahmen-der-epa-fuer-alle-new6a0b67cea69e8528644491) [durchzuführen.](https://www.ina.gematik.de/detailansicht/standard/iop-anforderung-gemaess-385-sgb-v-im-rahmen-der-epa-fuer-alle-new6a0b67cea69e8528644491)
+## IMPLANTATEREGISTER: ABSCHALTUNG DER IMPLANTATEREGISTER-MELDEANWENDUNG FÜR  BRUSTIMPLANTATE ZUM 31. DEZEMBER 2026
 
-Mit der Einführung der KOB Stufe 3 werden die bisherigen Konformitätsbewertungen der elektronischen  Medikationsliste (eML) schrittweise abgelöst. Für Hersteller, deren Zertifikate der KOB Stufe 2 der  elektronischen Medikationsliste (eML) im Übergangszeitraum auslaufen, besteht die Möglichkeit, eine  [Verlängerung bis zum 31. Dezember 2026 über die](https://service.gematik.de/servicedesk/customer/portal/26/group/36)[INA-Serviceplattform](https://service.gematik.de/servicedesk/customer/portal/26/group/36)[der gematik zu beantragen.](https://service.gematik.de/servicedesk/customer/portal/26/group/36)
+Zum 31. Dezember 2026 wird die Meldeanwendung des Implantate-Registers für Brustimplantate  abgeschaltet.
 
-[Bei Rückfragen wenden Sie sich bitte das KIG, nähere Informationen finden Sie unter](https://service.gematik.de/servicedesk/customer/portal/26/group/36) [https://www.ina.gematik.de/service-support/kontakt](https://www.ina.gematik.de/service-support/kontakt)
+Um ab dem 1. Januar 2027 weiterhin implantatbezogene Maßnahmen für Brustimplantate melden zu  können, benötigen Ihre Kunden, die bisher IRMA genutzt haben, bis dahin eine entsprechende  Meldekomponente im PVS.
 
-## IMPLANTATEREGISTER: TECHNISCHE SPEZIFIKATION VERSION 5.1.0 FÜR DAS JAHR 2027
+[Weitere Informationen zur Abschaltung finden Sie auf der](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[Webseite des IRD mit Informationen für](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen) [Gesundheitseinrichtungen](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[im Abschnitt „Meldung und Meldeverfahren“.](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)
 
-[Seit Mitte Juli ist die](https://xml.ir-d.de/rst/schema/verbindlich/V5.1.0/)[XML-Spezifikation in der Version 5.1.0](https://xml.ir-d.de/rst/schema/verbindlich/V5.1.0/)[für die Meldung von implantatbezogenen](https://xml.ir-d.de/rst/schema/verbindlich/V5.1.0/) [Maßnahmen veröffentlicht und steht zum Download bereit.](https://xml.ir-d.de/rst/schema/verbindlich/V5.1.0/)**Diese Version 5.1.0 ist für das Jahr 2027**  **verbindlich** und beruht auf der im April 2026 veröffentlichten Request-for-comments-Version 5.0.0. Sie  beschreibt Meldung, Korrektur und Stornierung von implantatbezogenen Maßnahmen mit  Brustimplantaten, Endoprothesen für Hüfte und Knie sowie Aortenklappenprothesen. Sie ist hinsichtlich  der zu übermittelnden Datensätze für Endoprothesen an Hüfte und Knie zwischen der  Endoprothesenregister Deutschland gGmbH (EPRD) und dem Implantateregister Deutschland harmonisiert.
+[Ebenso finden Sie unter](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[https://xml.ir-d.de/rst/download/ge/Rundschreiben/](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/meldung-der-gesundheitseinrichtungen)[ein entsprechendes](https://xml.ir-d.de/rst/download/ge/Rundschreiben/) [Rundschreiben des BMGs vom 15. Oktober 2026.](https://xml.ir-d.de/rst/download/ge/Rundschreiben/)
 
-Seite 2 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
-
----
-
-Die in dieser Version enthaltenen ICD- und OPS-Kodes werden ggf. Anfang November an die im Herbst  erscheinende Endfassung des ICD und OPS angepasst.
-
-Bei Rückfragen zur Spezifikation wenden Sie sich bitte an das Helpdesk der Register- und Vertrauensstelle  [des IRD. Das Helpdesk erreichen Sie über das](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/kontaktformular-ird)[Kontaktformular](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/kontaktformular-ird)[. Achtung: Nachdem Sie auf den Button](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/kontaktformular-ird) [„Erstellen“ geklickt haben, erhalten Sie eine E](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/kontaktformular-ird)[-Mail mit einem Link. Nur wenn Sie mit dem Link Ihre Anfrage](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland/kontaktformular-ird) bestätigen, wird Ihre Anfrage weiterverarbeitet. Alternativ können Sie uns auch eine E-Mail schreiben an  [helpdesk-registerstelle-ird@bmg.bund.de](mailto:helpdesk-registerstelle-ird@bmg.bund.de)
-
-[Weitere Informationen und Downloads finden Sie auf den](mailto:helpdesk-registerstelle-ird@bmg.bund.de)[Webseiten zum Implantateregister Deutschland](https://www.bundesgesundheitsministerium.de/implantateregister-deutschland.html)
-
-## ARV: ANKÜNDIGUNG DER AKTUALISIERUNG DES ARV-STAMMDATENPAKETES FÜR DAS VIERTE QUARTAL  2026
-
-Aufgrund der noch laufenden Abstimmungen in der KV Bremen konnte im heutigen Quartalsupdate keine  aktualisierte Stammdatei für die KV-Region Bremen bereitgestellt werden.
-
-Die Bereitstellung der ARV-Stammdatei der KV Bremen erfolgt Ende der kommenden Woche.
-
-## KV.DIGITAL: ELEKTRONISCHE MELDUNG VON KINDER-FRÜHERKENNUNGSUNTERSUCHUNGEN IN  HAMBURG AB FEBRUAR 2027
-
-Die Freie und Hansestadt Hamburg plant, Meldungen über durchgeführte Kinder-Früherkennungsuntersuchungen („U Untersuchungen“) ab Februar 2027 elektronisch per KIM  anzunehmen.
-
-Im Rahmen der nächsten Sprechstunde der kv.digital stellt die kv.digital gemeinsam mit der Sozialbehörde  Hamburg das Vorhaben und die geplante Pilotierung vor. Interessierte PVS-Hersteller sind dazu herzlich  eingeladen. Eine Anmeldung ist nicht erforderlich.
-
-**Dienstag, 1. September 2026**
-
-10:30 bis 11:30 Uhr
-
-Teilnahme über  **Zoom:**[](https://us02web.zoom.us/j/82914317224?pwd=M1pnWXh1WEYzTm5Jc2J6eXBsMW5lZz09)[https://us02web.zoom.us/j/82914317224?pwd=M1pnWXh1WEYzTm5Jc2J6eXBsMW5lZz09](https://us02web.zoom.us/j/82914317224?pwd=M1pnWXh1WEYzTm5Jc2J6eXBsMW5lZz09)[](https://us02web.zoom.us/j/82914317224?pwd=M1pnWXh1WEYzTm5Jc2J6eXBsMW5lZz09)
-
-[Meeting-ID: 829 1431 7224](https://us02web.zoom.us/j/82914317224?pwd=M1pnWXh1WEYzTm5Jc2J6eXBsMW5lZz09)
-
-Kenncode: 335603
-
-[Datenschutzhinweise der kv.digital für die Teilnahme an Zoom-Konferenzen:](https://partnerportal.kv-telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-Konferenzen)[https://partnerportal.kv-](https://partnerportal.kv-telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-Konferenzen) [telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-](https://partnerportal.kv-telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-Konferenzen) [Konferenzen](https://partnerportal.kv-telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-Konferenzen)[](https://partnerportal.kv-telematik.de/spaces/KVTG/pages/282133195/Datenschutzhinweise+f%C3%BCr+die+Teilnahme+an+Zoom-Konferenzen)
-
-## EBM: AKTUALISIERUNG DES EBM-STAMMDATEISCHEMAS ZUM 1. JANUAR 2027
-
-Zum ersten Quartal 2027 erfolgt eine Anpassung des XSD-Schemas der EBM-Stammdatei. Hintergrund der  Aktualisierung sind KV interne Anpassungen an den Abrechnungsprozessen.
-
-[Sie finden das angepasste Schema unter](https://update.kbv.de/ita-update/Stammdateien/SDEBM/2027_Q1/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/SDEBM/2027_Q1/) [update/Stammdateien/SDEBM/2027_Q1/](https://update.kbv.de/ita-update/Stammdateien/SDEBM/2027_Q1/)
-
-Seite 3 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
+Seite 2 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
 
 ---
 
-# ÜBERBLICK DER ÄNDERUNGEN GEGENÜBER DEM UPDATE VOM 13.  MAI 2026
+## ZPORT: WARTUNGSFENSTER AM 23. NOVEMBER 2026
+
+Wir möchten Sie über die geplanten Wartungsarbeiten am Zertifizierungsportal der KBV am 23. November  2026 von 07:00 bis 12:00 Uhr informieren.
+
+Das Zertifizierungsportal der KBV steht Ihnen in der Zeit nicht zur Verfügung.
+
+## UTF8: START DER KOMMENTIERUNG ZUR UTF8 EINFÜHRUNG
+
+Mit der Einführung des VSDM2 in der Telematikinfrastruktur werden Versichertenstammdaten von den  Krankenkassen nicht mehr in der Zeichenkodierung ISO 8859-15 bereitgestellt, sondern in der  Zeichenkodierung UTF-8 nach DIN 91379.
+
+Softwaresysteme, die Versichertenstammdaten verarbeiten, müssen daher in der Zukunft angepasst  werden, damit die neue Zeichenkodierung nach UTF-8 (Unicode Normalform C/NFC) und der größere  Zeichensatz nach DIN 91379 unterstützt werden.
+
+Um die notwendigen Anpassungen möglichst reibungsarm für alle Beteiligten zu erreichen, bitten wir Sie an  dieser Stelle, uns Ihre Gedanken zur Umstellung sowie zu einigen konkreten Anpassungsvorschlägen  mitzuteilen.
+
+Sie finden die Kommentierung auf dem KBV-Hub unter  [https://hub.kbv.de/spaces/UTF8E/pages/463511231/UTF-8+Einf%C3%BChrung](https://hub.kbv.de/spaces/UTF8E/pages/463511231/UTF-8+Einf%C3%BChrung)
+
+[Die Teilnahme an der Kommentierung ist bis zum 20. Dezember 2026 möglich.](https://hub.kbv.de/spaces/UTF8E/pages/463511231/UTF-8+Einf%C3%BChrung)
+
+## EGK: LANDESPOLIZEI SACHSEN PLANT DIE EINFÜHRUNG DER EGK IM ERSTEN QUARTAL 2027
+
+Die Landespolizei Sachsen plant im ersten Quartal 2027 die Einführung der eGK für ihre Versicherten.  Hierfür wurde in der KT-Stammdatei der KBV das neue IK 951488034 hinterlegt.
+
+Nach aktuellen Informationen sollen Anfang Januar 2027 erste Tests in der PU der TI durchgeführt werden.
+
+##
+
+Seite 3 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
+
+---
+
+# ÜBERBLICK DER ÄNDERUNGEN GEGENÜBER DEM UPDATE VOM 14.  AUGUST 2026
 
 ## KVDT: WEITERENTWICKLUNG DER KVDT-DATENSATZBESCHREIBUNG UND DES KVDT- ANFORDERUNGSKATALOGES
 
-Im Rahmen der allgemeinen Weiterentwicklung wurden im KVDT-Anforderungskatalog die Anforderungen  KP2-565 („Behandlungstag bei IVD Leistungen“ (Feld FK 4214) bei Muster 10, 10A und 39) sowie KP2-966  (Erinnerungsfunktion bei bewilligter Psychotherapie **ohne** Restkontingent aus einem Vorquartal) aufgrund  von Rückmeldungen aus der Industrie klargestellt. Bei den KVDT-Anforderungen für die  Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen wurden Hinweise zum Umgang  mit Vorquartalsfällen aufgenommen.
+[Im Rahmen der Änderungen des](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gkv-beitragssatzstabilisierungsgesetz)[BStab Gesetzes](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gkv-beitragssatzstabilisierungsgesetz)[wurden Anpassungen am Kapitel 2.3.1 (ehemals](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gkv-beitragssatzstabilisierungsgesetz) [Behandlungen auf Grundlage des Terminservice- und Versorgungsgesetzes](https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gkv-beitragssatzstabilisierungsgesetz)“ nun „2.3.1 Kennzeichnung bei  Terminvermittlung oder Behandlung in offener Sprechstunde“) vorgenommen. Im Zusammenhang mit  dieser Änderung wurde die Anforderungen KP2-513 „Auswahl/Vorschlag zeitgestaffelter Zuschläge  aufgrund vermittelter Termine“ gestrichen. Darüber hinaus wurden Verbesserung bzgl. VSDM 2.0,  redaktionelle Korrekturen und eine Anpassung des Orientierungswertes vorgenommen.
 
-In der KVDT-Datensatzbeschreibung wurde die Erweiterung der DMP-Kennzeichen in Regel 536 sowie die  Änderungen aus dem KVDT-Anforderungskatalog umgesetzt.
+In der KVDT-Datensatzbeschreibung wurde für die FK 5027 „Hybrid-DRG Leistung“ die Feldlänge sowie das  zulässige Format erweitert. Hintergrund sind erwartete Anpassungen den Hybrid-DRG Fallpauschalen   siehe hierzu die angekündigte Nachlieferung der Hybrid-DRG-Stammdatei.
 
 Die detaillierten Änderungen finden Sie im KVDT-Anforderungskatalog sowie in der KVDT-Datensatzbeschreibung in der Dokumentenhistorie und in den Dokumenten unter  [https://update.kbv.de/ita-update/Abrechnung/](https://update.kbv.de/ita-update/Abrechnung/)
 
-## KV NORDRHEIN: EINSTELLUNG DES NDT-DATENSATZES
+[Hinweis:](https://update.kbv.de/ita-update/Abrechnung/)
 
-Aufgrund der Umstellung aller Notdienstpraxen der KV Nordrhein und des Fahrdienstes der KV Nordrhein  auf ein zentrales Praxisverwaltungssystem wird der NDT-Datensatz nicht mehr benötigt. Die NDT-Prüfnummern (Komponente 7) werden in der KVDT-Zulassungsliste der KBV nicht mehr geführt. Mit dem  KVDT-Prüfmodul ab dem dritten Quartal 2026 entfällt daher die Prüfung auf eine gültige NDT-Zulassungsnummer. Die Prüfung der erzeugten NDT-Dateien funktioniert weiterhin, sofern die Dateien den  Vorgaben der KVDT-Datensatzbeschreibung genügen.
+Im Zusammenhang mit der Gültigkeit von Überweisungen mittels Muster 6 müssen die Regelung gemäß  [https://www.kbv.de/documents/infothek/publikationen/praxisinfo/praxisinfo-ueberweisungen.pdf](https://www.kbv.de/documents/infothek/publikationen/praxisinfo/praxisinfo-ueberweisungen.pdf)[](https://www.kbv.de/documents/infothek/publikationen/praxisinfo/praxisinfo-ueberweisungen.pdf) [beachtet werden.](https://www.kbv.de/documents/infothek/publikationen/praxisinfo/praxisinfo-ueberweisungen.pdf)
 
-## DMP-KENNZEICHEN: ERWEITERUNG DER SCHLÜSSELTABELLE S_KBV_DMP
+## SDEBM: AKTUALISIERUNG DES EBM-STAMMDATEISCHEMAS ZUM 1. JANUAR 2027
 
-Wie bereits im Update am 13. Mai 2026 angekündigt, wird zum 1. Oktober 2026 das neue DMP-Kennzeichen 13 (Adipositas Kinder und Jugendliche) eingeführt. In diesem Zusammenhang haben wir die  folgenden Vorgaben aktualisiert:
+Zum ersten Quartal 2027 erfolgt eine Anpassung des XSD-Schemas der EBM-Stammdatei. Hintergrund der  Aktualisierung sind KV interne Anpassungen an den Abrechnungsprozessen.
 
-- Validierungspaket der eAU, des eRezeptes sowie von eVDGA
-- [https://update.kbv.de/ita-update/DigitaleMuster/ERP/](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)[](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
-- [https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)[](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
-- [https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
-- [Barcodes der Blankoformularbedruckung, hierbei haben wir auf eine Anpassung der Versionsnummer](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/) der einzelnen Barcodes verzichtet, um den Aufwand der Einführung des neuen DMP-Kennzeichens  gering zu halten
-- [https://update.kbv.de/ita-update/Blankoformulare/](https://update.kbv.de/ita-update/Blankoformulare/)[](https://update.kbv.de/ita-update/Blankoformulare/)
+[Sie finden das angepasste Schema unter](https://update.kbv.de/ita-update/Stammdateien/SDEBM/)[https://update.kbv.de/ita-update/Stammdateien/SDEBM/](https://update.kbv.de/ita-update/Stammdateien/SDEBM/)
 
-Seite 4 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
+## HGNC: BEREITSTELLUNG DER SCHLÜSSELTABELLE FÜR HGNC KODIERUNG ZUM ERSTEN QUARTAL 2027
 
----
+Im Rahmen des Updates zum ersten Quartal 2027 stellen wir Ihnen die Schlüsseltabelle zur HGNC-Kodierung als Stammdatei zur Verfügung.
 
-- LDT-Datensatzbeschreibung
-- [https://update.kbv.de/ita-update/Labor/Labordatenkommunikation/](https://update.kbv.de/ita-update/Labor/Labordatenkommunikation/)[](https://update.kbv.de/ita-update/Labor/Labordatenkommunikation/)
+Sie finden die HGNC-Schlüsseltabelle (74E27101.sdhgnc.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2027.1.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
 
-## DMP: NEUE FASSUNG DER TEILNAHME- UND EINWILLIGUNGSERKLÄRUNG (TE/EWE) AB 1. OKTOBER 2026
+## EAU: AKTUALISIERUNG DER TECHNISCHEN ANLAGE EAU ZUM 1. JANUAR 2027
 
-Wir möchten Sie daran erinnern, dass ab dem 1. Oktober 2026 die überarbeitete Teilnahme- und  Einwilligungserklärung (TE/EWE) in der Fassung vom 24.04.2025 zu verwenden ist. Das bereits  veröffentlichte Formular wurde vom Bundesamt für Soziale Sicherung (BAS) freigegeben. Das TE/EWE-[Formular steht Ihnen unter](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend.pdf)[https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend.pdf) [Dokumentationen/EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend.pdf](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend.pdf)[zur Verfügung.](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/EXT_ITA_AHEX_Teilnahme_eDMP_Uebergreifend.pdf)
+Damit zukünftig noch besser sichergestellt werden kann, dass nur berechtigte Personen und  Organisationen eAUs versenden können und diese von den Krankenkassen geprüft und verarbeitet werden,  wurden Anpassungen an der Technischen Anlage eAU vorgenommen.
 
-## DMP: BEREITSTELLUNG GEÄNDERTER EDMP VORGABEN FÜR DEN 1. OKTOBER 2026
-
-Wie im Quartalsupdate vom 13. Februar 2026 informiert, werden zum 1. Oktober 2026 die neuen eDMP-Schnittstellen Adipositas Erwachsene und Adipositas Kinder und Jugendliche eingeführt. Im Rahmen dieser  Einführung waren zudem Anpassungen an den übergreifenden Plausibilitäten erforderlich, die sich auf alle  eDMP-Schnittstellen auswirken.
-
-Zum 1. Oktober 2026 treten ebenso die G-BA Anpassung der DMP Diabetes 1 und 2 sowie KHK in Kraft.
-
-Sie finden die angepassten Schnittstellen, Plausibilitäten, Teilnahmeerklärung und den Anforderungskatalog  [auf dem Updateserver unter](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)[https://update.kbv.de/ita-update/Medizinische-Dokumentationen/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)
-
-## SDDA: START DES EDMP-HI IN DER KV HESSEN SOWIE DES EDMPS-RHEUMA IN ZWEI WEITEREN KVEN  ZUM 1. OKTOBER 2026
-
-Zum 1. Oktober 2026 startet in der KV Hessen das eDMP Herzinsuffizienz. Nähere Informationen hierzu  [finden Sie auf der Webseite der KV Hessen unter](https://www.kvhessen.de/dmp-1)[https://www.kvhessen.de/dmp-1](https://www.kvhessen.de/dmp-1)
-
-[Ebenso startet in den KVen Thüringen und Nordrhein das eDMP Rheumatoide Arthritis.](https://www.kvhessen.de/dmp-1)
-
-Sie finden die aktualisierte SDDA (74E26404.sdda.01.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2026.4.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
-
-[Die aktualisierte Datenstellenübersicht finden Sie unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf) [Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf)
-
-## HGNC: BEREITSTELLUNG DER SCHLÜSSELTABELLE FÜR HGNC KODIERUNG ZUM VIERTEN QUARTAL 2026
-
-Im Rahmen des Updates zum vierten Quartal 2026 stellen wir Ihnen die Schlüsseltabelle zur HGNC-Kodierung als Stammdatei zur Verfügung.
-
-Sie finden die HGNC-Schlüsseltabelle (74E26401.sdhgnc.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2026.4.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
-
-Seite 5 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
+Seite 4 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
 
 ---
 
-## EVDGA: AKTUALISIERUNG DES STYLESHEETS ZUM 1. OKTOBER 2026
+Ebenso wurde klargestellt, dass eAUs weiterhin nicht für Versicherte der privaten Krankenversicherungen  per KIM versendet werden dürfen.
 
-Aufgrund der Verbesserung der Darstellung von langen Kostenträgernamen wurde eine Anpassung des  eVDGA-Stylesheets bereitgestellt.
+[Sie finden die aktualisierte Technische Anlage eAU unter](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/eAU/) [update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)
 
-[Sie finden das aktualisierte Stylesheet unter](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)[https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/](https://update.kbv.de/ita-update/DigitaleMuster/eVDGA/)
+[Bitte beachten Sie, dass in diesem Zusammenhang auch die Schlüsseltabelle „](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)S_EAU_AU_ERROR_KASSE  aktualisiert wurde.
 
-## EAU: AKTUALISIERUNG DES STYLESHEETS ZUM 1. OKTOBER 2026
+[Sie finden die Aktualisierung unter](https://applications.kbv.de/S_EAU_AU_ERROR_KASSE_V1.01.xhtml)[https://applications.kbv.de/S_EAU_AU_ERROR_KASSE_V1.01.xhtml](https://applications.kbv.de/S_EAU_AU_ERROR_KASSE_V1.01.xhtml)[](https://applications.kbv.de/S_EAU_AU_ERROR_KASSE_V1.01.xhtml) [sowie auf Simplifier unter](https://simplifier.net/kbvschluesseltabellen)[https://simplifier.net/kbvschluesseltabellen](https://applications.kbv.de/S_EAU_AU_ERROR_KASSE_V1.01.xhtml)
 
-Aufgrund der Verbesserung der Darstellung von langen Kostenträgernamen wurde eine Anpassung des  eAU-Stylesheets bereitgestellt.
+## EAU-BPOL: EMPFANG VON EAUS ZUM 1. DEZEMBER 2026
 
-[Sie finden das aktualisierte Stylesheet unter](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)[https://update.kbv.de/ita-update/DigitaleMuster/eAU/](https://update.kbv.de/ita-update/DigitaleMuster/eAU/)
-
-## EREZEPT: AKTUALISIERUNG DES STYLESHEETS SOWIE DER TECHNISCHEN ANLAGE ZUM 1. OKTOBER 2026
-
-Aufgrund der Verbesserung der Darstellung von langen Kostenträgernamen wurde eine Anpassung des  eRezept-Stylesheets bereitgestellt.
-
-Ebenso wurden kleinere Anpassungen der Anforderungen in der Technischen Anlage vorgenommen.
-
-[Sie finden die zum 1. Oktober 2026 gültigen Vorgaben unter](https://update.kbv.de/ita-update/DigitaleMuster/ERP/) [update/DigitaleMuster/ERP/](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
-
-[Des Weiteren möchten wir darauf hinweisen, dass eine neue Beispieldatei für T-Rezepte als Rezeptur](https://update.kbv.de/ita-update/DigitaleMuster/ERP/) bereitgestellt wurde.
-
-## SDKVCA: AKTUALISIERUNG DER STAMMDATEI KVCA (SDKVCA) FÜR DAS DRITTE QUARTAL 2026
-
-Zum 17. August 2026 wird die KV Brandenburg die Hybrid-DRG-Abrechnung via KIM gemäß  1ClickHybridDRG annehmen.
-
-Sie finden die SDKVCA-Stammdatei (74E26301.sdkvca.01.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2026.3.5.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
+Wir möchten Sie darüber informieren, dass die Bundespolizei (BPol) Heilfürsorge ab dem 1. Dezember 2026  eAUs für Ihre Versicherten annimmt.
 
 ## SDKVCA: AKTUALISIERUNG DER STAMMDATEI KVCA (SDKVCA) FÜR DAS VIERTE QUARTAL 2026
 
-Mit Beginn des vierten Quartals 2026 wird die KV Brandenburg auch eHKS-Dokumentationen via KIM  annehmen.
+Zum 15. November 2026 ändert die KV Thüringen die KIM-Adresse für die Anwendungen  1ClickAbrechnung, eHKS und QSPB.
 
-Sie finden die SDKVCA-Stammdatei (74E26401.sdkvca.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2026.4.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
+Diese Änderung haben wir Ihnen am 23. Oktober 2026 zur Verfügung gestellt. Die entsprechende  [Stammdatenlieferung finden Sie auf Updateserver unter](https://update.kbv.de/ita-update/Vorquartale/ita_update_2026_Q4/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Vorquartale/ita_update_2026_Q4/Stammdateien/KBV_Stammdateien/) [update/Vorquartale/ita_update_2026_Q4/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Vorquartale/ita_update_2026_Q4/Stammdateien/KBV_Stammdateien/)
 
-## 1CLICK: AKTUALISIERUNG 1CLICKABRECHNUNG SPEZIFIKATION ZUM VIERTEN QUARTAL 2026
+## SDKVCA: AKTUALISIERUNG DER STAMMDATEI KVCA (SDKVCA) FÜR DAS ERSTE QUARTAL 2027
 
-Aufgrund von Rückfragen aus der Industrie wurde die Anforderung zur Anzeige des Postordners in der  Spezifikation präzisiert.
+Die KV Westfalen-Lippe wird zum 1. Februar 2027 die Annahme der Testabrechnung für 1ClickAbrechnung  einstellen.
 
-[Sie finden die Aktualisierung unter](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)[https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/) [Abrechnung/KIM/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/KIM/)
+Sie finden die aktualisierte SDKVCA (74E27101.sdkvca.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2027.1.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
 
-Seite 6 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
+## SDDA: START DES EDMPS RHEUMATOIDE-ARTHRITIS IN DER KV HAMBURG ZUM 1. JANUAR 2027
 
-[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/DigitaleMuster/ERP/)
+Zum 1. Januar 2027 startet in der KV Hamburg das eDMP Rheumatoide Arthritis.
 
+Sie finden die aktualisierte SDDA (74E27104.sdda.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2027.1.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
+
+[Die aktualisierte Datenstellenübersicht finden Sie unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf) [Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/KBV_ITA_AHEX_Verzeichnis_Datenannahmestellen.pdf)
+
+## SDHMA: AKTUALISIERUNG DER SDHMA STAMMDATEI ZUM ERSTEN QUARTAL 2027
+
+Mit Beschluss des GBA vom 20. August 2026 wurden zwei weitere Indikationen in die Diagnoseliste zum  langfristigen Heilmittelbedarf aufgenommen. Konkret wurden die beiden klinischen Haupttypen der  Multisystematrophie - G23.2 Multisystematrophie vom Parkinson-Typ [MSA-P] und G23.3
+
+Seite 5 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
+
+---
+
+Multisystematrophie vom zerebellärer Typ [MSA-C]  in die Anlage 2 der Heilmittel-Richtlinie  aufgenommen.
+
+Sie finden die aktualisierte SDHMA (74E27104.sdhma.zip) als Bestandteil des JAR-Archives  [(kbv_stammdateien.2027.1.0.jar) unter](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/) [update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
+
+## QS-VEREINBARUNGEN: ANPASSUNG DER ANFORDERUNGEN DER QS-VERFAHREN ZUM ERSTEN QUARTAL  2027
+
+Aufgrund von Rückmeldungen aus dem Feld wurden Verbesserungen der Anforderungen zur Anzeige des  Importstatus in den Anforderungskatalogen der Verfahren:
+
+- QS HGV
+- QS HGVK
+- QS MG
+- QS KE
+- QS HLT
+
+vorgenommen.
+
+Sie finden die aktualisierten Anforderungskataloge auf dem Updateserver in den verfahrensspezifischen  [Ordnern unter](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)[https://update.kbv.de/ita-update/Medizinische-Dokumentationen/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/)
+
+## SDICD: AKTUALSIERUNG DER SDICD ZUM ERSTEN QUARTAL 2027
+
+Obwohl das Bundesinstitut für Arzneimittel und Medizinprodukte die Weiterentwicklung des ICD-10-GM  für das Jahr 2027 ausgesetzt hat, haben wir Ihnen heute eine Aktualisierung der SDICD bereitgestellt.
+
+Hintergrund sind aktualisierte Zuordnungen der Diagnosenthesauren.
+
+Eine inhaltliche Aktualisierung der SDKRW und SDVA wurde nicht vorgenommen. Wir haben bei diesen  Stammdateien jedoch die Gültigkeitsangaben aktualisiert.
+
+Sie finden die Aktualisierung als Bestandteil des JAR-Archives (kbv_stammdateien.2027.1.0.jar) unter  [https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/](https://update.kbv.de/ita-update/Stammdateien/KBV_Stammdateien/)
+
+## AMV: INKRAFTTRETEN DES GEÄNDERTEN ANFORDERUNGSKATALOGES ZUM 1. JANUAR 2027
+
+Wie auf dem 32. Anbietermeeting der KBV sowie am 13. Oktober 2026 per ITA-Newsletter kommuniziert,  treten zum 1. Januar 2027 die Änderungen des AMV-Anforderungskataloges in Kraft.
+
+Hinweis:
+
+Bitte beachten Sie das Auslaufen der eRezept-Übergangsregelung zum 14. Januar 2027 und stellen Sie  sicher, dass Ihre Anwender die korrekte Version (1.4) einsetzen.
+
+Seite 6 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
 
 ---
 
-## 1CLICK-HDRG: AKTUALISIERUNG 1CLICKABRECHNUNG HYBRID-DRG SPEZIFIKATION ZUM VIERTEN  QUARTAL 2026
-
-Aufgrund der RFC2045 und RFC2183 wurden die Vorgaben zu den Metainformationen für Nachrichten-Anhänge angepasst sowie die Anforderung zur Anzeige des Postordners in der Spezifikation präzisiert.
-
-[Sie finden die Aktualisierung unter](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/HybridDRG/)[https://update.kbv.de/ita-update/Abrechnung/1-Click-](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/HybridDRG/) [Abrechnung/HybridDRG/](https://update.kbv.de/ita-update/Abrechnung/1-Click-Abrechnung/HybridDRG/)
-
-## EDOKU-KIM: AKTUALISIERUNG KIM-SPEZIFIKATION EDOKUMENTATION ZUM VIERTEN QUARTAL 2026
-
-Aufgrund der RFC2045 und RFC2183 wurden die Vorgaben zu den Metainformationen für Nachrichten-Anhänge angepasst sowie die Anforderung zur Anzeige des Postordners in der Spezifikation präzisiert.
-
-[Sie finden die Aktualisierung unter](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/eDokumentation_KIM/)[https://update.kbv.de/ita-update/Medizinische-](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/eDokumentation_KIM/) [Dokumentationen/eDokumentation_KIM/](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/eDokumentation_KIM/)
-
-```
-[](https://update.kbv.de/ita-update/Medizinische-Dokumentationen/eDokumentation_KIM/)
-```
-
-Seite 7 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
-
----
+- Technische Rückmeldungen (MDN), Funktionen 7 und 8, als auch
+- Fachliche Rückmeldungen, Funktionen 9 und 10.
 
 # ALLGEMEINE INFORMATIONEN
 
 ## IOWS DER KV.DIGITAL: AUDIT FÜR TEILNAHME VERPFLICHTEND
 
-Ab November 2026 ist ein erfolgreich bestandenes Audit für eArztbrief und/oder eNachricht Voraussetzung  für die Teilnahme an einem IOWS der kv.digital.
+Seit November 2026 ist ein erfolgreich bestandenes Audit für eArztbrief und/oder eNachricht  Voraussetzung für die Teilnahme an einem IOWS der kv.digital.
 
-Weitere Informationen sowie alle Termine für 2026 finden Sie auf der Website der kv.digital:  [https://www.kv.digital/medizinische-kommunikation/iows.html](https://www.kv.digital/medizinische-kommunikation/iows.html)[](https://www.kv.digital/medizinische-kommunikation/iows.html)
+Weitere Informationen sowie die Termine für 2027 finden Sie auf der Website der kv.digital:
+
+[https://www.kv.digital/medizinische-kommunikation/iows.html](https://www.kv.digital/medizinische-kommunikation/iows.html)[](https://www.kv.digital/medizinische-kommunikation/iows.html)
+
+## 1CLICKABRECHNUNG: ZUM ÜBERARBEITETEN PRÜFCLIENT
+
+Im Juni 2026 wurden das Test- und Zertifizierungsbackend 1ClickAbrechnung sowie das zugehörige  Prüfpaket überarbeitet. Im Zuge dieser Anpassung hat sich auch der Versand der Rückmeldungen durch  den Prüfclient geändert.
+
+**Anpassung des Rückmeldeverhaltens**
+
+Der Prüfclient wertet für die Versendung der 1ClickAbrechnung-Rückmeldungen nun die **Prüf-SDKVCA** aus.  Die Prüf-SDKVCA wurde dahingehend angepasst, dass sie das Verhalten im produktiven Betrieb abbildet:  D.h., der Prüfclient versendet nur noch diejenigen Rückmeldungen, die von der adressierten  Kassenärztlichen Vereinigung (KV) gemäß der Prüf-SDKVCA unterstützt werden.
+
+**Was bedeutet das für die Prüfung?**
+
+Je nach unterstützten Funktionen der adressierten KV kann es vorkommen, dass bei einem Prüfvorgang  bestimmte Rückmeldungen ausbleiben. Dies betrifft sowohl:
+
+Wenn die jeweilige KV die entsprechende Funktion laut Prüf-SDKVCA nicht unterstützt, ist das Ausbleiben  der zugehörigen Rückmeldung das erwartete Verhalten und kein Hinweis auf einen Fehler im Prüfclient. Im  Prüfprotokoll steht unter "Zusätzliche Hinweise", ob und welche Art der Rückmeldung vom Prüfclient  versendet wird.
+
+**Hinweise für Softwarehersteller**
+
+Softwarehersteller werden daher gebeten, die verwendete Betriebsstättennummer (BSNR) zu überprüfen  und sicherzustellen, dass diese zum jeweiligen Prüffall passt. Die Prüf-SDKVCA gibt Auskunft darüber,  welche 1ClickAbrechnung-Funktionen von der jeweiligen KV unterstützt werden. Die für die jeweiligen  Prüffälle vorgesehenen BSNRs sind in der Begleitdatei zu hinterlegen.
+
+Die Prüffälle des aktualisierten Prüfpakets berücksichtigen bereits das angepasste Verhalten des  Prüfclients.
+
+Die zugehörige Stammdatei der Prüf-SDKVCA ist über den Update-Server der KBV abrufbar:
+
+[https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/74E17101.sdkvca.prf.zip](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/74E17101.sdkvca.prf.zip)[](https://update.kbv.de/ita-update/Abrechnung/Pruefverfahren/74E17101.sdkvca.prf.zip)
+
+**Vorgehen bei weiterhin ausbleibenden Rückmeldungen**
+
+Seite 7 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026
+
+---
+
+Lässt sich das Ausbleiben einer technischen oder fachlichen Rückmeldung weder durch die verwendete  BSNR noch durch die laut Prüf-SDKVCA unterstützten Funktionen erklären, wenden Sie sich bitte zur  [weiteren Prüfung direkt an die kv.digital unter](mailto:support@kv.digital)**[support@kv.digital](mailto:support@kv.digital)**
+
+[Bitte geben Sie bei Ihrer Anfrage folgende Informationen an:](mailto:support@kv.digital)
+
+- den verwendeten KIM-Account
+- die Prüf-ID aus dem Prüfprotokoll
+
+Diese Angaben ermöglichen eine gezielte Analyse.
+
+## EXTERNE FORMULARE: REZEPTE FÜR BEWEGUNG VOM DOSB
+
+Bewegungsmangel ist eine gesundheitliche Herausforderung unserer Zeit. Um Ärztinnen und Ärzte in ihrem  präventiven Engagement weiter zu stärken, wurde das **Rezept für Bewegung“ für Erwachsene und auch**  **für Kinder/Jugendliche** in einer gemeinsamen Initiative des Deutschen Olympischen Sportbundes, der  Bundesärztekammer und der Deutschen Gesellschaft für Sportmedizin und Prävention entwickelt und von  weiteren Ärzteverbänden, wie bspw. dem Hausärztinnen- und Hausärzteverband oder dem Berufsverband  der Kinder- und Jugendärzte unterstützt. Ab sofort kann das „Rezept für Bewegung“ als **freiwillige Leistung**  in die Praxisverwaltungssysteme (PVS) integriert werden.
+
+Mit der technischen Umsetzung leisten Sie als PVS-Anbieter einen wichtigen Beitrag zur  Gesundheitsförderung: Sie ermöglichen es, Bewegung niedrigschwellig in den Praxisalltag einzubinden und  Patientinnen und Patienten gezielt zu einem aktiveren Lebensstil zu motivieren.
+
+Helfen Sie mit und setzen Sie ein starkes Zeichen gegen Bewegungsmangel und integrieren Sie das Rezept  für Bewegung in ihr Praxisverwaltungssystem.
+
+Bei inhaltlichen Fragen zum Rezept für Bewegung wenden Sie sich bitte direkt an den Deutschen  [Olympischen Sportbund unter](mailto:gesundheit@dosb.de)[gesundheit@dosb.de](mailto:gesundheit@dosb.de)
+
+[Sie finden die Rezepte für Bewegung auf dem Updateserver unter](mailto:gesundheit@dosb.de)[https://update.kbv.de/ita-](https://update.kbv.de/ita-update/Service-Informationen/externe_Formulare/DOSB) [update/Service-Informationen/externe_Formulare/DOSB](https://update.kbv.de/ita-update/Service-Informationen/externe_Formulare/DOSB)
 
 ```
-[](https://www.kv.digital/medizinische-kommunikation/iows.html)
+[](https://update.kbv.de/ita-update/Service-Informationen/externe_Formulare/DOSB)
 ```
 
-Seite 8 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2026.4 / 14. August 2026
+Seite 8 von 8 / KBV / Informationsschreiben zum Update - KBV_ITA_SIEX_Liesmich_Update * Version 2027.1 / 13. November 2026

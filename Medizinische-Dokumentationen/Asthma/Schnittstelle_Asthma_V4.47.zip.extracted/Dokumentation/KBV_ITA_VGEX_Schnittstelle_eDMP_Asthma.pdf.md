@@ -4,14 +4,14 @@
 \|  |
 \|---|
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  14. NOVEMBER 2025   VERSION: 4.47   DOKUMENTENSTATUS: IN KRAFT** |
+|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. NOVEMBER 2026   VERSION: 4.47   DOKUMENTENSTATUS: IN KRAFT** |
 |---|---|
 
 # SCHNITTSTELLENBESCHREIBUNG  ASTHMA BRONCHIALE
 
 ## [KBV_ITA_VGEX_SCHNITTSTELLE_EDMP_ASTHMA]
 
-Seite 1 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 1 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS   
 
@@ -148,7 +148,7 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 30
 
-Seite 2 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 2 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -182,7 +182,7 @@ Seite 2 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 35
 
-7.1.1.1 Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit  der letzten Dokumentation 35
+7.1.1.1 Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung  wegen Asthma bronchiale seit der letzten Dokumentation 35
 
 7.1.2 Abschnitt „Schulung“
 
@@ -200,7 +200,7 @@ Seite 2 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 **38**
 
-Seite 3 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 3 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -214,7 +214,7 @@ Seite 3 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 **ABBILDUNG 4:** AUFBAU SCIPHOX-SSU OBSERVATION ..................................................................................................... 17
 
-Seite 4 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 4 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -266,7 +266,7 @@ Seite 4 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 **TABELLE 23:** WERTE BEI ERGEBNISTEXT (EMPFOHLENE ASTHMA-SCHULUNG WAHRGENOMMEN) .............................. 36
 
-Seite 5 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 5 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -356,7 +356,7 @@ Seite 5 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 **XML-CODE 44:** EMPFOHLENE ASTHMA-SCHULUNG WAHRGENOMMEN ........................................................................ 36
 
-Seite 6 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 6 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -364,26 +364,27 @@ Seite 6 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 4.47 | 13.11.2026 | KBV | Redaktionelle Korrektur des |  | 35 |
 | 4.47 | 14.11.2025 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
 | 4.46 | 12.08.2022 | KBV | Anpassung an die | Beschluss des G-BA | 19 |
 | 4.45 | 12.08.2022 | KBV | Redaktionelle Korrektur des |  | 34 |
-| 4.45 | 22.10.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Hochziehen des Kapitels  Textuelle Anpassungen an  Löschung der Definition von  Aufteilung von Kapitel 6.1.7.1  Austausch der Abbildung 2  Vereinheitlichung der Angabe | Beschluss des G-BA      Bedingt durch neues Layout    Wird in dieser Schnittstelle  Überarbeitung aufgrund von  Kardinalität in Abbildung | 19  Alle  Alle  17ff  Alle      14  14ff |
-| 4.44 | 30.01.2019 | KBV | Erweiterung des | Anpassung an das | 14 |
+| 4.45 | 22.10.2020 | KBV | Anpassung an die  Überführung in neues Design  Vereinheitlichung des  Hochziehen des Kapitels  Textuelle Anpassungen an  Löschung der Definition von  Aufteilung von Kapitel 6.1.7.1 | Beschluss des G-BA      Bedingt durch neues Layout   Wird in dieser Schnittstelle  Überarbeitung aufgrund von | 19  Alle  Alle  17ff  Alle |
 
-Seite 7 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 7 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
-aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Parameters Therapieanpassung aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. bestehende Schnittstelle <Zeitpunkt_dttm> nicht verwendet in vier einzelne Abschnitte Übersichtlichkeit und Eindeutigkeit korrigiert möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Personenstandsgesetz (PstG)
+Parameters „Ungeplante ambulante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation“ aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Parameters Therapieanpassung aktualisierten Plausibilitäten der Anlage 2 (Einschreibung wegen) Wordings der DMP- Schnittstellen (bpsw. body wird zu <body>) 6.1.2.1 in der Hierarchisierung zu 6.1.3. Dadurch Änderung der Nummerierung aller Folgekapitel in Abschnitt 6.1 und Änderung von Kapitelverweisen. bestehende Schnittstelle <Zeitpunkt_dttm> nicht verwendet in vier einzelne Abschnitte Übersichtlichkeit und Eindeutigkeit 
 
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-| Parameter „Geschlecht des  Wertebereich „Körpergewicht“ | 22 | | | | |
+| Austausch der Abbildung 2  Vereinheitlichung der Angabe | Kardinalität in Abbildung | 14  14ff | | | |
+| 4.44 | 30.01.2019 | KBV | Erweiterung des  Wertebereich „Körpergewicht“ | Anpassung an das | 14  22 |
 
-Seite 8 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 8 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
-Patienten“ dreistellig 
+korrigiert möglicher Ergebnistexte als Tabellen in Kapitel 6 und 7 Wertebereichs für den Personenstandsgesetz (PstG) Parameter „Geschlecht des Patienten“ dreistellig 
 
 
 ---
@@ -406,7 +407,7 @@ Herausgeber und Verantwortlicher für diese Merkblätter sind die Spitzenverbän
 
 Das zugehörige KBV-Prüfmodul prüft lediglich die zu diesem eDMP gehörigen Plausibilitäten.
 
-Seite 9 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 9 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -439,7 +440,7 @@ Beispiele:
 - 123456789_123_20030301.EEAB
 - 123456789_123_20030301.EVAB
 
-Seite 10 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 10 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -472,7 +473,7 @@ Die Elemente eines Schema-Diagramms werden über sogenannte Strukturelemente mit
 
 n...m
 
-Seite 11 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 11 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 gestrichelter Linie dargestellt. Es kann kein oder einmal vorkommen. Element muss genau einmal vorkommen. Elemente, was durch die Angabe der Zahlen rechts unter dem Rechteck verdeutlicht wird. 1..  drückt z.B. aus, dass das Element mindestens einmal vorkommen muss, aber auch unendlich mal auftreten kann. Kindelementen genau eins ausgewählt werden muss. festgelegter Reihenfolge aufgeführt werden müssen. 
 
@@ -493,7 +494,7 @@ Es werden außerdem folgende Diagramm-Symbole verwendet:
 
 **Tabelle 3:** Beschreibung sonstiger Symbole
 
-Seite 12 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 12 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 Pluszeichen am Rechteckrand symbolisiert. im Schema definiert wurde. welches mehrere Elemente zusammenfasst.
 
@@ -524,7 +525,7 @@ Das Element <clinical_document_header> wird allgemein für alle DMP-Dokumentatio
 
 Die Struktur des Elements <body> wird in Kapitel 6 erläutert.
 
-Seite 13 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 13 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 xmlns:sciphox="urn::sciphox-org/sciphox"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"> <clinical_document_header> . . . </clinical_document_header> <body> </body> 
 
@@ -552,7 +553,7 @@ Der Coderahmen für das <body>-Element sieht wie folgt aus:
 
 **XML-Code 2**: body
 
-Seite 14 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 14 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <section> </section>
 
@@ -570,7 +571,7 @@ Das <section>-Element setzt sich aus fünf oder sechs <paragraph>-Elementen zusa
 
 Eine Sektion enthält die Abschnitte „Administrative Daten“, „Anamnese- und Befunddaten“,  „Medikamente“, „Schulung“ und „Behandlungsplanung“ und kann den Abschnitt „Relevante Ereignisse“  enthalten, die jeweils in einem <paragraph>-Element untergebracht sind.
 
-Seite 15 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 15 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 \|  |
 \|---|
@@ -589,7 +590,7 @@ Wenn in allen Abschnitten Daten enthalten sind, sieht der Coderahmen für das El
 
 **XML-Code 3:** section
 
-Seite 16 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 16 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <paragraph> <caption_cd DN="Administrative Daten"/> <content> ... </content> <paragraph> <caption_cd DN="Anamnese- und Befunddaten"/> <content> ... </content> <paragraph> <caption_cd DN="Relevante Ereignisse"/> <content> ... </content> <paragraph> <caption_cd DN="Medikamente"/> <content> ... </content> <paragraph> <caption_cd DN="Schulung"/> <content> ... </content> <paragraph> <caption_cd DN="Behandlungsplanung"/> <content> ... </content>
 
@@ -615,7 +616,7 @@ Der Aufbau dieser SSU ist nachfolgend beschrieben:
 
 **Abbildung 4:** Aufbau Sciphox-SSU observation
 
-Seite 17 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 17 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> </sciphox:sciphox-ssu> </local_markup> 
 
@@ -655,7 +656,7 @@ Das Element <Ergebnistext> enthält nur das *V-*Attribut. Einzelne Ausprägungen
 
 Das Element <Ergebniswert> enthält nur das  Datensatz eingegeben werden (z.B. „1.80“), werden in diesem Element, im  Dezimaltrennzeichen wird der Dezimalpunkt verwendet. Im U-Attribut (UNIT) wird die Einheit (z.B. „m“)  eingetragen. Der XML-Code zum Element <Ergebniswert> sieht folgendermaßen aus:
 
-Seite 18 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 18 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V-* und *U*-Attribut. Einzelne Ausprägungen, die als Werte im  *V-*Attribut, angegeben. Als
 
@@ -694,7 +695,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 10:** Einschreibung wegen
 
-Seite 19 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 19 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Ergebniswert V=". . ." U="..."/> <local_markup ignore="all" descr <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup> <sciphox:Parameter DN="Einschreibung wegen"/> <sciphox:Ergebnistext V="Asthma bronchiale"/>
 
@@ -718,7 +719,7 @@ Seite 19 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 
 
 **Tabelle 4:** Werte bei Ergebnistext (Einschreibung wegen)
 
-Seite 20 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 20 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 ---
 
@@ -735,7 +736,7 @@ Wenn für jeden Parameter Angaben existieren, sieht der Coderahmen wie folgt aus
 
 **XML-Code 11:** content (Anamnese- und Befunddaten)
 
-Seite 21 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 21 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck systolisch"/> <sciphox:Ergebniswert V="130" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Blutdruck diastolisch"/> <sciphox:Ergebniswert V="80" U="mmHg"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Begleiterkrankungen"/> <sciphox:Ergebnistext V="KHK"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen tagsüber"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Häufigkeit des Einsatzes der Bedarfsmedikation"/> <sciphox:Ergebnistext V="Häufiger als 2 mal wöchentlich"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Einschränkung von Aktivitäten im Alltag wegen Asthma bronchiale"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes"/> <sciphox:Ergebnistext V="Ja"/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebnistext V="Nicht durchgeführt"/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
@@ -782,7 +783,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 5:** Werte bei Ergebnistext (Raucher)
 
-Seite 22 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 22 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Parameter DN="Körpergröße"/> <sciphox:Ergebniswert V="1.80" U="m" /> <sciphox:Parameter DN="Körpergewicht"/> <sciphox:Ergebniswert V="080" U="kg"/> <sciphox:Parameter DN="Raucher"/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -822,7 +823,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 17:** Begleiterkrankungen
 
-Seite 23 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 23 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V*-Attribut den „systolischen Wert“
 
@@ -868,7 +869,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 7:** Werte bei Ergebnistext (In den letzten 4 Wochen: Häufigkeit von Asthma-Symptomen  tagsüber)
 
-Seite 24 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 24 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V*-Attribut die Feldbezeichnung
 
@@ -915,7 +916,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 9:** Werte bei Ergebnistext (In den letzten 4 Wochen: Einschränkung von Aktivitäten im  Alltag wegen Asthma bronchiale)
 
-Seite 25 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 25 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V*-Attribut die Feldbezeichnung
 
@@ -965,7 +966,7 @@ Als Beispiel bei nicht durchgeführter Messung sei hier folgender Code angegeben
 
 Dieser Abschnitt wird bei der „erstmaligen Dokumentation“ aktuell nicht verwendet, sondern nur bei der  Verlaufsdokumentation, siehe Kapitel 7.1.1
 
-Seite 26 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 26 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Parameter DN="In den letzten 4 Wochen: Asthmabedingte Störung des Nachtschlafes"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebniswert V="080.3" U="Prozent des Sollwertes"/> <sciphox:Parameter DN="Aktueller FEV1-Wert (mindestens alle 12 Monate)"/> <sciphox:Ergebnistext V="Nicht durchgeführt "/>
 
@@ -998,7 +999,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 25:** Inhalative Glukokortikosteroide
 
-Seite 27 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 27 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalative Glukokortikosteroide"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalative lang wirksame Beta-2-Sympathomimetika"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Kurz wirksame inhalative Beta-2-Sympathomimetika"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Systemische Glukokortikosteroide"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Sonstige asthmaspezifische Medikation"/> . . . </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Inhalationstechnik überprüft"/> . . . </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Inhalative Glukokortikosteroide"/> <sciphox:Ergebnistext V="Bei Bedarf"/>
 
@@ -1045,7 +1046,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 27:** Kurz wirksame inhalative Beta-2-Sympathomimetika
 
-Seite 28 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 28 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Parameter DN="Inhalative lang wirksame Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V="Bei Bedarf"/> <sciphox:Parameter DN="Kurz wirksame inhalative Beta-2-Sympathomimetika"/> <sciphox:Ergebnistext V="Bei Bedarf"/>
 
@@ -1092,7 +1093,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 29:** Sonstige asthmaspezifische Medikation
 
-Seite 29 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 29 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V*-Attribut die Feldbezeichnung
 
@@ -1138,7 +1139,7 @@ Im Element <content> wird die Sciphox-SSU
 
 Der Coderahmen sieht wie folgt aus:
 
-Seite 30 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 30 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Ergebnistext> im *V*-Attribut die Feldbezeichnung
 
@@ -1182,7 +1183,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 33**: Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen
 
-Seite 31 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 31 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V="Ja"/> <sciphox:Parameter DN="Asthma-Schulung schon vor Einschreibung in DMP bereits wahrgenommen"/> <sciphox:Ergebnistext V="Nein"/>
 
@@ -1217,7 +1218,7 @@ Bei diesem Parameter enthält das Element <sciphox:Ergebnistext> im *V*-Attribut
 
 Als Beispiel sei hier folgender Code angegeben:
 
-Seite 32 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 32 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Vom Patienten gewünschte Informationsangebote der Krankenkasse"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Dokumentationsintervall"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Schriftlicher Selbstmanagementplan"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Therapieanpassung"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> </local_markup>
 
@@ -1266,7 +1267,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 37:** Schriftlicher Selbstmanagementplan
 
-Seite 33 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 33 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 *V*-Attribut die Feldbezeichnung
 
@@ -1303,7 +1304,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 22:** Werte bei Ergebnistext (Therapieanpassung)
 
-Seite 34 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 34 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <sciphox:Parameter DN="Therapieanpassung"/> <sciphox:Ergebnistext V="Reduktion der Medikation"/> <sciphox:Ergebnistext V="Verbesserung der Anwendung der Medikation"/> 
 
@@ -1333,7 +1334,7 @@ Der Coderahmen sieht wie folgt aus:
 
 **XML-Code 39:** content (Relevante Ereignisse)
 
-### 7.1.1.1 Ungeplante ambulante oder stationäre kreuzschmerzbedingte Akutbehandlung seit der letzten  Dokumentation
+### 7.1.1.1 Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma  bronchiale seit der letzten Dokumentation
 
 Bei diesem Parameter enthält das Element <sciphox:Ergebniswert> im *V*-Attribut die „Anzahl der  Behandlungen“ und im *U*-Attribut den fest vorgeschriebenen Wert „Anzahl“.
 
@@ -1344,7 +1345,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **XML-Code 40**: Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen  Asthma bronchiale seit der letzten Dokumentation
 
-Seite 35 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 35 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale seit der letzten Dokumentation"/> <sciphox:Ergebniswert V=". . ." U=“Anzahl“/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Ungeplante, auch notfallmäßige (ambulant und stationär) ärztliche Behandlung wegen Asthma bronchiale <sciphox:Ergebniswert V="0" U=“Anzahl“/> 
 
@@ -1390,7 +1391,7 @@ Als Beispiel sei hier folgender Code angegeben:
 
 **Tabelle 23:** Werte bei Ergebnistext (Empfohlene Asthma-Schulung wahrgenommen)
 
-Seite 36 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 36 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 <local_markup ignore="all" descriptor="sciphox"> <sciphox:sciphox-ssu type="observation" country="de" version="v1"> <sciphox:Beobachtung> <sciphox:Parameter DN="Asthma-Schulung empfohlen (bei aktueller Dokumentation)"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> <sciphox:Beobachtung> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V=". . ."/> </sciphox:Beobachtung> </sciphox:Beobachtungen> </sciphox:sciphox-ssu> <sciphox:Parameter DN="Empfohlene Asthma-Schulung wahrgenommen"/> <sciphox:Ergebnistext V="Ja"/>
 
@@ -1424,7 +1425,7 @@ Seite 36 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 
 | XML | Extensible Markup Language |
 | WOP | Wohnortprinzip |
 
-Seite 37 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 37 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 Information Systems in Physician Offices and Hospitals using XML
 
@@ -1449,6 +1450,6 @@ IT in der Arztpraxis  Tel.: 030 4005-2077, [ita@kbv.de](mailto:ita@kbv.de)
 
 Kassenärztliche Bundesvereinigung  Herbert-Lewin-Platz 2, 10623 Berlin  [ita@kbv.de,](http://www.kbv.de/)[www.kbv.de](http://www.kbv.de/)[](http://www.kbv.de/)
 
-Seite 38 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 14. November 2025
+Seite 38 von 38 / KBV / Schnittstellenbeschreibung Asthma bronchiale / Version: 4.47 / 13. November 2026
 
 Versorgung Dokumentationsdaten des indikationsübergreifenden allgemeinen Datensatzes Dokumentationsdaten des strukturierten Behandlungsprogramms Asthma bronchiale Volldatensatz / a-Datensatz Schnittstellenbeschreibung 

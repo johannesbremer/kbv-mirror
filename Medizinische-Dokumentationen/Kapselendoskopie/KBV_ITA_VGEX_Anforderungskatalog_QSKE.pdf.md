@@ -9,9 +9,9 @@
 |  |  |
 |  |  |
 |  | Kassenärztliche Bundesvereinigung |
-|  | Version  1.03 |
+|  | Version  1.04 |
 
-selendoskopie Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
+selendoskopie Datum: 13.11.2026 Kennzeichnung: Öffentlich Status: In Kraft © KBV Kassenärztliche Bundesvereinigung, Berlin 2025
 
 
 ---
@@ -20,18 +20,19 @@ selendoskopie Datum: 14.11.2025 Kennzeichnung: Öffentlich Status: In Kraft © K
 
 Dokumentenhistorie
 
-Die Änderungen vom 14.11.2025 treten zum 01.01.2026 in Kraft.
+Die Änderungen vom 13.11.2026 treten zum 01.01.2027 in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
+| 1.04 | 13.11.2026 | KBV | Überführung der Anforderung KP2-264 | Importstatus der Datenan- | 9 |
 | 1.03 | 14.11.2025 | KBV | Streichung P1-265,   Überarbeitung P1-266      Umwandlung K2-264 in konditiona- | Abschaltung KV-Connect | 9 |
 | 1.02 | 14.02.2025 | KBV | • | KIM als Übertragungs- | 9 |
 | 1.01 | 07.05.2018 | KBV | • • | Aktualisierung der KV- | 9 |
 | 1.00 | 31.07.2014 | KBV | Neues Dokument |  |  |
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
 
-le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen weg Connect Spezifikation Seite 2 von 12
+in P2-264. Klarstellende Erläuterungen hinzugefügt. le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 gestrichen P1-265: Neu aufgenommen nahmestelle näher be- schrieben weg Connect Spezifikation Seite 2 von 13
 
 
 ---
@@ -82,28 +83,28 @@ le  Pflichtfunktion KP2-264 P1-266: Neu aufgenommen P1-261, P1-262 und P1- 263 g
 
 **3** **REFERENZIERTE DOKUMENTE**
 
-**12**
-
-INHALTSVERZEICHNIS
+**13**
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+INHALTSVERZEICHNIS
 
-Seite 3 von 12
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+Seite 3 von 13
 
 
 ---
 
 **ABBILDUNG 1:** **BERICHTSZEITRÄUME** ................................................................................................................................ 6
 
-Abbildungsverzeichnis
-
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+Abbildungsverzeichnis
 
-Seite 4 von 12
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+Seite 4 von 13
 
 
 ---
@@ -155,10 +156,7 @@ Ident-Nummer einer optionalen Funktion Ident-Nummer einer älteren Version
 
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03 (2-70) Seite 5 von 12
-
-\|  |
-\|---|
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04 (2-70) Seite 5 von 13
 
 
 ---
@@ -185,7 +183,7 @@ Die in der Schnittstellenbeschreibung QS
 |---|---|
 | **P1-20** | **Berichtszeiträume** |
 
-Die Behandlungsfälle werden erstmals drei Quartal nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
+Die Behandlungsfälle werden erstmals drei Quartale nach Inkrafttreten der QS-Vereinbarung  erfasst, danach jährlich vom 01.01.-31.12. des Untersuchungsjahres.
 
 Untersuchungsjahr: 01.01.-31.12. Das Kalenderjahr, in dem die Untersuchungen durchge-führt werden.
 
@@ -193,9 +191,11 @@ Meldequartal: 01.01.-31.03. Das sich an das Untersuchungsjahr anschließende Qua
 
 Prüfquartal: 01.04.-30.06. Das sich an das Meldequartal anschließende Quartal dient den  Korrekturen.
 
-- 01.01
-- 31.12
-- 31.03
+01.01
+
+31.12
+
+31.03
 
 Melde-
 
@@ -205,15 +205,13 @@ Melde-
 
 Abbildung 1: Berichtszeiträume
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
 
-Kapselendoskopie
-
-- 30.06
+Kapselendoskopie 30.06
 
 ### Prüfquartal
 
-Seite 6 von 12
+Seite 6 von 13
 
 
 ---
@@ -266,9 +264,9 @@ entsprechen.
 
 Der Anwender muss die Möglichkeit haben die generierte Jahresstatistik anzuschauen.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
 
-Seite 7 von 12
+Seite 7 von 13
 
 
 ---
@@ -297,12 +295,14 @@ Das System muss sicherstellen, dass der Anwender auch unvollständige oder fehle
 
 Das System muss sicherstellen, dass der Anwender alle Daten zur Jahresstatistik bis Ende  des Prüfquartals ändern kann.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
 
-Seite 8 von 12
+Seite 8 von 13
 
 
 ---
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
 ## 2.2 Datenübermittlung
 
@@ -324,23 +324,6 @@ Erfolgt eine Korrektur eines bereits versendeten Datensatzes durch den Arzt muss
 
 | PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
-| **P1-265** | **QSKE auf Basis von KV-Connect** |
-
-Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Dokumentationen auf Basis von KV-Connect bereitstellen.
-
-**Begründung**
-
-Zum 01.10.2018 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSKE-Dokumentation auf Basis von KV-Connect.
-
-**Akzeptanzkriterium:**
-
-- (1) Die Software stellt dem Anwender ab dem vierten Quartals 2018 die Funktionen gemäß  der folgenden Anforderungsdokumente bereit:
--  „Spezifikation KV-Connect Anwendungsdienst "eDokumentation" mit KV-Connect“ in  der stets aktuellen Version [Spezifikation_eDoku
--  „KV-Connect Anbindung an KV-Connect“ in der stets aktuellen Version
-- Anbindung_KV_Connect
-
-| PFLICHTFUNKTION QS Kapselendoskopie | |
-|---|---|
 | **P1-266** | **QSKE auf Basis von KIM** |
 
 Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Dokumentationen auf Basis von KIM bereitstellen.
@@ -349,71 +332,110 @@ Die Software muss dem Anwender eine Funktion für die Übertragung der QSKE-Doku
 
 Zum 01.10.2025 besteht eine verbindliche Umsetzungspflicht der PVS zur Unterstützung bei  der Einreichung der QSKE-Dokumentation auf Basis von KIM.
 
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
-
-Seite 9 von 12
-
-
----
-
-**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
-
 **Akzeptanzkriterium:**
 
 - (1) Die Software muss dem Anwender die Funktionen gemäß des folgenden Anforderungs-
 - dokumentes bereitstellen:
--  "eDokumentation V2.0“ in der stets aktuellen Version [
-
-**Bedingung:**
-
-- (1) Bis zum 30. September 2025 ist die Umsetzung dieser Anforderung für die Software frei-willig.
-- (2) Ab dem 1. Oktober 2025 ist die Umsetzung dieser Anforderung für die Software verpflich-tend.
+-  "eDokumentation V2.0“ in der stets aktuellen Version [Spezifikation_eDoku_KIM
 
 **Hinweis:**
 
 Wenn eine KV für das Verfahren QSKE das KIM-Verfahren gemäß der
 
-Spezifikation_eDoku_KIM
+Spezifikation_eDoku_KIM] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-trag.
 
-trag.
-
-| Optionale FUNKTION KONDITIONALE PFLICHTFUNKTION QS Kapselendoskopie | |
+| KONDITIONALE PFLICHTFUNKTION QS Kapselendoskopie | |
 |---|---|
-| **K KP2-264** | **E-Mail Rückmeldung Importstatus von der Datenannahmestelle** |
+| **KP2-264** | **Importstatus von der Datenannahmestelle** |
 
-Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [ den Absender der Dokumentationsdaten. E-Mail-Versand.  Beim Importieren wird die Verordnungs-Datei geprüft und eine E-Mail KIM-Nachricht mit dem  Import-Status und ggf. Fehlermeldungen wird erstellt.
+Die Rückmeldung zum Import-Status von der Datenannahmestelle erfolgt über den Versand  einer KIM-Nachricht gemäß der Anforderung eDoku0920 der [Spezifikation_eDoku_KIM] an  den Absender der Dokumentationsdaten.
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+Seite 9 von 13
+
+
+---
+
+Beim Importieren wird die Dokumentations-Datei geprüft und anschließend eine KIM-Nachricht mit dem Import-Status und ggf. Fehlermeldungen erstellt.
+
+Die KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt, von der  aus der Anwender (Arzt) die exportierten Dateien über KIM übermittelt hat.
+
+Das PVS muss dem Anwender die Möglichkeit bieten, den aktuellen Versand- / Importstatus  zu der übermittelten Jahresstatistik anzuzeigen.
 
 Es sind folgende Import-Status möglich:
 
 | Status | Beschreibung |
 |---|---|
 | OK | Die Datei wurde erfolgreich importiert. |
-| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- |
+| Datei existiert bereits | Die Datei wurde nicht importiert, da bereits ein Datensatz mit glei- cher Zuordnung (BSNR, Jahr, GUID) vorhanden ist. |
 | Fehlgeschlagen | Beim Import der Datei sind Fehler aufgetreten, weshalb diese nicht  P1-20) übermittelt. |
-
-Die E-Mail KIM-Nachricht mit der Rückmeldung wird an die Absender – Adresse geschickt,  von der aus der Anwender (Arzt) die exportierten Dateien über KV-Connect KIM übermittelt  hat.
-
-Das PVS kann muss dem Anwender den Importstatus diese Rückmeldungs-E-Mail in geeig-neter Weise anzeigen.
 
 **Bedingung:**
 
 - (1) Bis zum 31. März 2026 ist die Umsetzung dieser Anforderung für die Software freiwillig.
 - (2) Ab dem 1. April 2026 ist die Umsetzung dieser Anforderung für die Software verpflichtend.
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+**Erläuterung zur Struktur der Rückmeldung der Datenstelle eDoku-Portal der KBV:**
 
-] unterstützt, dann enthält die SDKVCA einen entsprechenden Ein-
+Die KIM-Nachricht der Rückmeldung des eDoku-Portals beinhaltet im KIM-Body für jede  übermittelte Dokumentation einen Importstatus.
 
-- Spezifikation_eDoku_KIM
+Die Informationen zu einer Dokumentation sind wie folgt aufgebaut (kursive Elemente sind  optional):
 
-Spezifikation_eDoku_KIM] an
+Datensatz X von XYZ
 
-cher Zuordnung (ID, BSNR, LANR) vorhanden ist.  gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 10 von 12
+GUID: [Die GUID aus der übermittelten Dokumentation]
+
+LANR: [Die LANR aus der übermittelten Dokumentation]
+
+(N)BSNR: [Die (N)BSNR aus der übermittelten Dokumentation]
+
+Jahr: [Das Jahr aus der übermittelten Dokumentation]
+
+Status: OK | Datei existiert bereits | Fehlgeschlagen
+
+*Hinweis*: [optionales Element: einzeiliger Freitext]
+
+*Erläuterung*: [optionales Element: mehrzeiliger Freitext als Aufzählung]
+
+**Beispiel des KIM-Body einer Rückmeldung der Datenstelle eDoku-Portal der KBV:**
+
+Vielen Dank für die Übermittlung Ihrer Daten. Bitte beachten Sie, dass diese Rückmeldung  automatisiert erstellt wurde.
+
+Falls Sie Ihre Angaben nachträglich einsehen oder ergänzen möchten, ist dies möglich, in-[dem Sie die Web-Adresse](https://edoku.kv-safenet.de/)[https://edoku.kv-safenet.de](https://edoku.kv-safenet.de/)[in Ihren Internet-Browser eingeben.](https://edoku.kv-safenet.de/)
+
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+gespeichert werden konnte. Es handelt sich entweder um Plausibi- litätsfehler oder die Datei wurde außerhalb der Berichtszeitraumes (s. Seite 10 von 13
 
 
 ---
+
+Die Zugangsdaten zu diesem zugriffsgeschützten Bereich erhalten Sie von Ihrer Kassenärzt-lichen Vereinigung. Für Rückfragen können Sie sich an Ihren PVS-Hersteller oder gerne an  unsere Mitarbeiter vom technischen Service wenden.
+
+Rückmeldung zu Ihren übermittelten Datensätzen gemäß Qualitätssicherungsvereinbarung  Kapselendoskopie:
+
+Datensatz 1 von 1
+
+GUID: 111
+
+LANR: 123456789 (N)BSNR: 111222333
+
+Jahr: 2025
+
+Status: OK
+
+Hinweis: Die Daten wurden importiert und können in der Auswertung berücksichtigt werden.
+
+____________________
+
+Technischer Service
+
+Tel.: 030 4005-2121
+
+[edoku-service@kbv.de](mailto:edoku-service@kbv.de)
 
 ### 2.2.2 Export der Daten
 
@@ -433,8 +455,9 @@ b) die Daten nach den in [KBV_ITA_VGEX_XML-Schnittstellen]
 
 - ben für den Export vorbereiten,
 - beschriebenen Vorga-
+- Datenarchiv QS Kapselendoskopie und der KIM Begleitdatei besteht,
 
-c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem  Datenarchiv QS Kapselendoskopie und der KV-Connect KIM Begleitdatei besteht,
+c) sicherstellen, dass die vom Anwender einzureichende Datenlieferung nur aus dem
 
 d) exportierte Datensätze innerhalb des Systems kennzeichnen und
 
@@ -448,31 +471,40 @@ e) den Pfad zur Exportdatei dem Anwender bekannt machen.
 
 Vor Fertigstellung des vom Anwender einzureichenden Datenträgers ist das Dokumentati-onsarchiv in der Gesamtheit mit dem KBV-Kryptomodul (XKM) unter Nutzung des öffentlichen  Schlüssels zur QSKE-Datenverschlüsselung (Oeffentlich_QSKE_Vxy.key) zu verschlüsseln.
 
-Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
-
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
 
-Seite 11 von 12
+Seite 11 von 13
 
 
 ---
 
+Welche Form der Datenübertragung gewählt wird, ist für den Einsatz des XKM nicht relevant.  Es muss bei allen Datenübertragungen eingesetzt werden. Nähere Erläuterungen zur Funkti-on und Anwendung des XKM sind in [KBV_ITA_AHEX_Handbuch_Kryptomodul] nachzule-sen.
+
 **IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
+
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+Seite 12 von 13
+
+
+---
 
 # 3 Referenzierte Dokumente
 
 | Referenz | Dokument |
 |---|---|
-| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen |
+| [KBV_ITA_VGEX_XML-Schnittstellen] | Austausch von XML-Daten in der vertragsärztlichen Versorgung |
 | [KBV_ITA_VGEX_Schnittstelle_QSKE] | Schnittstellenbeschreibung QS Kapselendoskopie |
-| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise zur Jahresstatistik für Kapselendosko- |
-| [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für Kap- |
+| [KBV_ITA_AHEX_Ausfuellhinweise_QSKE] | Ausfüllhinweise zur Jahresstatistik für Kapselendoskopie |
+| [KBV_ITA_VGEX_Plausi_QSKE] | Berechnungsvorschriften zur Jahresstatistik für Kapselendoskopie |
 | [KBV_ITA_AHEX_Handbuch_Kryptomodul] | KBV-Kryptomodul XKM Anwenderhandbuch |
 | [1] | Qualitätssicherungsvereinbarung Kapselendoskopie |
-| [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentati- on V2.0“ in der stets aktuellen Version |
+| [Spezifikation_eDoku_KIM] | Spezifikation KIM Anwendungsdienst " eDokumentation V2.0“ in der  stets aktuellen Version  https://partnerportal.kv- telematik.de/spaces/KDK/pages/71095111/Dokumente+zum+Download |
 
-KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.03
+**IT in der Arztpraxis**  Anforderungskatalog QS Kapselendoskopie
 
-Versorgung Seite 12 von 12
+KBV_ITA_VGEX_Anforderungskatalog_QSKE * Version 1.04
+
+Seite 13 von 13

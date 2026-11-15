@@ -1,17 +1,16 @@
-\|  |
-\|---|
+**KASSENÄRZTLICHE**  **BUNDESVEREINIGUNG**
 
-\|  |
-\|---|
+**DEZERNAT DIGITALISIERUNG UND IT**  **IT IN DER ARZTPRAXIS**
 
-|  | **KASSENÄRZTLICHE  DEZERNAT DIGITALISIERUNG UND IT  13. MAI 2026   VERSION: 1.5   DOKUMENTENSTATUS: IN KRAFT** |
-|---|---|
+**13. NOVEMBER 2026**
+
+**VERSION: 1.6**
+
+**DOKUMENTENSTATUS: IN KRAFT**
 
 # PRÜFPAKET SCHNITTSTELLE FÜR DRITTE  GEMÄß § 370A ABS. 2 SGB V
 
 ## [KBV_ITA_AHEX_PRUEFPAKET_SST_370A_ABS2]
-
-BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS     
 
 
 ---
@@ -30,21 +29,13 @@ BUNDESVEREINIGUNG   IT IN DER ARZTPRAXIS
 
 **3** **PRÜFFÄLLE**
 
-**7**
+**7**  3.1 PF-01 Audit der kv.digital 7  3.2 PF-02 TOMs
 
-3.1 PF-01 Audit der kv.digital
-
-7
-
-3.2 PF-02 TOMs
+7  3.3 PF-03 Weitere Nachweise
 
 7
 
-3.3 PF-03 Weitere Nachweise
-
-7
-
-Seite 2 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+Seite 2 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
 
 ---
 
@@ -52,18 +43,19 @@ DOKUMENTENHISTORIE
 
 | VERSION | DATUM | AUTOR | ÄNDERUNG | BEGRÜNDUNG | SEITE |
 |---|---|---|---|---|---|
+| 1.6 | 13.11.2026 | KBV | Streichung des | Einreichung erfolgt | 7 |
 | 1.5 | 13.05.2026 | KBV | Anpassung des |  | 7 |
-| 1.4 | 15 | KBV | Ergänzung Prüffall 03  Anpassung des |  | 7      7 |
+| 1.4 | 15.04.2026 | KBV | Ergänzung Prüffall 03  Anpassung des |  | 7      7 |
 | 1.3 | 23.03.2026 | KBV | Anpassung der | Aufnahme des | Alle |
 | 1.2 | 27.02.2026 | KBV | Korrekturen in den |  | 8, 9 |
 | 1.1 | 03.02.2026 | KBV | Ergänzung Prüffall zu | Erweiterung der | 9ff |
 | 1.0 | 01.10.2024 | KBV | Initiale Erstellung |  | Alle |
 
-Seite 3 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V
+Seite 3 von 7
 
-/ Version: 1.5 / 13. Mai 2026
+/ KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
 
-.04.2026 Einreichungswegs im Prüffall 02 und 03 zu weiteren einzureichenden Nachweisen Einreichungswegs im Prüffall 2  Prüffälle  Prüffällen 02 und 03 Behandlungsterminen Nachweises des Audits der kv.digital Schnittstelle um die Vermittlung von Behandlungsterminen ab Mai 2025 
+Einreichungswegs im Prüffall 02 und 03 Einreichungswegs im Prüffall 02 und 03 zu weiteren einzureichenden Nachweisen Einreichungswegs im Prüffall 2  Prüffälle  Prüffällen 02 und 03 Behandlungsterminen einheitlich über das Zertifizierungsportal Nachweises des Audits der kv.digital Schnittstelle um die Vermittlung von Behandlungsterminen ab Mai 2025 
 
 
 ---
@@ -76,7 +68,7 @@ V) beschrieben. Der Zertifizierungsprozess wird nach der Version 1.0 des Anforde
 
 Im Anforderungskatalog sind die Anforderungen an die Software festgelegt. Bei der Zertifizierung erfolgt eine  Überprüfung, ob die Anforderungen vom jeweiligen Nutzer der Schnittstelle korrekt umgesetzt wurden.
 
-Seite 4 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+Seite 4 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
 
 ---
 
@@ -88,7 +80,7 @@ Die Prüfunterlagen sind die zu erstellenden Screencasts oder Screenshots sowie 
 
 Alle einzureichenden Prüfunterlagen sind in einem ZIP-Archiv zu übermitteln. Das ZIP-Archiv sollte wie folgt  benannt werden:
 
-**„Prüffall-ID“_“SW-ID“_“Laufende Nummer“**
+**„Prüffall ID“_“SW ID“_“Laufende Nummer“**
 
 - **Prüffall-ID:** Die eindeutige Prüffallnummer
 - **SW-ID:** Die letzten drei Stellen Ihrer (KVDT-)Prüfnummer
@@ -102,7 +94,7 @@ Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hie
 
 Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV im Rahmen einer  Ergebnisprüfung. Dabei ist folgendes Vorgehen einzuhalten.
 
-- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss  wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt  bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt  über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung „Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V“ eingescannt per Mail an  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im](mailto:pruefstelle@kbv.de) [Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung](mailto:pruefstelle@kbv.de) hochladen.
+- 1. Der Antragsteller muss im Zertifizierungsportal den entsprechenden Prüfvorgang initiieren. Im Anschluss  wird der zugehörige Antrag auf Zertifizierung mit den der KBV bisher bekannten Daten vorausgefüllt  bereitgestellt. Dieser muss vollständig ausgefüllt und unterschrieben als PDF-Dokument eingescannt  über das Zertifizierungsportal bei der KBV eingereicht werden.  Antragsteller, die keine Benutzerdaten für das Zertifizierungsportal besitzen, müssen zunächst den  Antrag auf Zertifizierung Schnittstelle für Dritte gemäß § 370a Abs. 2 SGB V eingescannt per Mail an  [pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[einreichen und können erst nach Erhalt der Zugangsdaten den Prüfvorgang im](mailto:pruefstelle@kbv.de) [Zertifizierungsportal initiieren und dort den vorab via Mail eingereichten Antrag auf Zertifizierung](mailto:pruefstelle@kbv.de) hochladen.
 - **2.** Eine Verzeichnis- bzw. Ordnerstruktur mit den erstellten und für die Zertifizierung erforderlichen  Prüfunterlagen muss als ZIP-Datei über das Zertifizierungsportal hochgeladen werden.
 - **3.** Werden bei der Prüfung Fehler in den eingereichten Prüfunterlagen festgestellt, wird der Antragsteller  mit einem Fehlerbrief aufgefordert, eine Korrekturlieferung im Zertifizierungsportal hochzuladen.
 - **4.** Erst nach einem fehlerfreien Prüflauf (dieser schließt die manuelle Prüfung der eingereichten Unterlagen  durch Mitarbeitende der KBV mit ein) kann dem Zertifizierungsgegenstand die entsprechende Zulassung  ausgesprochen werden.
@@ -117,7 +109,7 @@ Die Zertifizierung erfolgt mit Unterstützung des Zertifizierungsportals der KBV
 
 [Die Zugangsdaten können direkt über das Portal oder per E-Mail (](mailto:pruefstelle@kbv.de)[pruefstelle@kbv.de](mailto:pruefstelle@kbv.de)[) unter Angabe der](mailto:pruefstelle@kbv.de) [System-ID (die letzten drei Stellen der Prüfnummer) oder des Systemnamens angefordert werden. Bitte](mailto:pruefstelle@kbv.de) beachten Sie, dass pro System bzw. System-ID nur ein Account vergeben wird.
 
-Seite 5 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+Seite 5 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
 
 ---
 
@@ -127,7 +119,7 @@ Alle erforderlichen Prüfunterlagen sind für die Zertifizierung zu übermitteln
 
 Die Übermittlung erfolgt mit dem Upload einer einzigen Datei. Erstellen Sie hierfür bitte ein neues ZIP-Archiv,  und fassen Sie in diesem alle Prüfunterlagen (Ihre einzelnen ZIP-Archive) zusammen.
 
-Seite 6 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+Seite 6 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
 
 ---
 
@@ -135,7 +127,7 @@ Seite 6 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 
 
 ## 3.1 PF-01 AUDIT DER KV.DIGITAL
 
-Nachweis Audit „116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V“ der kv.digital GmbH laut  Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß §  370A Abs. 2 SGB V)
+Nachweis Audit 116117 Terminservice Schnittstelle gemäß § 370A Abs. 2 SGB V der kv.digital GmbH laut  Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB V (Anforderungskatalog Schnittstelle gemäß §  370A Abs. 2 SGB V)
 
 Bitte fügen Sie den Nachweis zum Bestehen des Audits „116117 Terminservice Schnittstelle gemäß § 370A  Abs. 2 SGB V“ der kv.digital GmbH als PDF-Datei Ihren Prüfunterlagen bei. Der Nachweis darf nicht älter als  12 Monate sein.
 
@@ -145,7 +137,7 @@ Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gem�
 
 [Nachweis der Erfüllung der TOMs laut [](https://update.kbv.de/ita-update/TSS/370A)[KBV_ITV_FMEX_TOM_370a](https://update.kbv.de/ita-update/TSS/370A)
 
-[Bitte füllen Sie das Dokument aus und stellen Sie es uns über das Zertifizierungsportal](https://update.kbv.de/ita-update/TSS/370A) [https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[) oder über das Tausch-Portal (](https://zertifizierungsportal2.kbv.de/)[https://tausch.kbv.de](https://tausch.kbv.de/)[) unter Angabe](https://tausch.kbv.de/) [der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger zur Verfügung. Dies kann unabhängig von den für die restlichen](https://zertifizierungsportal2.kbv.de/) [Prüffälle erforderlichen Prüfunterlagen erfolgen.](mailto:pruefstelle@kbv.de)
+[Bitte füllen Sie das Dokument vollständig aus und reichen Sie es ein. stellen Sie es uns über das](https://update.kbv.de/ita-update/TSS/370A) [Zertifizierungsportal (](https://zertifizierungsportal2.kbv.de/)[https://zertifizierungsportal2.kbv.de/](https://zertifizierungsportal2.kbv.de/)[) oder über das Tausch-Portal](https://zertifizierungsportal2.kbv.de/) [https://tausch.kbv.de](https://zertifizierungsportal2.kbv.de/)[) unter Angabe der](https://zertifizierungsportal2.kbv.de/)[pruefstelle@kbv.de](https://zertifizierungsportal2.kbv.de/)[als Empfänger zur Verfügung. Dies kann](mailto:pruefstelle@kbv.de) [unabhängig von den für die restlichen Prüffälle erforderlichen Prüfunterlagen erfolgen.](https://tausch.kbv.de/)
 
 ## 3.3 PF-03 WEITERE NACHWEISE
 
@@ -158,4 +150,4 @@ Alle weiteren Informationen zum Audit „116117 Terminservice Schnittstelle gem�
 - 5. Eigenerklärung zur Barrierefreiheit gemäß Anlage 2 zur Verfahrensordnung nach § 370A Abs. 3 SGB  V (Anforderungskatalog Schnittstelle gemäß § 370A Abs. 2 SGB V, Anforderung P4-01). Dabei sind  nicht barrierefrei gestaltete Teile der Anwendung zu benennen und zu begründen sowie auf  barrierefreie inhaltliche Alternativen zu verweisen.
 - 6. Eigenerklärung zur Erfüllung der Anforderungen an das elektronische System der Ersteinschätzung  gemäß Anlage 1 der Anlage 31c BMV-Ä. Nutzer der Schnittstelle, die in ihrer Software Funktionen  zur Suche, Anzeige, Buchung und ggf. Absage von Terminen für telemedizinische Leistungen  anbieten, müssen die Erfüllung der Anforderung an das elektronische System der Ersteinschätzung  nachweisen.
 
-Seite 7 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.5 / 13. Mai 2026
+Seite 7 von 7 / KBV / Prüfpaket Schnittstelle für Dritte gemäß § 370A Abs. 2 SGB V / Version: 1.6 / 13. November 2026
