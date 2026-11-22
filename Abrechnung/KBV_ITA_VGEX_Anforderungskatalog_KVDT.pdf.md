@@ -142,13 +142,13 @@ Seite 2 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 1
 
 97  2.3.7.6 Tagtrennung
 
-98  2.3.7.7 Leistungskennzeichnung 99  2.3.7.8 Beregelung
+97  2.3.7.7 Leistungskennzeichnung 99  2.3.7.8 Beregelung
 
 99  2.3.7.9 Chargennummer / GOP
 
-100  2.3.7.10 Implantateregister
+99  2.3.7.10 Implantateregister
 
-100  2.3.8 Card/ Versichertenstammdaten für Privatversicherte 102  2.3.9 Patientenquittung
+100  2.3.8 Card/ Versichertenstammdaten für Privatversicherte 101  2.3.9 Patientenquittung
 
 102  2.3.9.1 Anforderungen zur Patientenquittung
 
@@ -294,7 +294,7 @@ Seite 5 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 1
 
 # ABBILDUNGSVERZEICHNIS
 
-Abbildung 1: Überweisungsschein für Überweisungsaufträge der Bundeswehr (Satzart 0102/0104) 63  Abbildung 2: Überweisungsschein zur Feststellung der Wehrdienstfähigkeit (Musterung) (Satzart 0102) 64  Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017 108
+Abbildung 1: Überweisungsschein für Überweisungsaufträge der Bundeswehr (Satzart 0102/0104) 63  Abbildung 2: Überweisungsschein zur Feststellung der Wehrdienstfähigkeit (Musterung) (Satzart 0102) 64  Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017 107
 
 Seite 6 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -304,37 +304,26 @@ Seite 6 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 1
 
 Tabelle 1  Ersatzwerte
 
-15  Tabelle 2  Einlesen einer KVK in Abhängigkeit von der VKNR-Seriennummer und KTAB
+Tabelle 2  Einlesen einer KVK in Abhängigkeit von der VKNR-Seriennummer und KTAB
 
-27  Tabelle 3  Einlesen einer KVK in Abhängigkeit von der VKNR-Seriennummer 28
+Tabelle 3  Einlesen einer KVK in Abhängigkeit von der VKNR-Seriennummer
 
 Tabelle 4  Amtliche Felder
 
-32  Tabelle 5  Datenangaben im Ersatzverfahren / manuelle Erfassung von Versichertendaten
+Tabelle 5  Datenangaben im Ersatzverfahren / manuelle
 
-57  Tabelle 6  Zuordnung sonstiger Kostenträger Bundeswehr
+Tabelle 6  Zuordnung sonstiger Kostenträger Bundeswehr Tabelle 7 - Abrechnungsrelevante Änderungen von amtlichen Versichertendaten im Quartal  Tabelle 8 - Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen, Übersicht zu den  Anforderungen KP2-612 bis KP2-618  Tabelle 9 - Abrechnungsbegründungen bei Berechnung von Besuchen  Tabelle 10 - Orientierungswerte in Cent  Tabelle 11  Inhalt und Layout der Patientenquittung
 
-63  Tabelle 7 - Abrechnungsrelevante Änderungen von amtlichen Versichertendaten im Quartal
+Tabelle 12  Beispiel Simultaneingriff
 
-79  Tabelle 8 - Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen, Übersicht zu den  Anforderungen KP2-612 bis KP2-618
-
-96  Tabelle 9 - Abrechnungsbegründungen bei Berechnung von Besuchen
-
-97  Tabelle 10 - Orientierungswerte in Cent
-
-104  Tabelle 11  Inhalt und Layout der Patientenquittung
-
-107  Tabelle 12  Beispiel Simultaneingriff
-
-108  Tabelle 13  Erinnerungsfunktion: Hinweise auf die Angabe der Pseudo-GOP 88130 bzw. 88131
-
-118  Tabelle 14 - Defaultwerte für RV-Zertifikate in Abhängigkeit der pnSD/uu-Info
-
-131  Tabelle 15 - Plausibilitätsprüfungen der Kennziffer-SA im PVS
-
-141  Tabelle 16  ADT-Anforderungen für die Abrechnung von Hybrid-DRGs 143
+Tabelle 13  Erinnerungsfunktion: Hinweise auf die Angabe der Pseudo-GOP 88130 bzw. 88131  Tabelle 14 - Defaultwerte für RV-Zertifikate in Abhängigkeit der pnSD/uu-Info  Tabelle 15 - Plausibilitätsprüfungen der Kennziffer-SA im PVS  Tabelle 16  ADT-Anforderungen für die Abrechnung von Hybrid-DRGs
 
 Seite 7 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+15  27  28  32  Erfassung von Versichertendaten 57
+
+63  79  96  96  103  106  108  118  131  141  143
+
 
 ---
 
@@ -400,32 +389,33 @@ Abrechnungsbereich
 
 # DOKUMENTENHISTORIE
 
-Die Änderungen vom 13.11.2026 (Version 6.11) treten zum 1. Quartal 2027 in Kraft.
+Die Änderungen vom 14.08.2026 (Version 6.09) und 24.08.2026 (Version 6.10) treten zum 4. Quartal 2026  in Kraft.
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
 | 6.11 | 13.11.2026 | KBV | ›  ›  ›  ›  ›  ›  › |  | 41  29  103  165  31  67  80 |
 | 6.10 | 24.08.2026 | KBV | › |  | 94, 95 |
-| 6.09 | 14.08.2026 | KBV | ›  ›  ›  ›  ›  ›  › |  | 83  119  89  90  91    94  121,  168 |
+| 6.09 | 14.08.2026 | KBV | ›  ›  ›  ›  ›  ›  › |  | 82  119  89  90  91    94  121,  168 |
 | 6.08 | 02.06.2026 | KBV | ›  ›  ›  ›  › | Anpassungen | 90  91  89    96    162 |
-| 6.07 | 13.05.2026 | KBV | ›  ›  › | Einführung | 30, 29,  38, 41,  42  25, 78  31, 33,  34, 35,  35, 36, |
+| 6.07 | 13.05.2026 | KBV | ›  ›  › | Einführung | 30, 29,  38, 41,  42  25, 78  31, 33,  34, 35, |
 
 Seite 10 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Ergänzung der Anforderung KP2-186 Ergänzung der Anforderung KP2-104 Punktwert aktualisiert P2-830 Korrektur KP6-872 Redaktionelle Korrekturen P2-120 Anpassung der Anforderungen des Kapitels 2.3.1  Ergänzung eines Hinweises zur KP2- 560 bzgl. der Gültigkeit  Aktualisierung der Anforderungen KP2- 617 und KP2-618 (grün markiert) Konkretisierung KP2-565 Konkretisierung KP2-966 Aktualisierung der Anforderung KP2- 624 Aktualisierung der Anforderung KP2- 613 Aktualisierung der Anforderungen KP2- 614 Korrektur der Anforderung KP2-617 Aktualisierung des Links auf EBM- Suffixe in KP2-968 Aktualisierung der Anforderung KP2- 613 Aktualisierung der Anforderungen KP2- 614  Aktualisierung der Anforderungen KP2- 624  Aktualisierung der Übersicht der Humangenetischen Anforderungen Konkretisierung KP6-805 KP2-103, KP2-104, KP2-171, KP2-186, KP2-187 aufgenommen Kapitel 2.2und Kapitel 2.3.5 angepasst P2-120, P2-135, P2-136, P2-140, P2- 150, P2-166, P2-200, P2-210, P2-220, P2-230, P2-260, P2-265, P2-270, P2- 285, KP2-300, KP2-310, P2-320, P2- Humangene VSDM 2.0 tik
+Ergänzung der Anforderung KP2-186 Ergänzung der Anforderung KP2-104 Punktwert aktualisiert P2-830 Korrektur KP6-872 Redaktionelle Korrekturen P2-120 Anpassung der Anforderungen des Kapitels 2.3.1  Ergänzung eines Hinweises zur KP2- 560 bzgl. der Gültigkeit Aktualisierung der Anforderungen KP2- 617 und KP2-618 (grün markiert) Konkretisierung KP2-565 Konkretisierung KP2-966 Aktualisierung der Anforderung KP2- 624 Aktualisierung der Anforderung KP2- 613 Aktualisierung der Anforderungen KP2- 614 Korrektur der Anforderung KP2-617 Aktualisierung des Links auf EBM- Suffixe in KP2-968 Aktualisierung der Anforderung KP2- 613 Humangenetik Aktualisierung der Anforderungen KP2- 614  Aktualisierung der Anforderungen KP2- 624  Aktualisierung der Übersicht der Humangenetischen Anforderungen Konkretisierung KP6-805 KP2-103, KP2-104, KP2-171, KP2-186, VSDM 2.0 KP2-187 aufgenommen Kapitel 2.2und Kapitel 2.3.5 angepasst P2-120, P2-135, P2-136, P2-140, P2- 150, P2-166, P2-200, P2-210, P2-220, P2-230, P2-260, P2-265, P2-270, P2-
+
 
 ---
 
 | Version | Datum | Autor | Änderung | Begründung | Seite |
 |---|---|---|---|---|---|
-|  |  |  |  | 325, P2-470, KP2-500, P2-501, P2-556, | 44, 45,  45, 48,  49, 49,  50, 51,  52, 53,  53, 54,  65, 66,  68, 78,  78, 79,  102 |
-|  |  |  | ›  ›  ›  › |  | 83  161  162  48 |
-| 6.06 | 09.03.2026 | KBV | › |  | 83 |
-| 6.05 | 13.02.2026 | KBV | ›  ›  ›  ›  ›  › |  | 17, 28,  31, 34,  44, 45,  45,  48,   49, 51,  61, 132,  151  147  21  94  55  83 |
+|  |  |  |  | 285, KP2-300, KP2-310, P2-320, P2- | 35, 36,  44, 45,  45, 48,  49, 49,  50, 51,  52, 53,  53, 54,  65, 66,  68, 78,  78, 79,  101 |
+|  |  |  | ›  ›  ›  › |  | 82  161  162  48 |
+| 6.06 | 09.03.2026 | KBV | › |  | 82 |
+| 6.05 | 13.02.2026 | KBV | ›  ›  ›  ›  ›  › |  | 17, 28,  31, 34,  44, 45,  45,  48,   49, 51,  61, 132,  151  147  21  94  55  82 |
 
 Seite 11 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-KP2-557, P2-558, P2-790 angepasst KP2-565 Erweiterung der Anforderung P6-804 Anpassung der Anforderung KP6-805 aufgenommen P2-230 Anpassung der Anforderung Anpassung der Anforderung KP2-565 Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 
+325, P2-470, KP2-500, P2-501, P2-556, KP2-557, P2-558, P2-790 angepasst KP2-565 Erweiterung der Anforderung P6-804 Anpassung der Anforderung KP6-805 aufgenommen P2-230 Anpassung der Anforderung Anpassung der Anforderung KP2-565 Den Begriff Bedruckung vertragsärztlicher Formulare durch Ausstellung vertragsärztlicher Formulare ersetzt Klarstellung KP8-08 Erweiterung P2-68 Korrektur KP2-616 Ergänzung P2-400 Erweiterung der KP2-565 
 
 
 ---
@@ -521,7 +511,7 @@ Vertragsärzte und Vertragspsychotherapeuten sind gemäß § 295, Abs. 1 SGB V, 
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software setzt alle erforderlichen Anforderungen des Anforderungskataloges  „Anforderungskatalog zur Anwendung der ICD-10-GM“, vgl.  KBV_ITA_VGEX_Anforderungskatalog_ICD-10] um.
+- 1. Die Software setzt alle erforderlichen Anforderungen des Anforderungskataloges „Anforderungskatalog  zur Anwendung der ICD-10-GM“, vgl. KBV_ITA_VGEX_Anforderungskatalog_ICD-10] um.
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -551,7 +541,7 @@ Seite 14 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 **Anmerkung:**
 
-Jeder Anwender mit den Rechten eines Systemadministrators besitzt die Möglichkeit zur Veränderung des  Systemdatums. Vor diesem Hintergrund wird nicht erwartet, dass das Systemdatum durch den Arzt  unveränderbar sein muss. Diese Forderung wäre jenseits der praktischen Realität und würde den Einsatz  eines durch die Funkuhr gespeisten Zeitmoduls im Praxiscomputer voraussetzen. Vielmehr wird Wert  darauf gelegt, dass nicht an diversen Stellen der Anwendungssoftware Funktionen zur Änderung des  Systemdatums angeboten werden, die von jedem Benutzer nach Belieben aktiviert werden können.  Normalerweise sollte eine Datumsänderung ausschließlich auf Betriebssystemebene möglich sein und zwar  nur für entsprechend autorisierte Personen.
+Jeder Anwender mit den Rechten eines Systemadministrators besitzt die Möglichkeit zur Veränderung des  Systemdatums. Vor diesem Hintergrund wird nicht erwartet, dass das Systemdatum durch den Arzt  unveränderbar sein muss. Diese Forderung wäre jenseits der praktischen Realität und würde den Einsatz  eines durch die Funkuhr gespeisten Zeitmoduls im Praxiscomputer voraussetzen. Vielmehr wird Wert  daraufgelegt, dass nicht an diversen Stellen der Anwendungssoftware Funktionen zur Änderung des  Systemdatums angeboten werden, die von jedem Benutzer nach Belieben aktiviert werden können.  Normalerweise sollte eine Datumsänderung ausschließlich auf Betriebssystemebene möglich sein und zwar  nur für entsprechend autorisierte Personen.
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -614,7 +604,9 @@ Ein PVS muss eine Benutzer- und Rechteverwaltung realisieren, sodass im Rahmen d
 |---|---|
 | **P2-52** | Betriebsstättenverwaltung |
 
-Ein PVS muss je Betriebsstättennummer alle in dieser Betriebsstätte tätigen Ärzte mit Angabe der LANR  verwalten und diese Informationen im Rahmen der KV-Abrechnung im besa-Datensatz gemäß KVDT-Datensatzbeschreibung [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] übermitteln. Wird ein PVS an  mehreren Standorten betrieben (mobil oder vernetzt), ist neben der Benutzeranmeldung darüber hinaus  eine Betriebsstättenzuordnung zu realisieren.
+Ein PVS muss je Betriebsstättennummer alle in dieser Betriebsstätte tätigen Ärzte mit Angabe der LANR  verwalten und diese Informationen im Rahmen der KV-Abrechnung im besa-Datensatz gemäß KVDT-Datensatzbeschreibung [KBV_ITA_VGEX_Datensatzbeschreibung_KVDT mehreren Standorten betrieben (mobil oder vernetzt), ist neben der Benutzeranmeldung darüber hinaus  eine Betriebsstättenzuordnung zu realisieren.
+
+] übermitteln. Wird ein PVS an
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -626,13 +618,11 @@ Standardmäßig erfolgt die Abrechnung betriebsstättenbezogen. Der Dateiname de
 
 Abweichend von dem Standardfall kann die Software dem Anwender den Export von Teilabrechnungen auf  Grundlage weiterer Kriterien wie beispielsweise nach der LANR (FK 5099), nach GOPen (FK 5001),  VKNR+KTAB-Kombination usw. ermöglichen
 
-________________
-
-**3** §57a BMV-Ä, (2):
+________________  **3** §57a BMV-Ä, (2):
 
 In den nachfolgend aufgeführten Konstellationen kann anstelle des jeweils spezifischen Diagnoseschlüssels nach ICD-10-GM regelhaft im Sinne  eines Ersatzwertes der ICD-10-Kode Z01.7 Laboruntersuchung angegeben werden:
 
-- 1. Für Arztfälle in einer Arztpraxis, in denen in-vitro-diagnostische Untersuchungen der Abschnitte 11.4, 19.3, 19.4, 32.2, 32.3 EBM oder  entsprechende Untersuchungen im Abschnitt 1.7 oder 8.5 des EBM ohne unmittelbaren Arzt-Patienten-Kontakt durchgeführt werden,  es sei denn, im EBM sind für die Abrechnung der Gebührenordnungspositionen speziellere Regelungen getroffen.
+- 1. Für Arztfälle in einer Arztpraxis, in denen in-vitro-diagnostische Untersuchungen der Abschnitte 11.4, 19.3, 19.4, 32.2, 32.3 EBM oder  entsprechende Untersuchungen im Abschnitt 1.7 oder 8.5 des EBM ohne unmittelbaren Arzt-Patienten-Kontakt durchgeführt werden, es sei  denn, im EBM sind für die Abrechnung der Gebührenordnungspositionen speziellere Regelungen getroffen.
 - 2. Fallunabhängig für Fachärzte für Pathologie, Fachärzte für Neuropathologie, Fachärzte für Laboratoriumsmedizin sowie Fachärzte für  Mikrobiologie und Infektionsepidemiologie.
 
 Seite 16 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
@@ -646,7 +636,7 @@ Seite 16 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 Eine Gesamtabrechnung über mehrere Betriebsstätten ist unter folgenden Voraussetzungen zulässig:
 
 - 1. Alle gemeinsam abrechnenden Betriebsstätten setzen die gleiche PVS ein,
-- 2. Im besa-Datensatz sind sowohl alle in der Abrechnung relevanten Betriebsstätten inkl. der dort  jeweils tätigen Ärzte mit LANR aufgelistet.
+- 2. Im besa-Datensatz sind sowohl alle in der Abrechnung relevanten Betriebsstätten inkl. der dort jeweils  tätigen Ärzte mit LANR aufgelistet.
 
 Dabei ist es unerheblich, ob die Gesamt-Abrechnungsdatei aus einer zentralen Datenbasis heraus erzeugt  wurde oder aber die Datenpakete aus den einzelnen Abrechnungsdateien der Betriebsstätten  zusammengeführt worden sind.
 
@@ -756,7 +746,7 @@ Die Vorbelegung bzw. Anpassung der Feldkennungen kann einzeln pro Betriebsstätt
 
 direkt unterhalb des Feldes 0225 befindet, bilden die bedingten Pflichtfelder 0225 und 0226 immer ein  Paar. Gemäß den Akzeptanzkriterien 1 2 5. und 6. müssen pro Betriebsstätte zwölf Paare in der  Abrechnung übertragen werden, wobei das Feld 0225 die Werte „eRezept“ (1), „NFDM“ (3), „eMP“ (4),
 
-„KIM“ (5), „eAU“ (6), „eArztbrief“ (7), „Kartenterminal“ (8), „SMC B“ (9) „eHBA“ (10), „ePA Stufe 3“ (11)  „eVDGA“ (12) bzw. TIM (13) aufweisen muss.
+„KIM“ (5), „eAU“ (6), „eArztbrief“ (7), „Kartenterminal“ (8), „SMC B“ (9) „eHBA“ (10), „ePA Stufe 3“ (11) eVDGA“ (12) bzw. TIM (13) aufweisen muss.
 
 Die nachfolgenden drei Beispiele demonstrieren die Unterstützung der TI-Fachanwendungen mit der
 
@@ -1003,7 +993,7 @@ Inkorrekte Datumsangaben führen zu Problemen im Abrechnungsprozess.
 
 - 1. Die Software erlaubt dem Anwender ausschließlich die Erfassung von gültigen Datumsangaben.
 - 2. Die Software überträgt mit der Abrechnung das vom Anwender angegebene Datum im Format  JJJJMMTT unter Beachtung des definierten Wertebereichs in den entsprechenden Feldern.
-- 3. Anforderungen (1) und (2) gelten auch für die Felder FK 4125 (Gültigkeitszeitraum von … bis) und  FK 4233 (Stationäre Behandlung von … bis…), es gilt allerdings das Datumsformat  JJJJMMTTJJJJMMTT.
+- 3. Anforderungen (1) und (2) gelten auch für die Felder FK 4125 (Gültigkeitszeitraum von … bis) und FK  4233 (Stationäre Behandlung von … bis…), es gilt allerdings das Datumsformat JJJJMMTTJJJJMMTT.
 
 **Beispiel:**
 
@@ -1022,18 +1012,11 @@ Seite 24 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 - Spezifikation_1Click_KIM
 - gematik Implementierungsleitfaden
 
+```
+-
+```
 
 ---
-
-- 1. Die Software muss grundsätzlich bei der ADT-Abrechnung die Gebührenordnung (FK 4121)  automatisch vorbelegen. Es muss der Wert des Attributs  /kostentraeger/gebuehrenordnung/@V4
-- 4 Die XPath-Ausdrücke beziehen sich in dem Kapitel 2.1.9 auf die Elemente der Kostenträger-Stammdatei.
-- a) wenn die Eingabe von Patientenstammdaten über das Einlesen einer KVK oder eGK  **Versichertenkarte)** erfolgt,
-- **(im Folgenden**
-- b) wenn die Eingabe von Patientenstammdaten über den Abruf der Versichertenstammdaten vom  Fachdienst VSDM 2.0 erfolgt,
-- c) wenn die Eingabe von Patientenstammdaten über die Übernahme einer elektronischen  Ersatzbescheinigung (eEB) erfolgt,
-- d) wenn die Eingabe von Patientenstammdaten nicht über das Einlesen einer Versichertenkarte erfolgt,  sondern (z.B. von einem Behandlungsausweis) manuell über Tastatur oder über Scanner oder über  ein anderes Eingabemedium erfolgt.
-- Attribut /kostentraeger/@V der ermittelten Abrechnungs-VKNR (FK 4104) entspricht.  des Kostenträgers vorgelegt werden, dessen
-- 2. Die Software ermöglicht es dem Anwender nicht, den vorbelegten Wert der Gebührenordnung  (FK 4121) vor der Übernahme der Daten des Abrechnungsdatensatzes in die ADT-Abrechnung  anzupassen.
 
 **2.1.9** **Vorbelegung der Gebührenordnung**
 
@@ -1049,9 +1032,17 @@ Inkorrekte Angaben der Gebührenordnung führen zu Problemen im Abrechnungsproze
 
 **Akzeptanzkriterium:**
 
+- 1. Die Software muss grundsätzlich bei der ADT-Abrechnung die Gebührenordnung (FK 4121) automatisch  vorbelegen. Es muss der Wert des Attributs /kostentraeger/gebuehrenordnung/@V Kostenträgers vorgelegt werden, dessen Attribut /kostentraeger/@V VKNR (FK 4104) entspricht.
+- 2. Die Software ermöglicht es dem Anwender nicht, den vorbelegten Wert der Gebührenordnung (FK  4121) vor der Übernahme der Daten des Abrechnungsdatensatzes in die ADT-Abrechnung anzupassen.
+
 ## 2.2 PATIENTENSTAMMDATEN ERFASSEN UND VERARBEITEN
 
 Dieses Kapitel beschreibt die Vorgaben zur Verarbeitung von Patientenstammdaten:
+
+- a) wenn die Eingabe von Patientenstammdaten über das Einlesen einer KVK oder eGK  **Versichertenkarte)** erfolgt,
+- b) wenn die Eingabe von Patientenstammdaten über den Abruf der Versichertenstammdaten vom  Fachdienst VSDM 2.0 erfolgt,
+- c) wenn die Eingabe von Patientenstammdaten über die Übernahme einer elektronischen  Ersatzbescheinigung (eEB) erfolgt,
+- d) wenn die Eingabe von Patientenstammdaten nicht über das Einlesen einer Versichertenkarte erfolgt,  sondern (z.B. von einem Behandlungsausweis) manuell über Tastatur oder über Scanner oder über  ein anderes Eingabemedium erfolgt.
 
 **Daten eines Versichertendatensatzes:**
 
@@ -1065,6 +1056,14 @@ Dieses Kapitel beschreibt die Vorgaben zur Verarbeitung von Patientenstammdaten:
 -  Versichertennummer bzw. Versicherten_ID
 -  Kostentraegername
 -  Kostentraegerkennung
+
+________________
+
+- 4 Die XPath-Ausdrücke beziehen sich in dem Kapitel 2.1.9 auf die Elemente der Kostenträger-Stammdatei.
+
+Seite 25 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+- der ermittelten Abrechnungs-
 
 **Straßenadresse:**
 
@@ -1080,23 +1079,31 @@ Dieses Kapitel beschreibt die Vorgaben zur Verarbeitung von Patientenstammdaten:
 -  PostfachPLZ
 -  PostfachOrt
 -  Postfach
+-  PostfachWohnsitzlaendercode
+- 4 des
+- **(im Folgenden**
 
-________________
-
-Seite 25 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
 -  Besondere Personengruppe
 -  DMP_Kennzeichnung
+-  Versichertenart
+-  WOP(-Kennzeichen)
+-  Versicherungsschutz Beginn (JJJJMMTT)
+-  Versicherungsschutz Ende (JJJJMMTT)
 
 Detaillierte Informationen über die technischen Einzelheiten der Daten der KVK entnehmen Sie bitte dem  **Merkblatt Krankenversichertenkarte“.**
 
 Informationen zu den Daten der eGK sind auf der Webseite der gematik zu finden.
 
-[Informationen zu den Daten, die vom Fachdienst VSDM 2.0 abgerufen werden, sind dem](https://simplifier.net/vsdm2) [VSDM2](https://simplifier.net/vsdm2)[der gematik zu entnehmen.](https://simplifier.net/vsdm2)
+[Informationen zu den Daten, die vom Fachdienst VSDM 2.0 abgerufen werden, sind dem](https://simplifier.net/vsdm2) [VSDM2](https://simplifier.net/vsdm2)
 
-[Informationen zu den Daten der elektronischen Ersatzbescheinigung sind dem](https://simplifier.net/vsdm2) [VSDM-Ersatzbescheinigung](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current)[der gematik zu entnehmen.](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current)
+[Simplifier-Projekt](https://simplifier.net/vsdm2) [der gematik zu entnehmen.](https://simplifier.net/vsdm2)
+
+[Informationen zu den Daten der elektronischen Ersatzbescheinigung sind dem](https://simplifier.net/vsdm2) [VSDM-Ersatzbescheinigung](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current)
+
+[Implementierungsleitfaden](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current) [der gematik zu entnehmen.](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current)
 
 [Die Daten einer Versichertenkarte können in das Personalienfeld eines Behandlungsausweises gedruckt](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current) werden (z.B. Überweisungsschein). Liegt keine Versichertenkarte vor (z.B. bei Einsendepraxen), sind die  gedruckten Versichertendaten des Behandlungsausweises Grundlage für die weitere Verarbeitung.
 
@@ -1114,9 +1121,9 @@ Die Bedruckung des Personalienfeldes aller vertragsärztlichen Formulare erfolgt
 
 Im Folgenden seien einige Schlüsselfunktionen für die Verarbeitung der Versichertenkarten-Datensätze  definiert:
 
-**KONDITIONALE PFLICHTFUNKTION ADT**
-
-**KP2-100** Einsatz zertifizierter Lesegeräte
+| KONDITIONALE PFLICHTFUNKTION ADT |  |
+|---|---|
+| **KP2-100** | Einsatz zertifizierter Lesegeräte |
 
 Alle Terminals müssen auf Anforderung an jedes Abrechnungssystem in mindestens einer Schnittstelle  (RS232, LAN, USB) angebunden werden können.
 
@@ -1125,17 +1132,6 @@ Alle Terminals müssen auf Anforderung an jedes Abrechnungssystem in mindestens 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Seite 26 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
--  PostfachWohnsitzlaendercode
--  Versichertenart
--  WOP(-Kennzeichen)
--  Versicherungsschutz Beginn (JJJJMMTT)
--  Versicherungsschutz Ende (JJJJMMTT)
-
-[Implementierungsleitfaden](https://simplifier.net/guide/implementierungsleitfaden-vsdm-ersatzbescheinigung?version=current)
-
-[Simplifier-Projekt](https://simplifier.net/vsdm2)
-
 
 ---
 
@@ -1193,10 +1189,10 @@ Seit dem 1. Januar 2015 gilt ausschließlich die elektronische Gesundheitskarte 
 
 **Akzeptanzkriterium:**
 
-- 1. Das System muss das Einlesen der KVK bei gesetzlich Versicherten mit einer Fehlermeldung  ablehnen, wenn die Stellen 3 - 5 des Feldes 41045 < 800.
+- 1. Das System muss das Einlesen der KVK bei gesetzlich Versicherten mit einer Fehlermeldung ablehnen,  wenn die Stellen 3 - 5 des Feldes 41045 < 800.
 - a) Eine automatische Weiterverarbeitung der abgelehneten Daten erfolgt nicht.
 - b) Der Anwender hat die Möglichkeit in eigenem Ermessen und in Kenntnis möglicher  Regressforderungen, zum Zwecke der Abrechnung und Ausstellung von vertragsärztlichen  Formularen, die Kartendaten manuell im PVS zu erfassen (siehe  Abrechnung erfolgt dabei unter Beachtung der Anlage 4a BMV-Ä (Vereinbarung zum Inhalt und zur  Anwendung der elektronischen Gesundheitskarte).
-- 2. Das System muss das Einlesen und die automatische Weiterverarbeitung der KVK bei „originären“  Sonstigen Kostenträger unterstützen, wenn die Stellen 3 - 5 des Feldes 4104 >= 800 und der Inhalt  des Feldes 4106 (KTAB) = 00 - 09 ist.
+- 2. Das System muss das Einlesen und die automatische Weiterverarbeitung der KVK bei „originären“  Sonstigen Kostenträger unterstützen, wenn die Stellen 3 - 5 des Feldes 4104 >= 800 und der Inhalt des  Feldes 4106 (KTAB) = 00 - 09 ist.
 
 **Bedingung:**
 
@@ -1266,7 +1262,7 @@ Während der Übergangsphase (parallel VSDM 1.0/ VSDM 2.0) muss sichergestellt s
 **Akzeptanzkriterium:**
 
 - 1. Ein Abruf vom Fachdienst gilt als nicht erfolgreich, wenn der HTTP-Statuscode der Antwort weder 200  noch 304 entspricht.
-- 2. Bei einem nicht erfolgreichen ersten Abruf initiiert die Software ohne weitere  Anwenderinteraktion das Einlesen der Versichertenstammdaten von der eGK.
+- 2. Bei einem nicht erfolgreichen ersten Abruf initiiert die Software ohne weitere Anwenderinteraktion das  Einlesen der Versichertenstammdaten von der eGK.
 - a) Die Erzeugung des „klassischen“ VSDM sowie des Nachweises gemäß KP2-185 erfolgt nicht.
 - b) Für den nicht erfolgreichen Abruf überträgt die Software die Feldkennung FK 3006, FK 3010 bis FK  3012 mit den Inhalten, die in KP2-186 für den Fehlerfall festgelegt sind.
 - 3. Die Software informiert den Anwender über den nicht erfolgreichen VSDM 2.0 Abruf und den  durchgeführten Fallback auf das eGK-Einlesen.
@@ -1275,7 +1271,7 @@ Seite 29 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-- 4. Bei erfolgreichem Fallback werden die Versichertenstammdaten gemäß der  Mappingtabelle_VSD5 2.0 in der jeweils aktuellen Version transformiert, vgl.  [KBV_ITA_VGEX_Mapping](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)
+- 4. Bei erfolgreichem Fallback werden die Versichertenstammdaten gemäß der Mappingtabelle_VSD5 2.0 in  der jeweils aktuellen Version transformiert, vgl. [
 
 **Bedingung:**
 
@@ -1289,13 +1285,17 @@ Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an der Piloti
 |---|---|
 | **KP2-103** | Konvertierung der VSDM 2.0-Daten in KVDT-konforme Strukturen |
 
-Die Software muss die im Antwort-Bundle des Fachdienstes VSDM 2.0 enthaltenen  Versichertenstammdaten für die weitere Bearbeitung im Rahmen der Abrechnung gemäß den  Anforderungen der Mappingtabelle_VSDM 2.0  transformieren.
+Die Software muss die im Antwort-Bundle des Fachdienstes VSDM 2.0 enthaltenen  Versichertenstammdaten für die weitere Bearbeitung im Rahmen der Abrechnung gemäß den  Anforderungen der Mappingtabelle_VSDM 2.0
 
 **Begründung:**
 
 Anlage 4a BMV-Ä definiert das Praxen den Fachdienstes VSDM 2.0 unterstützen müssen.
 
 Vertragliche Grundlage dieser Anforderung sind die Anlage 4a BMV-Ä sowie die Technische Anlage zu  Anlage 4a (BMV-Ä).
+
+- KBV_ITA_VGEX_Mapping_KVK
+
+transformieren.
 
 **Akzeptanzkriterium:**
 
@@ -1378,7 +1378,7 @@ oder dem Abruf vom Fachdienst VSDM 2.0
 
 **Akzeptanzkriterium:**
 
-- 1. Nach dem erfolgreichen Einlesen eines Versichertendatensatzes von einer Versichertenkarte oder  nach dem erfolgreichen Abruf eines Versichertendatensatzes vom Fachdienst VSDM 2.0 gemäß  den Vorgaben der „Technischen Anlage zur Anlage 4a“ und dem Erzeugen eines Einlesedatums  gemäß der Anforderung P2-140 "amtlichen" Charakter:
+- 1. Nach dem erfolgreichen Einlesen eines Versichertendatensatzes von einer Versichertenkarte oder nach  dem erfolgreichen Abruf eines Versichertendatensatzes vom Fachdienst VSDM 2.0 gemäß den Vorgaben  der „Technischen Anlage zur Anlage 4a“ und dem Erzeugen eines Einlesedatums gemäß der  Anforderung P2-140
 
 | „AMTLICHE“ FELDER | | | | |
 |---|---|---|---|---|
@@ -1386,13 +1386,15 @@ oder dem Abruf vom Fachdienst VSDM 2.0
 | Geburtsdatum | Besondere | PLZ | PostfachPLZ | Versichertenart |
 | Vorname | DMP_Kennzeichnung | Ort | PostfachOrt | WOP (-Kennzeichen) |
 | Name |  | Straße | Postfach | Beginn (JJJJMMTT) |
-| Geschlecht |  | Hausnummer | PostfachWohnsitz- | Ende (JJJJMMTT) |
+| Geschlecht |  | Hausnummer | PostfachWohnsitz- | Versicherungsschutz |
 | Vorsatzwort |  | Anschriftenzusatz |  |  |
 | Namenszusatz |  | Wohnsitzlaender- |  |  |
 | Titel |  |  |  |  |
 | Versichertennummer |  |  |  |  |
 | Kostentraegername |  |  |  |  |
 | Kostentraegerkennung |  |  |  |  |
+
+- haben die nachfolgenden Daten einer Versichertenkarte "amtlichen" Charakter:
 
 Tabelle 4  „Amtliche“ Felder
 
@@ -1406,31 +1408,23 @@ Tabelle 4  „Amtliche“ Felder
 - vii. KP2-310
 - viii. P2-470 (Ausnahme der „Amtlichkeit“ beim Einlesen einer KVK für die Angabe des Geschlechts)
 - ix. Vorgaben des Kapitels 2.2.2.1 Zuordnung des Kostenträgers (VKNR, IK und  Krankenkassenname)
-- 2. Die Software muss die Felder mit  anzeigen, speichern und mit der Abrechnung übertragen.
+- 2. Die Software muss die Felder mit amtlichem speichern und mit der Abrechnung übertragen.
 - a) Die Software muss bedienungs- und programmtechnisch eine Änderung der Felder mit amtlichem  Charakter ausschließen.
 - 3. Die "Amtlichkeit" der in Tabelle 4 aufgeführten Daten gilt bis zum Ablauf des Quartals, in dem die  Versichertenkarte eingelesen oder der erfolgreiche Abruf vom Fachdienst VSDM 2.0 durchgeführt  wurde.
 
 Seite 32 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-- haben die nachfolgenden Daten einer Versichertenkarte
-- amtlichem Charakter unverändert und patientenbezogen
+- Charakter unverändert und patientenbezogen anzeigen,
 
 ```
 -
 ```
 
-Personnengruppe bzw. Versicherten_ID code laendercode Versicherungsschutz Versicherungsschutz
+Personnengruppe bzw. Versicherten_ID code laendercode Ende (JJJJMMTT)
 
 ---
 
-- 4. Falls ein erfolgreicher Einlesevorgang einer Versichertenkarte oder ein erfolgreicher Abruf vom  Fachdienst VSDM 2.0 stattgefunden hat, muss die Software die automatische Übernahme der  Versichertendaten ins Ersatzverfahren (gemäß Abschnitt 2.2.3.1 Definition Ersatzverfahren) zum  Zwecke der Datenänderung unterbinden.
-- 1. Falls eine Krankenversichertenkarte (KVK) eingelesen wird, muss die Software den Inhalt des  Feldes „VKNR/WOP“ (Objekttag ‚8F‘) entsprechend den Vorgaben der „Technischen Anlage zur  Anlage 4a“ KBV_ITA_VGEX_Mapping_KVK] transformieren und im Feld 3116 übertragen. (vgl.  auch P2-105
-- a) Wenn kein WOP-Kennzeichen auf der KVK codiert ist, dann wird das Feld 3116 nicht übertragen.
-- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//WOP  entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“ in das Feld 3116  übernehmen. (vgl. auch P2-105
-- 3. Falls ein erfolgreicher Abruf des Fachdienstes VSDM 2.0 stattgefunden hat, muss die Software den  Inhalt des Elements Coverage.extension:WOP entsprechend den Vorgaben der „Technischen  Anlage zur Anlage 4a“ in das Feld 3116 übernehmen.
-- 4. Die Software muss dem Anwender im Rahmen der manuellen Erfassung die Möglichkeit bieten,  das WOP-Kennzeichen manuell zu erfassen. (vgl. auch P2-400
-- a) Die Software belegt das Eingabefeld des WOP-Kennzeichens nicht vor (beispielsweise anhand der PLZ  des Versicherten).
-- 5. Die Software muss das vom Anwender erfasste WOP-Kennzeichen im Feld 3116 übertragen.
+- 4. Falls ein erfolgreicher Einlesevorgang einer Versichertenkarte oder ein erfolgreicher Abruf vom  Fachdienst VSDM 2.0 stattgefunden hat, muss die Software die automatische Übernahme der  Versichertendaten ins Ersatzverfahren (gemäß Abschnitt 2.2.3.1 Definition Ersatzverfahren) zum Zwecke  der Datenänderung unterbinden.
 
 **Hinweis:**
 
@@ -1438,7 +1432,7 @@ Für Akzeptanzkriterium (2) gilt:
 
 Auch wenn die Patientendaten nicht mehr aktuell sind, müssen diese ohne Änderung in der Abrechnung  übertragen werden.
 
-Bei der Ausstellung von vertragsärztlichen Formularen ist zu beachten, welche Adressdaten für die  Ausstellung zu verwenden sind. Es wird unterschieden zwischen Überweisungs- und Abrechnungsscheinen  und den übrigen vertragsärztlichen Formularen (siehe KP7-81 / KP7-82, „Anforderungskatalog  Formularbedruckung“ KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung]).
+Bei der Ausstellung von vertragsärztlichen Formularen ist zu beachten, welche Adressdaten für die  Ausstellung zu verwenden sind. Es wird unterschieden zwischen Überweisungs- und Abrechnungsscheinen  und den übrigen vertragsärztlichen Formularen (siehe P7-81 / P7-82, „Anforderungskatalog  Formularbedruckung“ KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung]).
 
 Beachten Sie bitte auch die Anforderungen P2-140 P2-150 KP2-557 und P2-558 2.2.1.4 Das WOP-Kennzeichen
 
@@ -1456,19 +1450,17 @@ Das WOP darf zur Vermeidung von Fehlzuweisungen nicht programmtechnisch bestimmt
 
 **Akzeptanzkriterium:**
 
+- 1. Falls eine Krankenversichertenkarte (KVK) eingelesen wird, muss die Software den Inhalt des Feldes  „VKNR/WOP“ (Objekttag ‚8F‘) entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“  KBV_ITA_VGEX_Mapping_KVK] transformieren und im Feld 3116 übertragen. (vgl. auch P2-105
+- a) Wenn kein WOP-Kennzeichen auf der KVK codiert ist, dann wird das Feld 3116 nicht übertragen.
+- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//WOP entsprechend den  Vorgaben der „Technischen Anlage zur Anlage 4a“ in das Feld 3116 übernehmen. (vgl. auch P2-105
+- 3. Falls ein erfolgreicher Abruf des Fachdienstes VSDM 2.0 stattgefunden hat, muss die Software den Inhalt  des Elements Coverage.extension:WOP entsprechend den Vorgaben der „Technischen Anlage zur  Anlage 4a“ in das Feld 3116 übernehmen.
+- 4. Die Software muss dem Anwender im Rahmen der manuellen Erfassung die Möglichkeit bieten, das  WOP-Kennzeichen manuell zu erfassen. (vgl. auch P2-400
+- a) Die Software belegt das Eingabefeld des WOP-Kennzeichens nicht vor (beispielsweise anhand der PLZ  des Versicherten).
+- 5. Die Software muss das vom Anwender erfasste WOP-Kennzeichen im Feld 3116 übertragen.
+
 Seite 33 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
-
-- 1. Falls eine KVK eingelesen wird, muss die Software den Inhalt des Feldes „KrankenKassenName“  (Objekttag 80‘) entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“   KBV_ITA_VGEX_Mapping_KVK] in das Feld 4134 übernehmen. (vgl. auch P2-105
-- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//Name  entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“ in das Feld 4134  übernehmen unter Beachtung der nachfolgenden Prioritätenregelung:
-- **Priorität 1:**
-- **Priorität 2:**
-- 3. Falls ein erfolgreicher Abruf des Fachdienstes VSDM 2.0 stattgefunden muss die Software den  Inhalt des Elements Coverage.payor.display entsprechend den Vorgaben der „Technischen  Anlage zur Anlage 4a“ in das Feld 4134 übernehmen unter Beachtung der nachfolgenden  Prioritätenregelung:
-- a) Priorität 1:
-- b) Priorität 2:
-- 4. Die Software darf den Kostenträgernamen von der Versichertenkarte nicht zur Ausstellung von  vertragsärztlichen Formularen verwenden, sondern muss die Regelungen der Anforderungen P2-210 P2-220 P2-260 oder P2-270 beachten.
-- 5. Die Software ermöglicht es dem Anwender nicht, diese Daten im Rahmen der manuellen  Erfassung zu erfassen.
 
 **Hinweis:**
 
@@ -1488,13 +1480,27 @@ Die vertragliche Grundlage dieser Anforderung sind die Anlage 4a BMV-Ä sowie di
 
 **Akzeptanzkriterium:**
 
+- 1. Falls eine KVK eingelesen wird, muss die Software den Inhalt des Feldes „KrankenKassenName“  (Objekttag 80‘) entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“   KBV_ITA_VGEX_Mapping_KVK] in das Feld 4134 übernehmen. (vgl. auch P2-105
+- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//Name entsprechend den  Vorgaben der „Technischen Anlage zur Anlage 4a“ in das Feld 4134 übernehmen unter Beachtung der  nachfolgenden Prioritätenregelung:
+- a) Priorität 1:
+
 Inhalt von Element  UC_AllgemeineVersicherungsdatenXML/Versicherter/Versicherungsschutz/Kostent raeger/AbrechnenderKostentraeger/Name
+
+- b) Priorität 2:
 
 Inhalt von Element  UC_AllgemeineVersicherungsdatenXML/Versicherter/Versicherungsschutz  /Kostentraeger/Name (vgl. auch P2-105
 
+- 3. Falls ein erfolgreicher Abruf des Fachdienstes VSDM 2.0 stattgefunden muss die Software den Inhalt des  Elements Coverage.payor.display entsprechend den Vorgaben der „Technischen Anlage zur  Anlage 4a“ in das Feld 4134 übernehmen unter Beachtung der nachfolgenden Prioritätenregelung:
+- a) Priorität 1:
+
 Inhalt von Element Coverage.payor[1].display
 
+- b) Priorität 2:
+
 Inhalt von Element Coverage.payor[0].display
+
+- 4. Die Software darf den Kostenträgernamen von der Versichertenkarte nicht zur Ausstellung von  vertragsärztlichen Formularen verwenden, sondern muss die Regelungen der Anforderungen P2-210 P2-220 P2-260 oder P2-270 beachten.
+- 5. Die Software ermöglicht es dem Anwender nicht, diese Daten im Rahmen der manuellen Erfassung zu  erfassen.
 
 **Hinweis:**
 
@@ -1505,17 +1511,17 @@ Seite 34 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 ---
 
 - 1. Im Anschluss an einen erfolgreichen Lesevorgang einer Versichertenkarte durch ein **stationäres**  Lesegerät wird vom Betriebssystem automatisch ein Systemdatum bereitgestellt.
-- 2. Im Anschluss an einen erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM  2.0 wird das Datum aus dem HTTP-Header der Antwort des Fachdienstes als Datumsquelle für das  Einlesedatum verwendet.
-- 3. Das Systemdatum bzw. das aus der Antwort des Fachdienstes VSDM 2.0 bezogene Datum darf nur  bei einem erfolgreichen Einlesevorgang einer Versichertenkarte oder einem erfolgreichen Abruf  des Fachdienstes VSDM 2.0 erzeugt, angezeigt und weiterverarbeitet werden.
+- 2. Im Anschluss an einen erfolgreichen Abruf der Versichertenstammdaten vom Fachdienst VSDM 2.0 wird  das Datum aus dem HTTP-Header der Antwort des Fachdienstes als Datumsquelle für das Einlesedatum  verwendet.
+- 3. Das Systemdatum bzw. das aus der Antwort des Fachdienstes VSDM 2.0 bezogene Datum darf nur bei  einem erfolgreichen Einlesevorgang einer Versichertenkarte oder einem erfolgreichen Abruf des  Fachdienstes VSDM 2.0 erzeugt, angezeigt und weiterverarbeitet werden.
 - 4. Das Systemdatum bzw. das aus der Antwort des Fachdienstes VSDM 2.0 bezogene Datum wird als  „Einlesedatum“ der Versichertenkarte bzw. des erfolgreichen Abrufs (= „letzter Einlesetag der  Versichertenkarte im Quartal“, FK 4109) am Bildschirm angezeigt.
-- 5. Das Einlesedatum hat "amtlichen Charakter" und ist ein Lesefeld. Es darf dem Anwender nicht  möglich sein, dieses Feld zu verändern.
-- 6. Das Einlesedatum darf nur unter den o.a. Bedingungen in die Patientenstammdaten übernommen  und gespeichert werden.
+- 5. Das Einlesedatum hat "amtlichen Charakter" und ist ein Lesefeld. Es darf dem Anwender nicht möglich  sein, dieses Feld zu verändern.
+- 6. Das Einlesedatum darf nur unter den o.a. Bedingungen in die Patientenstammdaten übernommen und  gespeichert werden.
 - 7. Für die Abrechnung wird das Einlesedatum im Feld „Letzter Einlesetag der Versichertenkarte im  Quartal“ (FK 4109 des (x)ADT-Datenpaketes) gespeichert.
-- 8. Es darf **keine Möglichkeit** bestehen, das Einlesedatum zu generieren oder manuell einzugeben,  wenn die Eingabe von Versichertendaten manuell über Tastatur (z.B. beim Ersatzverfahren), über  Scanner oder über ein anderes Eingabemedium erfolgt.
-- 9. Wird mittels Satzart 8215 „Auftrag“ (LDT 3) das Feld 4109 „letzter Einlesetag der  Versichertenkarte im Quartal“ in die Patientendokumentation eines Abrechnungssystems  importiert, darf es dem Anwender nicht möglich sein, den Inhalt des Feldes 4109 zu verändern.
-- 10. Nach der Übernahme des Versichertenkarten-Datensatzes aus einem **mobilen** Kartenterminal  (Rückgabecode 9500 oder 9501 bei RESET_CT) wird das **Einlesedatum** nicht durch das  Systemdatum bereitgestellt, sondern aus dem Datenobjekt Einlesedatum (tag ‚91’) übernommen,  wie auch die **Zulassungsnummer** des mobilen Kartenterminals aus dem Datenobjekt  Zulassungsnummer (tag ‚92‘)7
+- 8. Es darf **keine Möglichkeit** bestehen, das Einlesedatum zu generieren oder manuell einzugeben, wenn  die Eingabe von Versichertendaten manuell über Tastatur (z.B. beim Ersatzverfahren), über Scanner  oder über ein anderes Eingabemedium erfolgt.
+- 9. Wird mittels Satzart 8215 „Auftrag“ (LDT 3) das Feld 4109 „letzter Einlesetag der Versichertenkarte im  Quartal“ in die Patientendokumentation eines Abrechnungssystems importiert, darf es dem Anwender  nicht möglich sein, den Inhalt des Feldes 4109 zu verändern.
+- 10. Nach der Übernahme des Versichertenkarten-Datensatzes aus einem **mobilen** Kartenterminal  (Rückgabecode 9500 oder 9501 bei RESET_CT) wird das **Einlesedatum** nicht durch das Systemdatum  bereitgestellt, sondern aus dem Datenobjekt Einlesedatum (tag ‚91’) übernommen, wie auch die  **Zulassungsnummer** des mobilen Kartenterminals aus dem Datenobjekt Zulassungsnummer (tag ‚92‘)7
 - 7 Zusätzlich zum VDT/VSD wird durch mobile Kartenterminals ein Steckdatum der Karte als auch die Zulassungsnummer des Terminals übertragen.  Daran kann neben dem Rückgabecode implizit auf ein mobiles Kartenterminal geschlossen werden.
-- , vgl. Kapitel „Mobiles Einsatzszenario“ gemäß  Mappingtabelle_KVK KBV_ITA_VGEX_Mapping_KVK] und auch P2-180
+- vgl. Kapitel „Mobiles Einsatzszenario“ gemäß „Mappingtabelle_KVK KBV_ITA_VGEX_Mapping_KVK und auch P2-180
 
 Der Kostenträgername muss beim Einlesen einer Versichertenkarte immer - unabhängig von der  Scheinuntergruppe - übertragen werden. Die Funktionen P2-120 und P2-136 haben Vorrang vor Kontext-Regel 777 der KVDT-Datensatzbeschreibung
 
@@ -1623,7 +1629,7 @@ Seite 37 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 **Begründung:**
 
-In Anlage 4a des BMV-Ä Anhang 1, Nr. 1.5 ist definiert, dass nur Daten von Karten übernommen werden  müssen, wenn die Feldausprägungen der Technischen Anlage zur Anlage 4a entsprechen.
+In Anlage 4a des BMV-Ä Anhang 1, Nr. 1.5 ist definiert, dass nur Daten von Karten übernommen werden  müssen, wenn die Feldausprägungen der
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -1637,8 +1643,8 @@ In Anlage 4a des BMV-Ä Anhang 1, Nr. 1.5 ist definiert, dass nur Daten von Kart
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten in die  Patientenstammdaten übernehmen.
-- 2. Die Software muss sicherstellen, dass dem Anwender nach dem erfolgreichen Abruf (HTTP 200  OK) der Versichertenstammdaten vom Fachdienst VSDM 2.0 und vor der Übernahme der  Versichertendaten die vollständigen Änderungen im Vergleich zu den bereits vorhandenen  Patientenstammdaten angezeigt werden (siehe gematik A_26719).
+- 1. Die Software muss, die vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten in die  Patientenstammdaten übernehmen.
+- 2. Die Software muss sicherstellen, dass dem Anwender nach dem erfolgreichen Abruf (HTTP 200 OK) der  Versichertenstammdaten vom Fachdienst VSDM 2.0 und vor der Übernahme der Versichertendaten die  vollständigen Änderungen im Vergleich zu den bereits vorhandenen Patientenstammdaten angezeigt  werden (siehe gematik A_26719).
 - a) Die Anzeige muss mindestens diejenigen Felder erkennbar hervorheben, deren Inhalt sich gegenüber  den im PVS gespeicherten Patientenstammdaten geändert hat
 - b) Bei einem erfolgreichen Abruf, bei dem keine Änderungen (HTTP 304 Not Modified) der  Versichertenstammdaten gegenüber dem letzten Abruf vorliegt entfällt die Anzeige.
 - Die Software muss dem Anwender geeignet kenntlich machen, dass der Abruf erfolgreich war und  keine Änderungen vorliegen.
@@ -1653,25 +1659,20 @@ Ausgenommen von der Umsetzung sind alle Softwaresysteme, die nicht an der Piloti
 
 Seite 38 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
----
+Technischen Anlage zur Anlage 4a entsprechen.
 
-- 1. Werden die Versichertenkarten-Daten durch ein mobiles Lesegerät (Rückgabecode 9500 oder  9501 bei RESET_CT10
-- 10 Rückgabecode „9501“: Mobile Kartenterminals im Rahmen des „Online Produktivbetriebs“, sonstiger alter Rückgabecode „9500“ von mobilen  Kartenterminals.
-- ) in ein Abrechnungssystem übertragen, muss die Zulassungsnummer des  mobilen Kartenterminals (tag ‚92’ des erweiterten VDT11
-- 11 VDT = VersichertenDatenTemplate
-- Timestamp
-- Ergebnis der Onlineprüfung und aktualisierung
-- Error-Code (Rückgabewert)
-- Prüfziffer des Fachdienstes
-- ) in der jeweiligen Satzart 010x des KVDT  übertragen werden (FK 4108), vgl. auch P2-140 (9) bzw. Kapitel „Mobiles Einsatzszenario“ gemäß  Mappingtabelle_KVK KBV_ITA_VGEX_Mapping_KVK
-- 2. Ist bereits eine Zulassungsnummer vorhanden, wird diese durch die aktuell zu übertragene  Zulassungsnummer überschrieben (nur eine Zulassungsnummer pro Datensatz „010x“).
-- 3. Die Software muss, wenn dieselbe Versichertenkarte derselben Kasse desselben Versicherten von  demselben Arzt im laufenden Quartal beim 1. APK über ein mobiles Lesegerät eingelesen wurde,  und dann bei einem weiteren APK nochmals über ein stationäres Lesegerät eingelesen wird, das  bereits vorhandene Einlesedatum (Feld FK 4109) in der jeweiligen Satzart „010x“ überschreiben  (vgl. auch P2-150). Die Software überträgt mit der Abrechnung nicht das Feld FK 4108  Zulassungsnummer
+
+---
 
 2.2.1.9 Übertragung der Zulassungsnummer des mobilen Lesegerätes in ein Abrechnungssystem
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
 | **P2-180** | Übertragung der Zulassungsnummer des mobilen Lesegerätes in ein Abrechnungssystem |
+
+- 1. Werden die Versichertenkarten-Daten durch ein mobiles Lesegerät (Rückgabecode 9500 oder 9501 bei  RESET_CT10) in ein Abrechnungssystem übertragen, muss die Zulassungsnummer des mobilen  Kartenterminals (tag ‚92’ des erweiterten VDT11) in der jeweiligen Satzart 010x des KVDT übertragen  werden (FK 4108), vgl. auch P2-140 (9) bzw. Kapitel „Mobiles Einsatzszenario“ gemäß  Mappingtabelle_KVK KBV_ITA_VGEX_Mapping_KVK
+- 2. Ist bereits eine Zulassungsnummer vorhanden, wird diese durch die aktuell zu übertragene  Zulassungsnummer überschrieben (nur eine Zulassungsnummer pro Datensatz „010x“).
+- 3. Die Software muss, wenn dieselbe Versichertenkarte derselben Kasse desselben Versicherten von  demselben Arzt im laufenden Quartal beim 1. APK über ein mobiles Lesegerät eingelesen wurde, und  dann bei einem weiteren APK nochmals über ein stationäres Lesegerät eingelesen wird, das bereits  vorhandene Einlesedatum (Feld FK 4109) in der jeweiligen Satzart „010x“ überschreiben (vgl. auch P2-150). Die Software überträgt mit der Abrechnung nicht das Feld FK 4108 ( Zulassungsnummer
 
 2.2.1.10 Übertragung Prüfungsnachweis nach VSDM-Aktualisierung
 
@@ -1683,15 +1684,23 @@ Die Software muss die Übertragung des „Prüfungsnachweises nach VSDM Aktualis
 
 **Begründung:**
 
-Der „Prüfungsnachweis nach VSDM Aktualisierung“ wird für den Vertragsarzt / Vertragspsychotherapeuten  bei durchgeführter Onlineprüfung und aktualisierung erzeugt. Die Bereitstellung des Nachweises der  Durchführung der Onlineaktualisierung auf der eGK (= „Prüfungsnachweis“) regelt § 291b Absatz 2 SGB V.  Die Angabe und Übermittlung des Prüfungsnachweises als Bestandteil der zu übermittelten  Abrechnungsunterlagen an die zuständige KV ist in § 295 SGB V geregelt.
+Der „Prüfungsnachweis nach VSDM Aktualisierung“ wird für den Vertragsarzt / Vertragspsychotherapeuten  bei durchgeführter Onlineprüfung und -aktualisierung erzeugt. Die Bereitstellung des Nachweises der  Durchführung der Onlineaktualisierung auf der eGK (= „Prüfungsnachweis“) regelt § 291b Absatz 2 SGB V.  Die Angabe und Übermittlung des Prüfungsnachweises als Bestandteil der zu übermittelten  Abrechnungsunterlagen an die zuständige KV ist in § 295 SGB V geregelt.
 
 **Grundlagen:**
 
-Der Prüfungsnachweis ist ein Datensatz, der bei einer durchgeführten Onlineprüfung und  aktualisierung  auf der eGK gespeichert und dem PVS übergeben wird. Der Prüfungsnachweis wird auf der eGK in der Datei  EF.PN abgelegt. Im Prüfungsnachweis können die folgenden Inhalte abgebildet werden:
+Der Prüfungsnachweis ist ein Datensatz, der bei einer durchgeführten Onlineprüfung und -aktualisierung  auf der eGK gespeichert und dem PVS übergeben wird. Der Prüfungsnachweis wird auf der eGK in der Datei  EF.PN abgelegt. Im Prüfungsnachweis können die folgenden Inhalte abgebildet werden:
+
+- Timestamp
+- Ergebnis der Onlineprüfung und -aktualisierung
+- Error-Code (Rückgabewert)
+- Prüfziffer des Fachdienstes
 
 Weitere Informationen zum Prüfnachweis entnehmen Sie der Webseite der gematik.
 
 ________________
+
+- 10 Rückgabecode „9501“: Mobile Kartenterminals im Rahmen des „Online Produktivbetriebs“, sonstiger alter Rückgabecode „9500“ von mobilen  Kartenterminals.
+- 11 VDT = VersichertenDatenTemplate
 
 Seite 39 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026 (KVDT) 
 
@@ -1700,21 +1709,21 @@ Seite 39 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 **Akzeptanzkriterium:**
 
-- 1. Falls eine eGK eingelesen und eine Onlineprüfung durchgeführt wurde (entsprechend ist eine  aktuelle Datei EF.PN auf der eGK vorhanden), muss die Software den Prüfungsnachweis in die  Abrechnung übernehmen und speichern.
+- 1. Falls eine eGK eingelesen und eine Onlineprüfung durchgeführt wurde (entsprechend ist eine aktuelle  Datei EF.PN auf der eGK vorhanden), muss die Software den Prüfungsnachweis in die Abrechnung  übernehmen und speichern.
 
 **Hinweis:**
 
 Der Prüfungsnachweis ist mit einem nur dem Anwender bekannten symmetrischen Schlüssel  verschlüsselt. Es darf nur der Prüfungsnachweis, für den durch den Anwender eine Aktualisierung  erfolgte, in das PVS übernommen werden. Damit der Prüfungsnachweis gelesen werden kann, muss bei  der Kommunikation mit dem Konnektor das Flag „Prüfnachweis lesen“ gesetzt sein.
 
 - 2. Die Software darf den Prüfungsnachweis nicht übertragen, wenn die Daten von einem mobilen  Kartenterminal übernommen werden.
-- 3. Sollte beim Einlesen im Quartal ein Prüfungsnachweis zurückgegeben werden, der den Status 1  oder 2 besitzt, wird bei allen weiteren Einlesevorgängen zwar eine Online-Prüfung und ggf. eine  Aktualisierung der VSD durchgeführt werden, jedoch wird kein weiterer Prüfungsnachweis - betrifft die Feldkennungen 3010, 3011, 3012 und 3013 - in die Abrechnung übernommen.
-- 4. Falls beim ersten Einlesen im Quartal ein Prüfungsnachweis zurückgegeben wird, der den Status 3  bis 6 hat, wird beim nächsten Einlesevorgang eine Online-Prüfung und ggf. Aktualisierung der VSD  durchgeführt werden. Wenn der neue Prüfungsnachweis den Status 1 oder 2 hat, dann wird der  bereits vorhandene Prüfungsnachweis - betrifft die Feldkennungen 3010, 3011, 3012 und 3013 im  aktuellen Quartal - in der Abrechnung überschrieben.
-- 5. Die Software überträgt den Prüfungsnachweis wie folgt mit der Abrechnung im jeweiligen  Datensatz „010x“:
+- 3. Sollte beim Einlesen im Quartal ein Prüfungsnachweis zurückgegeben werden, der den Status 1 oder 2  besitzt, wird bei allen weiteren Einlesevorgängen zwar eine Online-Prüfung und ggf. eine Aktualisierung  der VSD durchgeführt werden, jedoch wird kein weiterer Prüfungsnachweis - betrifft die Feldkennungen  3010, 3011, 3012 und 3013 - in die Abrechnung übernommen.
+- 4. Falls beim ersten Einlesen im Quartal ein Prüfungsnachweis zurückgegeben wird, der den Status 3 bis 6  hat, wird beim nächsten Einlesevorgang eine Online-Prüfung und ggf. Aktualisierung der VSD  durchgeführt werden. Wenn der neue Prüfungsnachweis den Status 1 oder 2 hat, dann wird der bereits  vorhandene Prüfungsnachweis - betrifft die Feldkennungen 3010, 3011, 3012 und 3013 im aktuellen  Quartal - in der Abrechnung überschrieben.
+- 5. Die Software überträgt den Prüfungsnachweis wie folgt mit der Abrechnung im jeweiligen Datensatz  „010x“:
 - a) Inhalt von Element /PN/TS in Feld FK 3010 ( Datum und Uhrzeit der Onlineprüfung und -aktualisierung (Timestamp)
 - b) Inhalt von Element /PN/E in Feld FK 3011 ( Ergebnis der Onlineprüfung und -aktualisierung
 - c) Inhalt von Element /PN/EC in Feld FK 3012 ( Error-Code
 - d) Inhalt von Element /PN/PZ in Feld FK 3013 ( Prüfziffer des Fachdienstes ), wobei die Software  sicherstellen muss, dass die base64-codierte Prüfziffer ohne Zeilenumbruch („CR“ und „LF“) als  Feldinhalt übertragen wird. 12
-- 6. Der letzte angeforderte Prüfungsnachweis  gemäß der Akzeptanzkriterien 3 und 4 - muss in allen  Datensätzen „010x“ des laufenden Quartals patientenbezogen übernommen und übertragen  werden.
+- 6. Der letzte angeforderte Prüfungsnachweis  gemäß der Akzeptanzkriterien 3 und 4 - muss in allen  Datensätzen „010x“ des laufenden Quartals patientenbezogen übernommen und übertragen werden.
 
 Die Software ermöglicht es dem Anwender nicht, diese Daten im Rahmen der manuellen Erfassung zu  erfassen.
 
@@ -1742,20 +1751,19 @@ Seite 40 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 - b) Bei technisch gescheitertem Abruf (FK 3011 = 3, 4 oder 5) übernimmt die Software das  Systemdatum/-zeit zum Zeitpunkt des Abrufversuchs.
 - 3. FK 3011 ist wie folgt zu übertragen:
 - a) Wert „1“  bei HTTP 200 OK mit FHIR-Bundle und gültigem VSDM-Pz-Header
-- b) Wert „2“ – bei HTTP 304 Not Modified mit gültigen VSDM-Pz-Header
+- b) Wert „2“ – bei HTTP 304 Not Modified mit gültigen VSDM Pz-Header
 - c) Wert „3“ – bei serverseitigem Fehler des Fachdienstes oder bei Verarbeitungsfehler im Clientsystem  (z.B. ungültiges FHIR-Bundle, fehlender VSDM-Pz-Header), sofern PoPP-Token erfolgreich erlangt  wurde
 - d) Wert „4“ – wenn die PoPP-Token-Anforderung wegen ungültiger oder gesperrter eGK fehlschlägt  (Fehler des PoPP-Service mit entsprechender Fehlerursache)
 - e) Wert „5“ – bei Verbindungsfehler (Netzwerk, TLS, ZETA/ASL, DNS, Timeout).
 - 4. FK 3012 wird wie folgt behandelt:
 - a) Wenn die FK 3011 = 1 oder 2 (Erfolgsfall), dann wird die FK 3012 nicht übertragen
-- b) Wenn die FK 3011 = 3, 4 oder 5 (Fehlerfall), dann wird die FK 3012 mit dem Wert 99999 übertragen.
+- b) Wenn die FK 3011 = 3, 4 oder 5 (Fehlerfall), dann wird die FK 3012 mit den Wert 99999 übertragen.
 - 5. FK 3006 wird wie folgt übertragen:
 - a) Wenn die FK 3011 = 1 (Erfolgsfall) ist, dann wird in die FK 3006 die Profilversion der empfangen  [VSDM-Instanz (Bundle.meta.profile) gemäß [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)[KBV_ITA_VGEX_MAPPING_KVK](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)[] übertragen.](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)
 - b) [Wenn die FK 3011 = 2 (Erfolgsfall) ist, dann wird in die FK 3006 die Profilversion der letzten](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf) [abgerufenen VSDM-Instanz (Bundle.meta.profile) gemäß [](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf)[KBV_ITA_VGEX_MAPPING_KVK](https://update.kbv.de/ita-update/Abrechnung/KBV_ITA_VGEX_Mapping.pdf) übertragen.
 - c) Wenn die FK 3011 = 3, 4 oder 5 (Fehlerfall), dann wird die FK 3006 mit dem Wert „2.0.0“ übertragen.
-- 6. Wenn im laufenden Quartal mehrere erfolgreiche VSD-Abrufe für denselben Versicherten bei  demselben Vertragsarzt und demselben Kostenträger erfolgen, ist die Prüfziffer in FK 3013 sowie  der dazugehöriger Zeitstempel in FK 3010 patientenbezogen jeweils zu überschreiben.
-- 7. Die Software darf die Versichertenstammdaten eines Versicherten nicht von der eGK (VSDM 1.0)  auslesen, sofern im laufenden Quartal bereits ein erfolgreicher VSDM 2.0 Abruf (FK 3011 = 1 oder
-2) für diesen Versicherten erfolgt ist. Dies gilt unabhängig vom Ergebnis eines erneuten VSDM 2.0  Abrufs im Quartal.
+- 6. Wenn im laufenden Quartal mehrere erfolgreiche VSD-Abrufe für denselben Versicherten bei  demselben Vertragsarzt und demselben Kostenträger erfolgen, ist die Prüfziffer in FK 3013 sowie der  dazugehöriger Zeitstempel in FK 3010 patientenbezogen jeweils zu überschreiben.
+- 7. Die Software darf die Versichertenstammdaten eines Versicherten nicht von der eGK (VSDM 1.0)  auslesen, sofern im laufenden Quartal bereits ein erfolgreicher VSDM 2.0 Abruf (FK 3011 = 1 oder 2) für  diesen Versicherten erfolgt ist. Dies gilt unabhängig vom Ergebnis eines erneuten VSDM 2.0 Abrufs im  Quartal.
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -1773,8 +1781,8 @@ Seite 41 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-- 8. Die Werte aus den Feldern FK 3010, FK 3011, FK 3012 und FK 3013 werden in allen Datensätze  010X des laufenden Quartals patientenbezogen übertragen  Logik der KP2-185 Akzeptanzkriterium 6. Abweichend davon überträgt die Software bei einem  Kassenwechsel im laufenden Quartal die Werte aus dem Abruf beim Fachdienst des neuen  Kostenträgers nur in die Datensätze 010x des neuen Kostenträgers. Die Werte in den Datensätzen  010X des bisherigen Kostenträgers bleiben unverändert.
-- 9. Die Software ermöglicht den Anwender nicht, die Werte FK 3010  oder zu verändern.
+- 8. Die Werte aus den Feldern FK 3010, FK 3011, FK 3012 und FK 3013 werden in allen Datensätze 010X des  laufenden Quartals patientenbezogen übertragen  analog zur bisherigen Falltrennungs-Logik der KP2-185 Akzeptanzkriterium 6. Abweichend davon überträgt die Software bei einem Kassenwechsel im  laufenden Quartal die Werte aus dem Abruf beim Fachdienst des neuen Kostenträgers nur in die  Datensätze 010x des neuen Kostenträgers. Die Werte in den Datensätzen 010X des bisherigen  Kostenträgers bleiben unverändert.
+- 9. Die Software ermöglicht den Anwender nicht, die Werte FK 3010  verändern.
 
 **Bedingung:**
 
@@ -1819,8 +1827,7 @@ Die Software stellt sicher, dass die Zuzahlungsbefreiung für einen Patienten sp
 
 Seite 42 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-- analog zur bisherigen Falltrennungs-
-- FK 3013 manuell zu erfassen
+- FK 3013 manuell zu erfassen oder zu
 
 [gemSST_CS_VSDM_2](https://gemspec.gematik.de/docs/gemSST/gemSST_CS_VSDM_2/latest/)[um.](https://gemspec.gematik.de/docs/gemSST/gemSST_CS_VSDM_2/latest/)
 
@@ -1829,13 +1836,17 @@ Seite 42 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
+- 1. Hat ein Patient den Nachweis für die Zuzahlungsbefreiung erbracht und wird dies innerhalb des PVS als  „gebührenfrei“ verwaltet, wird spätestens nach erfolgtem Jahreswechsel die Kennzeichnung  „gebührenfrei“ systemseitig für den Patienten gelöscht.
+- 1. Patienten unter 18 Jahren werden im PVS automatisch als „gebührenfrei“ verwaltet.
+- a) Dabei ist zu berücksichtigen, dass die automatische Zuzahlungsbefreiung zu Beginn des Quartals  endet, in welchem der Patient das 18. Lebensjahr vollendet hat. (Gilt für GKV-Kassen mit 3.-5. Stelle  der VKNR < 800)
+- 2. Bei Eintritt des Patienten in die Zuzahlungspflicht wird der Anwender vom PVS über die Änderung  informiert.
+- 3. In Muster 4 muss der Anwender explizit angeben, ob eine Zuzahlungsbefreiung für den Patienten  vorliegt bzw. nicht vorliegt.
+
 **Begründung:**
 
 Versicherte der gesetzlichen Krankenkassen müssen sich an den Ausgaben für ihre Gesundheit in Form von  Zuzahlungen beteiligen. Wenn die Zuzahlungen die persönliche Belastungsgrenze erreicht haben, erfolgt  eine Zuzahlungsbefreiung für das laufende Jahr. Dies ist vom Arzt auf den entsprechenden  Verordnungsformularen zu kennzeichnen.
 
 **Akzeptanzkriterium:**
-
-- 1. Hat ein Patient den Nachweis für die Zuzahlungsbefreiung erbracht und wird dies innerhalb des  PVS als „gebührenfrei“ verwaltet, wird spätestens nach erfolgtem Jahreswechsel die  Kennzeichnung „gebührenfrei“ systemseitig für den Patienten gelöscht.
 
 **Bedingung:**
 
@@ -1853,11 +1864,6 @@ Für Kinder und Jugendliche unter 18 Jahren liegt keine Zuzahlungspflicht vor. D
 
 **Akzeptanzkriterium:**
 
-- 1. Patienten unter 18 Jahren werden im PVS automatisch als „gebührenfrei“ verwaltet.
-- a) Dabei ist zu berücksichtigen, dass die automatische Zuzahlungsbefreiung zu Beginn des Quartals  endet, in welchem der Patient das 18. Lebensjahr vollendet hat. (Gilt für GKV-Kassen mit 3.-5. Stelle  der VKNR < 800)
-- 2. Bei Eintritt des Patienten in die Zuzahlungspflicht wird der Anwender vom PVS über die Änderung  informiert.
-- 3. In Muster 4 muss der Anwender explizit angeben, ob eine Zuzahlungsbefreiung für den Patienten  vorliegt bzw. nicht vorliegt.
-
 **Bedingung:**
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
@@ -1873,6 +1879,18 @@ Abrechnungssoftware, die im ambulanten und im stationären Bereich eingesetzt we
 Seite 43 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
+
+- 1. Die 9-stellige Krankenkassennummer (IK) der Versichertenkarte13
+- 13 Ein Institutionskennzeichen besteht grundsätzlich aus einer neunstelligen Ziffernfolge. Auf der KVK wird ein um die Stellen 1-2 gekürztes 7-stelliges IK (Stellen 3-9 des IK) verwendet. Auf der eGK wird ein 9-stelliges IK verwendet., vgl. Mappingtabelle_KVK  KBV_ITA_VGEX_Mapping_KVK
+- oder der vom Fachdienst VSDM 2.0  abgerufenen Versichertenstammdaten muss als Suchschlüssel für einen Kostenträger verwendet  werden, unabhängig davon, ob
+- a) das IK über die Versichertenkarte eingelesen
+- b) oder das IK aus den vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten übernommen
+- c) oder (z.B. im Ersatzverfahren) manuell erfasst wird (siehe P2-410
+- 2. Ist das IK (unter Element /kostentraeger/ik_liste/ik/@V in der KT-Stammdatei14
+- 14 Im Folgenden ist die jeweils aktuell gültige KT-Stammdatei gemeint.
+- vorhanden,  dann muss ein Kostenträger-Stammsatz (/kostentraeger/@V der KT-Stammdatei(=VKNR)) eindeutig  identifiziert werden können.
+- 3. Die VKNR von der **Krankenversichertenkarte** darf nicht für die Abrechnung verwendet werden.
+- 4. Wenn ein Element ////AbrechnenderKostentraeger/Kostentraegerkennung auf der eGK  existiert oder ein entsprechendes Element Coverage.payor[1].identifier:IKNR in den vom  Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten existiert, muss verpflichtend dieses IK als  Suchschlüssel für einen Kostenträger (vgl. Mappingtabelle_KVK KBV_ITA_VGEX_Mapping_KVK]) und  für die weitere Verarbeitung und Ausstellung der vertragsärztlichen Formulare gemäß der  nachfolgenden Fallunterscheidungen verwendet werden.
 
 **Erläuterung:**
 
@@ -1894,20 +1912,9 @@ IK als Suchschlüssel
 |---|---|
 | **P2-200** | IK als Suchschlüssel für einen Kostenträger |
 
-- 1. Die 9-stellige Krankenkassennummer (IK) der Versichertenkarte13 oder der vom Fachdienst VSDM  2.0 abgerufenen Versichertenstammdaten muss als Suchschlüssel für einen Kostenträger  verwendet werden, unabhängig davon, ob
-- a) das IK über die Versichertenkarte eingelesen
-- b) oder das IK aus den vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten übernommen
-- c) oder (z.B. im Ersatzverfahren) manuell erfasst wird (siehe P2-410
-- 2. Ist das IK (unter Element /kostentraeger/ik_liste/ik/@V in der KT-Stammdatei14  vorhanden, dann muss ein Kostenträger-Stammsatz (/kostentraeger/@V der KT-Stammdatei(=VKNR)) eindeutig identifiziert werden können.
-- 3. Die VKNR von der **Krankenversichertenkarte** darf nicht für die Abrechnung verwendet werden.
-- 4. Wenn ein Element ////AbrechnenderKostentraeger/Kostentraegerkennung auf der  eGK existiert oder ein entsprechendes Element Coverage.payor[1].identifier:IKNR in  den vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten existiert, muss  verpflichtend dieses IK als Suchschlüssel für einen Kostenträger (vgl. Mappingtabelle_KVK  KBV_ITA_VGEX_Mapping_KVK]) und für die weitere Verarbeitung und Ausstellung der  vertragsärztlichen Formulare gemäß der nachfolgenden Fallunterscheidungen verwendet werden.
-
 **Darüber hinaus gelten folgende FALLUNTERSCHEIDUNGEN:**
 
 ________________
-
-- 13 Ein Institutionskennzeichen besteht grundsätzlich aus einer neunstelligen Ziffernfolge. Auf der KVK wird ein um die Stellen 1-2 gekürztes 7-stelliges IK (Stellen 3-9 des IK) verwendet. Auf der eGK wird ein 9-stelliges IK verwendet., vgl. Mappingtabelle_KVK  KBV_ITA_VGEX_Mapping_KVK
-- 14 Im Folgenden ist die jeweils aktuell gültige KT-Stammdatei gemeint.
 
 Seite 44 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -2214,7 +2221,7 @@ Seite 50 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 - c) Format-Regel: 017
 - 4. Temporäre Datensätze zur KT-Stammdatei **aus dem Vorquartal** dürfen der neuen KT-Stammdatei  automatisch zugeordnet werden, wenn die entsprechenden IKs der temporären Datensätze im Update  zur neuen KT-Stammdatei **nicht** enthalten sind.
 - 5. Der Anwender muss die Möglichkeit haben, temporäre Stammsätze zu verändern bzw. KTAB’s zu  ergänzen
-- 6. Wenn ein temporär angelegtes IK zur KT-Stammdatei des Anwenders nicht in der Folgeversion der  KT-Stammdatei enthalten ist, darf dieses IK der neuen KT-Stammdatei automatisch zugeordnet  werden.
+- 6. Wenn ein temporär angelegtes IK zur KT-Stammdatei des Anwenders nicht in der Folgeversion der KT-Stammdatei enthalten ist, darf dieses IK der neuen KT-Stammdatei automatisch zugeordnet werden.
 
 für 2 b) gilt:
 
@@ -2246,14 +2253,14 @@ Der Kostenträger-Abrechnungsbereich gibt die vertragliche Vereinbarung oder ges
 - b) LQ sei Leistungsquartal
 - c) KTAB sei ein dem Patienten zuzuordnender KT-Abrechnungsbereich und es existiere ein y Gültigkeitsquartal des KT-Abrechnungsbereichs  /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/gueltigkei t/@V
 
+**Falls**
+
 Seite 51 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 - KT-Abrechnungsbereich aufgelöst 
 
 
 ---
-
-**Falls**
 
 **LQ liegt oberhalb des Gültigkeitszeitraumes**  /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/gueltigk eit/@V
 
@@ -2281,7 +2288,7 @@ Ein Abgleich der Versichertendaten mit bereits gespeicherten Patientendaten ist 
 
 **Akzeptanzkriterium:**
 
-- 1. Beim Einlesen der Versichertenkarte oder beim erfolgreichen Abruf vom Fachdienst VSDM 2.0  stellt die Software durch den Abgleich mit bereits gespeicherten Patientendaten systemseitig
+- 1. Beim Einlesen der Versichertenkarte oder beim erfolgreichen Abruf vom Fachdienst VSDM 2.0 stellt die  Software durch den Abgleich mit bereits gespeicherten Patientendaten systemseitig
 - a) die Identifikations einer bereits vorhandenen Patientenstammdatei zum Patienten,
 - b) die Vermeidung von redundanten Patientenstammdaten zu einem Patienten sowie
 - c) die Vermeidung von fälschlicherweisen Überschreibungen von Patientenstammdaten
@@ -2298,6 +2305,7 @@ Die folgende Suchstrategie wird zur Identifikation von bereits vorhandenen Patie
 
 - 1. IK, Versicherten-ID bzw. Versichertennummer, wenn nicht vorhanden oder nicht eindeutig... 17
 - 2. Name18, Vorname19, Geburtsdatum, wenn nicht vorhanden ...
+- 3. Anwenderorientierte Auswahlverfahren (Auswahlfenster)
 
 ________________
 
@@ -2309,11 +2317,10 @@ Seite 52 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-- 3. Anwenderorientierte Auswahlverfahren (Auswahlfenster)
 - 1. Bei einem Kassenwechsel eines im System vorhandenen Patienten wird unmittelbar nach dem Einlesen  der neuen Versichertenkarte oder dem erfolgreichen Abruf der Versichertenstammdaten von  Fachdienst VSDM 2.0
 - a) der Anwender, durch einen Warnhinweis, auf den Kassenwechsel hingewiesen
 - b) jedes einzelne Feld  definiert in der [KBV_ITA_VGEX_Mapping_KVK der Versichertenkarte oder  der abgerufenen Stammdaten von Fachdienst wird mit den Bestandsdaten im PVS abgeglichen. Bei  Abweichungen der Daten sind die Unterschiede feldspezifisch in der Stammdatenmaske anzuzeigen.
-- 1. Das System muss bei Kennzeichnungen der besonderen Personengruppen (FK 4131)23  sicherstellen, dass der KTAB (FK 4106) nur eine bestimmte Werteausprägung besitzen darf:
+- 1. Das System muss bei Kennzeichnungen der besonderen Personengruppen (FK 4131)23 sicherstellen, dass  der KTAB (FK 4106) nur eine bestimmte Werteausprägung besitzen darf:
 - a) Falls der Inhalt der FK 4131 = "00"ist, dann kann der Inhalt der FK 4106 einer der erlaubten Werte  "00", "01", "02", "03", "04", "05", "06", "07", "08" oder „09“ sein.
 - b) Falls der Inhalt der FK 4131 = „04“ ist, dann muss der Inhalt der FK 4106 entweder „00“ oder “09“  sein.
 - c) Falls der Inhalt der FK 4131 = „06“ ist, dann muss der Inhalt der FK 4106 entweder „02“ oder “09“  sein.
@@ -2363,7 +2370,7 @@ Besonderen Personengruppe (FK 4131)
 - d) Falls der Inhalt der FK 4131 = "07" oder "08", dann muss bei einer automatischen Vorbelegung der FK  4106 der Inhalt gleich "01" sein.
 - 3. Eine automatische Vorbelegung des Inhaltes zu FK 4106 durch das System **ist erforderlich**
 - a) Falls der Inhalt der FK 4131 = "09" ist, dann muss eine automatische Vorbelegung der FK 4106 mit  dem Inhalt gleich "00" erfolgen.
-- 4. Der Anwender muss die Möglichkeit haben die nach Akzeptanzkriterium 2 und 3 vorbelegten  Werte zu ändern.
+- 4. Der Anwender muss die Möglichkeit haben die nach Akzeptanzkriterium 2 und 3 vorbelegten Werte zu  ändern.
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -2523,7 +2530,7 @@ Die Software stellt sicher, dass die in Die Software weist mit einem Hinweis den
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
-| **KP2-404** | Unterstützung des Empfangs einer elektronischen Ersatzbescheinigung (eEB) von |
+| **KP2-404** | Krankenkassen |
 
 Die Software muss den Empfang einer eEB von Krankenkassen gemäß den Regelungen der Technischen  Anlage eEB unterstützen.
 
@@ -2549,7 +2556,7 @@ Die Regelungen gemäß der Technischen Anlage eEB können ab sofort eingesetzt w
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
-| **KP2-405** | Abrechnung von Leistungen mit der elektronischen Ersatzbescheinigung (eEB) als |
+| **KP2-405** | Versicherungsnachweis |
 
 Bei der Übernahme der Versichertendaten aus einer eEB muss die Software den Wert 1 in das Feld „eEB  vorhanden“ (FK 4112) übertragen.
 
@@ -2565,7 +2572,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Seite 58 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Die Software stellt dem Anwender die Funktionen gemäß der Technischen Anlage eEB [ Verfügung.  Wenn die Versichertendaten aus einer eEB übernommen werden, dann kennzeichnet die Software den jeweiligen Datensatz der Abrechnung mit dem Wert 1 in der FK 4112. Wenn die Versichertendaten nicht aus einer eEB übernommen werden, muss die Software sicherstellen, dass die FK 4112 nicht in dem jeweiligen Datensatz der Abrechnung übertragen wird.  Krankenkassen Versicherungsnachweis 
+Die Software stellt dem Anwender die Funktionen gemäß der Technischen Anlage eEB [ Verfügung.  Wenn die Versichertendaten aus einer eEB übernommen werden, dann kennzeichnet die Software den jeweiligen Datensatz der Abrechnung mit dem Wert 1 in der FK 4112. Wenn die Versichertendaten nicht aus einer eEB übernommen werden, muss die Software sicherstellen, dass die FK 4112 nicht in dem jeweiligen Datensatz der Abrechnung übertragen wird.  Unterstützung des Empfangs einer elektronischen Ersatzbescheinigung (eEB) von Abrechnung von Leistungen mit der elektronischen Ersatzbescheinigung (eEB) als 
 
 
 ---
@@ -2607,7 +2614,7 @@ Im Rahmen des Ersatzverfahrens wird die Besonderen Personengruppe (FK 4131) wie 
 
 ---
 
-\|  |  | 3.  1.  1.  P2-200).  2.  3.  Kapitel 2.2.2.1 umsetzen. |
+\|  |  | 3.  1.  1.  P2-200).  2.  3.  Kapitel 2.2.2.1 |
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -2643,7 +2650,7 @@ Diese Anforderung resultiert aus § 1 der Anlage 6 BMV-Ä (Vertrag über den Dat
 
 Seite 60 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Wenn der Anwender im Rahmen der Dateneingabe kein DMP-Kennzeichen eingibt, dann überträgt die Software entweder vorrangig den bereits bekannten Wert oder den Defaultwert „00“ in der FK 4132 in der Abrechnung. Der Anwender muss die Möglichkeit haben, sich die Bedeutung eines DMP-Kennzeichens anzeigen zulassen.  Falls ein IK zur Identifikation eines Kostenträgers vorliegt, muss die Software dem Anwender die Möglichkeit bieten, über die manuelle Eingabe dieses IKs einen Kostenträger in der KT- Stammdatei zu identifizieren (vgl. auch Die Software stellt dem Anwender darüber hinaus weitere Suchkriterien wie VKNR, Kassenname, Kassensuchname und/oder Ortssuchname zur Identifizierung eines Kostenträgers in der KT- Stammdatei zur Verfügung. Falls ein Kostenträger identifiziert werden konnte, muss die Software zur Überprüfung der Abrechnungsfähigkeit dieses Kostenträgers mit einem KT-Abrechnungsbereich und für die Verarbeitung des Kassennamens und der VKNR alle Vorgaben und Fallunterscheidungen gemäß Erfassung bzw. im Ersatzverfahren  
+Wenn der Anwender im Rahmen der Dateneingabe kein DMP-Kennzeichen eingibt, dann überträgt die Software entweder vorrangig den bereits bekannten Wert oder den Defaultwert „00“ in der FK 4132 in der Abrechnung. Der Anwender muss die Möglichkeit haben, sich die Bedeutung eines DMP-Kennzeichens anzeigen zulassen.  Falls ein IK zur Identifikation eines Kostenträgers vorliegt, muss die Software dem Anwender die Möglichkeit bieten, über die manuelle Eingabe dieses IKs einen Kostenträger in der KT-Stammdatei zu identifizieren (vgl. auch Die Software stellt dem Anwender darüber hinaus weitere Suchkriterien wie VKNR, Kassenname, Kassensuchname und/oder Ortssuchname zur Identifizierung eines Kostenträgers in der KT-Stammdatei zur Verfügung. Falls ein Kostenträger identifiziert werden konnte, muss die Software zur Überprüfung der Abrechnungsfähigkeit dieses Kostenträgers mit einem KT-Abrechnungsbereich und für die Verarbeitung des Kassennamens und der VKNR alle Vorgaben und Fallunterscheidungen gemäß umsetzen. Erfassung bzw. im Ersatzverfahren  
 
 
 ---
@@ -2749,7 +2756,7 @@ Abbildung 1: Überweisungsschein für Überweisungsaufträge der Bundeswehr (Sat
 
 Seite 63 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Die „Personenkennziffer“ ist gemäß den Einstellungen der KV -Spezifika (kvx3) als SKT- Zusatzangabe unter der FK 4124 (SKT-Zusatzangaben) zu erfassen und zu übertragen. Die „Personenkennziffer“ muss dem Format „TTMMJJannnnn“ entsprechen. Gemäß §3 Überweisungsverfahren, Absatz (5) des o.g. Vertrages dürfen Vertragsärzte seit 1. Januar 2013 Überweisungen für Laborleistungen, zytologische Leistungen und Röntgenleistungen, sowie für anästhesiologische Leistungen im Rahmen ambulanter Operationen ausstellen. Eine sonstige Weiterüberweisung an einen anderen Vertragsarzt oder Vertragspsychotherapeuten ist außerhalb des Notfalls nicht ohne weiteres zulässig, vgl. §3 Überweisungsverfahren. Gemäß den Einstellungen der KV- Spezifika (kvx3) ist ggf. eine „Abweichende Gültigkeitsdauer“ zu erfassen und unter der FK 4125 (Gültigkeitszeitraum von … bis …) zu übertragen. Nachfolgend verkleinerte Darstellungen der vereinbarten Formulare: Wehrdienstfähigkeit (WE) (§ 75 Abs. 3 SGB V) 
+Die „Personenkennziffer“ ist gemäß den Einstellungen der KV -Spezifika (kvx3) als SKT-Zusatzangabe unter der FK 4124 (SKT- Zusatzangaben) zu erfassen und zu übertragen. Die „Personenkennziffer“ muss dem Format „TTMMJJannnnn“ entsprechen. Gemäß §3 Überweisungsverfahren, Absatz (5) des o.g. Vertrages dürfen Vertragsärzte seit 1. Januar 2013 Überweisungen für Laborleistungen, zytologische Leistungen und Röntgenleistungen, sowie für anästhesiologische Leistungen im Rahmen ambulanter Operationen ausstellen. Eine sonstige Weiterüberweisung an einen anderen Vertragsarzt oder Vertragspsychotherapeuten ist außerhalb des Notfalls nicht ohne weiteres zulässig, vgl. §3 Überweisungsverfahren. Gemäß den Einstellungen der KV- Spezifika (kvx3) ist ggf. eine „Abweichende Gültigkeitsdauer“ zu erfassen und unter der FK 4125 (Gültigkeitszeitraum von … bis …) zu übertragen. Nachfolgend verkleinerte Darstellungen der vereinbarten Formulare: Wehrdienstfähigkeit (WE) (§ 75 Abs. 3 SGB V) 
 
 
 ---
@@ -2774,7 +2781,7 @@ Falls die in der Abrechnungssoftware vorliegende Postleitzahl des Patienten in d
 
 Falls die in der Abrechnungssoftware vorliegende Postleitzahl des Patienten in der PLZ-Stammdatei  (Referenzierung Feld 0150) **nicht existiert**, dann
 
-- 1. muss ein Warnhinweis erfolgen, dass diese vorliegende Postleitzahl des Patienten nicht in der  PLZ-Stammdatei existiert und entsprechend geändert werden muss.
+- 1. muss ein Warnhinweis erfolgen, dass diese vorliegende Postleitzahl des Patienten nicht in der PLZ-Stammdatei existiert und entsprechend geändert werden muss.
 - 2. darf die vorliegende Postleitzahl nicht in den ADT-Abrechnungsdatensatz übertragen werden.
 - 3. muss der Anwender eine geeignete Korrektur nach folgender Maßgabe vornehmen:
 - a) Wohnt der Patient im Inland, muss eine dem Patienten zugehörige Postleitzahl in den ADT-Abrechnungsdatensätzen übertragen werden, die in der PLZ-Stammdatei der KBV existiert.
@@ -2835,10 +2842,10 @@ Technische Anlage zu
 
 ---
 
-- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//Geschlecht  entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“  KBV_ITA_VGEX_Mapping_KVK] in das Feld 3110 übernehmen (vgl. auch P2-105
-- 3. Falls Versichertenstammdaten von Fachdienst VSDM 2.0 abgerufen werden, muss die Software  das in den abgerufenen Daten enthaltene Geschlecht Patient.gender entsprechend den  Vorgaben der Technischen Anlage zur Anlage 4a“ [KBV_ITA_VGEX_Mapping_KVK] in das Feld  3110 übernehmen.
-- 4. Falls eine KVK eingelesen wird muss die Software vom Anwender die Eingabe einer  Geschlechtsangabe fordern.
-- 5. Im Rahmen der manuellen Erfassung bzw. beim Ersatzverfahren, muss die Software vom  Anwender die Eingabe einer Geschlechtsangabe fordern.
+- 2. Falls eine eGK eingelesen wird, muss die Software den Inhalt des Elements ..//Geschlecht  entsprechend den Vorgaben der „Technischen Anlage zur Anlage 4a“ KBV_ITA_VGEX_Mapping_KVK] in  das Feld 3110 übernehmen (vgl. auch P2-105
+- 3. Falls Versichertenstammdaten von Fachdienst VSDM 2.0 abgerufen werden, muss die Software das in  den abgerufenen Daten enthaltene Geschlecht Patient.gender entsprechend den Vorgaben der  Technischen Anlage zur Anlage 4a“ [KBV_ITA_VGEX_Mapping_KVK] in das Feld 3110 übernehmen.
+- 4. Falls eine KVK eingelesen wird muss die Software vom Anwender die Eingabe einer Geschlechtsangabe  fordern.
+- 5. Im Rahmen der manuellen Erfassung bzw. beim Ersatzverfahren, muss die Software vom Anwender die  Eingabe einer Geschlechtsangabe fordern.
 - 6. Die Software muss das vom Anwender erfasste Geschlecht im Feld 3110 übertragen.
 
 **2.2.7** **Fiktive Versicherte**
@@ -2867,16 +2874,16 @@ Krankenkassen, welche bspw. den Praxen für Anbindungstests von TI-Fachanwendung
 
 Beim **erstmaligen Einlesen der Versichertenkarte** oder beim erstmaligen erfolgreichen Abruf der  Versichertenstammdaten vom Fachdienst VSDM 2.0 eines Versicherten im Quartal muss das System die  **Eingabe der abzurechnenden „Satzart 010x“ bzw. der „Scheinuntergruppe“** verlangen. Dies kann  entweder im direkten Zusammenhang mit dem Einlesevorgang bzw. dem Abruf oder beim ersten Erfassen  von abrechnungsrelevanten Daten erfolgen.
 
+**Bedingung:**
+
+Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
+
 Seite 66 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 Kontakt im Quartal 
 
 
 ---
-
-**Bedingung:**
-
-Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -2902,19 +2909,21 @@ Seit Anfang 2016 bieten die Kassenärztlichen Vereinigungen den Service der Term
 
 Für Behandlungen, die aufgrund einer Terminvermittlung durch die TSS oder einen Hausarzt zustande  gekommen ist, ist eine Kennzeichnungsmöglichkeit vorgesehen. ist eine Vergütung außerhalb der  morbiditätsbedingten Gesamtvergütung vorgesehen.
 
-Gleiches gilt für die Behandlung im Rahmen von offenen Sprechstunden. Hierfür wurde eine besondere  Scheinkennzeichnung mit den Feldern 4103 („Vermittlungs /Kontaktart“) und 4105 („Ergänzende  Informationen zur Vermittlungs-/Kontaktart“) eingeführt und spezifische Regelungen in den KVDT-Anforderungskatalog aufgenommen.
+Gleiches gilt für die Behandlung im Rahmen von offenen Sprechstunden. Hierfür wurde eine besondere  Scheinkennzeichnung mit den Feldern 4103 („Vermittlungs /Kontaktart“) und 4105 („Ergänzende  Informationen zur Vermittlungs-/Kontaktart“) eingeführt und spezifische Regelungen in den KVDT Anforderungskatalog aufgenommen.
 
 Über die TSS können auch nicht dringliche Termine vermittelt werden, z.B. wenn der Termin vom  Versicherten über den eTerminservice der KV gebucht wird, keine Überweisung mit dringendem  Vermittlungscode vorliegt, bei verschiebbaren Routineuntersuchungen oder in Fällen von  Bagatellerkrankungen.
 
 Für diese Sachverhalte steht mit dem Feld 4103 („Vermittlungs /Kontaktart“) eine besondere  Scheinkennzeichnung zur Verfügung
 
-Das Feld 4105 ( Ergänzende Informationen zur Vermittlungs-/Kontaktart ) dient zur Übermittlung weiterer  Angaben im Zusammenhang mit der Terminvermittlung. Derzeit existieren keine bundesweit gültigen  Vorgaben für eine verpflichtende Belegung des Feldes 4105. Gegebenenfalls bestehen hierzu jedoch  regionale Vorgaben der Kassenärztlichen Vereinigungen.
+Das Feld 4105 („Ergänzende Informationen zur Vermittlungs /Kontaktart“) dient zur Übermittlung weiterer  Angaben im Zusammenhang mit der Terminvermittlung. Derzeit existieren keine bundesweit gültigen  Vorgaben für eine verpflichtende Belegung des Feldes 4105. Gegebenenfalls bestehen hierzu jedoch  regionale Vorgaben der Kassenärztlichen Vereinigungen.
+
+Fachärzte profitieren im Fall einer Terminvermittlung durch einen Hausarzt von einer Vergütung der von  ihnen durchgeführten Leistungen außerhalb der morbiditätsbedingten Gesamtvergütung („HA Vermittlungsfall“). Die Vermittlungstätigkeit des Hausarztes wird mittels eines Zuschlages vergütet. Die
 
 Seite 67 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
-Fachärzte profitieren im Fall einer Terminvermittlung durch einen Hausarzt von einer Vergütung der von  ihnen durchgeführten Leistungen außerhalb der morbiditätsbedingten Gesamtvergütung („HA Vermittlungsfall“). Die Vermittlungstätigkeit des Hausarztes wird mittels eines Zuschlages vergütet. Die  Abrechnung des Zuschlags erfolgt mit den spezifischen Gebührenordnungspositionen 03008 und 04008 des  EBM. Voraussetzung für die Vergütung des Zuschlags ist die Angabe der Betriebsstättennummer des  Facharztes, bei dem der Termin vermittelt wurde. Hierfür ist das KVDT-Feld 5003 „(N)BSNR des  vermittelten Facharztes“ zu verwenden, sodass die Information der Betriebsstättennummer des Facharztes  direkt dem Zuschlag zugeordnet werden kann.
+Abrechnung des Zuschlags erfolgt mit den spezifischen Gebührenordnungspositionen 03008 und 04008 des  EBM. Voraussetzung für die Vergütung des Zuschlags ist die Angabe der Betriebsstättennummer des  Facharztes, bei dem der Termin vermittelt wurde. Hierfür ist das KVDT-Feld 5003 „(N)BSNR des  vermittelten Facharztes“ zu verwenden, sodass die Information der Betriebsstättennummer des Facharztes  direkt dem Zuschlag zugeordnet werden kann.
 
 Hausärzte können zur Kennzeichnung von Terminvermittlungen an Fachärzte das KVDT-Feld 5003 „(N)BSNR  des vermittelten Facharztes“ verwenden, sodass die Information der Betriebsstättennummer des  Facharztes direkt dem Fall zugeordnet werden kann.
 
@@ -2930,8 +2939,8 @@ Zur Kennzeichnung der Aufgrund der gesonderten Vergütung für Behandlungen info
 
 **Akzeptanzkriterium:**
 
-- 1. Der Anwender hat die Möglichkeit für einen Patienten im laufenden Quartal bei Bedarf weitere  beliebige Datensätze 010x mit gleicher und/oder abweichender Satzart, Scheinuntergruppe im  System zu erfassen.
-- 2. Sofern erneut die Versichertenkarte eingelesen oder die Versichertenstammdaten vom  Fachdienst VSDM 2.0 erfolgreich abgerufen werden, muss ein bereits vorhandenes Einlesedatum  in allen Datensätzen 010x des laufenden Quartals aktualisiert werden (vgl. P2-150
+- 1. Der Anwender hat die Möglichkeit für einen Patienten im laufenden Quartal bei Bedarf weitere  beliebige Datensätze 010x mit gleicher und/oder abweichender Satzart, Scheinuntergruppe im System  zu erfassen.
+- 2. Sofern erneut die Versichertenkarte eingelesen oder die Versichertenstammdaten vom Fachdienst  VSDM 2.0 erfolgreich abgerufen werden, muss ein bereits vorhandenes Einlesedatum in allen  Datensätzen 010x des laufenden Quartals aktualisiert werden (vgl. P2-150
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -2946,6 +2955,8 @@ Zur Kennzeichnung der Aufgrund der gesonderten Vergütung für Behandlungen info
 **Akzeptanzkriterium:**
 
 - 1. Der Anwender hat die Möglichkeit bei der Anlage einer „Satzart“ bzw. „Scheinuntergruppe“ die  Vermittlungs-/Kontaktart (FK 4103) auszuwählen.
+- a) Wenn der Anwender eine Vermittlungs-/Kontaktart auswählt, dann überträgt das System in der  Abrechnung diese Information in der Feldkennung 4103.
+- b) Dieses Feld darf nicht automatisch vorbelegt werden.
 
 Seite 68 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -2954,8 +2965,6 @@ Seite 68 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-- a) Wenn der Anwender eine Vermittlungs-/Kontaktart auswählt, dann überträgt das System in der  Abrechnung diese Information in der Feldkennung 4103.
-- b) Dieses Feld darf nicht automatisch vorbelegt werden.
 - 1. Der Anwender hat bei der Angabe der Vermittlungs-/Kontaktart (FK 4103) die Möglichkeit ergänzende  Informationen in der FK 4105 in der Abrechnung zu übertragen.
 - 1. Die Software muss die Funktionen gemäß den Kapiteln 2 „Umsetzung der Spezifikation 116117  Terminservice Vermittlungscode“ und 3 „Umsetzung der Bedruckung“ des Anforderungsdokumentes  „Anforderungskatalog Terminservice“ in der Version 3.0.0  KBV_ITA_VGEX_Anforderungskatalog_116117_TSS] umsetzen und dem Anwender im Rahmen der  Ausstellung von Überweisungen (auf Muster 6 und PTV 11) bereitstellen.
 - 2. Die Software muss das Audit für die Anwendung „116117 Terminservice Vermittlungscode“ bei der  kv.digital erfolgreich abgeschlossen haben. Als Nachweis muss das Audit-Zertifikat bei der KBV im  Rahmen des Zertifizierungsverfahrens „116117 Terminservice Vermittlungscode“ eingereicht werden.
@@ -2994,13 +3003,13 @@ Terminvermittlungscodes müssen generiert und aufgedruckt werden können.
 
 **Akzeptanzkriterium:**
 
-Seite 69 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
 **Bedingung:**
 
 Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt und Unterstützung der Bedruckung  des Personalienfeldes.
+
+Seite 69 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 | OPTIONALE FUNKTION ADT |  |
 |---|---|
@@ -3038,13 +3047,13 @@ Zur Kennzeichnung der Aufgrund der gesonderten Vergütung für Behandlungen info
 
 - 1. Die Software stellt sicher, dass der Anwender die KVDT-Feldkennungen 4103, 4114 und 4115 manuell  befüllen kann.
 
-Seite 70 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
 **Bedingung:**
 
 Die Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt.
+
+Seite 70 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3064,22 +3073,22 @@ Um den Anwender bei der Abrechnung zu unterstützen, soll ihm anhand vorliegende
 - a) Wenn FK 5000 minus FK 4115 kleiner gleich 1 Kalendertag ist, dann wird der Schein um den Zuschlag  mit dem Zusatzkennzeichen A ergänzt.
 - b) Wenn FK 5000 minus FK 4115 größer 1 Kalendertag ist, dann erhält der Anwender die folgende  Warnmeldung:
 - i. Warnmeldung: „*Der Patient wurde nicht am aktuellen Tag oder Folgetag behandelt und ist*  *folglich nicht als TSS-Akutfall kennzeichenbar.*
-- 3. Wenn ein Schein eines Patienten als TSS-Terminfall, HA-Vermittlungsfall oder Routine-Termin (FK  4103 gleich 1, 3 oder 6) gekennzeichnet ist und der Tag der Terminvermittlung (FK 4115) vorliegt  und die Versicherten-, Grund- und Konsiliarpauschale (VP/GP/KP) gesetzt ist, dann muss die  Software folgendes zur Übernahme vorschlagen:
+- 3. Wenn ein Schein eines Patienten als TSS-Terminfall, HA-Vermittlungsfall oder Routine-Termin (FK 4103  gleich 1, 3 oder 6) gekennzeichnet ist und der Tag der Terminvermittlung (FK 4115) vorliegt und die  Versicherten-, Grund- und Konsiliarpauschale (VP/GP/KP) gesetzt ist, dann muss die Software folgendes  zur Übernahme vorschlagen:
 - a) Wenn FK 5000 minus FK 4115 kleiner **gleich** 4 Kalendertage ist, dann wird der Schein um den  zeitgestaffelten Zuschlag mit dem Zusatzkennzeichen B ergänzt.
 - b) Wenn FK 5000 minus FK 4115 größer 4 Kalendertage und kleiner **gleich** 14 Kalendertage ist, dann  wird der Schein um den zeitgestaffelten Zuschlag mit dem Zusatzkennzeichen C ergänzt.
 - c) Wenn FK 5000 minus FK 4115 größer 14 Kalendertage und kleiner **gleich** 35 Kalendertage ist, dann  wird der Schein um den zeitgestaffelten Zuschlag mit dem Zusatzkennzeichen D ergänzt.
 - d) Wenn FK 5000 minus FK 4115 größer 35 Kalendertage ist, dann erhält der Anwender die folgende  Warnmeldung:
 - i. Warnmeldung: „*Es ist kein zeitgestaffelter Zuschlag mehr abrechenbar, da die 35-* *Kalendertage-* *Frist verstrichen ist.*
-- 4. Die Software muss dem Anwender die Möglichkeit bieten, die Übernahme des zeitgestaffelten  Zuschlags in die Abrechnung zu bestätigen.
+- 4. Die Software muss dem Anwender die Möglichkeit bieten, die Übernahme des zeitgestaffelten Zuschlags  in die Abrechnung zu bestätigen.
 - a) Der vorgeschlagene zeitgestaffelte Zuschlag kann vom Anwender immer übersteuert werden.
-
-Seite 71 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
 
 **Bedingung:**
 
 Die Umsetzungspflicht besteht für alle Systeme mit Arzt-Patienten-Kontakt.
+
+Seite 71 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 **Hinweis:**
 
@@ -3109,6 +3118,8 @@ Die Funktion KP2-513 muss nicht im unmittelbaren Nachgang einer Terminzuordnung 
 |  | **Ergänzte FK** |  |
 |  | 5001 | 25230D |
 
+Finden im Behandlungsfall ausschließlich Arzt-Patienten-Kontakte im Rahmen einer Videosprechstunde  gemäß Anlage 31b zum BMV-Ä statt, dann können vom Anwender anstelle der Zusatzkennzeichen A, B, C  und D die Kennzeichen E, F, G, H gesetzt werden (4.3.1 Absatz 5 Nr. 2 der Allgemeinen Bestimmungen des  EBM). Dieser Fall muss gemäß 4.3.1 Absatz 5 Nr. 5 der Allgemeinen Bestimmungen des EBM gegenüber der
+
 Seite 72 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ```
@@ -3125,7 +3136,7 @@ Behandlungsnotwendigkeit) bis 59. Lebensjahr) Grundleistungsliste folgender Leis
 
 ---
 
-Finden im Behandlungsfall ausschließlich Arzt-Patienten-Kontakte im Rahmen einer Videosprechstunde  gemäß Anlage 31b zum BMV-Ä statt, dann können vom Anwender anstelle der Zusatzkennzeichen A, B, C  und D die Kennzeichen E, F, G, H gesetzt werden (4.3.1 Absatz 5 Nr. 2 der Allgemeinen Bestimmungen des  EBM). Dieser Fall muss gemäß 4.3.1 Absatz 5 Nr. 5 der Allgemeinen Bestimmungen des EBM gegenüber der  Kassenärztlichen Vereinigung zusätzlich mit der GOP 88220 gekennzeichnet werden. Die Software kann  dem Anwender geeignete Möglichkeiten zur Unterstützung anbieten.
+Kassenärztlichen Vereinigung zusätzlich mit der GOP 88220 gekennzeichnet werden. Die Software kann  dem Anwender geeignete Möglichkeiten zur Unterstützung anbieten.
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3164,6 +3175,10 @@ Die Software kann dem Anwender die Funktionen auf Basis des KBV-Webservices „K
 
 - 1. Die Software verwendet den Webservice-Kollegensuche gemäß dem Dokument:
 - „Webservice Kollegensuche der KBV“ in der stets aktuellen Version  KBV_ITA_VGEX_SST_Kollegensuche
+- 2. Die Software erfüllt die folgenden Anforderungen:
+- KP2-507
+- KP2-508
+- KP2-509
 
 Seite 73 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -3171,11 +3186,6 @@ eines Termines durch den Hausarzt bei einem Facharzt
 
 
 ---
-
-- 2. Die Software erfüllt die folgenden Anforderungen:
-- KP2-507
-- KP2-508
-- KP2-509
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3221,13 +3231,13 @@ Die Anforderung K2-506 wurde umgesetzt.
 
 Die Software muss dem Anwender das Anlegen einer Favoritenliste ermöglichen. In der Favoritenliste muss  der Anwender die Möglichkeit haben, auf die wesentlichen Daten zur Terminvermittlung zuzugreifen.
 
-Seite 74 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
 **Begründung:**
 
 Ärzte sollen bei der Suche nach anderen Ärzten unterstützt werden. Hierzu stellt die KBV den Webservice  „Kollegensuche“ bereit, der dazu verwendet werden kann.
+
+Seite 74 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 **Akzeptanzkriterium:**
 
@@ -3238,7 +3248,7 @@ Seite 74 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 Die Anforderung K2-506 wurde umgesetzt.
 
-**2.3.2**
+**2.3.2** **Abrechnungsvorbereitende Funktionen**
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3246,21 +3256,13 @@ Die Anforderung K2-506 wurde umgesetzt.
 
 Folgende abrechnungsvorbereitende Funktionen muss die Abrechnungssoftware enthalten:
 
-- 1.
-- 2.
-- 3.
+- 1. Die Durchführung von **Probeabrechnungen** ist für den Anwender jederzeit möglich.
+- 2. Die Erstellung von **Tageskontrolllisten** ist für den Anwender jederzeit möglich.  Tageskontrolllisten beinhalten eine Übersicht über Arzt-Patientenkontakte an einem Kalendertag mit  Angaben zu den Patientenpersonalien, den erbrachten Leistungen und den Diagnosen.
+- 3. Der Anwender muss die Möglichkeit haben, seine  Quartal verteilt  **richtigzustellen**
 
-### 2.3.3
+### 2.3.3 Quartalsübergang
 
-### Abrechnungsvorbereitende Funktionen
-
-- Die Durchführung von **Probeabrechnungen** ist für den Anwender jederzeit möglich.
-- Die Erstellung von **Tageskontrolllisten** ist für den Anwender jederzeit möglich.  Tageskontrolllisten beinhalten eine Übersicht über Arzt-Patientenkontakte an einem Kalendertag  mit Angaben zu den Patientenpersonalien, den erbrachten Leistungen und den Diagnosen.
-- Der Anwender muss die Möglichkeit haben, seine  gesamte Quartal verteilt  **richtigzustellen**
-
-### Quartalsübergang
-
-- **Abrechnung schrittweise** - bzw. auf das
+- **Abrechnung schrittweise** - bzw. auf das gesamte
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3275,18 +3277,19 @@ Da die Zeiträume zur Einreichung der Abrechnung nicht direkt auf den Quartalsgr
 **Akzeptanzkriterien:**
 
 - 1. Die Software muss die Möglichkeit bieten das Vorquartal auch in Folgequartalen abzurechnen.
-- 2. Falls die Bearbeitung des Vorquartals noch nicht vollständig abgeschlossen ist, muss die Software  die Möglichkeit bieten, das Vorquartal auch in einem Folgequartal zu bearbeiten.
-- 3. Falls die Dateneingabe für das neue Quartal stattfindet, während die Abrechnung eines  Vorquartals noch nicht abgeschlossen wurde, muss die Software alle Daten zu den Satzarten  "010x" mehrfach quartalstreu halten. Dies gilt insbesondere für das Datum des letzten Einlesetags  der Versichertenkarte im Quartal (FK 4109).
-
-Seite 75 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
+- 2. Falls die Bearbeitung des Vorquartals noch nicht vollständig abgeschlossen ist, muss die Software die  Möglichkeit bieten, das Vorquartal auch in einem Folgequartal zu bearbeiten.
+- 3. Falls die Dateneingabe für das neue Quartal stattfindet, während die Abrechnung eines Vorquartals  noch nicht abgeschlossen wurde, muss die Software alle Daten zu den Satzarten "010x" mehrfach  quartalstreu halten. Dies gilt insbesondere für das Datum des letzten Einlesetags der Versichertenkarte  im Quartal (FK 4109).
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
 | **P2-521** | Abrechenbarkeit von „Nachzügler“ |
 
 Die Software muss dem Anwender die Möglichkeit bieten, Behandlungsfälle aus Vorquartalen (sogenannte  „Nachzüglerfälle“) in die aktuelle Quartalsabrechnung zu übernehmen.
+
+Seite 75 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026 -Fällen 
+
+
+---
 
 **Begründung:**
 
@@ -3332,11 +3335,6 @@ Neues IK: 104940005
 
 Neue VKNR: 72601
 
-Seite 76 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026 -Fällen 
-
-
----
-
 **Kein weiterer** Datensatz "010x" notwendig.
 
 **Fall 2)**
@@ -3344,6 +3342,10 @@ Seite 76 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 Altes IK: 101580004
 
 Alte VKNR: 72601
+
+Seite 76 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 Neues IK:108077500
 
@@ -3382,16 +3384,16 @@ Gemäß § 21 Absatz 1 Satz 4 BMV-Ä ist im Fall eines Wechsels der Versicherten
 
 - 1. Falls sich die Versichertenart (FK 3108) eines Patienten im laufenden Quartal ändert, muss die Software  einen weiteren Datensatz „010x" erzeugen.
 - 2. Das System kann den Anwender über die Neuanlage eines Datensatzes „010x" informieren.
+- 3. Bei der Anlage des neuen Datensatzes aufgrund der Änderung der Versichertenart darf keine  Änderungen des bereits vorhandenen Einlesedatums der Versichertenkarte (FK 4109) mehr stattfinden.  Eine Aktualisierung des Einlesedatums findet nur noch für den neusten Datensatz statt.
+- a) Die Software muss das Einlesedatum für die jeweiligen Fälle „datensatzgetreu“ (ggf. mehrfach)  speichern und übertragen (vgl. P2-150
 
 Seite 77 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
-- 3. Bei der Anlage des neuen Datensatzes aufgrund der Änderung der Versichertenart darf keine  Änderungen des bereits vorhandenen Einlesedatums der Versichertenkarte (FK 4109) mehr stattfinden.  Eine Aktualisierung des Einlesedatums findet nur noch für den neusten Datensatz statt.
-- a) Die Software muss das Einlesedatum für die jeweiligen Fälle „datensatzgetreu“ (ggf. mehrfach)  speichern und übertragen (vgl. P2-150
 - 1. Falls bei einem eines Patienten im laufenden Quartal eine Kennzeichnung mit einem weiteren  Abrechnungsgebiet (FK 4122) notwendig wird, muss die Software einen weiteren Datensatz „010x"  erzeugen.
 - 2. Das System kann den Anwender über die Neuanlage eines Datensatzes „010x" informieren.
-- 3. Falls die Versichertenkarte erneut eingelesen wird oder ein erneuter erfolgreicher Abruf der  Versichertenstammdaten vom Fachdienst VSDM 2.0 erfolgt, muss ein bereits vorhandenes  Einlesedatum in allen Datensätzen „010x" mit unterschiedlichem Abrechnungsgebiet des laufen-den  Quartals aktualisiert werden (vgl. P2-150
+- 3. Falls die Versichertenkarte erneut eingelesen wird oder ein erneuter erfolgreicher Abruf der  Versichertenstammdaten vom Fachdienst VSDM 2.0 erfolgt, muss ein bereits vorhandenes Einlesedatum  in allen Datensätzen „010x" mit unterschiedlichem Abrechnungsgebiet des laufen-den Quartals  aktualisiert werden (vgl. P2-150
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3419,20 +3421,20 @@ Für die PVS empfiehlt es sich daher, u.U. zwei Datensätze zu verwalten: z.B. d
 
 Falls sich im laufenden Quartal bei demselben Patienten auf der Versichertenkarte oder in den vom  Fachdienst abgerufenen Versichertenstammdaten die amtlichen Versichertendaten des Geburtsdatums,  des Geschlechts, des Namens oder der Adresse ändern, muss die Software diese Änderungen für die  Abrechnung übernehmen.
 
-Seite 78 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
 **Begründung:**
 
 Änderungen von Melderegisterdaten von Versicherten führen zu Anpassungen der amtlichen  Versichertendaten auf den Versicherungskarten. Entweder werden für die Versicherten neue  Versichertenkarten ausgestellt oder die Versichertendaten werden durch das Online-VSDM auf der eGK  aktualisiert oder die Versichertendaten werden durch den Fachdienst VSDM 2.0 in der jeweils aktuellen  Fassung bereitgestellt.
 
+Seite 78 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
+
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss die amtlichen Felder gemäß Tabelle 4 von der Versichertenkarte oder aus den  vom Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten unverändert übernehmen.
-- 2. Falls im laufenden Quartal bei demselben Patienten die Besondere Personengruppe (P2-535), die  Kasse (P2-530) und die Versichertenart (P2-540) unverändert bleiben, muss die Software  Änderungen der amtlichen Felder 3100, 3101, 3102, 3103, 3104, 3107, 3109, 3110, 3112, 3113,  3114, 3115, 3120, 3121, 3122, 3123 und 3124 aufgrund einer Namens-, Geschlechts-,  Geburtsdatums oder Adressänderung beim Einlesen der Versichertenkarte oder beim  erfolgreichen Abruf vom Fachdienst VSDM 2.0 automatisch in alle vorhandenen Datensätze  „010x“ des Patienten des laufenden Quartals übernehmen.
+- 1. Die Software muss die amtlichen Felder gemäß Tabelle 4 von der Versichertenkarte oder aus den vom  Fachdienst VSDM 2.0 abgerufenen Versichertenstammdaten unverändert übernehmen.
+- 2. Falls im laufenden Quartal bei demselben Patienten die Besondere Personengruppe (P2-535), die Kasse  P2-530) und die Versichertenart (P2-540) unverändert bleiben, muss die Software Änderungen der  amtlichen Felder 3100, 3101, 3102, 3103, 3104, 3107, 3109, 3110, 3112, 3113, 3114, 3115, 3120, 3121,  3122, 3123 und 3124 aufgrund einer Namens-, Geschlechts-, Geburtsdatums oder Adressänderung beim  Einlesen der Versichertenkarte oder beim erfolgreichen Abruf vom Fachdienst VSDM 2.0 automatisch in  alle vorhandenen Datensätze „010x“ des Patienten des laufenden Quartals übernehmen.
 - 3. Falls die automatische Datenübernahme nach Akzeptanzkriterium (2) erfolgt, darf die Software  automatisch keinen neuen Datensatz "010x" anlegen.
-- 4. Falls die automatische Datenübernahme nach Akzeptanzkriterium (2) erfolgt, muss die Software  das Einlesedatum in allen zum Versicherten gehörenden Datensätzen „010x“ des laufenden  Quartals aktualisieren.
+- 4. Falls die automatische Datenübernahme nach Akzeptanzkriterium (2) erfolgt, muss die Software das  Einlesedatum in allen zum Versicherten gehörenden Datensätzen „010x“ des laufenden Quartals  aktualisieren.
 
 **Hinweis:**
 
@@ -3454,29 +3456,25 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 |---|---|
 | **P2-558** | Praxisrelevante Namens- und Adressänderungen |
 
-Die Software muss bei Namens- und/oder Adressänderungen im laufenden Quartal, die von den Daten auf  der Versichertenkarte oder von den vom Fachdienst VSDM 2.0 abgerufenen Daten abweichen, fähig sein
-
-Seite 79 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-Versichertendaten wegen  /Geburtsdatums-/Adresswechsel Versichertendaten wegen  /Geburtsdatums-/Adresswechsel bei gleichzeitigem Besondere Personengruppen-, Kassen- bzw. Statuswechsel Einlesedatum aktualisieren 520 vorhandener Datensätze 520
-
----
-
-- 1. Falls sich für einen Versicherten Namens- und /oder Adressänderungen im laufenden Quartal  ergeben, die von den Angaben auf der Versichertenkarte oder von den vom Fachdienst VSDM 2.0  abgerufenen Daten abweichen,
-- a) muss die Software diese Namens- und Adressdaten separat speichern und verwalten
-- b) darf die Software diese Daten nicht zum Zwecke der Abrechnung übertragen. Die Software muss zum  Zwecke der Abrechnung die amtlichen Daten von der Versichertenkarte oder die vom Fachdienst  VSDM 2.0 abgerufenen amtlichen Daten übertragen (siehe P2-120
-- c) muss die Software die Anforderungen KP7-81 sowie KP7-82 gemäß dem Anforderungskatalog  KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] umsetzen/beachten.
-- 1. Falls eine Überweisung nach Muster 6 mit markiertem Ankreuzfeld „Ausführung von  Auftragsleistungen“ (= Satzart 0102 mit Scheinuntergruppe 21) oder nach Muster 10 (= Satzart  0102 mit Scheinuntergruppe 27) erfasst wird, muss die Software vom Anwender, die Übernahme  des originären Auftragstextes des überweisenden Arztes aus den Zeilen „Auftrag“ des jeweiligen  Musters fordern.
-- 2. Die Software überträgt mit der Abrechnung den vom Anwender angegebenen Auftragstext im  Feld FK 4205 (Auftrag).
-- 3. Die Software belegt das Erfassungsfeld nicht mit einem Defaultwert (wie z.B.  „Laboruntersuchung“) vor bzw. überträgt mit der Abrechnung nicht standardmäßig einen  Defaultwert (wie z.B. „Laboruntersuchung“).
-
-die abweichenden Daten zu speichern und zu verwalten, darf diese jedoch nicht in die Abrechnungsdatei  übertragen.
+Die Software muss bei Namens- und/oder Adressänderungen im laufenden Quartal, die von den Daten auf  der Versichertenkarte oder von den vom Fachdienst VSDM 2.0 abgerufenen Daten abweichen, fähig sein  die abweichenden Daten zu speichern und zu verwalten, darf diese jedoch nicht in die Abrechnungsdatei  übertragen.
 
 **Begründung:**
 
 Bei der Abrechnung müssen die amtlichen Daten von der Versichertenkarte oder die vom Fachdienst VSDM  2.0 abgerufenen amtlichen Daten verwendet werden, da die Versicherten-/Vertragsdaten auch so zur  Abrechnung kommen müssen, wie sie bei den Krankenkassen gemeldet sind.
 
+Seite 79 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Versichertendaten wegen  Einlesedatum aktualisieren 520 /Geburtsdatums-/Adresswechsel Versichertendaten wegen  vorhandener Datensätze 520 /Geburtsdatums-/Adresswechsel bei gleichzeitigem Besondere Personengruppen-, Kassen- bzw. Statuswechsel 
+
+
+---
+
 **Akzeptanzkriterien:**
+
+- 1. Falls sich für einen Versicherten Namens- und /oder Adressänderungen im laufenden Quartal ergeben,  die von den Angaben auf der Versichertenkarte oder von den vom Fachdienst VSDM 2.0 abgerufenen  Daten abweichen,
+- a) muss die Software diese Namens- und Adressdaten separat speichern und verwalten
+- b) darf die Software diese Daten nicht zum Zwecke der Abrechnung übertragen. Die Software muss zum  Zwecke der Abrechnung die amtlichen Daten von der Versichertenkarte oder die vom Fachdienst  VSDM 2.0 abgerufenen amtlichen Daten übertragen (siehe P2-120
+- c) muss die Software die Anforderungen KP7-81 sowie KP7-82 gemäß dem Anforderungskatalog  KBV_ITA_VGEX_Anforderungskatalog_Formularbedruckung] umsetzen/beachten.
 
 **2.3.6** **Besonderheiten beim „Überweisungsschein“ (Muster 6, 10 bzw. 39)**
 
@@ -3496,14 +3494,18 @@ Rechtsgrundlage ist des Weiteren § 297 Abs. 2 SGB V.
 
 **Akzeptanzkriterium:**
 
+- 1. Falls eine Überweisung nach Muster 6 mit markiertem Ankreuzfeld „Ausführung von  Auftragsleistungen“ (= Satzart 0102 mit Scheinuntergruppe 21) oder nach Muster 10 (= Satzart 0102 mit  Scheinuntergruppe 27) erfasst wird, muss die Software vom Anwender, die Übernahme des originären  Auftragstextes des überweisenden Arztes aus den Zeilen „Auftrag“ des jeweiligen Musters fordern.
+- 2. Die Software überträgt mit der Abrechnung den vom Anwender angegebenen Auftragstext im Feld FK  4205 (Auftrag).
+- 3. Die Software belegt das Erfassungsfeld nicht mit einem Defaultwert (wie z.B. „Laboruntersuchung“) vor  bzw. überträgt mit der Abrechnung nicht standardmäßig einen Defaultwert (wie z.B.  „Laboruntersuchung“).
+- 4. Falls eine Überweisung nach Muster 6 mit einer von (1) abweichenden Scheinuntergruppe erfasst wird,  muss die Software dem Anwender die Erfassung eines ggf. vorhandenen Auftragstextes ebenfalls  ermöglichen. Eine Übertragung durch die Software erfolgt analog (2).
+- 5. Falls mittels der Satzart 8215 „Auftrag“ (LDT 3) Auftragsinformationen in die Software importiert  werden, darf die Software, den Inhalt automatisch ins Feld FK 4205 (KVDT) mit der Abrechnung  übertragen.
+- 6. Die Software darf den Anwender mittels Auswahllisten als Eingabehilfe unter folgenden Bedingungen  unterstützen:
+- a) Die Software muss es dem Anwender ermöglichen, diese Auswahllisten zu pflegen.
+
 Seite 80 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
-- 4. Falls eine Überweisung nach Muster 6 mit einer von (1) abweichenden Scheinuntergruppe erfasst  wird, muss die Software dem Anwender die Erfassung eines ggf. vorhandenen Auftragstextes  ebenfalls ermöglichen. Eine Übertragung durch die Software erfolgt analog (2).
-- 5. Falls mittels der Satzart 8215 „Auftrag“ (LDT 3) Auftragsinformationen in die Software importiert  werden, darf die Software, den Inhalt automatisch ins Feld FK 4205 (KVDT) mit der Abrechnung  übertragen.
-- 6. Die Software darf den Anwender mittels Auswahllisten als Eingabehilfe unter folgenden  Bedingungen unterstützen:
-- a) Die Software muss es dem Anwender ermöglichen, diese Auswahllisten zu pflegen.
 - b) Das sichtbare Erfassungsfeld ist zunächst leer, es wird kein voreingestellter Wert angezeigt.
 - c) Ein aus einer Auswahlliste übernommener Eintrag muss durch den Anwender jederzeit änderbar  sein.
 
@@ -3533,6 +3535,13 @@ Am 1. Januar 2020 ist das organisierte Programm zur Früherkennung von Zervix-Ka
 - P = für Primärscreening
 - A = für Abklärungsdiagnostik
 - ii. Zweitens für den „Auftrag“
+- Zyto = zytologische Untersuchung
+- HPV = HPV-Test
+- KoTest = Ko-Test
+
+Die Software setzt kombiniert die beiden Informationen mit einem Bindestrich „ die Abrechnung im Feld FK 4205 (bspw. „P HPV“)
+
+- b) Die Software kann dem Anwender auch die direkte Erfassung der Wert P-HPV, P-Zyto, P-KoTest, A-HPV, A-Zyto oder A-KoTest ermöglichen
 
 ________________
 
@@ -3548,24 +3557,17 @@ Datensatz „Überweisung“ (Satzart 0102)
 
 29 ermöglichen.
 
--
+“ zur Übertragung in
 
 
 ---
 
-- Zyto = zytologische Untersuchung
-- HPV = HPV-Test
-- KoTest = Ko-Test
-
-Die Software setzt kombiniert die beiden Informationen mit einem Bindestrich „ die Abrechnung im Feld FK 4205 (bspw. „P HPV“)
-
-- b) Die Software kann dem Anwender auch die direkte Erfassung der Wert P-HPV, P-Zyto, P-KoTest, A-HPV, A-Zyto oder A-KoTest ermöglichen
 - 2. Die Software belegt das Erfassungsfeld nicht mit einem Defaultwert (wie z.B. „Zytologische  Untersuchung“) vor bzw. überträgt mit der Abrechnung nicht standardmäßig einen Defaultwert (wie z.B.  „Zytologische Untersuchung“).
-- 3. Falls mittels der Satzart 8215 „Auftrag“ (LDT 3) Auftragsinformationen in die Software importiert  werden, darf die Software den Inhalt aus den Feldern FK 8630  (Obj_Krebsfrueherkennung Zervix-Karzinom (Muster 39))“ verbunden mit einem Bindestrich „ automatisch in das Feld FK 4205 (KVDT) übernehmen und mit der Abrechnung übertragen.
+- 3. Falls mittels der Satzart 8215 „Auftrag“ (LDT 3) Auftragsinformationen in die Software importiert  werden, darf die Software den Inhalt aus den Feldern FK 8630 und FK 8629 des Objektes „Obj_0034  (Obj_Krebsfrueherkennung Zervix-Karzinom (Muster 39))“ verbunden mit einem Bindestrich „ automatisch in das Feld FK 4205 (KVDT) übernehmen und mit der Abrechnung übertragen.
 
 **Bedingung:**
 
-Die Umsetzungspflicht besteht für alle Systeme, die den ADT-unterstützen.
+Die Umsetzungspflicht besteht für alle Systeme, die den ADT-Datensatz „Überweisung“ (Satzart 0102)  unterstützen.
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3586,30 +3588,39 @@ Zur zeitlichen Zuordnung des Behandlungsfalls im Laborclearing ist es erforderli
 
 **Bedingung:**
 
-Die Umsetzungspflicht besteht für alle Systeme, die den ADT-unterstützen.
+Die Umsetzungspflicht besteht für alle Systeme, die den ADT-Datensatz „Überweisung“ (Satzart 0102)  unterstützen.
 
 **Hinweis:**
 
 Bei der Übermittlung eines Laborauftrages mittels LDT 3, kann als Ausstellungdatum (FK 4102 im KVDT) der  Wert aus der Feldkennung 8213 (Timestamp_Erstellung_Untersuchungsanforderung) im Objekt  Auftragsinformation aus LDT 3 entnommen.
-
-Seite 82 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-“ zur Übertragung in
-
-- und FK 8629 des Objektes „Obj_0034
-
-Datensatz „Überweisung“ (Satzart 0102)
-
-Datensatz „Überweisung“ (Satzart 0102)
-
-
----
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP2-565** | „Behandlungstag bei IVD |
 
 Im Fall einer Überweisung in-vitro-diagnostischer Leistungen (IVD-Leistungen) mittels Muster 10 oder 39,  soll im Rahmen der Abrechnung der Behandlungstag bei IVD-Leistungen im Feld FK 4214 („Behandlungstag  bei IVD-Leistungen“) im Abrechnungsdatensatz übertragen werden. Die Regelung gilt entsprechend für  bezogene Leistungen nach Abschnitt 32.2 EBM mittels Muster 10A.
+
+Seite 82 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Leistungen“ (Feld FK 4214) bei Muster 10, 10A und 39
+
+
+---
+
+- 1. Falls eine Überweisung nach den folgenden Kriterien erfasst wird
+- a) Muster 10 (= Satzart 0102 mit Scheinuntergruppe 27) oder
+- b) Muster 10A (= Satzart 0102 mit Scheinuntergruppe 28) oder
+- c) Muster 39a (= Satzart 0102 mit Scheinuntergruppe 21)
+- 2. Falls in der [EBM-Stammdatei] zu einer GOP unter  .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe der Wert  V="4214" hinterlegt ist und die Abrechnung mit der Satzart 0102 und der Scheinuntergruppe 21 oder  27 oder 28 erfolgt, muss die Software sicherstellen, dass vom Anwender die Angabe des  Behandlungstages bei IVD-Leistungen erfolgt, falls dieser den Behandlungstag nicht bereits erfasst hat.
+- 3. Die Software überträgt mit der Abrechnung den vom Anwender erfassten Behandlungstag im Feld FK  4214.
+- 4. Der Wert des Behandlungstages bei IVD-Leistungen muss bei einer automatischen Erfassung durch die  Software entweder dem Probenentnahmedatum oder dem Ausstellungsdatum der Überweisung oder  dem Probeneingangsdatum in der Einsendepraxis entsprechen. Dabei gilt die folgende Priorität:
+- a) Entweder das Ausstellungsdatum
+- b) Oder das Probeneingangsdatum.
+- 5. Die Software kann die Erfassung des Behandlungstages bei IVD-Leistungen wie folgt unterstützen:
+- a) Falls ein Probenentnahmedatum zu einer Überweisung nach Akzeptanzkriterium 1 bekannt ist, kann  die Software das Probenentnahmedatum für den Anwender wie folgt automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung übertragen:
+- Muster 10/E Barcodefeld 38
+- Muster 10L/E Barcodefeld 38
+- Muster 10A/E Barcodefeld 36
 
 **Begründung:**
 
@@ -3619,35 +3630,17 @@ Wird die Laborleistung vom behandelnden Arzt im Praxislabor selbst durchgeführt
 
 **Akzeptanzkriterium:**
 
-- 1. Falls eine Überweisung nach den folgenden Kriterien erfasst wird
-- a) Muster 10 (= Satzart 0102 mit Scheinuntergruppe 27) oder
-- b) Muster 10A (= Satzart 0102 mit Scheinuntergruppe 28) oder
-- c) Muster 39a (= Satzart 0102 mit Scheinuntergruppe 21)
-
 muss die Software vom Anwender die Übernahme des Behandlungstages des Überweisers anfordern,  falls sie diesen nicht bei der Erfassung des Behandlungstages gemäß den Anforderungskriterien (4) und  (5) unterstützt.
 
-- 2. Falls in der [EBM-Stammdatei] zu einer GOP unter  .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe der Wert  V="4214" hinterlegt ist und die Abrechnung mit der Satzart 0102 und der Scheinuntergruppe 21 oder  27 oder 28 erfolgt, muss die Software sicherstellen, dass vom Anwender die Angabe des  Behandlungstages bei IVD-Leistungen erfolgt, falls dieser den Behandlungstag nicht bereits erfasst hat.
-- 3. Die Software überträgt mit der Abrechnung den vom Anwender erfassten Behandlungstag im Feld FK  4214.
-- 4. Der Wert des Behandlungstages bei IVD-Leistungen muss bei einer automatischen Erfassung durch die  Software entweder dem Probenentnahmedatum oder dem Ausstellungsdatum der Überweisung oder  dem Probeneingangsdatum in der Einsendepraxis entsprechen. Dabei gilt die folgende Priorität:
 1. Probenentnahmedatum
 2. sofern das Probenentnahmedatum nicht bekannt ist:
-- a) Entweder das Ausstellungsdatum
-- b) Oder das Probeneingangsdatum.
-- 5. Die Software kann die Erfassung des Behandlungstages bei IVD-Leistungen wie folgt unterstützen:
-- a) Falls ein Probenentnahmedatum zu einer Überweisung nach Akzeptanzkriterium 1 bekannt ist, kann  die Software das Probenentnahmedatum für den Anwender wie folgt automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung übertragen:
 - i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software  importiert werden und in der Satzart 8215 das Feld FK 8219  (Timestamp_Materialabnahme_entnahme) im Objekt Obj_Material (Obj_0037) vorhanden ist,  kann der Wert des Feldes FK 7278 (Datum des Timestamp) im Objekt Obj_Timestamp  (Obj_0054) erfasst und übertragen werden.
+- ii. Falls die Auftragsinformationen mittels der BFB-Formulare 10/E oder 10L/E oder 10A/E erfolgt,  kann der Behandlungstag aus dem Barcodefeld „Abnahmedatum“ erfasst und übernommen  werden:
 
 Seite 83 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Leistungen“ (Feld FK 4214) bei Muster 10, 10A und 39
-
-
 ---
 
-- ii. Falls die Auftragsinformationen mittels der BFB-Formulare 10/E oder 10L/E oder 10A/E erfolgt,  kann der Behandlungstag aus dem Barcodefeld „Abnahmedatum“ erfasst und übernommen  werden:
-- Muster 10/E Barcodefeld 38
-- Muster 10L/E Barcodefeld 38
-- Muster 10A/E Barcodefeld 36
 - iii. Falls die Übernahme der Auftragsinformationen mittels der digitalen Muster 10 oder 10A  erfolgt, kann der Wert des Behandlungstages aus dem Feld 8219_Abnahmedatum erfasst und  übertragen werden.
 - b) Falls kein Probenentnahmedatum zu einer Überweisung vorhanden ist, kann die Software das  Ausstellungsdatum statt dem Probeneingangsdatum für den Anwender wie folgt automatisch  erfassen und im Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung  übertragen:
 - i. Falls die Auftragsinformationen mittels der Satzart 8215 „Auftrag“ (LDT 3) in die Software  importiert werden und in der Satzart 8215 das Feld FK 8213  (Timestamp_Erstellung_Untersuchungsanforderung) im Objekt Obj_Auftragsinformation  (Obj_0013) zur Verfügung steht, kann der Wert des Feldes FK 7278 (Datum des Timestamp) im  Objekt Obj_Timestamp (Obj_0054) erfasst und übertragen werden.
@@ -3660,16 +3653,12 @@ Leistungen“ (Feld FK 4214) bei Muster 10, 10A und 39
 - c) Falls kein Probenentnahmedatum zu einer Überweisung vorhanden ist, kann die Software das  Probeneingangsdatum statt dem Ausstellungsdatum für den Anwender automatisch erfassen und im  Feld FK 4214 („Behandlungstag bei IVD Leistungen“) mit der Abrechnung übertragen.
 - 6. Der Anwender muss bei der automatischen Übernahme des Datums für das Feld FK 4214 die  Möglichkeit haben, dieses Datum anzupassen.
 - 7. Sofern die Erfassung des Datums für das Feld FK 4214 manuell vom Anwender vorgenommen wird, zeigt  die Software dem Anwender die Prioritäten nach Akzeptanzkriterium 3 an.
-- 8. Wenn das Datum der FK 4214 größer ist als das Datum der FK 5000, muss die Software dem Anwender  einen Warnhinweis anzeigen.  Das Datum der FK 4214 darf nicht in der Zukunft liegen.
+- 8. Wenn das Datum der FK 4214 größer als ist als das Datum der FK 5000, muss die Software dem  Anwender einen Warnhinweis anzeigen.  Das Datum der FK 4214 darf nicht in der Zukunft liegen.
 - 9. Wenn das Datum der FK 4214 mehr als 60 Tage kleiner ist als das Datum der FK 5000 muss die Software  dem Anwender einen Warnhinweis anzeigen.  Der Abstand zwischen FK 4214 (Behandlungstag bei IVD-Leistungen) und FK 5000 (Leistungstag) sollte  nicht größer als 60 Tage sein.
 
 **Bedingung:**
 
 Die Umsetzungspflicht besteht für alle Systeme, die den ADT-Datensatz „Überweisung“ (Satzart 0102)  unterstützen.
-
-Seite 84 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -3677,11 +3666,13 @@ Seite 84 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 Liegen mehrere Überweisungsscheine desselben Patienten für dasselbe Quartal vor, dann müssen separate  Abrechnungsdatensätze angelegt werden können.
 
+Seite 84 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
+
 **Bedingung:**
 
-Die Umsetzungspflicht besteht für alle Systeme, die den ADT-unterstützen.
-
-Datensatz „Überweisung“ (Satzart 0102)
+Die Umsetzungspflicht besteht für alle Systeme, die den ADT-Datensatz „Überweisung“ (Satzart 0102)  unterstützen.
 
 ### 2.3.7 Leistungsdokumentation 2.3.7.1 Behandlungstag / GNR
 
@@ -3690,7 +3681,7 @@ Datensatz „Überweisung“ (Satzart 0102)
 | **P2-600** | Anordnung Behandlungstag und GNR |
 
 - 1. Alle Behandlungstage müssen innerhalb eines Datensatzes „010x“ aufsteigend sortiert werden.
-- 2. **Alle** Gebührennummern **eines** Behandlungstages müssen nach dem Leistungstag (FK 5000) jeweils  als separates Feld unter der Feldkennung 5001 (Gebührennummer) angeordnet werden.
+- 2. **Alle** Gebührennummern **eines** Behandlungstages müssen nach dem Leistungstag (FK 5000) jeweils als  separates Feld unter der Feldkennung 5001 (Gebührennummer) angeordnet werden.
 
 2.3.7.2 Begründungstexte / GNR
 
@@ -3706,16 +3697,15 @@ Datensatz „Überweisung“ (Satzart 0102)
 - 2. Für das Feld mit der FK 5012 „Sachkosten/Materialkosten in Cent“ gilt zusätzlich:
 - a) Enthält der Behandlungstag (FK 5000) keine GNR (FK 5001), muss der FK 5012 aus formalen Gründen  die **Pseudo-Gebührennummer** „88999“ (FK 5001) vorangehen, wenn nicht eine abweichende  Regelung zur Pseudo-GNR unter den Feldkennungen 9410/9411 der KV-Spezifika-Stammdatei  definiert ist.
 - b) Einige KVen verlangen bei der Abrechnung von Sachkosten vor jeder FK 5012 generell, auch wenn der  Behandlungstag eine Gebührennummer enthält, eine der speziellen Pseudo-Gebührennummern für  Kosten (FK 5001), welche unter der Feldkennung 9410 in der KV-Spezifika-Stammdatei hinterlegt  sind.
-- 3. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 2.b) zur  Pseudo-Gebührennummer vom Anwender nicht beachtet, so muss
+- 3. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 2.b) zur Pseudo-Gebührennummer vom Anwender nicht beachtet, so muss
 - a) entweder ein entsprechender **Warnhinweis** unter Verwendung der Angaben aus den Feldkennungen  9410/9411 der KV-Spezifika-Stammdatei ausgegeben
+- b) oder die spezielle **Pseudo-Gebührennummer** **automatisch** übertragen werden, welche als einzige  Pseudo-GNR unter der Feldkennung 9410 in der KV-Spezifika-Stammdatei hinterlegt ist,
+
+falls nicht der FK 5012 eine Gebührennummer vorangeht, zu der in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5012“  hinterlegt ist.
 
 Seite 85 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
-
-- b) oder die spezielle **Pseudo-Gebührennummer** **automatisch** übertragen werden, welche als einzige  Pseudo-GNR unter der Feldkennung 9410 in der KV-Spezifika-Stammdatei hinterlegt ist,
-
-falls nicht der FK 5012 eine Gebührennummer vorangeht, zu der in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5012“  hinterlegt ist.
 
 **Hinweis:**
 
@@ -3746,6 +3736,12 @@ Für alle humangenetischen Leistungen, die gemäß den EBM-Abrechnungsbestimmung
 
 Die online Bereitstellung älterer OMIM-Stammdateien nach dem 01.07.2025 ist zu unterbinden.
 
+| KONDITIONALE PFLICHTFUNKTION ADT |  |
+|---|---|
+| **KP2-621** | Einsatz der HGNC-Schlüsseltabelle zur Kodierung von genetischen Leistungen |
+
+Gemäß den EBM-Abrechnungsbestimmungen zu genetischen Leistungen müssen im Rahmen der  Abrechnung diese mit HGNC-Gensymbolen kodiert werden.
+
 Seite 86 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 „Artikel / Modellnummer“ im Feld 5075 zu den Sachkosten im Feld 5012
@@ -3753,11 +3749,18 @@ Seite 86 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-| KONDITIONALE PFLICHTFUNKTION ADT |  |
-|---|---|
-| **KP2-621** | Einsatz der HGNC-Schlüsseltabelle zur Kodierung von genetischen Leistungen |
-
-Gemäß den EBM-Abrechnungsbestimmungen zu genetischen Leistungen müssen im Rahmen der  Abrechnung diese mit HGNC-Gensymbolen kodiert werden.
+- HGNC:[XXXXX] = Dies entspricht der originären HGNC-ID.  Der Ausdruck [XXXXX] kann eine beliebig lange numerische Zeichenfolge sein.
+- 1. Das Softwaresystem muss die Daten der HGNC-Schlüsseltabelle (OID) im System vorhalten.
+- 2. Der Anwender muss die Möglichkeit haben, nach einem HGNC-Gensymbol zu suchen und ggf. den  gewählten Wert als Abrechnungsbegründung leistungsbezogen zu einer GOP automatisch in das Feld  5077 (HGNC-Gensymbol) zu übernehmen.
+- 3. Das Softwaresystem muss das vom Anwender eingegebene HGNC-Gensymbol während der Eingabe  (Echtzeitprüfung) auf Existenz gegen die Werte der HGNC-Schlüsseltabellen (Element /key/@DN prüfen.
+- a) Falls das zu dokumentierende HGNC-Gensymbol **nicht** in der Schlüsseltabelle enthalten ist, gilt  folgendes:
+- b) Falls das dokumentierte HGNC-Gensymbol in der Schlüsseltabelle enthalten ist, darf der Anwender  **nicht** die Möglichkeit haben das Feld 5078 zu befüllen.
+- 4. Die Software überträgt mit der Abrechnung das vom Anwender zu einer Leistung angegebene „HGNC Gensymbol“ im Feld 5077.
+- 5. Die Software überträgt mit der Abrechnung den vom Anwender zu einer Leistung angegebene „Gen Name“ im Feld 5078, sofern ein Wert vorhanden ist.
+- 6. Falls in der [EBM-Stammdatei] zu einer GOP unter  .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe der Wert V="5077"  (HGNC-Gensymbole) hinterlegt ist und das HGNC-Gensymbol als Begründungstyp ausgewählt wird, muss  das Softwaresystem folgendes sicherstellen:
+- a) Das Softwaresystem muss vom Anwender die Angabe mindestens eines HGNC-Gensymboles fordern.
+- 7. Der Vertragsarzt bzw. der PVS-Hersteller hat keine Möglichkeit die Schlüsseltabelle, um zusätzliche  HGNC-Symbole zu erweitern.
+- V = Dieses Attribut enthält die ID des Eintrages. Eine ID kann wie folgt aufgebaut sein:
 
 **Begründung:**
 
@@ -3765,19 +3768,9 @@ Die Anforderung resultiert aus den EBM-Abrechnungsbestimmungen zu genetischen Le
 
 **Akzeptanzkriterium:**
 
-- 1. Das Softwaresystem muss die Daten der HGNC-Schlüsseltabelle (OID) im System vorhalten.
-- 2. Der Anwender muss die Möglichkeit haben, nach einem HGNC-Gensymbol zu suchen und ggf. den  gewählten Wert als Abrechnungsbegründung leistungsbezogen zu einer GOP automatisch in das  Feld 5077 (HGNC-Gensymbol) zu übernehmen.
-- 3. Das Softwaresystem muss das vom Anwender eingegebene HGNC-Gensymbol während der  Eingabe (Echtzeitprüfung) auf Existenz gegen die Werte der HGNC-Schlüsseltabellen (Element  /key/@DN) prüfen.
-- a) Falls das zu dokumentierende HGNC-Gensymbol **nicht** in der Schlüsseltabelle enthalten ist, gilt  folgendes:
 - i. Systemseitig erfolgt ein Warnhinweis, dass das eingegebene HGNC-Gensymbol nicht in der  Schlüsseltabelle existiert.
 - ii. In diesem Fall muss das Softwaresystem sicherstellen, dass der Ersatzwert „999999“ im  jeweiligen KVDT-Feld 5077 übertragen wird.
 - iii. Beim Eintrag des Ersatzwertes „999999“ in Feld 5077 muss der Anwender im Feld 5078 (Gen Name) einen Freitext zur Bezeichnung des Gens angeben.
-- b) Falls das dokumentierte HGNC-Gensymbol in der Schlüsseltabelle enthalten ist, darf der Anwender  **nicht** die Möglichkeit haben das Feld 5078 zu befüllen.
-- 4. Die Software überträgt mit der Abrechnung das vom Anwender zu einer Leistung angegebene  „HGNC Gensymbol“ im Feld 5077.
-- 5. Die Software überträgt mit der Abrechnung den vom Anwender zu einer Leistung angegebene  „Gen Name“ im Feld 5078, sofern ein Wert vorhanden ist.
-- 6. Falls in der [EBM-Stammdatei] zu einer GOP unter  .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe der Wert  V="5077" (HGNC-Gensymbole) hinterlegt ist und das HGNC-Gensymbol als Begründungstyp  ausgewählt wird, muss das Softwaresystem folgendes sicherstellen:
-- a) Das Softwaresystem muss vom Anwender die Angabe mindestens eines HGNC-Gensymboles fordern.
-- 7. Der Vertragsarzt bzw. der PVS-Hersteller hat keine Möglichkeit die Schlüsseltabelle, um  zusätzliche HGNC-Symbole zu erweitern.
 
 **Bedingung:**
 
@@ -3795,8 +3788,6 @@ Seite 87 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 ---
 
-- V = Dieses Attribut enthält die ID des Eintrages. Eine ID kann wie folgt aufgebaut sein:
-- HGNC:[XXXXX] = Dies entspricht der originären HGNC-ID.  Der Ausdruck [XXXXX] kann eine beliebig lange numerische Zeichenfolge sein.
 - KBV:[XXXXX]::[XXXXX] = Dies entspricht der von der KBV vergebenen ID des Eintrags, welche die KBV  ergänzt hat.  Die Ausdrücke [XXXXX] entsprechen dem Zahlenwert der HGNC-ID.
 - KBV:999999 = ID des Ersatzwertes
 - DN = Dieses Attribut gibt immer ein Gen an. Dabei ist zu beachten, dass es sich entweder um ein  einzelnes Gen oder um ein Fusionsgen handeln kann.  Der Inhalt ist wie folgt aufgebaut:
@@ -3828,12 +3819,12 @@ Durch die Verwendung von HGNC-Gensymbol-Ketten soll der Aufwand der Abrechnungsd
 - b) HGNC-Gensymbole aus einer Kette entfernen oder
 - c) die gesamte HGNC-Gensymbol-Kette entfernen.
 - 6. Im Rahmen des Quartalswechsels bzw. beim Einspielen einer neuen HGNC-Schlüsseltabelle muss das  Softwaresystem automatisch alle definierten HGNC-Gensymbol-Ketten daraufhin überprüfen, dass nur  gültige HGNC-Gensymbole verwendet werden.
+- a) Wenn das Softwaresystem feststellt, dass einzelne HGNC-Gensymbole einer Kette laut der HGNC-Schlüsseltabelle nicht mehr gültig sind, dann muss der Anwender aufgefordert werden die HGNC-Gensymbol-Kette zu aktualisieren.
 
 Seite 88 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
-- a) Wenn das Softwaresystem feststellt, dass einzelne HGNC-Gensymbole einer Kette laut der HGNC-Schlüsseltabelle nicht mehr gültig sind, dann muss der Anwender aufgefordert werden die HGNC-Gensymbol-Kette zu aktualisieren.
 - 1. Es dürfen nur HGNC-Gensymbol-Ketten verwendet werden, welche gemäß der Anforderung KP2-622  definiert wurden.
 - 2. Der Anwender muss eine HGNC-Gensymbol-Kette zu einer abzurechnenden GOP zuordnen können. Das  Softwaresystem muss die einzelnen enthaltenen HGNC-Gensymbole automatisch in je ein Feld 5077  übertragen.
 - 3. Nach Übernahme einer HGNC-Gensymbol-Kette in die Leistungsdokumentation hat der Anwender die  Möglichkeit zu einer abzurechnenden GOP weitere HGNC-Gensymbole (gemäß der Anforderung KP2-621) und/oder weitere HGNC-Gensymbol-Ketten zu ergänzen.
@@ -3869,20 +3860,15 @@ Die Anforderung resultiert aus den EBM-Abrechnungsbestimmungen für die GOPen 11
 
 In der 87. Sitzung des erweiterten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11511 bis  11513, 11516 bis 11518, 11521 und 11522 im Abschnitt 11.4.2 EBM für Behandlungsfälle ab dem  01.10.2026 gestrichen. Da die Abrechnung von sogenannten Nachzüglerfällen/Vorquartalsfällen möglich ist  und die ursprünglichen Regelungen für diese gelten, werden die gestrichen GOPen bis zum vierten Quartal  2028 in der Anforderung aufgeführt.
 
-Seite 89 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
-- 1. Die Software muss vom Anwender bei der Erfassung der GOP 11233[G-alpha] im Rahmen der  Leistungsdokumentation **genau** eine Angabe „Art der Erkrankung“ (FK 5079) fordern.
-- 2. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G-alpha] den die zur Leistung  vom Anwender angegebene „Art der Erkrankung“ im Feld FK 5079.
-- 3. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G-alpha] nicht das Feld FK 5077.
-- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation **genau** eine Angabe eines HGNC-Gensymbols (FK 5077) **und** einer „Art der  Erkrankung“ (FK 5079) fordern. Der Anwender darf nicht die Möglichkeit haben mehrere HGNC
-
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP2-612** | Übermittlung der Art der Erkrankung zur Abrechnungstransparenz für die GOP 11233[G-alpha] |
 
 Die Software muss die Angabe der Art der Erkrankung (FK 5079) zur GOP 11233[G-alpha] ermöglichen.
+
+Seite 89 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+---
 
 **Begründung:**
 
@@ -3891,6 +3877,10 @@ Gemäß EBM-Abrechnungsbestimmungen zu der GOP 11233[G-alpha] ist die „Art der
 **Akzeptanzkriterium:**
 
 Es gelten alle Vorgaben der Funktion KP2-624 unter Beachtung der folgenden Kriterien:
+
+- 1. Die Software muss vom Anwender bei der Erfassung der GOP 11233[G-alpha] im Rahmen der  Leistungsdokumentation **genau** eine Angabe „Art der Erkrankung“ (FK 5079) fordern.
+- 2. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G-alpha] den die zur Leistung  vom Anwender angegebene „Art der Erkrankung“ im Feld FK 5079.
+- 3. Die Software überträgt mit der Abrechnung für die Leistung GOP 11233[G-alpha] nicht das Feld FK 5077.
 
 \| **Beispiel: ** Nachfolgend mögliche Datenkonstellationen und entsprechende Auszüge aus dem jeweiligen  Konstellation 1:  …5001 …5005 …507 |
 \|---|
@@ -3909,6 +3899,8 @@ Die Berechnung der GOPen 11511, 11512, 11516 bis 11518 und 11521 sowie 11721 bis
 
 Es gelten alle Vorgaben der Funktion KP2-621 und KP2-624 unter Beachtung der folgenden Kriterien:
 
+- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der o.g. GOPen im Rahmen der  Leistungsdokumentation **genau** eine Angabe eines HGNC-Gensymbols (FK 5077) **und** einer „Art der  Erkrankung“ (FK 5079) fordern. Der Anwender darf nicht die Möglichkeit haben mehrere HGNC Gensymbole bzw. mehrere Angaben zur „Art der Erkrankung“ für eine Leistungsziffer zu erfassen und in  die Abrechnung zu übertragen.
+
 Seite 90 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 Datensatz: 11233 08 9 obligat: Art der Erkrankung Übermittlung von HGNC-Gensymbol und der Art der Erkrankung zur Abrechnungstransparenz 11521[G-alpha] sowie 11721[G-alpha] bis 11723[G-alpha], 11728[G-alpha], 11730[G-alpha] und 11731[G-alpha] 
@@ -3916,9 +3908,10 @@ Datensatz: 11233 08 9 obligat: Art der Erkrankung Übermittlung von HGNC-Gensymb
 
 ---
 
-- Gensymbole bzw. mehrere Angaben zur „Art der Erkrankung“ für eine Leistungsziffer zu erfassen und in  die Abrechnung zu übertragen.
+- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 11513[G-alpha] und 11522[G-alpha] sowie 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha] im Rahmen der  Leistungsdokumentation **mindestens** eine Angabe eines „HGNC Gensymbols“ (FK 5077) **und** eine  Angabe der „Art der Erkrankung“ (FK 5079) fordern.
+- a) Der Anwender kann zu den genannten GOPen auch mehrere HGNC-Gensymbole und mehrere  Angaben zur „Art der Erkrankung“ angegeben/eintragen.
 
-\| **Beispiele: ** Nachfolgend sind mögliche Datenkonstellationen dargestellt:  Konstellation 1:  …5001 …5005 … …507      Konstellation 2:  …5001 …5005 …507 …507 …507 |
+\| **Beispiele: ** Nachfolgend sind mögliche Datenkonstellationen dargestellt:  Konstellation 1:  …5001 …5005 …507 …507      Konstellation 2:  …5001 …5005 …507 …507 …507 |
 \|---|
 
 **Hinweis:**
@@ -3941,13 +3934,11 @@ Es gelten alle Vorgaben der Funktion KP2-621 und KP2-624 unter Beachtung der fol
 
 Seite 91 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-11721 08 5077  A1BG   (HGNC-Gensymbol) 9  obligat: Art der Erkrankung 11721 03 999999 (Ersatzwert) 8  obligat: Gen-Name 9  obligat: Art der Erkrankung für die GOPen 11513[G-alpha] und 11522[G-alpha] sowie 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha] 
+11721 08  A1BG   (HGNC-Gensymbol) 9  obligat: Art der Erkrankung 11721 03 999999 (Ersatzwert) 8  obligat: Gen-Name 9  obligat: Art der Erkrankung für die GOPen 11513[G-alpha] und 11522[G-alpha] sowie 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha] 
 
 
 ---
 
-- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 11513[G-alpha] und 11522[G-alpha] sowie 11724 [G-alpha] bis 11727 [G-alpha] und 11732[G-alpha] im Rahmen der  Leistungsdokumentation **mindestens** eine Angabe eines „HGNC Gensymbols“ (FK 5077) **und** eine  Angabe der „Art der Erkrankung“ (FK 5079) fordern.
-- a) Der Anwender kann zu den genannten GOPen auch mehrere HGNC-Gensymbole und mehrere  Angaben zur „Art der Erkrankung“ angegeben/eintragen.
 - b) Werden mehrere Angaben zur „Art der Erkrankung“ eingetragen, so muss das Softwaresystem das  Feld 5079 mehrfach in die Abrechnungsdatei übertragen.
 - 2. Für die Eintragung von mehreren HGNC-Gensymbolen zu den genannten GOPen können HGNC-Gensymbol-Ketten nach der Funktion KP2-623 verwendet werden.
 
@@ -3958,9 +3949,19 @@ Seite 91 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 
 In der 87. Sitzung des erweiterten Bewertungsausschusses vom 9. Juni 2026 wurden die GOPen 11513 und  11522 im Abschnitt 11.4.2 EBM für Behandlungsfälle ab dem 01.10.2026 gestrichen. Da die Abrechnung  von sogenannten Nachzüglerfällen/Vorquartalsfällen möglich ist und die ursprünglichen Regelungen für  diese gelten, werden die gestrichen GOPen bis zum vierten Quartal 2028 in der Anforderung aufgeführt.
 
+| KONDITIONALE PFLICHTFUNKTION ADT |  |
+|---|---|
+| **KP2-615** | Übermittlung von HGNC-Gensymbol und der Art der Erkrankung und eines ICD-10-GM-Kodes |
+
+Die Software muss die Angabe des HGNC-Gensymbols (FK 5077), der Art der Erkrankung (FK 5079) und die  Angabe eines gültigen ICD-10-GM-Kodes (FK 6001) zu den GOPen 19424[G-alpha], 19453[G-alpha] und  19456[G-alpha] ermöglichen.
+
+**Begründung:**
+
+Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G-alpha] sind die „Art der Untersuchung (Gensymbol nach HGNC)“ und die „Art der Erkrankung gemäß der  Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
+
 Seite 92 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-11724 08  A1CF  (HGNC-Gensymbol)  A2M (HGNC-Gensymbol) 9  obligat: Art der Erkrankung 9  obligat: Art der Erkrankung 11724 03 999999   (Ersatzwert) 8  obligat: Gen-Name 9  obligat: Art der Erkrankung 
+11724 08  A1CF  (HGNC-Gensymbol)  A2M (HGNC-Gensymbol) 9  obligat: Art der Erkrankung 9  obligat: Art der Erkrankung 11724 03 999999   (Ersatzwert) 8  obligat: Gen-Name 9  obligat: Art der Erkrankung zur Abrechnungstransparenz für die GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G- alpha] 
 
 
 ---
@@ -3969,31 +3970,26 @@ Seite 92 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 - 2. Bei den GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G-alpha] muss nicht zwingend die „Art der  Erkrankung“ (FK 5079) erfasst werden. Jedoch muss dem Anwender die Erfassung einer oder mehrere  „Arten der Erkrankungen“ möglich sein
 - 3. Für die Eintragung von mehreren HGNC-Gensymbolen zu den genannten GOPen können HGNC-Gensymbol-Ketten nach der Funktionen KP2-623 verwendet werden.
 
-| KONDITIONALE PFLICHTFUNKTION ADT |  |
-|---|---|
-| **KP2-615** | zur Abrechnungstransparenz für die GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G- |
-
-Die Software muss die Angabe des HGNC-Gensymbols (FK 5077), der Art der Erkrankung (FK 5079) und die  Angabe eines gültigen ICD-10-GM-Kodes (FK 6001) zu den GOPen 19424[G-alpha], 19453[G-alpha] und  19456[G-alpha] ermöglichen.
-
-**Begründung:**
-
-Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 19424[G-alpha], 19453[G-alpha] und 19456[G-alpha] sind die „Art der Untersuchung (Gensymbol nach HGNC)“ und die „Art der Erkrankung gemäß der  Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
-
 **Akzeptanzkriterium:**
 
 Es gelten alle Vorgaben der Funktionen KP2-621 KP2-624 und KP2-618 unter Beachtung der folgenden  Kriterien:
 
-\| **Beispiel: ** Nachfolgend sind mögliche Datenkonstellationen dargestellt (nicht als abschließend zu betrachten):  Konstellation 1:  …5001 …5005 …5077 …5077 …5078 …5079   …5079   …  …6001    obligat: ICD-10-GM-Kode  …6003    obligat G |
+\| **Beispiel: ** Nachfolgend sind mögliche Datenkonstellationen dargestellt (nicht als abschließend zu betrachten):  Konstellation 1:  …5001 …5005 …5077 …5077 …5078 …5079   …5079   … …6001  …6003      Konstellation 2:  …5001 …5005 …5077 …5078 …5077 …5078 …5079     optional: Art der Erkrankung … |
 \|---|
 
 Seite 93 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Übermittlung von HGNC-Gensymbol und der Art der Erkrankung und eines ICD-10-GM-Kodes 19424 08 BRAF  (HGNC-Gensymbol) KBV:999999   (Ersatzwert) obligat: Gen-Name    optional: Art der Erkrankung    optional: Art der Erkrankung 
+19424 08 BRAF  (HGNC-Gensymbol) KBV:999999   (Ersatzwert) obligat: Gen-Name    obligat: ICD-10-GM-Kode    obligat G 19453 999999 (Ersatzwert) obligat: Gen-Name 999999 (Ersatzwert) obligat: Gen-Name 
 
 
 ---
 
-\| Konstellation 2:  …5001 …5005 …5077 …5078 …5077 …5078 …5079     optional: Art der Erkrankung …  …6001     obligat:  ICD-10-GM-Kode  …6003     obligat: G |
+- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19421[G-alpha], 19451[G-alpha]  und 19452[G-alpha] im Rahmen der Leistungsdokumentation **genau** eine Angabe des HGNC-Gensymbols  (FK 5077) fordern.
+- 2. Bei den GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G-alpha] muss nicht zwingend die „Art der  Erkrankung“ (FK 5079) erfasst werden. Jedoch muss dem Anwender die Erfassung genau einer „Art der  Erkrankung“ ermöglicht werden.
+- 1. Es gelten alle Vorgaben der Funktion KP2-618
+- 2. Die Software überträgt mit der Abrechnung für die Leistung der o.g. GOPen nicht die Felder FK 5077 und  FK 5079.
+
+\| …6001     obligat:  ICD-10-GM-Kode  …6003     obligat: G |
 \|---|
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
@@ -4004,39 +4000,17 @@ Die Software muss die Angabe HGNC-Gensymbol (FK 5077), die Angabe „Art der Erk
 
 **Begründung:**
 
-Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 19421[G-alpha], 19451[G-alpha], und 19452[G-alpha] sind die „Art der Untersuchung ( Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
+Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 19421[G-alpha], 19451[G-alpha], und 19452[G-alpha] sind die „Art der Untersuchung (HGNC-Gensymbol) und die „Art der Erkrankung gemäß der  Kodierung nach ICD-10-GM“ anzugeben, die „Art der Erkrankung“ kann angegeben werden
 
 **Akzeptanzkriterium:**
 
-Es gelten alle Vorgaben der Funktionen  Kriterien:
-
-- 1. Das Softwaresystem muss vom Anwender bei der Erfassung der GOPen 19421[G-alpha], 19451[G-alpha]  und 19452[G-alpha] im Rahmen der Leistungsdokumentation  (FK 5077) fordern.
-- 2. Bei den GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G-alpha] muss nicht zwingend  Erkrankung“ (FK 5079) erfasst werden Erkrankung“ ermöglicht werden.
+Es gelten alle Vorgaben der Funktionen KP2-621 KP2-624 und KP2-618 unter Beachtung der folgenden  Kriterien:
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP2-617** | Übermittlung eines ICD-10-GM-Kodes zur Abrechnungstransparenz für die GOPen 11302[G- |
 
-Die Software muss die Angabe einer „Art der Erkrankung gemäß der Kodierung nach ICD GOPen 11302[G-alpha], 11303[G-alpha], 11305[G-alpha], 19402 [G-alpha], 32901[G-alpha], 32902[G-alpha],
-
-Seite 94 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-HGNC-Gensymbol) und die „Art der Erkrankung gemäß der
-
-KP2-621 KP2-624 und
-
-- . Jedoch muss dem Anwender die Erfassung genau einer
-
-KP2-618 unter Beachtung der folgenden
-
-- **genau** eine Angabe des HGNC-Gensymbols
-- die „Art der  „Art der -10-GM“ zu den
-
-19453 999999 (Ersatzwert) obligat: Gen-Name 999999 (Ersatzwert) obligat: Gen-Name zur Abrechnungstransparenz für die GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G- alpha] alpha], 11303[G-alpha], 11305[G-alpha], 19402[G-alpha], 32901[G-alpha], 32902[G-alpha], 32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-alpha], 32911[G-alpha], 32915[G- alpha], 32916[G-alpha], 32917[G-alpha] und 32918[G-alpha]
-
----
-
-32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-alpha], 32911[G-alpha], 32915[G-alpha],  32916[G-alpha], 32917[G-alpha] und 32918[G-alpha] ermöglichen.
+Die Software muss die Angabe einer „Art der Erkrankung gemäß der Kodierung nach ICD-10-GM“ zu den  GOPen 11302[G-alpha], 11303[G-alpha], 11305[G-alpha], 19402[G-alpha], 32901[G-alpha], 32902[G-alpha],  32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-alpha], 32911[G-alpha], 32915[G-alpha],  32916[G-alpha], 32917[G-alpha] und 32918[G-alpha] ermöglichen.
 
 **Begründung:**
 
@@ -4044,8 +4018,12 @@ Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 11302[G-alpha], 11303[G-alpha],
 
 **Akzeptanzkriterium:**
 
-- 1. Es gelten alle Vorgaben der Funktion KP2-618
-- 2. Die Software überträgt mit der Abrechnung für die Leistung der o.g. GOPen nicht die Felder FK 5077 und  FK 5079.
+Seite 94 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+zur Abrechnungstransparenz für die GOPen 19421[G-alpha], 19451[G-alpha] und 19452[G- alpha] alpha], 11303[G-alpha], 11305[G-alpha], 19402[G-alpha], 32901[G-alpha], 32902[G-alpha], 32904[G-alpha], 32906[G-alpha], 32908[G-alpha], 32910[G-alpha], 32911[G-alpha], 32915[G- alpha], 32916[G-alpha], 32917[G-alpha] und 32918[G-alpha]  
+
+
+---
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -4067,19 +4045,19 @@ Gemäß EBM-Abrechnungsbestimmungen zu den GOPen 11302[G-alpha], 11303[G-alpha],
 | **GOP** | Art der Erkrankung | HGNC-Gensymbol | ICD-10-GM-Kode | Funktion |
 | 11233 | Angabe | Keine Übertragung | Keine Besonderheit | KP2-612 |
 | 11511, 11512, | jeweils genau eine | jeweils genau eine | Keine Besonderheit | KP2-613 |
+| 11513, 11522, | mindestens eine | mindestens eine | Keine Besonderheit | KP2-614 |
+| 19424, 19453, | optionale Angabe | mindestens eine | gültigen ICD-10-GM | KP2-615   (KP2-618) |
+| 19421, 19451, | genau eine optionale | jeweils genau eine | mindestens eine | KP2-616  (KP2-618) |
 
 Seite 95 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Übermittlung eines ICD-10-GM-Kodes zur Abrechnungstransparenz für die Funktionen KP2- 11516, 11517, 11518, 11521, 11721, 11722, 11723, 11728, 11730, 11731 
+Übermittlung eines ICD-10-GM-Kodes zur Abrechnungstransparenz für die Funktionen KP2- 11516, 11517, 11518, 11521, 11721, 11722, 11723, 11728, 11730, 11731 11724, 11725, 11726, 11727, 11732 19456 Angabe eines 19452 Angabe eines 
 
 
 ---
 
 | ÜBERSICHT ZU DEN ANFORDERUNGEN KP2-612, KP2-613, KP2-614, KP2-615, KP2-616, KP2-617, KP2-618 | | | | |
 |---|---|---|---|---|
-| 11513, 11522, | mindestens eine | mindestens eine | Keine Besonderheit | KP2-614 |
-| 19424, 19453, | optionale Angabe | mindestens eine | gültigen ICD-10-GM | KP2-615   (KP2-618) |
-| 19421, 19451, | genau eine optionale | jeweils genau eine | mindestens eine | KP2-616  (KP2-618) |
 | 11302, 11303, | Keine Übertragung | Keine Übertragung | mindestens eine | KP2-617  (KP2-618) |
 
 Tabelle 8 - Abrechnungsbegründungen bei Berechnung genetischer Untersuchungen, Übersicht zu den Anforderungen KP2-612 bis KP2-618
@@ -4106,13 +4084,7 @@ Konkret obliegt dies der Regelungshoheit der Kassenärztlichen Vereinigungen.
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software stellt dem Anwender entsprechende Eingabefelder zur Erfassung der Informationen  bei Besuchen außerhalb der Arztpraxis zur Verfügung. Diese sind:
-
-Seite 96 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-11724, 11725, 11726, 11727, 11732 19456 19452 11305, 19402, 32901, 32902, 32904, 32906, 32908, 32910, 32911, 32915, 32916, 32917, 32918 Angabe eines Angabe eines Angabe eines
-
----
+- 1. Die Software stellt dem Anwender entsprechende Eingabefelder zur Erfassung der Informationen bei  Besuchen außerhalb der Arztpraxis zur Verfügung. Diese sind:
 
 |  | |
 |---|---|
@@ -4124,6 +4096,14 @@ Seite 96 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 
 Tabelle 9 - Abrechnungsbegründungen bei Berechnung von Besuchen
 
 - 2. Die Software überträgt die vom Anwender erfassten Angaben gemäß  Abrechnung.
+
+Seite 96 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+- Tabelle 9 im Rahmen der
+
+11305, 19402, 32901, 32902, 32904, 32906, 32908, 32910, 32911, 32915, 32916, 32917, 32918 Angabe eines gültigen ICD-10-GM
+
+---
 
 **Bedingung:**
 
@@ -4137,7 +4117,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
 Der Einsatz von Leistungsketten zum Zwecke der Abrechnung ist unter folgenden Bedingungen zulässig:
 
-Jede GNR einer Kette kann erst **nach Einzelquittierung** übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett,  Tastatur, Scanner) bzw. auch bei der programmierten Beregelung.
+Jede GNR einer Kette kann erst **nach Einzelquittierung** durch den Anwender in die Abrechnung  übernommen werden. Dies gilt für alle Formen der Dateneingabe (z. B. Beleglesung, Digitalisierbrett,  Tastatur, Scanner) bzw. auch bei der programmierten Beregelung.
 
 **Eine Leistungskette liegt vor,**
 
@@ -4158,15 +4138,6 @@ Abrechnungsrelevante Resultate sind:
 - manuell erfasste oder zu bestätigende vordefinierte Ergebnisse in Textform,
 - manuell erfasste oder zu bestätigende vordefinierte abrechnungssteuernde Zeichen als Bestätigung  einer erbrachten Leistung.
 
-Seite 97 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-- Tabelle 9 im Rahmen der
-
-durch den Anwender in die Abrechnung
-
-
----
-
 2.3.7.6 Tagtrennung
 
 | PFLICHTFUNKTION ADT |  |
@@ -4177,31 +4148,33 @@ Folgen nach einem ersten Arzt-Patientenkontakt an demselben Behandlungstag weite
 
 **Für die Funktion „Tagtrennung“ gilt:**
 
-- 1. Eine automatische „Tagtrennung“ durch das Abrechnungssystem ist  das Abrechnungssystem dem Anwender eine explizite Funktion „TAGTRENNUNG“ anbieten.
-- 2. Wird eine Tagtrennung durchgeführt, muss ein weiterer Behandlungstag mit demselben Datum  (FK 5000) und allen im Rahmen dieses Arzt-Patientenkontaktes erbrachten Gebührennummern  übertragen werden.
+- 1. Eine automatische „Tagtrennung“ durch das Abrechnungssystem ist  Abrechnungssystem dem Anwender eine explizite Funktion „TAGTRENNUNG“ anbieten.
+- 2. Wird eine Tagtrennung durchgeführt, muss ein weiterer Behandlungstag mit demselben Datum (FK  5000) und allen im Rahmen dieses Arzt-Patientenkontaktes erbrachten Gebührennummern übertragen  werden.
 - 3. Wird eine Tagtrennung durchgeführt, so muss das Abrechnungssystem sicherstellen, dass
-- a) für die **erste** GNR des **ersten** Arzt-Patientenkontaktes eine Uhrzeit (FK 5006) nachgetragen werden  **kann,**
-- b) für **weitere** Arzt-Patientenkontakte die Angabe einer Uhrzeit (FK 5006) zur jeweils  erfolgen **muss**
-- 4. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 3.a) zur  Tagtrennung vom Anwender nicht beachtet, so muss ein
-- 5. Wird die Vorgabe zu Punkt 3.b) zur Tagtrennung vom Anwender nicht beachtet, so muss eine  **Fehlermeldung** ausgegeben werden.
 
-\| **Beispielhafter Auszug aus einem Datensatz ** … … **… 5001** …  …5098 …5099 … 5001 … 5005 …5098 …5099 … …  …  …5098 …5099 … 5001 |
-\|---|
+Seite 97 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 **Tagtrennung**
 
-- **nicht** zulässig, vielmehr muss
-- **ersten** GNR
-- **Warnhinweis** ausgegeben werden.
+- **nicht** zulässig, vielmehr muss das
 
-Seite 98 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-5000 20160106 Behandlungstag 01210 erste GNR des ersten Arzt-Patientenkontaktes 5006 1100 Uhrzeitangabe  5000 5006 20160106 Behandlungstag 01214  erste GNR des zweiten Arzt-Patientenkontaktes 1300 Uhrzeitangabe
 
 ---
 
-\| …5098 …5099 …  …  …  …5098 …5099 … 5001 …5098 …5099 … |
+- a) für die **erste** GNR des **ersten** Arzt-Patientenkontaktes eine Uhrzeit (FK 5006) nachgetragen werden  **kann,**
+- b) für **weitere** Arzt-Patientenkontakte die Angabe einer Uhrzeit (FK 5006) zur jeweils **ersten** GNR  erfolgen **muss**
+- 4. Wird die über die KV-Spezifika-Stammdatei definierte KV-spezifische Vorgabe zu Punkt 3.a) zur  Tagtrennung vom Anwender nicht beachtet, so muss ein **Warnhinweis** ausgegeben werden.
+- 5. Wird die Vorgabe zu Punkt 3.b) zur Tagtrennung vom Anwender nicht beachtet, so muss eine  **Fehlermeldung** ausgegeben werden.
+
+\| **Beispielhafter Auszug aus einem Datensatz ** … … **… 5001** …  …5098 …5099 … 5001 … 5005 …5098 …5099 … …  …  …5098 …5099 … 5001 …5098 …5099 …  …  …  …5098 …5099 … 5001 …5098 …5099 … |
 \|---|
+
+Seite 98 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+5000 20160106 Behandlungstag 01210 erste GNR des ersten Arzt-Patientenkontaktes 5006 1100 Uhrzeitangabe  5000 20160106 Behandlungstag 01214  erste GNR des zweiten Arzt-Patientenkontaktes 5006 1300 Uhrzeitangabe 5000 20160106 Behandlungstag 01214  erste GNR des dritten Arzt-Patientenkontaktes 5006 1800 Uhrzeitangabe 
+
+
+---
 
 2.3.7.7 Leistungskennzeichnung
 
@@ -4213,14 +4186,14 @@ Die Software muss dem Anwender die Kennzeichnung von GOPen im Rahmen der Leistun
 
 **Begründung:**
 
-In Umsetzung des Vertragsarztrechtsänderungsgesetzes muss jede abgerechnete Leistung mit der  „(Neben ) Betriebsstättennummer des Ortes der Leistungserbringung“ und der „Lebenslangen Arztnummer  des Leistungserbringers“ gekennzeichnet werden.
+In Umsetzung des Vertragsarztrechtsänderungsgesetzes muss jede abgerechnete Leistung mit der  „(Neben-) Betriebsstättennummer des Ortes der Leistungserbringung“ und der „Lebenslangen Arztnummer  des Leistungserbringers“ gekennzeichnet werden.
 
 Im Rahmen der ASV-Abrechnung durch Krankenhausärzte kann die Arzt-LANR für Krankenhausärzte“ erfolgen, vgl. § 2 Nr. 25 ASV
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss dem Anwender ermöglichen die GOPen, die im Rahmen der  Leistungsdokumentation erfasst wurden, mit einer Betriebsstättennummer und einer  Lebenslangen Arztnummer zu kennzeichnen.
-- 2. Die Software überträgt mit der Abrechnung die zur GOP angegebene (Neben-)  Betriebsstättennummer in Feld FK 5098 und die LANR in Feld FK 5099 oder die Pseudo-LANR in  Feld 5101.
+- 1. Die Software muss dem Anwender ermöglichen die GOPen, die im Rahmen der Leistungsdokumentation  erfasst wurden, mit einer Betriebsstättennummer und einer Lebenslangen Arztnummer zu  kennzeichnen.
+- 2. Die Software überträgt mit der Abrechnung die zur GOP angegebene (Neben-) Betriebsstättennummer  in Feld FK 5098 und die LANR in Feld FK 5099 oder die Pseudo-LANR in Feld 5101.
 
 2.3.7.8 Beregelung
 
@@ -4230,19 +4203,9 @@ Im Rahmen der ASV-Abrechnung durch Krankenhausärzte kann die Arzt-LANR für Kra
 
 Abrechnungsbestimmungen die Gebührenordnung dürfen programmiertechnisch umgesetzt werden (z. B.  Nicht-Nebeneinander-Berechnung von Positionen, u. ä.). Als systemseitige Reaktion auf erkannte Fehler  dürfen:
 
-Seite 99 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-lichen.
-
-Kennzeichnung mit einer „Pseudo -AV i. V. m. Anlage 3 ASV-AV.
-
-5000 20160106 Behandlungstag 01214  erste GNR des dritten Arzt-Patientenkontaktes 5006 1800 Uhrzeitangabe
-
----
-
 - 1. Fehlermeldungen ausgegeben werden,
 - 2. fehlerhaft angesetzte GNR eliminiert werden,
-- 3. GNRn im Rahmen der programmierten Beregelung automatisch ersetzt oder hinzugefügt werden.  Dabei sind die Vorgaben für die Handhabung von Leistungsketten zu beachten.
+- 3. GNRn im Rahmen der programmierten Beregelung automatisch ersetzt oder hinzugefügt werden. Dabei  sind die Vorgaben für die Handhabung von Leistungsketten zu beachten.
 
 Der abrechnende Arzt trägt stets die Verantwortung für die korrekte Anwendung der Gebührenordnung.
 
@@ -4254,14 +4217,26 @@ Der abrechnende Arzt trägt stets die Verantwortung für die korrekte Anwendung 
 
 Bei der Übermittlung der GOPen für die Erbringung einer Schutzimpfung gegen SARS-CoV-2 muss zu jeder  erbrachten GOP die Chargennummer der Impfdosis erfasst und übermittelt werden.
 
+Seite 99 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+lichen.
+
+Kennzeichnung mit einer „Pseudo -AV i. V. m. Anlage 3 ASV-AV.
+
+
+---
+
+- 1. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe der „Chargennummer“ (FK 5010) fordern, wenn zu der GOP in der  EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5010  hinterlegt ist.
+- 2. Das Softwaresystem muss dem Anwender die Erfassung der „Chargennummer“ (FK 5010) auch bei nicht  unter Akzeptanzkriterium 1 genannten GOPen (in FK 5001) ermöglichen.
+- 1. Die Software muss dem Anwender die Möglichkeit bieten, eine oder mehrere „Melde IDs“ inkl. des  jeweiligen „Hash Strings“ und „Hash Wertes“ aus der Meldebestätigung des Implantateregisters  leistungsbezogen zu erfassen.
+- 2. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe der „Melde ID Implantateregister“ (FK 5050) fordern, wenn zu der  GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5050“  hinterlegt ist.
+- 3. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe des „Hash-Strings Implantateregister“ (FK 5051) fordern, wenn zu  der GOP in der EBM-Stammdatei
+
 **Begründung:**
 
 Gemäß § 13 Abs. 5 Nr. 10 Infektionsschutzgesetz - IfSG muss zu jeder Schutzimpfung gegen SARS-CoV-2 die  Chargennummer von den Kassenärztlichen Vereinigung an das Robert Koch-Institut übermittelt werden.
 
 **Akzeptanzkriterium:**
-
-- 1. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen  der Leistungsdokumentation die Angabe der „Chargennummer“ (FK 5010) fordern, wenn zu der  GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5010  hinterlegt ist.
-- 2. Das Softwaresystem muss dem Anwender die Erfassung der „Chargennummer“ (FK 5010) auch  bei nicht unter Akzeptanzkriterium 1 genannten GOPen (in FK 5001) ermöglichen.
 
 **Bedingung:**
 
@@ -4281,7 +4256,9 @@ Die Software muss es dem Anwender ermöglichen, zu einem eingesetzten Implantat 
 
 **Begründung:**
 
-Im Implantateregistergesetz (IRegG) sowie in der Implantateregister-Betriebsverordnung (IRe-gBV) ist  festgelegt, dass Gesundheitseinrichtungen nach einer implantatbezogenen Maßnahme dem  Implantateregister die Daten übermitteln müssen. Die Arztpraxen müssen als Nach-weis für diese Meldung
+Im Implantateregistergesetz (IRegG) sowie in der Implantateregister-Betriebsverordnung (IRe-gBV) ist  festgelegt, dass Gesundheitseinrichtungen nach einer implantatbezogenen Maßnahme dem  Implantateregister die Daten übermitteln müssen. Die Arztpraxen müssen als Nach-weis für diese Meldung  in der Abrechnung die Melde-ID, den „Hash String“ sowie den „Hash Wert“ der Meldebestätigung des  Implantateregisters übertragen.
+
+**Akzeptanzkriterium:**
 
 Seite 100 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -4290,21 +4267,15 @@ Eintragung eines eingesetzten Implantats im Implantateregister des BMGs
 
 ---
 
-- 1. Die Software muss dem Anwender die Möglichkeit bieten, eine oder mehrere „Melde IDs“ inkl.  des jeweiligen „Hash Strings“ und „Hash Wertes“ aus der Meldebestätigung des  Implantateregisters leistungsbezogen zu erfassen.
-- 2. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen  der Leistungsdokumentation die Angabe der „Melde ID Implantateregister“ (FK 5050) fordern,  wenn zu der GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5050“  hinterlegt ist.
-- 3. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen  der Leistungsdokumentation die Angabe des „Hash Strings Implantateregister“ (FK 5051) fordern,  wenn zu der GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5051“  hinterlegt ist.
-- 4. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen  der Leistungsdokumentation die Angabe des „Hash Wertes Implantateregister“ (FK 5052) fordern,  wenn zu der GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5052“  hinterlegt ist.
-- 5. Die Software kann die Anwender ergänzend zu Akzeptanzkriterium 1 und unter Berücksichtigung  der Akzeptanzkriterien 2, 3 und 4 bei der Erfassung dahingehend unterstützen, dass sie die  „Melde IDs“ inkl. des jeweiligen „Hash Strings“ und „Hash Werte“ nach der Meldung einer  implantatbezogenen Maßnahme aus der Meldebestätigung des Implantateregisters automatisch  in die Felder „Melde ID Implantateregister“ (FK 5050), „Hash String Implantateregister“ (FK 5051)  und „Hash Wert Implantateregister“ (FK 5052) übernimmt
+- ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5051“  hinterlegt ist.
+- 4. Das Softwaresystem muss vom Anwender bei der Erfassung einer GOP (in FK 5001) im Rahmen der  Leistungsdokumentation die Angabe des „Hash Wertes Implantateregister“ (FK 5052) fordern, wenn zu  der GOP in der EBM-Stammdatei  ../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe/@V=“5052“  hinterlegt ist.
+- 5. Die Software kann die Anwender ergänzend zu Akzeptanzkriterium 1 und unter Berücksichtigung der  Akzeptanzkriterien 2, 3 und 4 bei der Erfassung dahingehend unterstützen, dass sie die „Melde IDs“ inkl.  des jeweiligen „Hash Strings“ und „Hash Werte“ nach der Meldung einer implantatbezogenen  Maßnahme aus der Meldebestätigung des Implantateregisters automatisch in die Felder „Melde-ID  Implantateregister“ (FK 5050), „Hash String Implantateregister“ (FK 5051) und „Hash-Wert  Implantateregister“ (FK 5052) übernimmt.
 - a) Wenn eine automatische Erfassung erfolgt ist, dann kann die Software die manuelle Anpassung der  automatisch übernommenen Werte unterbinden.
-- 6. Die Software überträgt die „Melde ID der Meldebestätigung des Implantateregisters“ in der  Abrechnung in der Feldkennung 5050.
+- 6. Die Software überträgt die „Melde ID der Meldebestätigung des Implantateregisters“ in der Abrechnung  in der Feldkennung 5050.
 - a) Wenn der Anwender mehr als eine Melde-ID erfasst, dann überträgt die Software jede Melde-ID in  einer separaten Feldkennung 5050 in der Abrechnung.
 - b) Die Software stellt sicher, dass zu jeder Melde-ID (FK 5050) auch die Kindelemente „Hash-String  Implantateregister“ (FK 5051) und „Hash Wert Implantateregister“ (FK 5052) übertragen werden.
 - 7. Die Software überträgt den „Hash String der Meldebestätigung des Implantateregisters“ in der  Abrechnung in der Feldkennung 5051.
 - 8. Die Software überträgt den „Hash Wert der Meldebestätigung des Implantateregisters“ in der  Abrechnung in der Feldkennung 5052.
-
-in der Abrechnung die Melde-ID, den „Hash String“ sowie den „Hash Wert“ der Meldebestätigung des  Implantateregisters übertragen.
-
-**Akzeptanzkriterium:**
 
 **Bedingung:**
 
@@ -4316,15 +4287,20 @@ Unter [BMG_Implantatenregister_Spezifikation] sind die technischen Informationen
 
 Sofern ab dem ersten Quartal 2025 Nachzüglerfälle aus dem Jahr 2023/2024 abgerechnet werden sollen  und dafür die Übertragung der Daten des Implantateregisters fachlich notwendig ist, müssen die Daten in  der ab dem ersten Quartal 2025 gültigen Struktur übertragen werden.
 
-Seite 101 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
----
-
 **2.3.8** **Card/ Versichertenstammdaten für Privatversicherte**
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
-| **P2-790** | PKV-Card / Versichertenstammdaten Privatversicherter **30** 30 1.  2.  1.  2.  3.  4.  5.  a)  -Abrechnung |
+| **P2-790** | PKV-Card / Versichertenstammdaten Privatversicherter **30** 30 1.  2.  -Abrechnung |
+
+________________
+
+Seite 101 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Ausschluss für die GKV Unmittelbar nach dem Einlesen einer „Card für Privatversicherte“ oder nach dem erfolgreichen Abruf von Versichertenstammdaten Privatversicherter vom Fachdienst VSDM 2.0 muss systemseitig ein Hinweis erfolgen, dass eine Privatversicherung vorliegt. Die eingelesenen Daten einer „Card für Privatversicherte“  oder die vom Fachdienst VSDM 2.0 abgerufenen Daten Privatversicherter dürfen nicht in die Verarbeitungsroutinen zur KVDT-Abrechnung einfließen.  GKV = Gesetzliche Krankenversicherung 
+
+
+---
 
 **Hinweis:**
 
@@ -4346,18 +4322,18 @@ Folgende Anforderungen werden an die Patientenquittung gestellt:
 |---|---|
 | **P2-820** | Leistungsaufstellung |
 
-________________
-
-Seite 102 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-Ausschluss für die GKV Unmittelbar nach dem Einlesen einer „Card für Privatversicherte“ oder nach dem erfolgreichen Abruf von Versichertenstammdaten Privatversicherter vom Fachdienst VSDM 2.0 muss systemseitig ein Hinweis erfolgen, dass eine Privatversicherung vorliegt. Die eingelesenen Daten einer „Card für Privatversicherte“  oder die vom Fachdienst VSDM 2.0 abgerufenen Daten Privatversicherter dürfen nicht in die Verarbeitungsroutinen zur KVDT- Abrechnung einfließen. Auf der Patientenquittung werden diejenigen Leistungen aufgeführt, die der Arzt für die eigene Abrechnung ansetzt. Es werden nur die Leistungen auf der Patientenquittung ausgedruckt, die in der SDEBM enthalten und bewertet sind. Auftragsleistungen (Leistungen, die der Arzt „beauftragt“, beispielsweise mittels Muster 10A) werden nicht berücksichtigt, Wurden Leistungen mehrfach erbracht, können diese durch einen Multiplikator zur Gebührenziffer gekennzeichnet werden. Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben einzelne Leistungen von der Patientenquittung auszuschließen. Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht angezeigt werden.   GKV = Gesetzliche Krankenversicherung 
-
-
----
+\|  | 1.  2.  3.  4.  5.  a) |
 
 **Hinweis:**
 
-Für den unter Akzeptanzkriterium 5 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [ Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen vorliegen  und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
+Für den unter Akzeptanzkriterium 5 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das  Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen vorliegen  und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
+
+Seite 102 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Auf der Patientenquittung werden diejenigen Leistungen aufgeführt, die der Arzt für die eigene Abrechnung ansetzt. Es werden nur die Leistungen auf der Patientenquittung ausgedruckt, die in der SDEBM enthalten und bewertet sind. Auftragsleistungen (Leistungen, die der Arzt „beauftragt“, beispielsweise mittels Muster 10A) werden nicht berücksichtigt, Wurden Leistungen mehrfach erbracht, können diese durch einen Multiplikator zur Gebührenziffer gekennzeichnet werden. Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben einzelne Leistungen von der Patientenquittung auszuschließen. Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht angezeigt werden.  
+
+
+---
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -4373,7 +4349,7 @@ Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonor
 
 **Akzeptanzkriterium:**
 
-\|  | 1. |
+\|  | 1.  2. |
 
 |  | |
 |---|---|
@@ -4393,29 +4369,22 @@ Der Punktwert dient als Grundlage zur Berechnung des voraussichtlichen Arzthonor
 | 11,4915 | 01.01.2023 |
 | 11,9339 | 01.01.2024 |
 | 12,3934 | 01.01.2025 |
-
-Seite 103 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-P2-890. Im Normalfall entspricht der Punktwert dem Orientierungswert.
-
-KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das
-
-Die Software belegt das Erfassungsfeld mit dem aktuell gültigen Orientierungswert als Defaultwert automatisch vor.
-
----
-
-|  | |
-|---|---|
 | 12,7404 | 01.01.2026 |
 | 13,0207 | 01.01.2027 |
 
 Tabelle 10 - Orientierungswerte in Cent
 
-\|  | 2.  1.  2.  1.  2. |
-
 **Hinweis:**
 
 Ist eine GOP nur in Euro bewertet, ist dieser Eurowert zu verwenden.
+
+Seite 103 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+P2-890. Im Normalfall entspricht der Punktwert dem Orientierungswert.
+
+Die Software belegt das Erfassungsfeld mit dem aktuell gültigen Orientierungswert als Defaultwert automatisch vor. Die Software muss es dem Anwender ermöglichen, den Inhalt dieses Feldes zu verändern.
+
+---
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -4429,6 +4398,8 @@ Der Arzt kann dazu einen Erfahrungswert aus den letzten Quartalen angeben. Diese
 
 Für den Fall, dass der Arzt keine Quotierung angibt, soll auf der Patientenquittung unterhalb des ersten  Absatzes der folgende (Standard-)Text positioniert werden:
 
+\|  | 1.  2.  1.  2.  3.  a) |
+
 Für den Fall, dass der Arzt eine Quote angibt (z.B. 5%), soll auf der Patientenquittung der Textblock (1)  durch den folgenden Textblock ersetzt werden; die Quote wird dabei in den Text eingearbeitet (hier: X):
 
 | OPTIONALE FUNKTION ADT |  |
@@ -4441,18 +4412,18 @@ Grundsätzlich ist es dem Arzt erlaubt, in Teilen von den Standardformulierungen
 |---|---|
 | **K2-860** | Tagesbezogene Patientenquittung |
 
+**Hinweis:**
+
+Für den unter Akzeptanzkriterium 3 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das  Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen vorliegen
+
 Seite 104 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Die Software muss es dem Anwender ermöglichen, den Inhalt dieses Feldes zu verändern. “Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse soweit vermindert, dass das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht.“ “Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um X % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht.“ Unmittelbar nach oder während eines Arzt-Patienten-Kontaktes erfolgt eine Leistungsaufstellung der soeben erbrachten Leistungen mittels einer Patientenquittung (tagesbezogen). Diese Leistungsaufstellung kann auch alle bisher im Quartal erbrachten Leistungen kumulieren (scheingebunden). 
+“Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse soweit vermindert, dass das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht.“ “Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um X % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht.“ Unmittelbar nach oder während eines Arzt-Patienten-Kontaktes erfolgt eine Leistungsaufstellung der soeben erbrachten Leistungen mittels einer Patientenquittung (tagesbezogen). Diese Leistungsaufstellung kann auch alle bisher im Quartal erbrachten Leistungen kumulieren (scheingebunden). Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben einzelne Leistungen von der Patientenquittung auszuschließen. Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht angezeigt werden.  
 
 
 ---
 
-\|  | 3.  a) |
-
-**Hinweis:**
-
-Für den unter Akzeptanzkriterium 3 genannten Personenkreis verstößt in Analogie der Richtlinie der KBV  zur Übermittlung und Speicherung von Daten in die ePA [ Unterlassen der Auflistung von Gebührenordnungspositionen in der Patientenquittung nicht gegen  vertragsärztliche Pflichten, sofern dem erhebliche therapeutische Gründe entgegenstehen oder soweit  gewichtige Anhaltspunkte für die Gefährdung des Wohles eines Kindes oder eines Jugendlichen vorliegen  und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
+und die Auflistung von Gebührenordnungspositionen den wirksamen Schutz des Kindes oder Jugendlichen  in Frage stellen würde.
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -4468,9 +4439,7 @@ Zur Unterstützung des Praxispersonals kann optimalerweise der Einzug der Versan
 |---|---|
 | **P2-880** | Zeilenlänge der Leistungslegenden |
 
-Aufgrund der Tabellenform ist die Zeilenlänge der Leistungslegenden auf max. 40 Zeichen beschränkt (siehe
-
-Abbildung 3
+Aufgrund der Tabellenform ist die Zeilenlänge der Leistungslegenden auf max. 40 Zeichen beschränkt (siehe  Abbildung 3
 
 Ist die Leistungslegende länger als 40 Zeichen, muss ein Zeilenumbruch erfolgen.
 
@@ -4486,19 +4455,6 @@ Eine einheitliche Gestaltung der Patientenquittung wird angestrebt. Folgende Inf
 | Papierformat | DIN A4 |
 | Schriftart | Beliebige Monospace-Schriften |
 | Schriftgröße | 12 CPI |
-
-________________
-
-Seite 105 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-KBV_Richtlinie_§ 75 Abs 1 Nr. Z SGB V] das
-
-Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender die Möglichkeit haben einzelne Leistungen von der Patientenquittung auszuschließen. Ein Hinweis zur Unvollständigkeit der Leistungsaufstellung darf auf der Patientenquittung nicht angezeigt werden.   Gesetzliche Mindestanforderung
-
----
-
-|  | |
-|---|---|
 | Zeilenabstand | Einzeilig |
 | Adressfeld | Struktur und Position der Patientenadresse nach DIN 5008 |
 | Kassenname | Kassenname zur Bedruckung (siehe KTS) |
@@ -4506,6 +4462,17 @@ Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender
 | Absender | Praxisadresse / Arztstempel |
 | Ausstellungsdatum | Tagesdatum |
 | Betreff | Leistungs- und Kosteninformation |
+
+________________
+
+Seite 105 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Gesetzliche Mindestanforderung
+
+---
+
+|  | |
+|---|---|
 | Erläuternder Text | Liebe Patientin, lieber Patient,   zu Ihrer Information erhalten Sie nachstehend eine Aufstellung |
 | Text zur Quotierung  (Standardtext) | Der untenstehende Betrag für die von mir erbrachten ärztlichen |
 | **oder bei Eingabe von X:** |  |
@@ -4514,41 +4481,33 @@ Falls der Patient das 15. Lebensjahr noch nicht vollendet hat, muss der Anwender
 | Punktwert | (gemäß P2-830) |
 | Leistungsaufstellung | In Tabellenform: Tag / GNR / Kurzbeschreibung / Punkte /  Ausnahmen:  Bei EBM-Leistungen, bei welchen keine Punkte in der GO- Wenn in der Patientenquittung nur EBM-Leistungen enthalten |
 | Summenzeile | Kosten für ärztliche Leistungen in € |
-| Erstattung durch Ihre | **K * (100% - X)  ** mit |
-
-Seite 106 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-über die ärztlichen Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten. Dies ist keine Rechnung. Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse soweit vermindert, dass das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um X % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. Honorar Stammdatei hinterlegt sind, kann der Eintrag in der Spalte Punkte weggelassen oder durch „ “ ersetzt werden. sind, für welche keine Punkte in der GO-Stammdatei hinterlegt sind, kann alternativ auch die folgende Tabellenform verwendet werden: Tag / GNR / Kurzbeschreibung / Honorar Krankenkasse in €
-
-
----
-
-|  | |
-|---|---|
-|  | X = Anteil der nicht vergüteten Leistungen  K = Kosten für ärztliche Leistungen in € |
+| Erstattung durch Ihre | **K * (100% - X)  ** mit  X = Anteil der nicht vergüteten Leistungen  K = Kosten für ärztliche Leistungen in € |
 | Fußnoten | (siehe Beispiel) |
 | Seitennummerierung | Fortlaufend |
 | Bei Folgeseiten | Name und Ausstellungsdatum in Kopfzeile |
 
 Tabelle 11  Inhalt und Layout der Patientenquittung
 
+Seite 106 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Krankenkasse in € über die ärztlichen Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten. Dies ist keine Rechnung. Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse soweit vermindert, dass das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. Leistungen wird wegen der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um X % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. Honorar Stammdatei hinterlegt sind, kann der Eintrag in der Spalte Punkte weggelassen oder durch „ “ ersetzt werden. sind, für welche keine Punkte in der GO-Stammdatei hinterlegt sind, kann alternativ auch die folgende Tabellenform verwendet werden: Tag / GNR / Kurzbeschreibung / Honorar
+
+---
+
 2.3.9.2 Muster für eine Patientenquittung
 
-\| Dr. med. K. Mustermann            Platz für Logo /Vertragsarztstempel                        15.05.2017  DAK Testkasse Teststadt  Versicherten-Nr.: 123456789012       **Leistungs- und Kosteninformation**1 1     zu Ihrer Information erhalten Sie nachstehend eine Aufstellung über die ärztlichen    Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen    Behandlungszeitraum: April bis Juni 2017 (2. Quartal 2017) (bei Tagesquittung hier    Punktwert: 10,53 Cent (kaufmännische Rundung)    Tag   02.05.2017        15.05.2017 |
+\| Dr. med. K. Mustermann            Platz für Logo /Vertragsarztstempel                        15.05.2017  DAK Testkasse Teststadt  Versicherten-Nr.: 123456789012       **Leistungs- und Kosteninformation**1 1     zu Ihrer Information erhalten Sie nachstehend eine Aufstellung über die ärztlichen    Der untenstehende Betrag für die von mir erbrachten ärztlichen Leistungen wird wegen    Behandlungszeitraum: April bis Juni 2017 (2. Quartal 2017) (bei Tagesquittung hier    Punktwert: 10,53 Cent (kaufmännische Rundung)    Tag   02.05.2017        15.05.2017                Kosten für ärztliche Leistungen in €   Erstattung durch Ihre Krankenkasse in € |
 \|---|
+
+Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017
 
 ________________
 
 Seite 107 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-•  Teststraße 3 Herrn Hans Testmann Teststraße 10 12345 Teststadt •  12345 Teststadt Liebe Patientin, lieber Patient, Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten. Dies ist keine Rechnung. der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um 5 % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. nur Behandlungsdatum angeben) GNR Kurzbeschreibung 06211 Behandlungskomplex vom 6. bis zum vollendeten 59. Lebensjahr  06333 Binokulare Untersuchung des gesamten Augenhintergrundes                06310 Fortlaufende Tonometrie „Patientenquittung“ Punkte Honorar in €  127  13,37   51   5,37   88   9,27
+•  Teststraße 3 •  12345 Teststadt Herrn Hans Testmann Teststraße 10 12345 Teststadt Liebe Patientin, lieber Patient, Leistungen, die für Sie im unten genannten Zeitraum erbracht wurden, und über die Behandlungskosten, die als ärztliches Honorar voraussichtlich geltend gemacht werden können. Die Behandlungskosten sind durch Zahlungen Ihrer Krankenkasse abgegolten. Dies ist keine Rechnung. der Begrenzung der Finanzmittel der Krankenkassen gegebenenfalls nur zum Teil an mich ausbezahlt. Die Bezahlung wird im Nachhinein von der Krankenkasse um 5 % vermindert, damit das von Ihrer Krankenkasse zur Verfügung gestellte Geld ausreicht. nur Behandlungsdatum angeben) GNR Kurzbeschreibung 06211 Behandlungskomplex vom 6. bis zum vollendeten 59. Lebensjahr  06333 Binokulare Untersuchung des gesamten Augenhintergrundes                06310 Fortlaufende Tonometrie „Patientenquittung“ Punkte Honorar in €  127  13,37   51   5,37   88   9,27  28,01  ======  26,61
 
 ---
-
-\| Kosten für ärztliche Leistungen in €   Erstattung durch Ihre Krankenkasse in € |
-\|---|
-
-Abbildung 3: Patientenquittung, Stand: 2. Quartal 2017
 
 ### 2.3.10 Besonderheiten des aktuell gültigen EBM
 
@@ -4574,7 +4533,7 @@ Folgende Eingriffe sind vorgenommen worden:
 
 |  |  |  |  | |
 |---|---|---|---|---|
-| **OPS** | Kategorie | Kalkulatorische | Tatsächliche | EBM-Ziffer |
+| **OPS** | Kategorie | Schnitt-Naht-Zeit | Schnitt-Naht-Zeit | EBM-Ziffer |
 | 5-791.g5 | D4 | 60 | 30 | 31134 |
 | 5-791.g8 | D4 | 60 |  | 31134 |
 | 5-791.gh | D3 | 45 |  | 31133 |
@@ -4595,7 +4554,7 @@ die höchstbewertete Leistung zur Abrechnung anbieten. Die
 
 , die GSNZ und die Zuschlagleistung(en), übertragen werden.
 
-28,01  ======  26,61 Schnitt-Naht-Zeit [min] Schnitt-Naht-Zeit [min]
+Kalkulatorische [min] Tatsächliche [min]
 
 ---
 
@@ -4621,7 +4580,7 @@ Für Leistungen des ambulanten Operierens gilt per Gesetz seit dem 01.04.2005 de
 Falls in der [EBM-Stammdatei] zu  einer GOP unter .../gnr_zusatzangaben/gnr_zusatzangaben_liste/gnr_zusatzangabe der  Wert V="5035" (OP-Schlüssel) hinterlegt ist und der OPS-Code als Begründungstyp ausgewählt wird, muss  das System folgendes sicherstellen:
 
 - 1. Das System muss vom Anwender die Angabe eines OPS-Codes fordern.
-- 2. Das System muss den eingegebenen OPS-Code auf Korrektheit überprüfen und in der  Abrechnungsdatei unter der **FK 5035** übertragen.
+- 2. Das System muss den eingegebenen OPS-Code auf Korrektheit überprüfen und in der Abrechnungsdatei  unter der **FK 5035** übertragen.
 
 Seite 109 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -4635,7 +4594,7 @@ Echtzeitprüfung
 - 33 Erläuterung: In der [EBM-Stammdatei] sind nur diejenigen OPS mit Seitenlokalisation angegeben, bei denen die Seitenlokalisation  ausschlaggebend für die Kategorie-Zuordnung und damit für die Verknüpfung zur EBM-Leistung ist. Beispielsweise ist der höhere Aufwand bei  einigen beidseitigen Eingriffen durch eine höhere Kategorie-Zuordnung berücksichtigt. Eine generelle Verknüpfung der OP-Schlüssel mit der  Seitenlokalisation lässt sich abgesehen von den 116 Ausnahmen in der [EBM-Stammdatei] nur aus der erweiterten OPS-Schlüsseltabelle ableiten.
 - (unter  .../begruendungen_liste/ops_liste/.../ops/seite), muss das System vom Anwender die  Angabe der Seitenlokalisation fordern.  Dabei muss das System dem Anwender die entsprechenden Seitenlokalisationen zur Auswahl  vorschlagen. Das System überträgt die Angabe der Seitenlokalisation in der FK 5041.
 - c) Falls der vom Anwender eingegebene OPS-Code in der [EBM-Stammdatei] mit einer  Seitenlokalisation „P“ definiert ist (unter  .../begruendungen_liste/ops_liste/.../ops/seite), muss der OPS-Code zweimal (in  zwei Feldkennungen FK 5035) automatisch von der Software in der Abrechnung übertragen werden.  Dabei muss das System automatisch einmal die Seitenlokalisationen „L“ und einmal „R“ angeben.  Das System überträgt die Angabe der Seitenlokalisation in der FK 5041.
-- 3. Falls keiner vom Anwender erfassten OPS-Codes in der [EBM-Stammdatei] der GOP zugeordnet  (vgl. Akzeptanzkriterium 2 a)) ist, muss das System einen entsprechenden Hinweis anzeigen.
+- 3. Falls keiner vom Anwender erfassten OPS-Codes in der [EBM-Stammdatei] der GOP zugeordnet (vgl.  Akzeptanzkriterium 2 a)) ist, muss das System einen entsprechenden Hinweis anzeigen.
 - a) Das System muss eine Übernahme des/der OPS-Codes in die Abrechnungsdatei in FK 5035 nach dem  Hinweis trotzdem ermöglichen.
 - b) Falls der OPS-Code 5-983 zusätzlich zu den laut der [EBM-Stammdatei] definierten OPS-Codes für  eine Leistungsziffer angegeben wird, muss das System auf die Anzeige eines Hinweises verzichten.
 
@@ -4689,8 +4648,8 @@ Um den Anwender bei der Planung und Abrechnung von Leistungen zu unterstützen, 
 
 **Akzeptanzkriterium:**
 
-- 1. Falls der Anwender eine EBM-Leistung mit einer Gebührennummer erfasst, zu der in der EBM-Stammdatei eine aktive Liste von begründungsfähigen Diagnosen (SDEBM XML-Element  ../gnr/bedingung/begruendungen_liste/icd_liste mit  ../gnr/bedingung/begruendungen_liste/icd_liste/@V=‘true‘) hinterlegt ist und  falls keiner der in der Liste enthaltenen ICD-10-GM-Kodes für die Abrechnungsfelder „ICD Code“  oder „Dauerdiagnose (ICD Code)“ (FK 6001 bzw. 3673) erfasst wird, muss die  Abrechnungssoftware dem Anwender einen Warnhinweis mit dem Inhalt dieser Liste anzeigen,  dass die Leistung nur bei Begründung durch mindestens einer dieser Behandlungsdiagnosen  berechnungsfähig ist.
-- 2. Die Software muss dem Anwender im durch Akzeptanzkriterium 1. beschriebenen Fall die  Möglichkeit zur Erfassung der EBM-Leistung geben, falls dieser nicht mindestens einen der ICD-10-GM-Kodes aus der Liste der begründungsfähigen Diagnosen für die Abrechnungsfelder „ICD Code“ oder „Dauerdiagnose (ICD Code)“ (FK 6001 bzw. 3673) erfasst hat.
+- 1. Falls der Anwender eine EBM-Leistung mit einer Gebührennummer erfasst, zu der in der EBM-Stammdatei eine aktive Liste von begründungsfähigen Diagnosen (SDEBM XML-Element  ../gnr/bedingung/begruendungen_liste/icd_liste mit  ../gnr/bedingung/begruendungen_liste/icd_liste/@V=‘true‘) hinterlegt ist und falls  keiner der in der Liste enthaltenen ICD-10-GM-Kodes für die Abrechnungsfelder „ICD Code“ oder  „Dauerdiagnose (ICD Code)“ (FK 6001 bzw. 3673) erfasst wird, muss die Abrechnungssoftware dem  Anwender einen Warnhinweis mit dem Inhalt dieser Liste anzeigen, dass die Leistung nur bei  Begründung durch mindestens einer dieser Behandlungsdiagnosen berechnungsfähig ist.
+- 2. Die Software muss dem Anwender im durch Akzeptanzkriterium 1. beschriebenen Fall die Möglichkeit  zur Erfassung der EBM-Leistung geben, falls dieser nicht mindestens einen der ICD-10-GM-Kodes aus der  Liste der begründungsfähigen Diagnosen für die Abrechnungsfelder „ICD Code“ oder „Dauerdiagnose  (ICD-Code)“ (FK 6001 bzw. 3673) erfasst hat.
 
 2.3.10.4 Überweisung bei Betreuungsleistungen (Kapitel 31.4)
 
@@ -4708,7 +4667,7 @@ Seite 111 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 /
 
 - 1. Betreuungsleistungen sind innerhalb von 21 Tagen nur einmal berechnungsfähig.
 - 2. Als Abrechnungsbegründung ist das OP-Datum unter der FK 5034 anzugeben.
-- 1.  Der Anwender hat im Rahmen der Abrechnung von Psychotherapie-Leistungen die Möglichkeit  die Felder 4234, 4235, 4236, 4247, 4250, 4251, 4252, 4253, 4254, 4255, 4256 und 4257 wie in der  KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] definiert, zu übertragen.
+- 1.  Der Anwender hat im Rahmen der Abrechnung von Psychotherapie-Leistungen die Möglichkeit die  Felder 4234, 4235, 4236, 4247, 4250, 4251, 4252, 4253, 4254, 4255, 4256 und 4257 wie in der  KBV_ITA_VGEX_Datensatzbeschreibung_KVDT] definiert, zu übertragen.
 - 1. Bei der Dokumentation der Kombinationsbehandlung durch zwei Psychotherapeuten muss der  Anwender explizit angeben, ob es sich bei seinem Anteil der Kombinationsbehandlung um
 - a) „Einzeltherapie-Anteil bei Durchführung durch zwei Psychotherapeuten“ (FK 4251 = 3)
 
@@ -4796,7 +4755,7 @@ Die Höhe der Bewertung richtet sich nach der Anzahl der Teilnehmer. Infolgedess
 
 **Akzeptanzkriterium:**
 
-- 1. Wenn eine Psychotherapie mit den GOPen 3550X, 3551X, 3552X, 3553X, 3554X, 3555X, 3570X  oder 3571X beantragt und bewilligt wurde, wird im Rahmen der Abrechnung aus diesen  genannten GOPen, durch das Einsetzen der möglichen Teilnehmeranzahl 3, 4, 5, 6, 7, 8 und 9 für  die Variable X, jeweils sieben GOPen erstellt, die automatisch im Feld 4253 (Bewilligte GOP für  den Versicherten) bzw. im Feld 4256 (Bewilligte GOP für die Bezugsperson) übertragen werden.
+- 1. Wenn eine Psychotherapie mit den GOPen 3550X, 3551X, 3552X, 3553X, 3554X, 3555X, 3570X oder  3571X beantragt und bewilligt wurde, wird im Rahmen der Abrechnung aus diesen genannten GOPen,  durch das Einsetzen der möglichen Teilnehmeranzahl 3, 4, 5, 6, 7, 8 und 9 für die Variable X, jeweils  sieben GOPen erstellt, die automatisch im Feld 4253 (Bewilligte GOP für den Versicherten) bzw. im Feld  4256 (Bewilligte GOP für die Bezugsperson) übertragen werden.
 - 2. Der Anwender kann die als Default eingestellte automatische Übernahme deaktivieren.
 
 Seite 113 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
@@ -4806,7 +4765,7 @@ Berufsausübungsgemeinschaft
 
 ---
 
-- 3. Der Anwender kann manuell aus den möglichen sieben GOPen für das jeweils bewilligte  Verfahren die zu übernehmenden GOPen auswählen.
+- 3. Der Anwender kann manuell aus den möglichen sieben GOPen für das jeweils bewilligte Verfahren die  zu übernehmenden GOPen auswählen.
 - 4. Der Anwender hat die Möglichkeit bereits eingetragene GOPen zu bearbeiten (GOP streichen bzw.  hinzufügen).
 
 **Beispiel:**
@@ -4843,7 +4802,7 @@ Diese Anforderung resultiert aus den Angaben des Anhang 3 des EBM zu den betroff
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software verwendet bei der Erstellung eines Tagesprofils bei den GOPen 30931 [G-alpha],  30932 [G-alpha], 35140 [G-alpha], 35141 [G-alpha], 35150 [G-alpha], 35151 [G-alpha], 35152 [G-alpha], 35401 [G-alpha], 35402 [G-alpha], 35405 [G-alpha], 35411 [G-alpha], 35412[G-alpha],  35415 [G-alpha], 35421 [G-alpha], 35422 [G-alpha], 35425 [G-alpha], 35431[G-alpha], 35432[G-alpha] und 35435[G-alpha] als Prüfzeit die Kalkulationszeit (in Minuten) gemäß Anhang 3 zum  EBM.
+- 1. Die Software verwendet bei der Erstellung eines Tagesprofils bei den GOPen 30931 [G-alpha], 30932 [G-alpha], 35140 [G-alpha], 35141 [G-alpha], 35150 [G-alpha], 35151 [G-alpha], 35152[G-alpha], 35401 [G-alpha], 35402 [G-alpha], 35405 [G-alpha], 35411 [G-alpha], 35412 [G-alpha], 35415[G-alpha], 35421 [G-alpha], 35422 [G-alpha], 35425 [G-alpha], 35431[G-alpha], 35432[G-alpha] und 35435[G-alpha] als  Prüfzeit die Kalkulationszeit (in Minuten) gemäß Anhang 3 zum EBM.
 
 Seite 114 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
@@ -4867,7 +4826,7 @@ Der Anwender muss die Möglichkeit haben das Dokument über die Software aufzuru
 
 **Akzeptanzkriterium:**
 
-- 1. Der Anwender kann bei Bedarf die PDF-Vorlage des Musters  aus der Software aufrufen.
+- 1. Der Anwender kann bei Bedarf die PDF-Vorlage des Musters  der Software aufrufen.
 
 **Bedingung:**
 
@@ -4911,7 +4870,7 @@ Seite 115 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 /
 
 Vorlage für Muster „PTV 3“ direkt aus dem System.
 
-- „PTV 3“ EXT_ITA_AHEX_PTV3] direkt
+- „PTV 3“ EXT_ITA_AHEX_PTV3] direkt aus
 
 Vorlage Muster „PTV 3“.
 
@@ -5052,8 +5011,6 @@ Die Software muss unmittelbar nach der Leistungserfassung und bei der Abrechnung
 
 ---
 
-\|  |  |  | 1.  3.  4.  5.  a)  b)  1.  a) |  |
-
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP2-965** | Erinnerungsfunktion bei bewilligter Psychotherapie ohne Restkontingent im laufenden Quartal |
@@ -5065,6 +5022,8 @@ Falls im laufenden Quartal unmittelbar nach der Leistungserfassung kein Restkont
 Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (Anlage 1 BMV-Ä).
 
 **Akzeptanzkriterium:**
+
+\|  |  |  | 1.  2.  3.  4.  a)  b)  1.  a) |  |
 
 **Bedingung:**
 
@@ -5084,7 +5043,7 @@ Diese Anforderung resultiert aus § 17 Abs. 7 der Psychotherapie-Vereinbarung (A
 
 Seite 119 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Falls im laufenden Quartal unmittelbar nach der Leistungserfassung kein Restkontingent zu der bewilligten Psychotherapie besteht, muss die Software den Anwender auf die Angabe der Pseudo-GOP 88130 hinweisen. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP 88130 im Feld 5001. Die Software muss bei Psychotherapien analog 1., bei denen keine Pseudo-GOP 88130 eingetragen ist, mindestens im Rahmen der Abrechnungserstellung an die Erfassung und Übermittlung einer „Beendigungsmitteilung mit der Pseudo GOP 88130“ erinnern. Die Software muss dem Anwender ermöglichen, auf eine Übertragung einer „Beendigungsmitteilung mit der Pseudo GOP 88130“ im laufenden Quartal zu verzichten, falls mindestens eine der folgenden Bedingungen erfüllt ist:  Ein Folgeantrag für die Fortführung der Psychotherapie wurde bzw. wird gestellt. Die Psychotherapie wird länger als 6 Monate unterbrochen und eine formlose Begründung für die Unterbrechung nach § 17 Absatz 6 Psychotherapievereinbarung an die Krankenkasse übermittelt. Die Software stellt dem Anwender eine Möglichkeit zur Verfügung dies in der Patientendokumentation zu hinterlegen.  Falls aus einem Vorquartal eine bewilligte Psychotherapie ohne Restkontingent und ohne Übermittlung einer Pseudo-GOP 88130 bzw. 88131 oder ohne eine Kennzeichnung nach Akzeptanzkriterium (4) besteht, muss die Software den Anwender spätestens im Rahmen der Abrechnungserstellung für jeweils zwei nachfolgende Quartale auf die Angabe der Pseudo-GOP 88130 hinweisen, sofern die Pseudo-GOP im laufenden Quartal noch nicht erfasst worden ist. Dem Anwender sollen nur bewilligte Psychotherapien ohne Restkontingent ab dem 01.01.2020 angezeigt werden.  ohne  Restkontingent aus einem Vorquartal 
+Falls im laufenden Quartal unmittelbar nach der Leistungserfassung kein Restkontingent zu der bewilligten Psychotherapie besteht, muss die Software den Anwender auf die Angabe der Pseudo-GOP 88130 hinweisen. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP 88130 im Feld 5001. Die Software muss bei Psychotherapien analog 1., bei denen keine Pseudo-GOP 88130 eingetragen ist, mindestens im Rahmen der Abrechnungserstellung an die Erfassung und Übermittlung einer „Beendigungsmitteilung mit der Pseudo GOP 88130“ erinnern. Die Software muss dem Anwender ermöglichen, auf eine Übertragung einer „Beendigungsmitteilung mit der Pseudo- GOP 88130“ im laufenden Quartal zu verzichten, falls mindestens eine der folgenden Bedingungen erfüllt ist:  Ein Folgeantrag für die Fortführung der Psychotherapie wurde bzw. wird gestellt. Die Psychotherapie wird länger als 6 Monate unterbrochen und eine formlose Begründung für die Unterbrechung nach § 17 Absatz 6 Psychotherapievereinbarung an die Krankenkasse übermittelt. Die Software stellt dem Anwender eine Möglichkeit zur Verfügung dies in der Patientendokumentation zu hinterlegen.  Falls aus einem Vorquartal eine bewilligte Psychotherapie ohne Restkontingent und ohne Übermittlung einer Pseudo-GOP 88130 bzw. 88131 oder ohne eine Kennzeichnung nach Akzeptanzkriterium (4) besteht, muss die Software den Anwender spätestens im Rahmen der Abrechnungserstellung für jeweils zwei nachfolgende Quartale auf die Angabe der Pseudo-GOP 88130 hinweisen, sofern die Pseudo-GOP im laufenden Quartal noch nicht erfasst worden ist. Dem Anwender sollen nur bewilligte Psychotherapien ohne Restkontingent ab dem 01.01.2020 angezeigt werden.  ohne  Restkontingent aus einem Vorquartal 
 
 
 ---
@@ -5159,7 +5118,7 @@ Dem Anwender sollen nur bewilligte Psychotherapie mit Restkontingent angezeigt w
 
 ---
 
-\|  |  |  | 1.  b)  36 36 1 Bei einer Behandlungsdauer von 40 oder mehr Stunden können maximal 8 Stunden und bei einer Behandlungsdauer von 60 oder  2 Bei Kindern und Jugendlichen können im Falle der Hinzuziehung von relevanten Bezugspersonen bei einer Behandlungsdauer von  3 Satz 2 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung.   4 Sie sind Bestandteil des bewilligten Gesamtkontingents.   5 Die Beantragung einer alleinigen Rezidivprophylaxe ist nicht zulässig.   und c)  d)  e)  37 37 KP2-965, KP2-966,   KP2-967. 1.  2.  GBA_RiLi_Psychotherapie], §14  36  3.  38 38 1 Im Sinne dieser Richtlinie sind Kinder Personen, die noch nicht 14 Jahre alt sind und Jugendliche Personen, die 14 Jahre, aber    4.  36  5.  36    2.  3. |  |
+\|  |  |  | 1.  a)  36 36 1 Bei einer Behandlungsdauer von 40 oder mehr Stunden können maximal 8 Stunden und bei einer Behandlungsdauer von 60 oder  2 Bei Kindern und Jugendlichen können im Falle der Hinzuziehung von relevanten Bezugspersonen bei einer Behandlungsdauer von  3 Satz 2 gilt entsprechend für die Behandlung von Menschen mit einer geistigen Behinderung.   4 Sie sind Bestandteil des bewilligten Gesamtkontingents.   5 Die Beantragung einer alleinigen Rezidivprophylaxe ist nicht zulässig.   und b)  c)  d)  37 37 KP2-965, KP2-966,   KP2-967. 1.  2.  GBA_RiLi_Psychotherapie], §14  36  3.  38 38 1 Im Sinne dieser Richtlinie sind Kinder Personen, die noch nicht 14 Jahre alt sind und Jugendliche Personen, die 14 Jahre, aber    4.  36  5.  36    2.  3. |  |
 
 | KONDITIONALE PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -5348,7 +5307,7 @@ ________________
 
 Seite 126 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Behandlungsfälle“ mit der GOP 88194  Kodierte Zusatznummer zur Kennzeichnung von selektivvertraglichen / knappschaftsärztlichen Behandlungsfällen gemäß Nr. 11 der Präambel 3.1  Die Software muss es dem Anwender ermöglichen, für jeden selektivvertraglichen / knappschaftsärztlichen Behandlungsfall, welcher unmittelbar mit dem Kostenträger abgerechnet wird, einen „Pseudo Behandlungsfall“ als weiteren Datensatz 010x im Rahmen der ADT Abrechnung des laufenden Quartals zu erfassen und zu übertragen.  und 03063 
+Behandlungsfälle“ mit der GOP 88194  Kodierte Zusatznummer zur Kennzeichnung von selektivvertraglichen / knappschaftsärztlichen Behandlungsfällen gemäß Nr. 11 der Präambel 3.1  Die Software muss es dem Anwender ermöglichen, für jeden selektivvertraglichen / knappschaftsärztlichen Behandlungsfall, welcher unmittelbar mit dem Kostenträger abgerechnet wird, einen „Pseudo Behandlungsfall“ als weiteren Datensatz 010x im Rahmen der ADT -Abrechnung des laufenden Quartals zu erfassen und zu übertragen.  und 03063 
 
 
 ---
@@ -5837,7 +5796,7 @@ Kapitel 2.2.7 2.3.7.1 Kapitel 7.5 (GO-Stammdatei); Kapitel „Muster 1 (Arbeitsu
 
 Bedingt durch die Pauschalierung der Kurärztlichen Abrechnung werden keine Leistungen abgerechnet.
 
-Der Nachweis über die erfolgten Behandlungen erfolgt durch die Dokumentation der Leistungstage, jeweils  unter Angabe der Pseudo-Ziffer „
+Der Nachweis über die erfolgten Behandlungen erfolgt durch die Dokumentation der Leistungstage, jeweils  unter Angabe der Pseudo-Ziffer „**00001U**
 
 **Hinweis:**
 
@@ -5847,14 +5806,9 @@ Auch interkurrente Erkrankungen, Sachkosten etc. sind durch die Pauschalierung b
 |---|---|
 | **P2.6-30** | KV-Spezifika-Stammdatei der KV Westfalen-Lippe bei Kurärztlicher Abrechnung |
 
-Dem Anwender müssen die für die Abrechnung kurärztlicher Leistungen relevanten Angaben der jeweils  gültigen KV-Spezifika-Stammdatei der
+Dem Anwender müssen die für die Abrechnung kurärztlicher Leistungen relevanten Angaben der jeweils  gültigen KV-Spezifika-Stammdatei der **KV Westfalen-Lippe** zur Verfügung stehen.
 
 Seite 139 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-**00001U**
-
-**KV Westfalen-Lippe** zur Verfügung stehen.
-
 
 ---
 
@@ -5880,16 +5834,17 @@ Die Abrechnung von Leistungen zum Schwangerschaftsabbruch erfolgt ausschließlic
 |---|---|---|
 | **Stelle(n) der Kennziffer** | Bedeutung | Prüfungen |
 | 1 | Kennzeichnung für die | Falls Inhalt der 1. Stelle = 0, ist der Fall |
+| 2-7 | Datum der Antragstellung | Prüfung auf Datumsformat, gültiges |
 
 Seite 140 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Die Patientin legt der Ärztin/dem Arzt eine Kostenübernahmebescheinigung von einer gesetzlichen Krankenkasse vor; dabei kann es sich um eine Krankenkasse handeln, bei der sie nicht GKV-krankenversichert ist. Die Kostenübernahmebescheinigung enthält die Personalien der Patientin und eine sogenannte Fall-Kennziffer. Die Personalien der Patientin dürfen aus datenschutzrechtlichen Gründen nicht für Abrechnungszwecke an die KV übermittelt werden. Stattdessen wird die o. g. stellige  Fall-Kennziffer übertragen. Leistungen für Patientinnen mit Wohnsitz außerhalb von NRW sind direkt mit der Krankenkasse abzurechnen. Wird für die Patientin im Rahmen dieser Behandlung eine Überweisung ausgestellt (i.d.R. an den Anästhesisten), darf im Personalienfeld des Vordrucks nur die Fall-Kennziffer wiedergegeben werden. Mit Satzart „sad1“ werden abgerechnet: die ambulant erbrachten Leistungen des Operateurs Mit Satzart „sad2“ werden abgerechnet: Leistungen des Anästhesisten, welcher auf Überweisung des Operateurs tätig wird.  Leistungen des Gynäkologen, an den der Operateur zur Kontrolluntersuchung überwiesen hat.  Mit Satzart „sad3“ werden abgerechnet: belegärztliche Leistungen. Bei unplausiblen Eingaben müssen Warnhinweise  ausgegeben werden. Die Plausibilitätsprüfung erfolgt auf Basis nachfolgender Tabelle: maximal 27- Herkunft der Patientin  1 = NRW   0 = andere Bundesländer direkt mit der zuständigen Krankenkasse abzurechnen
+Die Patientin legt der Ärztin/dem Arzt eine Kostenübernahmebescheinigung von einer gesetzlichen Krankenkasse vor; dabei kann es sich um eine Krankenkasse handeln, bei der sie nicht GKV- krankenversichert ist. Die Kostenübernahmebescheinigung enthält die Personalien der Patientin und eine sogenannte Fall- Kennziffer. Die Personalien der Patientin dürfen aus datenschutzrechtlichen Gründen nicht für Abrechnungszwecke an die KV übermittelt werden. Stattdessen wird die o. g. übertragen. Leistungen für Patientinnen mit Wohnsitz außerhalb von NRW sind direkt mit der Krankenkasse abzurechnen. Wird für die Patientin im Rahmen dieser Behandlung eine Überweisung ausgestellt (i.d.R. an den Anästhesisten), darf im Personalienfeld des Vordrucks nur die Fall-Kennziffer wiedergegeben werden. Mit Satzart „sad1“ werden abgerechnet: die ambulant erbrachten Leistungen des Operateurs Mit Satzart „sad2“ werden abgerechnet: Leistungen des Anästhesisten, welcher auf Überweisung des Operateurs tätig wird.  Leistungen des Gynäkologen, an den der Operateur zur Kontrolluntersuchung überwiesen hat.  Mit Satzart „sad3“ werden abgerechnet: belegärztliche Leistungen. Bei unplausiblen Eingaben müssen Warnhinweise  ausgegeben werden. Die Plausibilitätsprüfung erfolgt auf Basis nachfolgender Tabelle: maximal 27-stellige  Fall-Kennziffer Herkunft der Patientin  1 = NRW   0 = andere Bundesländer bei der Krankenkasse direkt mit der zuständigen Krankenkasse abzurechnen Format ist TTMMJJ
 
 ---
 
 |  |  | |
 |---|---|---|
-| 2-7 | Datum der Antragstellung | Prüfung auf Datumsformat, gültiges  Datum der Antragstellung |
+|  |  | Datum der Antragstellung |
 | 8 | Laufende Nr. des Tages | Wertebereich: 1, 2…, 9 |
 | 9-15 | IK der Krankenkasse | Prüfung über KT-Stammdatei |
 | 16-20 | PLZ der ausstellenden | Prüfung über PLZ-Stammdatei |
@@ -5897,7 +5852,7 @@ Die Patientin legt der Ärztin/dem Arzt eine Kostenübernahmebescheinigung von e
 
 Tabelle 15 - Plausibilitätsprüfungen der Kennziffer-SA im PVS
 
-= PLZ der Kasse  Stellen 16-20
+Stellen 16-20  = PLZ der Kasse
 
 Stelle 1  = Kennzeichnung für die  Herkunft der Patientin
 
@@ -5913,7 +5868,7 @@ Krankenkasse
 
 Stellen 9-15  = IK der Krankenkasse
 
-- 6. Es muss allerdings möglich sein, auch eine unplausible Kennziffer zu speichern, wenn der  Anwender die Eingabe bestätigt.
+- 6. Es muss allerdings möglich sein, auch eine unplausible Kennziffer zu speichern, wenn der Anwender die  Eingabe bestätigt.
 
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -5933,7 +5888,7 @@ Die Bedruckung des Personalienfeldes des vertragsärztlichen Vordrucks 6 (Überw
 
 Seite 141 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-bei der Krankenkasse Format ist TTMMJJ Leistungstag  1. Kenn-zeichnung der  7-stellig 
+Leistungstag  1. Kenn-zeichnung der  7-stellig 
 
 
 ---
@@ -5943,7 +5898,7 @@ bei der Krankenkasse Format ist TTMMJJ Leistungstag  1. Kenn-zeichnung der  7-st
 |  | Krankenkasse   BKK für Testfälle |
 |---|---|
 |  | Name, V   11010141952870253840123456 geb. am |
-|  | Kostenträgerkennung    109528702 1.  7.  I |
+|  | Kostenträgerkennung    109528702 1.  2.  I |
 |  | Betriebsstätten-Nr. |
 
 ```
@@ -5972,7 +5927,7 @@ Kasse ist dann manuell aus dem Berechtigungsschein zu übernehmen.
 
 Seite 142 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-bzw. Kostenträger e des Versicherten Versicherten-Nr. Status Arzt-Nr.  Datum Bei plausiblen Kennziffern wird die zu speichernde VKNR abgeleitet aus dem in der Kennziffer-SA (9-15te Stelle) enthaltenen IK.  Bei unplausibler Kennziffer lässt sich der Kostenträger nicht automatisch ableiten. Der Anwender muss daher die Möglichkeit haben, den Kostenträger manuell zuzuordnen  
+bzw. Kostenträger e des Versicherten Versicherten-Nr. Status Arzt-Nr.  Datum Bei plausiblen Kennziffern wird die zu speichernde VKNR abgeleitet aus dem in der Kennziffer- SA (9-15te Stelle) enthaltenen IK.  Bei unplausibler Kennziffer lässt sich der Kostenträger nicht automatisch ableiten. Der Anwender muss daher die Möglichkeit haben, den Kostenträger manuell zuzuordnen  
 
 
 ---
@@ -6009,8 +5964,6 @@ Anwendung der ICD-10-GM Abrechnungsdatei (Felder mit Feldtyp „d“ und FKen 41
 
 ---
 
-\|  | 1.  a)  1.  SDICD] (das XML- 2.  a)  b)  3. |
-
 | KONDITIONALE PFLICHTFUNKTION HYBRID-DRG |  |
 |---|---|
 | **KP8-01** | Unterstützung der Satzart HDRG der KVDT-Datensatzbeschreibung |
@@ -6022,6 +5975,8 @@ Die Software unterstützt die Eingabe/Befüllung der in der Satzart HDRG definie
 Die Software muss dem Anwender die Möglichkeit bieten, eine Datei zur Abrechnung zu erzeugen, welche  den Vorgaben der Satzart HDRG entspricht.
 
 **Akzeptanzkriterium:**
+
+\|  | 1.  a)  1.  SDICD] (das XML- 2.  a)  b)  3.  a) |
 
 **Bedingung:**
 
@@ -6043,12 +5998,12 @@ Gemäß Verschlüsselungsanleitung der ICD-10-GM und den Deutschen Kodierrichtli
 
 Seite 144 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Die Software unterstützt die händische Eingabe, der in der Satzart HDRG definierten Felder bzw. deren automatische Befüllung, sofern Datenfelder automatisch befüllt (z.B. Übernahme von Daten aus eingelesen Karten oder durch Übernahme aus Stammdaten) werden können.  Die Einhaltung der Regeln und Kardinalitäten wird von der Software sichergestellt.  Die Software stellt sicher, dass der eingegebene ICD-10-GM-Kode für die Hauptdiagnose (6009) und/oder Nebendiagnose(n) (6011) in der ICD-10-GM-Stammdatei [ Element ../diagnosen_liste/diagnose/icd-code/@V ) existiert.  Die Software stellt sicher, dass bei der kodierten Hauptdiagnose und/oder Nebendiagnosen mindestens ein Primärkode angegeben wird. Falls ausschließlich ICD-Kodes mit den Notationskennzeichen (*) oder (!) (sog. Sekundärkodes) vorliegen, muss die Software folgendes sicherstellen: Erzeugen eines Hinweises, dass die Angabe eines Primärkodes erforderlich ist. Unterbinden der Übertragung der ausschließlichen Sekundärkodes in die Abrechnungsdatei.  Die Software stellt sicher, dass der ICD-10-GM- Kode nicht mit einem „ “ endet. Falls ein ICD-10-GM- Kode mit „ “ endet, muss die Software folgendes sicherstellen:
+Die Software unterstützt die händische Eingabe, der in der Satzart HDRG definierten Felder bzw. deren automatische Befüllung, sofern Datenfelder automatisch befüllt (z.B. Übernahme von Daten aus eingelesen Karten oder durch Übernahme aus Stammdaten) werden können.  Die Einhaltung der Regeln und Kardinalitäten wird von der Software sichergestellt.  Die Software stellt sicher, dass der eingegebene ICD-10-GM-Kode für die Hauptdiagnose (6009) und/oder Nebendiagnose(n) (6011) in der ICD-10-GM-Stammdatei [ Element ../diagnosen_liste/diagnose/icd-code/@V ) existiert.  Die Software stellt sicher, dass bei der kodierten Hauptdiagnose und/oder Nebendiagnosen mindestens ein Primärkode angegeben wird. Falls ausschließlich ICD-Kodes mit den Notationskennzeichen (*) oder (!) (sog. Sekundärkodes) vorliegen, muss die Software folgendes sicherstellen: Erzeugen eines Hinweises, dass die Angabe eines Primärkodes erforderlich ist. Unterbinden der Übertragung der ausschließlichen Sekundärkodes in die Abrechnungsdatei.  Die Software stellt sicher, dass der ICD-10-GM- Kode nicht mit einem „ “ endet. Falls ein ICD-10-GM- Kode mit „ “ endet, muss die Software folgendes sicherstellen: Erzeugen eines Hinweises, aus dem hervorgeht, dass der ICD-10-GM-Kode nicht endständig ist und daher nicht zur Abrechnung verwendet werden darf. 
 
 
 ---
 
-\|  | a)  b)  1.  2.  a)  b)  c)  1. |
+\|  | b)  1.  2.  a)  b)  c)  1.  a) |
 
 **Bedingung:**
 
@@ -6088,12 +6043,12 @@ Die Abrechnung der Hybrid-DRG ist nicht an den Quartalsbezug gekoppelt und muss 
 
 Seite 145 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Erzeugen eines Hinweises, aus dem hervorgeht, dass der ICD-10-GM-Kode nicht endständig ist und daher nicht zur Abrechnung verwendet werden darf. Unterbinden einer Übertragung des nicht endständigen ICD-10-GM-Kodes in die Abrechnungsdatei.  Die Software stellt sicher, dass zu jeder Hybrid-DRG Leistung (FK 5027) mindestens ein OPS-Kode in der FK 5035 übertragen wird. Die Software muss für den eingegebenen OPS-Kode folgendes sicherstellen:  der OPS-Kodes muss in OPS-Stammdatei (XML-Element ../opscode_liste/opscode/@V existieren  der OPS-Kode muss noch gültig sein (Datum liegt nicht vor oder nach dem Gültigkeitszeitraum des XML-Elements ../opscode_liste/opscode/gueltigkeit/@V Falls der eingegebene OPS-Kode in der Stammdatei mit einer Seitenlokalisation definiert (../opscode_liste/opscode/kzseite/@V=“J“ ) ist, muss das System vom Anwender die Angabe der Seitenlokalisation fordern.  Die Software bietet dem Anwender die Möglichkeit, jederzeit eine Abrechnungsdatei zu erstellen.  
+Unterbinden einer Übertragung des nicht endständigen ICD-10-GM-Kodes in die Abrechnungsdatei.  Die Software stellt sicher, dass zu jeder Hybrid-DRG Leistung (FK 5027) mindestens ein OPS-Kode in der FK 5035 übertragen wird. Die Software muss für den eingegebenen OPS-Kode folgendes sicherstellen:  der OPS-Kodes muss in OPS-Stammdatei (XML-Element ../opscode_liste/opscode/@V existieren  der OPS-Kode muss noch gültig sein (Datum liegt nicht vor oder nach dem Gültigkeitszeitraum des XML-Elements ../opscode_liste/opscode/gueltigkeit/@V Falls der eingegebene OPS-Kode in der Stammdatei mit einer Seitenlokalisation definiert (../opscode_liste/opscode/kzseite/@V=“J“ ) ist, muss das System vom Anwender die Angabe der Seitenlokalisation fordern.  Die Software bietet dem Anwender die Möglichkeit, jederzeit eine Abrechnungsdatei zu erstellen.  Der Anwender hat die Möglichkeit auszuwählen, welche Hybrid-DRG Abrechnungsfälle in der Abrechnungsdatei enthalten sein sollen.  
 
 
 ---
 
-\|  | a)  b)  c)  2.  1.  a)  Spezifikation_1ClickHybridDRG] |
+\|  | b)  c)  2.  1.  a)  Spezifikation_1ClickHybridDRG]  1.  KBV_ITA_VGEX_Schnittstelle_SDHDRG] ist in der Software |
 
 **Hinweis:** Alternativ zum Prüfmodul und dem XKM kann auch der Prüfassistent eingesetzt werden.
 
@@ -6129,16 +6084,16 @@ Um Praxen bei der Abrechnung von Hybrid-DRG Leistungen zu unterstützen, können
 
 Es gilt zu beachten, dass mit den Daten der SDHDRG nicht die Funktionen eines Groupers ersetzt werden  können.
 
+**Akzeptanzkriterium:**
+
 Seite 146 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-Der Anwender hat die Möglichkeit auszuwählen, welche Hybrid-DRG Abrechnungsfälle in der Abrechnungsdatei enthalten sein sollen.  Die Software prüft die erzeugte Abrechnungsdaten (Satzart Hybrid-DRG) gegen das stets aktuelle KVDT-Prüfmodul. i. Nach erfolgreicher Prüfung verschlüsselt die Software die Abrechnungsdatei (Hybrid-DRG) mit dem Modus „Hybrid DRG“ des XKM in der stets aktuellen Version und dem stets aktuellen Schlüssel. Die Software markiert die abgerechneten Abrechnungsfälle entsprechend in der Software. Der Anwender muss die Möglichkeit haben, sich den Pfad der erzeugten Abrechnungsdatei anzeigen zu lassen.  Die Software stellt dem Anwender zur Abrechnung von Hybrid-DRG Leistungen die Funktionen gemäß des folgenden Anforderungsdokumentes bereit: “ in der stets aktuellen Version
+Die Software prüft die erzeugte Abrechnungsdaten (Satzart Hybrid-DRG) gegen das stets aktuelle KVDT-Prüfmodul. i. Nach erfolgreicher Prüfung verschlüsselt die Software die Abrechnungsdatei (Hybrid-DRG) mit dem Modus „Hybrid DRG“ des XKM in der stets aktuellen Version und dem stets aktuellen Schlüssel. Die Software markiert die abgerechneten Abrechnungsfälle entsprechend in der Software. Der Anwender muss die Möglichkeit haben, sich den Pfad der erzeugten Abrechnungsdatei anzeigen zu lassen.  Die Software stellt dem Anwender zur Abrechnung von Hybrid-DRG Leistungen die Funktionen gemäß des folgenden Anforderungsdokumentes bereit: “ in der stets aktuellen Version Die Stammdatei Hybrid-DRG gemäß [ eingebunden und wird in der gültigen Version verwendet. 
 
 
 ---
 
-**Akzeptanzkriterium:**
-
-\|  | 1.  KBV_ITA_VGEX_Schnittstelle_SDHDRG] ist in der Software  a)  b)  c)  d)  2.  1.  a)  b) |
+\|  | a)  b)  c)  d)  2.  1.  a)  b) |
 
 | KONDITIONALE PFLICHTFUNKTION HYBRID-DRG |  |
 |---|---|
@@ -6162,16 +6117,16 @@ Umsetzung der Abrechnung von Hybrid-DRGs gemäß der Satzart HDRG.
 
 Die Software muss den Anwender darüber informieren, dass Leistungen nicht als Hybrid-DRG-Leistung  vergütet werden, sofern der Abstand zwischen dem Datum im Feld 5028 (Datum Beginn der Leistung) und  dem Datum im Feld 5029 (Datum Ende der Leistung) größer als 2 Tage ist.
 
-Seite 147 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
-
-Die Stammdatei Hybrid-DRG gemäß [ eingebunden und wird in der gültigen Version verwendet. Die Software prüft, ob die in der FK 5027 angegebene Hybrid-DRG als Inhalt des XML-Elementes …/leistungsbereich/hybrid_drg_liste/hybrid_drg/@V  in der aktuellen Stammdatei vorhanden ist. i. Falls die vom Anwender eingegebene Hybrid-DRG in der Stammdatei nicht vorhanden ist, muss die Software dem Anwender mit einer Warnung darauf hinweisen. Die Software kann dem Anwender auf Basis der Stammdatei weitere Hilfestellung anbieten.  Die Software muss sicherstellen, dass die jeweils für einen Zeitpunkt aktuelle ausgelieferte SDHDRG in der Software zur Verfügung steht. Die Software muss dem Anwender die Möglichkeit bieten, sich den Gültigkeitsstand der eingebundenen Stammdatei anzeigen zu lassen. Die Software muss dem Anwender die Möglichlkeit bieten sich die Daten gemäß der SDHRG anzeigen zulassen.  Falls bei der Erfassung von Hybrid-DRG- Leistungen der Anwender einen Wert > „0“ in das Feld 5030 (Beatmungsstunden) einträgt, muss die Software auf folgende Punkte in Form einer Warnmeldung hinweisen: Hybrid-DRG-Leistungen, die Beatmungsstunden beinhalten, werden nicht als Hybrid-DRG-Leistung vergütet, weil in dem Fall keine Hybrid-DRG vorliegt. Beatmungszeiten, die während einer Narkose anfallen, sind nicht in der Abrechnung anzugeben. Beatmungsstunden  (FK 5030) „Datum Beginn der Leistung  (FK 5028) und „Datum Ende der Leistung  (FK 5029) 
-
-
----
-
 **Begründung:**
 
 In der ambulanten Behandlung dürfen Beginn- und Enddatum nicht mehr als zwei Tage auseinanderliegen.  Sobald der Abstand größer als zwei Tage ist, erfolgt keine Gruppierung in eine Hybrid-DRG.
+
+Seite 147 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
+
+Die Software prüft, ob die in der FK 5027 angegebene Hybrid-DRG als Inhalt des XML-Elementes …/leistungsbereich/hybrid_drg_liste/hybrid_drg/@V  in der aktuellen Stammdatei vorhanden ist. i. Falls die vom Anwender eingegebene Hybrid-DRG in der Stammdatei nicht vorhanden ist, muss die Software dem Anwender mit einer Warnung darauf hinweisen. Die Software kann dem Anwender auf Basis der Stammdatei weitere Hilfestellung anbieten.  Die Software muss sicherstellen, dass die jeweils für einen Zeitpunkt aktuelle ausgelieferte SDHDRG in der Software zur Verfügung steht. Die Software muss dem Anwender die Möglichkeit bieten, sich den Gültigkeitsstand der eingebundenen Stammdatei anzeigen zu lassen. Die Software muss dem Anwender die Möglichlkeit bieten sich die Daten gemäß der SDHRG anzeigen zulassen.  Falls bei der Erfassung von Hybrid-DRG- Leistungen der Anwender einen Wert > „0“ in das Feld 5030 (Beatmungsstunden) einträgt, muss die Software auf folgende Punkte in Form einer Warnmeldung hinweisen: Hybrid-DRG-Leistungen, die Beatmungsstunden beinhalten, werden nicht als Hybrid-DRG-Leistung vergütet, weil in dem Fall keine Hybrid-DRG vorliegt. Beatmungszeiten, die während einer Narkose anfallen, sind nicht in der Abrechnung anzugeben. Beatmungsstunden  (FK 5030) „Datum Beginn der Leistung  (FK 5028) und „Datum Ende der Leistung  (FK 5029) 
+
+
+---
 
 **Akzeptanzkriterium:**
 
@@ -6322,12 +6277,10 @@ Die von der KBV gelieferte aktuelle KT-Stammdatei kann bereits mit einem Update 
 
 Seite 152 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-/kostentraeger/gebuehrenordnung/@V, /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/@V, /kostentraeger/bezeichnung/suchname/@V, /kostentraeger/ortssuchname_liste/ortssuchname/@V, /kostentraeger/gueltigkeit/@V /kostentraeger/ik_liste/ik/gueltigkeit/@V, /kostentraeger/existenzbeendigung/aufnehmender_kostentraeger/@V, /kostentraeger/unz_kv_geltungsbereich_liste/unz_kv_geltungsbereich/@V und /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/gueltigkei t/@V Die Adressfelder (/kostentraeger/adresse_liste/adresse/* ) können unter Beachtung der Formatvorgaben beliebig verändert werden. Die vorgenommenen Adressänderungen eines Kostenträgers, die in einer Folgeversion der KT- Stammdatei nicht enthalten sind, müssen auch nach dem Einspielen der neuen KT-Stammdaten im PVS erhalten bleiben. Die Software kennzeichnet den Kostenträger, wenn bei ihm manuelle Korrekturen vorgenommen wurden, und gibt dem Anwender die Möglichkeit die Originaldaten gemäß KT-Stammdatei wieder zu hinterlegen/aktivieren.  Da neue Kassengründungen nach Redaktionsschluss der für das Folgequartal gültigen KT- Stammdatei erfolgen können, müssen neue Kostenträger als temporäre Kostenträger- Stammsätze  der KT-Stammdatei hinzugefügt werden können, unabhängig davon, ob ein IK über eine Versichertenkarte eingelesen oder (in Analogie zum Ersatzverfahren) manuell erfasst wurde.  Ein IK darf zu einem bestehenden KT-Stammsatz hinzugefügt werden. 
+/kostentraeger/gebuehrenordnung/@V, /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/@V, /kostentraeger/bezeichnung/suchname/@V, /kostentraeger/ortssuchname_liste/ortssuchname/@V, /kostentraeger/gueltigkeit/@V /kostentraeger/ik_liste/ik/gueltigkeit/@V, /kostentraeger/existenzbeendigung/aufnehmender_kostentraeger/@V, /kostentraeger/unz_kv_geltungsbereich_liste/unz_kv_geltungsbereich/@V und /kostentraeger/kt_abrechnungsbereich_liste/kt_abrechnungsbereich/gueltigkei t/@V Die Adressfelder (/kostentraeger/adresse_liste/adresse/* ) können unter Beachtung der Formatvorgaben beliebig verändert werden. Die vorgenommenen Adressänderungen eines Kostenträgers, die in einer Folgeversion der KT- Stammdatei nicht enthalten sind, müssen auch nach dem Einspielen der neuen KT-Stammdaten im PVS erhalten bleiben. Die Software kennzeichnet den Kostenträger, wenn bei ihm manuelle Korrekturen vorgenommen wurden, und gibt dem Anwender die Möglichkeit die Originaldaten gemäß KT-Stammdatei wieder zu hinterlegen/aktivieren.  Da neue Kassengründungen nach Redaktionsschluss der für das Folgequartal gültigen KT-Stammdatei erfolgen können, müssen neue Kostenträger als temporäre Kostenträger-Stammsätze  der KT- Stammdatei hinzugefügt werden können, unabhängig davon, ob ein IK über eine Versichertenkarte eingelesen oder (in Analogie zum Ersatzverfahren) manuell erfasst wurde.  Ein IK darf zu einem bestehenden KT-Stammsatz hinzugefügt werden. 
 
 
 ---
-
-\|  | 1.  2.  3.  1.  2.  3. |
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -6340,6 +6293,8 @@ Die Software stellt sicher, dass der Kostenträger mit der VKNR 74799 im Rahmen 
 Zu Testzwecken wurde für die gematik der Kostenträger mit der VKNR 74799 in die  Kostenträgerstammdatei aufgenommen.
 
 **Akzeptanzkriterium:**
+
+\|  | 1.  2.  3.  1.  2.  3. |
 
 ## 7.2 KV-SPEZIFIKA-STAMMDATEIEN (SDKV)
 
@@ -6400,8 +6355,8 @@ Nur die unter der Feldkennung 4106 der Satzart „kvx2“ aufgeführten KT dürf
 |---|---|
 | **P6-145** | zulässige Scheinuntergruppe und zulässige Abrechnungsgebiete |
 
-- 1. Nur die unter der Feldkennung 4239 der Satzart „kvx2“ aufgeführten Scheinuntergruppen dürfen  im Rahmen der ADT-Abrechnung verwendet werden
-- 2. Nur die unter der Feldkennung 4122 der Satzart „kvx2“ aufgeführten Abrechnungsgebiete dürfen  mit der entsprechenden Scheinuntergruppe im Rahmen der ADT-Abrechnung verwendet werden.
+- 1. Nur die unter der Feldkennung 4239 der Satzart „kvx2“ aufgeführten Scheinuntergruppen dürfen im  Rahmen der ADT-Abrechnung verwendet werden
+- 2. Nur die unter der Feldkennung 4122 der Satzart „kvx2“ aufgeführten Abrechnungsgebiete dürfen mit  der entsprechenden Scheinuntergruppe im Rahmen der ADT-Abrechnung verwendet werden.
 
 **7.2.3** **Hinweise zur Satzart „kvx3“ (SKT**
 
@@ -6568,7 +6523,7 @@ Aufgrund von Vertragsabschlüssen im Laufe des Quartals bzw. Fehlern in der ausg
 
 **Akzeptanzkriterium:**
 
-- 1. Die Software muss dem Anwender die Möglichkeit bieten, die EBM-Datengrundlage zu ändern  bzw. zu erweitern.
+- 1. Die Software muss dem Anwender die Möglichkeit bieten, die EBM-Datengrundlage zu ändern bzw. zu  erweitern.
 
 **Hinweis:**
 
@@ -6601,7 +6556,7 @@ Bedingt durch den definierten EBM-Lieferprozess können allerdings in der bundes
 **Akzeptanzkriterium:**
 
 - 1. Die Software stellt dem Anwender als primäre EBM-Datengrundlage die Daten der EBM-Stammdatei  seiner zuständigen KV zur Verfügung.
-- 2. Falls der Anwender eine Gebührennummer im Rahmen der Abrechnung zur  Leistungsdokumentation erfasst, welche in der regionalen EBM-Stammdatei nicht existiert, kann  die Software auf die bundeseinheitliche EBM-Stammdatei zugreifen.
+- 2. Falls der Anwender eine Gebührennummer im Rahmen der Abrechnung zur Leistungsdokumentation  erfasst, welche in der regionalen EBM-Stammdatei nicht existiert, kann die Software auf die  bundeseinheitliche EBM-Stammdatei zugreifen.
 
 | OPTIONALE FUNKTION ADT |  |
 |---|---|
@@ -6623,8 +6578,8 @@ Sofern gegen (Prüf-)Bedingungen der EBM-Stammdatei verstoßen wird, darf die So
 
 **Akzeptanzkriterium:**
 
-- 1. Sofern gegen (Prüf-)Bedingungen (Sektion //gnr/bedingung/ der EBM-Stammdatei)  verstoßen wird, darf die Software systemseitige Änderungen von vom Anwender im Rahmen der  Leistungsdokumentation dokumentierten GNRn in Echtzeit  zum Zeitpunkt der Erfassung von  Leistungen  durchführen.
-- 2. Der Anwender muss die systemseitigen Änderungen zur Leistungsdokumentation zum Zeitpunkt  der Änderungen erkennen und zurücknehmen können.
+- 1. Sofern gegen (Prüf-)Bedingungen (Sektion //gnr/bedingung/ der EBM-Stammdatei) verstoßen  wird, darf die Software systemseitige Änderungen von vom Anwender im Rahmen der  Leistungsdokumentation dokumentierten GNRn in Echtzeit  zum Zeitpunkt der Erfassung von  Leistungen  durchführen.
+- 2. Der Anwender muss die systemseitigen Änderungen zur Leistungsdokumentation zum Zeitpunkt der  Änderungen erkennen und zurücknehmen können.
 
 **Hinweis:**
 
@@ -6642,7 +6597,7 @@ Bezogen auf die verschiedenen Bezugszeiträume (Behandlungstag, Zyklusfall, …)
 
 - 1. Systemseitige Änderungen von GNRn (bzgl. der vom Anwender dokumentierten GNRn) dürfen durch  Abschlussprüfungen auf Basis der (Prüf-)Bedingungen und von Regeln der EBM-Stammdatei erfolgen.
 - 2. Der Anwender muss systemseitige Änderungen zur Leistungsdokumentation erkennen und ggf.  zurücknehmen können.
-- 3. Die Speicherung von Leistungen in die ADT-Abrechnungsdatei muss auch  **)Bedingungen und Regeln** der EBM-Stammdatei möglich sein.
+- 3. Die Speicherung von Leistungen in die ADT-Abrechnungsdatei muss auch  **und Regeln** der EBM-Stammdatei möglich sein.
 
 | OPTIONALE FUNKTION ADT |  |
 |---|---|
@@ -6672,18 +6627,17 @@ EBM-Zusatznummern sind abgeleitete Varianten von bundeseinheitlichen Gebührennu
 
 Es gilt der Grundsatz, dass alle in der EBM-Stammdatei abgebildeten Regeln und Bezüge zu einer GNR  vornehmlich mit der 5-stelligen Ziffer ohne Buchstaben-Suffix angegeben werden, jedoch alle  Zusatznummern mit Buchstaben-Suffix mit gleicher 5-stelliger Ziffer einschließen. Der Buchstaben-Suffix ist  somit für die Regeln und Bezüge zu einer Ziffer irrelevant, sofern er nicht explizit angegeben wird und keine  von der 5-stelligen GNR abweichenden Regeln oder Bezüge angegeben sind. Dies gilt auch für den  impliziten Bezug auf die aktuelle Ziffer bei der Anzahlbedingung.
 
-Ob dieser Grundsatz generell auch für die KV-spezifischen EBM-Zusatznummer im Wertebereich 89.000 bis  99.999 und zusätzliche KV-spezifische GNR mit dem Attribut ehd/body/gnr_liste/gnr/@USE <> 74 gilt, sollte vor einer möglichen Implementierung von entsprechenden GNR-Prüfungen mit der jeweils  zuständigen Kassenärztlichen Vereinigung erörtert werden.
+Ob dieser Grundsatz generell auch für die KV-spezifischen EBM-Zusatznummer im Wertebereich 89.000 bis  99.999 und zusätzliche KV-spezifische GNR mit dem Attribut  gilt, sollte vor einer möglichen Implementierung von entsprechenden GNR-Prüfungen mit der jeweils  zuständigen Kassenärztlichen Vereinigung erörtert werden.
 
 Seite 160 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026 -Prüfungen
 
-- **gegen die (Prüf-**
+- **gegen die (Prüf-)Bedingungen**
 
+```
+ehd/body/gnr_liste/gnr/@USE <> 74
+```
 
 ---
-
-- 1. Falls das Geschlecht eines Patienten „unbestimmt“ oder „divers“ ist (Inhalt des Feldes FK 3110 gleich X  bzw. D), ermöglicht die Software dem Anwender die Eingabe einer GOP auch bei abweichender  Geschlechtsdefinition zu dieser GOP im V-Attribut des Elements  */gnr/bedingung/administrative_gender_cd* der GO-Stammdatei.
-- a) Die Software zeigt keinen Warnhinweis an und überträgt mit der Abrechnung die vom Anwender  angegebene GOP.
-- 1. Falls der Anwender eine Versichertenpauschale oder eine Zusatzpauschale für die Behandlung  aufgrund einer Terminvermittlung oder einen Zuschlag zur Versichertenpauschale zur  Leistungsdokumentation ansetzt und die GOP in altersklassenspezifische Zusatznummern  differenziert ist, muss die Software diese GOP in die altersklassenspezifisch differenzierte  Zusatznummer automatisch umsetzen. Die Software berücksichtigt dabei die hinterlegten
 
 | PFLICHTFUNKTION ADT |  |
 |---|---|
@@ -6698,6 +6652,9 @@ Grundlage ist § 22, Abs. 3 des Personenstandsgesetzes.
 Personen mit Varianten der Geschlechtsentwicklung können weder dem weiblichen noch dem männlichen  Geschlecht zugeordnet werden. In diesem Fall kann ein Patient ein 'unbestimmtes' oder 'diverses'  Geschlecht besitzen. Daher können Patienten mit „unbestimmten oder diversen Geschlecht“ nicht  grundsätzlich von geschlechtsspezifischen Leistungen ausgeschlossen werden.
 
 **Akzeptanzkriterium:**
+
+- 1. Falls das Geschlecht eines Patienten „unbestimmt“ oder „divers“ ist (Inhalt des Feldes FK 3110 gleich X  bzw. D), ermöglicht die Software dem Anwender die Eingabe einer GOP auch bei abweichender  Geschlechtsdefinition zu dieser GOP im V-Attribut des Elements  */gnr/bedingung/administrative_gender_cd* der GO-Stammdatei.
+- a) Die Software zeigt keinen Warnhinweis an und überträgt mit der Abrechnung die vom Anwender  angegebene GOP.
 
 **7.5.7** **Abrechnungsunterstützung**
 
@@ -6715,11 +6672,12 @@ Gemäß den Beschlüssen im Bewertungsausschuss nach § 87 Abs. 1 Satz 1 SGB V m
 
 **Akzeptanzkriterium:**
 
+- 1. Falls der Anwender eine Versichertenpauschale oder eine Zusatzpauschale für die Behandlung aufgrund  einer Terminvermittlung oder einen Zuschlag zur Versichertenpauschale zur Leistungsdokumentation  ansetzt und die GOP in altersklassenspezifische Zusatznummern differenziert ist, muss die Software  diese GOP in die altersklassenspezifisch differenzierte Zusatznummer automatisch umsetzen. Die  Software berücksichtigt dabei die hinterlegten Altersregeln in Abhängigkeit vom Alter des Patienten  unter Beachtung der Regelung in der Allgemeinen Bestimmung 4.3.5 des EBM.
+
 Seite 161 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
 ---
 
-- Altersregeln in Abhängigkeit vom Alter des Patienten unter Beachtung der Regelung in der  Allgemeinen Bestimmung 4.3.5 des EBM.
 - a) Falls aufgrund einer unvollständigen oder fehlenden Angabe des Geburtsdatums des Patienten die  Altersgruppe automatisch nicht eindeutig bestimmt werden kann (z.B., wenn das Geburtsdatum  unbekannt ist), dann muss das System dem Anwender die Möglichkeit geben, die  Leistungssubstitution manuell durchzuführen.
 - 2. Das System muss die Leistungssubstitution für den Anwender transparent gestalten.
 
@@ -6739,15 +6697,15 @@ Mit Beschluss des Bewertungsausschusses vom 11. März 2026 (828. Sitzung) wurde 
 
 **Akzeptanzkriterium:**
 
-- 3. Falls in einem Behandlungsfall im Vorquartal eine der folgenden GOP abgerechnet wurde:
+- 1. Falls in einem Behandlungsfall im Vorquartal eine der folgenden GOP abgerechnet wurde:
 - a) GOP 03100 [G-alpha] oder
 - b) GOP 03103 [G-alpha] oder
 - c) GOP 03104 [G-alpha],
 
 muss die Software im **unmittelbar folgenden Quartal** beim ersten APK auf die Angabe der Pseudo-GOP  88230 hinweisen, sofern ein Arzt-Patient-Kontakt stattfindet.
 
-- 4. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP  88230 im Feld 5001.
-- 5. Die Software darf die Abrechnung der Pseudo-GOP 88230 nicht vom Vorliegen weiterer  abrechnungsfähiger GOP im Folgequartal abhängig machen.
+- 2. Die Software überträgt mit der ADT-Abrechnung die vom Anwender angegebene Pseudo-GOP 88230 im  Feld 5001.
+- 3. Die Software darf die Abrechnung der Pseudo-GOP 88230 nicht vom Vorliegen weiterer  abrechnungsfähiger GOP im Folgequartal abhängig machen.
 
 **Bedingung:**
 
@@ -6801,7 +6759,7 @@ Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgefü
 
 **Akzeptanzkriterium:**
 
-- 1. Die OPS-Stammdatei gemäß [SDOPS] der KBV ist in der Software eingebunden und wird in der  gültigen Version verwendet.
+- 1. Die OPS-Stammdatei gemäß [SDOPS] der KBV ist in der Software eingebunden und wird in der gültigen  Version verwendet.
 
 **Bedingung:**
 
@@ -6827,7 +6785,7 @@ Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgefü
 **Akzeptanzkriterium:**
 
 - 1. Die Software stellt sicher, dass die jeweils von der KBV im aktuellen Quartal ausgelieferte OPS-Stammdatei mit Beginn des Folgequartals eingesetzt wird und solange im Einsatz ist, bis eine neue  Version der OPS-Stammdatei zur Verfügung steht.
-- 2. Die Software muss dem Anwender die Möglichkeit bieten, sich den Gültigkeitsstand der  eingebundenen Stammdatei anzeigen zu lassen.
+- 2. Die Software muss dem Anwender die Möglichkeit bieten, sich den Gültigkeitsstand der eingebundenen  Stammdatei anzeigen zu lassen.
 
 **Bedingung:**
 
@@ -6837,7 +6795,7 @@ Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 |---|---|
 | **KP6-860** | Inhaltliche Unveränderbarkeit |
 
-Die Datensätze der OPS-Stammdatei [
+Die Datensätze der OPS-Stammdatei [SDOPS] dürfen inhaltlich nicht verändert werden.
 
 **Begründung:**
 
@@ -6862,8 +6820,6 @@ Die Software muss prüfen und sicherstellen, dass ein vom Anwender eingegebener 
 
 Seite 164 von 172 / KBV / KBV_ITA_VGEX_Anforderungskatalog_KVDT / Version 6.11 / 13. November 2026
 
-SDOPS] dürfen inhaltlich nicht verändert werden.
-
 - SDOPS] vom Anwender inhaltlich nicht
 
 
@@ -6876,7 +6832,7 @@ Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgefü
 **Akzeptanzkriterium:**
 
 - 1. Die Software prüft, ob der angegebene OP-Schlüssel als Inhalt des XML-Elementes  ../opscode_liste/opscode/@V der aktuellen OPS-Stammdatei vorhanden ist.
-- 2. Falls der vom Anwender eingegeben OP-Schlüssel in der OPS-Stammdatei nicht vorhanden ist,  muss die Software folgendes sicherstellen:
+- 2. Falls der vom Anwender eingegeben OP-Schlüssel in der OPS-Stammdatei nicht vorhanden ist, muss die  Software folgendes sicherstellen:
 - a) Das für den Anwender ersichtlich ist, dass der OPS-Schlüssel nicht in der OPS-Stammdatei existiert  und daher nicht zur Abrechnung verwendet werden darf.
 - b) Unterbinden einer Übertragung des nicht vorhandenen OPS-Schlüssels in die Abrechnungsdatei.
 
@@ -6884,7 +6840,7 @@ Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgefü
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
-| KONDITIONALE PFLICHTFUNKTION ADT |  |
+| PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP6-871** | Seitenlokalisation zum OP-Schlüssel |
 
@@ -6904,7 +6860,7 @@ Im § 295, Absatz 1 SGB V ist geregelt, dass die Verschlüsselung von durchgefü
 
 Ausgenommen von der Umsetzung dieser Anforderung sind Softwaresysteme ohne APK.
 
-| KONDITIONALE PFLICHTFUNKTION ADT |  |
+| PFLICHTFUNKTION ADT |  |
 |---|---|
 | **KP6-872** | Seitenlokalisation zum OP-Schlüssel 5-622.5 |
 

@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. NOVEMBER 2026**
+**21. NOVEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -31,7 +31,7 @@
 
 **Techniker Krankenkasse** Bramfelder Straße 140 22305 Hamburg Internet: tk.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 14. November 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Schnittstelle für Dritte nach § 370a Abs. 2 / 21. November 2026
 
 **Prüfnummer**
 

@@ -4,7 +4,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. NOVEMBER 2026**
+**21. NOVEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -34,7 +34,7 @@
 
 **Bitron GmbH Technologiesysteme** Bürgeler Str. 18 A 63075 Offenbach am Main Internet: www.med7.de
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2408/36/395 31.07.2027
 
@@ -92,7 +92,7 @@ Windows
 
 Windows 84427 Sankt Wolfgang Internet: www.cgm.com/medico
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -118,7 +118,7 @@ Seite 3 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von e
 
 **CompuGroup Medical Deutschland AG** Maria Trost 21 56070 Koblenz Internet: www.albis.de
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2406/36/706 31.05.2027
 
@@ -180,7 +180,7 @@ Windows
 
 Windows 24351 Damp Internet: www.dampsoft.de
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -222,7 +222,7 @@ Windows
 
 Windows 50676 Köln Internet: www.telekom-healthcare.com
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -248,7 +248,7 @@ Seite 6 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von e
 
 **Duria eG** Nikolaus-Otto-Straße 22 52351 Düren Internet: www.duria.de
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2407/36/488 30.06.2027
 
@@ -308,7 +308,7 @@ Mac OS Windows
 
 Windows 67159 Friedelsheim Internet: www.ergosoft.info
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -350,7 +350,7 @@ Windows
 
 Windows 64291 Darmstadt Internet: www.fidus.de
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -378,7 +378,7 @@ Seite 9 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von e
 
 Internet: www.hasomed.de
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2605/36/630 30.04.2029
 
@@ -420,7 +420,7 @@ Windows
 
 **InterData Praxiscomputer GmbH** Alte Bahnhofstraße 50-52 48268 Greven Internet: www.InterData.de
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2602/36/400 31.01.2029
 
@@ -478,7 +478,7 @@ Windows
 
 Windows 86459 Gessertshausen Internet: www.mdn.de
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -506,7 +506,7 @@ Seite 12 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 Softwarevariante(n): - x.vianova
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2409/36/409 31.08.2027
 
@@ -566,7 +566,7 @@ Windows
 
 Windows 76185 Karlsruhe Internet: www.medavis.de
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -594,7 +594,7 @@ Seite 14 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 **MEDITEC Medizinische Datentechnologie GmbH** Griesbergstraße 1B-C 31162 Bad Salzdetfurth Internet: www.meditec-gmbh.com
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2505/36/439 30.04.2028
 
@@ -648,7 +648,7 @@ Windows
 
 - medvisionAMBULANZ - medvisionMVZ - medvisionPRAXIS - NEPHRO - PATIDOK AMBULANZ
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -676,7 +676,7 @@ Internet: www.medys.de
 
 **Müritz COMP Greifswald Computersystemhaus GmbH** An der Jungfernwiese 2 17489 Greifswald Internet: www.med4win.de
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2601/36/015 31.12.2028
 
@@ -734,7 +734,7 @@ Windows
 
 Windows 69221 Dossenheim Internet: [https://www.nexus-chili.com](https://www.nexus-chili.com)
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -776,7 +776,7 @@ Windows
 
 Windows 80687 München Internet: www.psyprax.de
 
-Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 
 ---
@@ -802,7 +802,7 @@ Seite 19 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von 
 
 **SIEGELE Software GmbH** Wehrgasse 28/3+4 A-1050 Wien
 
-Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 20 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2611/36/456 31.10.2029
 
@@ -846,7 +846,7 @@ Linux Windows
 
 Ernst-Haeckel-Platz 5/6 07745 Jena Internet: www.zollsoft.de
 
-Seite 21 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 14. November 2026
+Seite 21 / KBV / Verzeichnis zertifizierter Software für die Übermittlung von eArztbriefen gemäß §291f SGB V / 21. November 2026
 
 Y/63/2507/36/498 30.06.2028
 

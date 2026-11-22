@@ -6,7 +6,7 @@
 
 **DEZERNAT DIGITALISIERUNG UND IT**
 
-**14. NOVEMBER 2026**
+**21. NOVEMBER 2026**
 
 **KENNZEICHNUNG: ÖFFENTLICH**
 
@@ -51,7 +51,7 @@ x APRIS Praxiscomputer GmbH
 
 x Vertrieb GmbH
 
-Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 2 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -152,7 +152,7 @@ x
 
 **CGM MEDICO** CGM Clinical Europe GmbH
 
-Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 3 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -257,7 +257,7 @@ x
 
 **Z1** CompuGroup Medical Dentalsysteme GmbH
 
-Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 4 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -357,7 +357,7 @@ x
 | **InterMediNet** | |
 | DBI | Informatik, Dirk Blume |
 
-Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 5 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -548,7 +548,7 @@ Dr. Claudia Neumann
 
 **Limport** Dr. Eissing und Partner GmbH
 
-Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 6 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -683,7 +683,7 @@ x
 
 **PathoFlow** Florian Kaiser
 
-Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 7 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -866,7 +866,7 @@ HASOMED GmbH
 
 **Helmsauer Care Manager** Helmsauer IT-Solutions GmbH
 
-Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 8 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -989,7 +989,7 @@ x
 
 **Medical Office** INDAMED EDV-Entwicklung und Vertrieb GmbH
 
-Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 9 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1096,7 +1096,7 @@ x
 
 **smartLIS Laborinformationssystem** **Abrechnungsmodul** labdock GmbH
 
-Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 10 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1207,7 +1207,7 @@ x
 
 **H&S Laborsoftware** Limbach Gruppe SE
 
-Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 11 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1306,7 +1306,7 @@ x
 
 **eRIS** medavis GmbH
 
-Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 12 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1467,7 +1467,7 @@ MEDYS GmbH
 
 **M-KIS** Meierhofer AG
 
-Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 13 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1632,7 +1632,7 @@ x
 
 **NEXUS / PATHOLOGIE und NEXUS / ZYTOLOGIE** NEXUS / DIGITAL PATHOLOGY GmbH
 
-Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 14 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1773,7 +1773,7 @@ Nowfal Obaid
 
 **myoncare** Oncare GmbH
 
-Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 15 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1794,6 +1794,8 @@ x
 x
 
 **Management-Programme (Link)elektronischeDokumentation (Link)Labordaten-kommmunikation (Link)**
+
+x
 
 x
 
@@ -1857,7 +1859,7 @@ QS QualitySoft GmbH
 
 **RescuePro** RescuePro Production GmbH & Co. KG
 
-Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 16 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -1996,7 +1998,7 @@ Compana - Plattform für psychotherapeutische Pai Coding GmbH**Heilmittelverordn
 
 **IOX-LS** STIWA AMS GmbH
 
-Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 17 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
@@ -2139,7 +2141,7 @@ x
 
 **tomedo.air** Zollsoft GmbH
 
-Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 14. November 2026
+Seite 18 / KBV / Verzeichnis zertifizierter Software - Übersichtsmatrix / 21. November 2026
 
 x
 
